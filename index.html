@@ -1,49 +1,20 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Litteratur Tafel : Digitalisation and Indexing of Cäsar Flaischlen&#39;s &quot;Graphische Litteratur-Tafel&quot; (1890)">
+<div class="home">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+  <h1>Posts</h1>
 
-    <title>Litteratur Tafel</title>
-  </head>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 
-  <body>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/weltliteratur/litteratur-tafel">View on GitHub</a>
-
-          <h1 id="project_title">Litteratur Tafel</h1>
-          <h2 id="project_tagline">Digitalisation and Indexing of Cäsar Flaischlen&#39;s &quot;Graphische Litteratur-Tafel&quot; (1890)</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/weltliteratur/litteratur-tafel/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/weltliteratur/litteratur-tafel/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <p>Text here</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Litteratur Tafel maintained by <a href="https://github.com/weltliteratur">weltliteratur</a></p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
-</html>
+</div>
