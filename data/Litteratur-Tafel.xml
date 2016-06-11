@@ -20,12 +20,19 @@
       <sourceDesc>
         <listWit>
           <witness xml:id="ed-2Tausend">
-            <!-- digitized at SUB Göttingen -->
+              <author>Cäsar Flaischlen</author>
+              <title>Graphische Litteratur-Tafel. Die Deutsche Litteratur und der Einfluß fremder
+                Litteraturen auf ihren Verlauf vom Beginn einer schriftlichen Überlieferung an bis
+                heute in graphischer Darstellung</title>
+              <edition>2. Tausend</edition>
+              <publisher>G. J. Göschen'sche Verlagshandlung</publisher>
+              <pubPlace>Stuttgart</pubPlace>
+              <date>1890</date>
           </witness>
           <witness xml:id="ed-3Tausend">
             <bibl>
               <author>Cäsar Flaischlen</author>
-              <title>Graphische Litteratur-Tafel. Die Deutsche Litteratur und der Einfluss fremder
+              <title>Graphische Litteratur-Tafel. Die Deutsche Litteratur und der Einfluß fremder
                 Litteraturen auf ihren Verlauf vom Beginn einer schriftlichen Überlieferung an bis
                 heute in graphischer Darstellung</title>
               <edition>3. Tausend</edition>
@@ -1149,18 +1156,18 @@
       <div>
         <pb ed="#ed-3Tausend" facs="Vorwort-3tsd_Seite_1.tiff.txt"/>
         <!-- 
-<lb/>Gxsapyijchc Littexsatuk-Takei.
+<lb/>Graphische Litteratur-Tafel.
 <lb/>
 <lb/>Die Deutsche Litteratur
 <lb/>
 <lb/>und der Einfluß fremder Litteraturen auf ihren Verlauf
 <lb/>
-<lb/>vom Beginn einer schriftlichen lleberlieferung an bis heute
+<lb/>vom Beginn einer schriftlichen Ueberlieferung an bis heute
 <lb/>in graphischer Darstellung
 <lb/>
-<lb/>VOU
+<lb/>von
 <lb/>
-<lb/>Dr. Cäsar Flaischlecn
+<lb/>Dr. Cäsar Flaischlen.
 <lb/>
 -->
         <head><lb/>Erklärende Einleitung.</head>
@@ -1173,7 +1180,7 @@
           durch graphi <lb break="no"/>sche Darstellung übersichtlich zu machen. Es
             <emph>kann</emph>
           <lb/>auch nur ein Versuch sein, denn ihre absolute Lö <lb break="no"/>sung in derartiger
-          Fassung wäre wissenschaftlich <lb/>nur möglich in detailliertester Specialzeichnung
+          Fassung wäre wissenschaftlich <lb/>nur möglich in detailliertester Specialzeichnung,
           <lb/>und eine solche hinwiederum nur auf Grund end <lb break="no"/>gültig abgeschlossener
           Resultate umfassendster Quel <lb break="no"/>lenforschung Diese aber steht hier trotz der
           un <lb break="no"/>vergleichlichen Ergebnisse, zu denen sie in dem kur <lb break="no"/>zen
@@ -1193,7 +1200,7 @@
           Erscheinungen die Grund <lb break="no"/>stimmung des Gesamtbildes. Man wird den Stil <cb
             n="2"/>
           <lb/>eines Platzes zweifellos allgemein mit Renaissance <lb/>bezeichnen, auch wenn selbst
-          zwei Fiinftel der Ge <lb break="no"/>bäude eklektischer Bauart sind. Die Ausnahme,
+          zwei Fünftel der Ge <lb break="no"/>bäude eklektischer Bauart sind. Die Ausnahme,
           <lb/>das Verschiedene tritt zurück, wodurch sich eine feste, <lb/>so oder so getönte
           Anschauung gestaltet. So kam <lb/>auch für die nachfolgende Darstellung nur ein der
           <lb/>jeweiligen Gegenwart gewissermaßen entfernter und <lb/>mehr Jahrzehnte überblickender
@@ -1203,7 +1210,7 @@
           <lb/>gerechnet werden konnte, daß oft Jahre, ja Jahr <lb break="no"/>zehnte streitig
           waren, braucht kaum bemerkt zu <lb/>werden. Es lag mir namentlich daran, den Cha <lb
             break="no"/>rakter der verschiedenen <emph>Perioden</emph> hervortreten zu <lb/>lassen,
-          die größeren Strömungen zu stizzieren, wie <lb/>sie auftauchen, sich verlaufen oder
+          die größeren Strömungen zu skizzieren, wie <lb/>sie auftauchen, sich verlaufen oder
           verdrängt wer <lb break="no"/>den. Mathematisch ist dergleichen freilich nicht zu
           <lb/>fixieren; denn geistige Bewegungen lassen sich nicht <lb/>in absolute Zahlen grenzen,
           es sind Prozesse, keine <lb/>Produkte, und in fortwährender Umbildung be <lb break="no"
@@ -1219,7 +1226,7 @@
           <fw>— 3 —</fw>
           <lb break="no"/>anschaulichung des Gesamtverlaufs unserer Dich <lb break="no"/>tung und
           möchte besonders darüber orientieren, <lb/>wo die einzelnen Epochen ihre Ideale suchten,
-          wo <lb break="no"/>her ihre Befruchtung kann, ob sie sich mit ihrem <lb/>Geschmacke der
+          wo <lb break="no"/>her ihre Befruchtung kam, ob sie sich mit ihrem <lb/>Geschmacke der
           Litteratur eines andern Volkes zu <lb break="no"/>neigten, oder aber ob sie sich von einer
           Nach <lb break="no"/>ahmung fremder Art und Weise frei zu machen <lb/>trachteten. Die
           Intensität solch jeweiligen Ein <lb break="no"/>flusses und sein Verrinnen ist durch zu-
@@ -1231,16 +1238,16 @@
           <lb/>Trübungen sich wieder verarbeiten, versickern, und <lb/>der Strom sich zu Ausgang des
           achtzehnten Jahrhun <lb break="no"/>derts zu ruhiger Klarheit und Reinheit durchwindet. </p>
         <p>
-          <lb/>Auch unsere deutsche Dichtung aber ist wieder <lb/>nur ein Teil der Weltlitteratut
+          <lb/>Auch unsere deutsche Dichtung aber ist wieder <lb/>nur ein Teil der Weltlitteratur.
           Wirklich voll <lb break="no"/>ständig wäre diese Arbeit daher erst, wenn sich <lb/>ihr
           links und rechts eine ähnliche Darstellung <lb/>wenigstens der französischen und
           englischen an <lb break="no"/>schlösse, so daß sich ein Gesamtblick ermöglichte <lb/>über
           die Wechselwirkungen des ganzen poetischen <lb/>Lebens dieser drei kulturell bedeutsamsten
           Völker <lb/>des modernen Abendlandes, der für eine Dar <lb break="no"/>stellung der
           Weltlitteratur nicht allein von größtem <lb/>Interesse, sondern auch von grundlegender
-          Wich <lb break="no"/>tigkeit wäre. So trefflich und dankensivert alle <lb/>Werke, welche
+          Wich <lb break="no"/>tigkeit wäre. So trefflich und dankenswert alle <lb/>Werke, welche
           eine Geschichte der Weltlitteratur <lb/>geben, und so anerkennenswert das Bestreben ihrer
-          <lb/>Autoren, einen Zusatnnienhang festzustellen, so fehlt <lb/>dabei doch immer der große
+          <lb/>Autoren, einen Zusammenhang festzustellen, so fehlt <lb/>dabei doch immer der große
           alles unter sich einende <lb/>Horizont eines allgemeinen, wenn auch verschieden
           <lb/>beleuchteten Firmaments. In all diesen Werken <lb/>sind die einzelnen Litteraturen
           fast immer einzeln <lb/>behandelt, abgesehen von meist nur als Nebensache <lb/>bemerkten
@@ -1250,16 +1257,16 @@
           Dich <lb break="no"/>tung eines Volkes dessen wahrstes, tiefinnerstes <lb/>Seelenleben,
           sein Ideal und seine Kultur; die po <lb break="no"/>litische Geschichte desselben dagegen
           mehr das Rin <lb break="no"/>gen, diesem gerecht zu werden, es zu verwirklichen. <lb/>Daß
-          dabei das eine Monient gegen das andre zeit <cb break="no" n="4"/>
+          dabei das eine Moment gegen das andre zeit <cb break="no" n="4"/>
           <fw>— 4 —</fw>
           <lb break="no"/>weilig vorauseilt oder zurücktritt, erklärt sich aus <lb/>denselben
           natürlichen Bedingungen, unter denen <lb/>sich dieser Kampf zwischen Ideal und
           Wirklichkeit <lb/>im einzelnen Individuum abspielt. Die Resultate <lb/>einer derartigen
           Zusammenfassung wären bedeutend <lb/>genug. Dann aber Verlieren alle Darstellungen
-          <lb/>der Weltlitteratmr auch dadurch wieder ziemlich an <lb/>Faßlichkeit, daß, wie dies
-          allerdings nicht anders <lb/>geht, die einzelnen Völker eben nacheinander lie <lb
+          <lb/>der Weltlitteratur auch dadurch wieder ziemlich an <lb/>Faßlichkeit, daß, wie dies
+          allerdings nicht anders <lb/>geht, die einzelnen Völker eben nacheinander be <lb
             break="no"/>handelt werden müssen. — Im allgemeinen jedoch <lb/>mangelt ebenso auch
-          unsern nur deutschen Lehr <lb break="no"/>und Schul-Litteraturgeschichten ein das Ganze
+          unsern nur deutschen Lehr-<lb/> und Schul-Litteraturgeschichten ein das Ganze
           zwin <lb break="no"/>gender Gesichtspunkt. Sie geben die äußeren That <lb break="no"
           />sachen und Daten, aber ohne Uebersichtlichkeit, ohne <lb/>Entwickelung. Mit bloßem
           Zusammenfassen und <lb/>Nebeneinanderstellen der einzelnen Perioden und <lb/>Bewegungen
@@ -1296,7 +1303,7 @@
           geistiges Eigentum und ver <lb break="no"/>liert weder jener noch dieser an historischer
           Be <lb break="no"/>deutung, denn sie schufen Vorbilder, an welche <lb/>spätere Zeiten, der
           fremden Quelle vergessend, nun <lb/>unmittelbar anknüpfen konnten. Auch galt ja der
-          <lb/>Salz, daß ein selbstständig schöpferisches Hervor <lb break="no"/>bringen der Dichter
+          <lb/>Satz, daß ein selbstständig schöpferisches Hervor <lb break="no"/>bringen der Dichter
           des Mittelalteiss völlig fremd <lb/>gewesen sei, nie in der schroffen Unbedingtheit,
           <lb/>die er auszudrücken scheint: als ob alle jene Dichter <lb/>nichts weiter als
           mechanische Uebersetzer gewesen. </p>
@@ -1311,11 +1318,11 @@
           fran <lb break="no"/>zösischen ganz und gar zu dessen feineren Lebens- <lb/>und
           Gesellschaftsformen, wodurch dann auch die <lb/>aufs engste damit verbundene und ebenso
           schon <lb/>weit selbständigere und ausgebildetere französische <lb/>Litteratur den
-          nachhaltigsten Einfluß ge1vinnt. Die <lb break="no"/>ser aber ist in vielem wieder ein
+          nachhaltigsten Einfluß gewinnt. Die <lb break="no"/>ser aber ist in vielem wieder ein
           völlig andrer <lb/>als die Einwirkung, welche, abgesehen von der <lb/>veränderten
           ästhetischen Anschauung, sechshundert <lb/>Jahre später etwa Diderot auf Lessing hatte,
           oder <lb/>als der Einfluß, von welchem Shakespeare auf die <lb break="no"/>sen wurde. Soll
-          ein Unterschied herausgeklügelt <lb/>werden, so dürfte sich vielleicht im allgeineinen
+          ein Unterschied herausgeklügelt <lb/>werden, so dürfte sich vielleicht im allgemeinen
           <lb/>unsre Litteratur in den älteren Perioden den frem <lb break="no"/>den Beeinflussungen
           gegenüber etwas passiver, in <lb/>den neueren aktiver entpfangend verhalten. </p>
         <p>
@@ -1326,18 +1333,18 @@
           fassen, <cb n="6"/>
           <fw>—6—</fw>
           <lb/>als ob nun von A bis Z jeder, der überhaupt schrieb, <lb/>Rousseau oder Shakespeare
-          excerpiert nnd nach <lb break="no"/>geahmt hätte; es ist nur die ganze Periode, welche
+          excerpiert und nach <lb break="no"/>geahmt hätte; es ist nur die ganze Periode, welche
           <lb/>sich so charakterisiert. Die Tafel hat ein derartige <lb/>Irrtümer ausschließendes
           Bekanntsein mit unsrer <lb/>Litteratur zur ersten, selbstverständlichen Voraus <lb
             break="no"/>setzung. Goethe blieb nicht sein ganzes Leben lang <lb/>in dem Ideenkreise,
-          aus dem er seinen Werther <lb/>herausschuf und in Schillers Wallenstein wurden <lb/>ganz
-          andre Bedingungen wirksam, als etwa in <lb/>Kabale nnd Liebe. Im großen und ganzen habe
-          <lb/>ich die einzeltien Namen in <emph>der</emph> Zeit angegeben, <lb/>welche für die
-          betreffenden Träger derselben un <lb break="no"/>gefähr den durchschnittlichexi Höhepunkt
+          aus dem er seinen Werther <lb/>herausschuf, und in Schillers Wallenstein wurden <lb/>ganz
+          andre Bedingungen wirksam, als etwa in <lb/>Kabale und Liebe. Im großen und ganzen habe
+          <lb/>ich die einzelnen Namen in <emph>der</emph> Zeit angegeben, <lb/>welche für die
+          betreffenden Träger derselben un <lb break="no"/>gefähr den durchschnittlichen Höhepunkt
           des Schaf <lb break="no"/>fens kennzeichnet. Mag ein solches Verfahren an <lb break="no"
           />zufechten sein, so kann ihm, wie ich glaube, doch <lb/>nicht der Vorwurf der Willkür
           gemacht werden. <lb/>Dem einzelnen Dichter seine richtige Stellung in <lb break="no"
-          />nerhalb des Flusses anzuweisen, in wie weit er <lb/>unter diesem oder jenetn Einfluß
+          />nerhalb des Flusses anzuweisen, in wie weit er <lb/>unter diesem oder jenem Einfluß
           steht, muß dem <lb/>überlassen bleiben, der sich des Näheren damit <lb/>beschäftigt hat,
           der da weiß, daß Walter von <lb/>der Vogelweide z. B. nicht mit den Nachahmern <lb/>der
           provençalischen Lyrik geht, sondern daß <emph>er</emph>
@@ -1358,7 +1365,7 @@
         <p>
           <lb/>Die Trümmer der gotischen Litteratur wurden <lb/>nicht berücksichtigt, da sie sich
           auf Ulfilas Bibel <lb break="no"/>übersetzung; Bruchstücke eines Kommentars zum
-          <lb/>Evangelium Johannis, die sogenannte Steeireins; <lb/>ein paar Urkunden und ein
+          <lb/>Evangelium Johannis, die sogenannte Skeireins; <lb/>ein paar Urkunden und ein
           Kalenderblatt beschrän <lb break="no"/>ken. Die Tafel hätte dadurch nur eine zwecklose <pb
             ed="#ed-3Tausend" facs="Vorwort-3tsd_Seite_4.tiff.txt"/>
           <cb n="7"/>
@@ -1375,7 +1382,7 @@
           Genüge. Besonders <lb/>für die neuere und neueste Zeit wäre es fast un <lb break="no"
           />möglich gewesen, alle Namen zu nennen, selbst nur <lb/>die hervorragenden. Da aber für
           diese Jahrhun <lb break="no"/>derte ohnehin eine nähere Bekanntschaft voraus <lb
-            break="no"/>gesetzt werden durfte, schien es mir zweckdienlicher <lb/>die einzelnen
+            break="no"/>gesetzt werden durfte, schien es mir zweckdienlicher, <lb/>die einzelnen
           Perioden und Richtungen zusammen <lb break="no"/>zufassen und unter ihren überall gäng und
           gäben <lb/>Bezeichnungen anzuführen. Um aber jeden Vor <lb break="no"/>wurf zu vermeiden,
           habe ich die Kreise numeriert <lb/>und zur Seite einige Namen beigesetzt. </p>
