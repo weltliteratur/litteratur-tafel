@@ -150,9 +150,9 @@
           <person xml:id="pers_00017" littafel:href="#pers_Valentin_Ickelsamer"
             littafel:coords="1153,1030,1319,1050">
             <persName><forename>Valentin</forename><surname>Ickelsamer</surname></persName>
-            <idno type="GND">118761331</idno> Valentin Ickelsamer (auch: Ikelschamer, Ikelsheimer,
+            <idno type="GND">118761331</idno> <!-- Valentin Ickelsamer (auch: Ikelschamer, Ikelsheimer,
             Eckelsheimer, Ikkersamer, Becklersheimer, Zangsthamer; * um 1500 bei Rothenburg ob der
-            Tauber; † 1547 in Augsburg) war ein deutscher Grammatiker. </person>
+            Tauber; † 1547 in Augsburg) war ein deutscher Grammatiker. --> </person>
           <person xml:id="pers_00018" littafel:href="#pers_Johann-Buggenhagen"
             littafel:coords="1098,1127,1324,1153">
             <persName><forename>Johannes</forename><surname>Bugenhagen</surname></persName>
@@ -2750,47 +2750,45 @@
         <p>
           <cb n="1"/>
           <lb/>Die vorliegende Arbeit soll zunächst nur ein <lb/>Versuch sein: wie der Titel besagt,
-          die Geschichte <lb/>unsrer deutschen Litteratur und den Einfluß frem <lb break="no"/>der
+          die Geschichte <lb/>unsrer deutschen Litteratur und den Einfluß frem<lb break="no"/>der
           Litteraturen auf ihren Verlauf, vom Beginn <lb/>einer schriftlichen Ueberlieferung an,
-          durch graphi <lb break="no"/>sche Darstellung übersichtlich zu machen. Es
+          durch graphi<lb break="no"/>sche Darstellung übersichtlich zu machen. Es
             <emph>kann</emph>
-          <lb/>auch nur ein Versuch sein, denn ihre absolute Lö <lb break="no"/>sung in derartiger
+          <lb/>auch nur ein Versuch sein, denn ihre absolute Lö<lb break="no"/>sung in derartiger
           Fassung wäre wissenschaftlich <lb/>nur möglich in detailliertester Specialzeichnung,
-          <lb/>und eine solche hinwiederum nur auf Grund end <lb break="no"/>gültig abgeschlossener
+          <lb/>und eine solche hinwiederum nur auf Grund end<lb break="no"/>gültig abgeschlossener
           Resultate umfassendster Quel <lb break="no"/>lenforschung Diese aber steht hier trotz der
-          un <lb break="no"/>vergleichlichen Ergebnisse, zu denen sie in dem kur <lb break="no"/>zen
-          Zeitraum vielleicht der letzten 75 Jahre gekom <lb break="no"/>men ist, doch noch vor
-          vielen Lücken, namentlich <lb/>was die ältere Zeit anbelangt. Es konnte sich des <lb
+          un<lb break="no"/>vergleichlichen Ergebnisse, zu denen sie in dem kur<lb break="no"/>zen
+          Zeitraum vielleicht der letzten 75 Jahre gekom<lb break="no"/>men ist, doch noch vor
+          vielen Lücken, namentlich <lb/>was die ältere Zeit anbelangt. Es konnte sich des<lb
             break="no"/>halb auch nicht darum handeln, der Stellung jedes <lb/>einzelnen Dichters
-          gerecht zu werden, oder noch <lb/>weniger den einzelnen Werken jedes Einzelnen, in <lb
-            break="no"/>wieweit sie diese oder jene fremde Einwirkung auf <lb break="no"/>weisen.
+          gerecht zu werden, oder noch <lb/>weniger den einzelnen Werken jedes Einzelnen, in<lb
+            break="no"/>wieweit sie diese oder jene fremde Einwirkung auf<lb break="no"/>weisen.
           Dergleichen graphisch zu fassen in einer <lb/>Darstellung der Litteratur von ihrem Anfange
           an, <lb/>wäre ein ebensolch Ding der Unmöglichkeit, als <lb/>von einem Zeichner, der eine
-          Straßenperspektive <lb/>gibt, zu verlangen, er habe auch die innere Archi <lb break="no"
+          Straßenperspektive <lb/>gibt, zu verlangen, er habe auch die innere Archi<lb break="no"
           />tektonik der einzelnen Häuser sichtbar zu machen. </p>
         <p>
           <lb/>Beim Blick auf ein Ganzes, besonders auf eine <lb/>ganze Entwickelung verschwindet
-          das Zustande <lb break="no"/>kommen des Einzelnen. Dieses selbst aber ergibt <lb/>durch
-          vorwaltende Aehnlichkeit oder Verschieden <lb break="no"/>heit in einer Vielheit von
-          Erscheinungen die Grund <lb break="no"/>stimmung des Gesamtbildes. Man wird den Stil <cb
+          das Zustande<lb break="no"/>kommen des Einzelnen. Dieses selbst aber ergibt <lb/>durch
+          vorwaltende Aehnlichkeit oder Verschieden<lb break="no"/>heit in einer Vielheit von
+          Erscheinungen die Grund<lb break="no"/>stimmung des Gesamtbildes. Man wird den Stil <cb
             n="2"/>
           <lb/>eines Platzes zweifellos allgemein mit Renaissance <lb/>bezeichnen, auch wenn selbst
-          zwei Fünftel der Ge <lb break="no"/>bäude eklektischer Bauart sind. Die Ausnahme, <lb/>das
+          zwei Fünftel der Ge<lb break="no"/>bäude eklektischer Bauart sind. Die Ausnahme, <lb/>das
           Verschiedene tritt zurück, wodurch sich eine feste, <lb/>so oder so getönte Anschauung
           gestaltet. So kam <lb/>auch für die nachfolgende Darstellung nur ein der <lb/>jeweiligen
           Gegenwart gewissermaßen entfernter und <lb/>mehr Jahrzehnte überblickender Standpunkt in
-          Be <lb break="no"/>tracht. Aus ähnlichen Gründen mußte die Mün <lb break="no"/>dung eines
-          Zuflusses da geschehen, wo sich etwa <lb/>die betreffende fremde Einwirkung in unsrer Lit
-            <lb break="no"/>teratur äußert. Daß hierbei nicht mit Monaten <lb/>gerechnet werden
+          Be<lb break="no"/>tracht. Aus ähnlichen Gründen mußte die Mün<lb break="no"/>dung eines
+          Zuflusses da geschehen, wo sich etwa <lb/>die betreffende fremde Einwirkung in unsrer Lit<lb break="no"/>teratur äußert. Daß hierbei nicht mit Monaten <lb/>gerechnet werden
           konnte, daß oft Jahre, ja Jahr <lb break="no"/>zehnte streitig waren, braucht kaum bemerkt
-          zu <lb/>werden. Es lag mir namentlich daran, den Cha <lb break="no"/>rakter der
+          zu <lb/>werden. Es lag mir namentlich daran, den Cha<lb break="no"/>rakter der
           verschiedenen <emph>Perioden</emph> hervortreten zu <lb/>lassen, die größeren Strömungen
-          zu skizzieren, wie <lb/>sie auftauchen, sich verlaufen oder verdrängt wer <lb break="no"
+          zu skizzieren, wie <lb/>sie auftauchen, sich verlaufen oder verdrängt wer<lb break="no"
           />den. Mathematisch ist dergleichen freilich nicht zu <lb/>fixieren; denn geistige
           Bewegungen lassen sich nicht <lb/>in absolute Zahlen grenzen, es sind Prozesse, keine
-          <lb/>Produkte, und in fortwährender Umbildung be <lb break="no"/>griffen. So konnte sich
-          auch eine Zeichnung der <lb break="no"/>selben häufig nur an eine mehr oder minder glück
-            <lb break="no"/>lich getroffene Schätzung halten; wird ja doch selbst <lb/>die strengste
+          <lb/>Produkte, und in fortwährender Umbildung be<lb break="no"/>griffen. So konnte sich
+          auch eine Zeichnung der<lb break="no"/>selben häufig nur an eine mehr oder minder glück<lb break="no"/>lich getroffene Schätzung halten; wird ja doch selbst <lb/>die strengste
           Karte von Meeresströmungen z. B. <lb/>nie absolut nach einzelnen Wellen zu rechnen im
           <lb/>stande sein, so wenig als sich eine Isothermen- <lb/>oder Isonephentabelle nach
           einzelnen Luftteilchen <lb/>oder Feldsteinen abzirkeln läßt. </p>
@@ -2799,39 +2797,39 @@
           einer Ver <pb ed="#ed-3Tausend" facs="Vorwort-3tsd_Seite_2.tiff.txt" break="no"/>
           <cb break="no" n="3"/>
           <fw>— 3 —</fw>
-          <lb break="no"/>anschaulichung des Gesamtverlaufs unserer Dich <lb break="no"/>tung und
+          <lb break="no"/>anschaulichung des Gesamtverlaufs unserer Dich<lb break="no"/>tung und
           möchte besonders darüber orientieren, <lb/>wo die einzelnen Epochen ihre Ideale suchten,
-          wo <lb break="no"/>her ihre Befruchtung kam, ob sie sich mit ihrem <lb/>Geschmacke der
-          Litteratur eines andern Volkes zu <lb break="no"/>neigten, oder aber ob sie sich von einer
-          Nach <lb break="no"/>ahmung fremder Art und Weise frei zu machen <lb/>trachteten. Die
-          Intensität solch jeweiligen Ein <lb break="no"/>flusses und sein Verrinnen ist durch zu-
-          und ab <lb break="no"/>nehmende Dichtigkeit der Striche dargethan; wo <lb/>mehrere
+          wo<lb break="no"/>her ihre Befruchtung kam, ob sie sich mit ihrem <lb/>Geschmacke der
+          Litteratur eines andern Volkes zu<lb break="no"/>neigten, oder aber ob sie sich von einer
+          Nach<lb break="no"/>ahmung fremder Art und Weise frei zu machen <lb/>trachteten. Die
+          Intensität solch jeweiligen Ein<lb break="no"/>flusses und sein Verrinnen ist durch zu-
+          und ab<lb break="no"/>nehmende Dichtigkeit der Striche dargethan; wo <lb/>mehrere
           Geschmacksrichtungen sich geltend machten, <lb/>erhellt ein Blick auf die Tafel von
-          selbst. Im <lb/>siebzehnten Jahrhundert z. B. kreuzen sich die ver <lb break="no"
-          />schiedensten Einwirkungen in wirrem Durcheinan <lb break="no"/>der und gönnen einer
+          selbst. Im <lb/>siebzehnten Jahrhundert z. B. kreuzen sich die ver<lb break="no"
+          />schiedensten Einwirkungen in wirrem Durcheinan<lb break="no"/>der und gönnen einer
           unbeeinflußten Produktion <lb/>so gut wie keinen Raum, bis nach und nach alle
           <lb/>Trübungen sich wieder verarbeiten, versickern, und <lb/>der Strom sich zu Ausgang des
-          achtzehnten Jahrhun <lb break="no"/>derts zu ruhiger Klarheit und Reinheit durchwindet. </p>
+          achtzehnten Jahrhun<lb break="no"/>derts zu ruhiger Klarheit und Reinheit durchwindet. </p>
         <p>
           <lb/>Auch unsere deutsche Dichtung aber ist wieder <lb/>nur ein Teil der Weltlitteratur.
-          Wirklich voll <lb break="no"/>ständig wäre diese Arbeit daher erst, wenn sich <lb/>ihr
+          Wirklich voll<lb break="no"/>ständig wäre diese Arbeit daher erst, wenn sich <lb/>ihr
           links und rechts eine ähnliche Darstellung <lb/>wenigstens der französischen und
-          englischen an <lb break="no"/>schlösse, so daß sich ein Gesamtblick ermöglichte <lb/>über
+          englischen an<lb break="no"/>schlösse, so daß sich ein Gesamtblick ermöglichte <lb/>über
           die Wechselwirkungen des ganzen poetischen <lb/>Lebens dieser drei kulturell bedeutsamsten
-          Völker <lb/>des modernen Abendlandes, der für eine Dar <lb break="no"/>stellung der
+          Völker <lb/>des modernen Abendlandes, der für eine Dar<lb break="no"/>stellung der
           Weltlitteratur nicht allein von größtem <lb/>Interesse, sondern auch von grundlegender
-          Wich <lb break="no"/>tigkeit wäre. So trefflich und dankenswert alle <lb/>Werke, welche
+          Wich<lb break="no"/>tigkeit wäre. So trefflich und dankenswert alle <lb/>Werke, welche
           eine Geschichte der Weltlitteratur <lb/>geben, und so anerkennenswert das Bestreben ihrer
           <lb/>Autoren, einen Zusammenhang festzustellen, so fehlt <lb/>dabei doch immer der große
           alles unter sich einende <lb/>Horizont eines allgemeinen, wenn auch verschieden
           <lb/>beleuchteten Firmaments. In all diesen Werken <lb/>sind die einzelnen Litteraturen
           fast immer einzeln <lb/>behandelt, abgesehen von meist nur als Nebensache <lb/>bemerkten
           Beziehungen, und nicht als das, was sie <lb/>sind, als Teile, Bruchstücke einer ganzen,
-          obwohl <lb/>auf- und niederschwankenden, doch stetig fortschrei <lb break="no"/>tenden
+          obwohl <lb/>auf- und niederschwankenden, doch stetig fortschrei<lb break="no"/>tenden
           Menschheitsentwickelung in dichterischem <lb/>Ausdruck. Wenn irgend etwas, so zeigt die
-          Dich <lb break="no"/>tung eines Volkes dessen wahrstes, tiefinnerstes <lb/>Seelenleben,
-          sein Ideal und seine Kultur; die po <lb break="no"/>litische Geschichte desselben dagegen
-          mehr das Rin <lb break="no"/>gen, diesem gerecht zu werden, es zu verwirklichen. <lb/>Daß
+          Dich<lb break="no"/>tung eines Volkes dessen wahrstes, tiefinnerstes <lb/>Seelenleben,
+          sein Ideal und seine Kultur; die po<lb break="no"/>litische Geschichte desselben dagegen
+          mehr das Rin<lb break="no"/>gen, diesem gerecht zu werden, es zu verwirklichen. <lb/>Daß
           dabei das eine Moment gegen das andre zeit <cb break="no" n="4"/>
           <fw>— 4 —</fw>
           <lb break="no"/>weilig vorauseilt oder zurücktritt, erklärt sich aus <lb/>denselben
@@ -2839,22 +2837,22 @@
           Wirklichkeit <lb/>im einzelnen Individuum abspielt. Die Resultate <lb/>einer derartigen
           Zusammenfassung wären bedeutend <lb/>genug. Dann aber Verlieren alle Darstellungen
           <lb/>der Weltlitteratur auch dadurch wieder ziemlich an <lb/>Faßlichkeit, daß, wie dies
-          allerdings nicht anders <lb/>geht, die einzelnen Völker eben nacheinander be <lb
+          allerdings nicht anders <lb/>geht, die einzelnen Völker eben nacheinander be<lb
             break="no"/>handelt werden müssen. — Im allgemeinen jedoch <lb/>mangelt ebenso auch
-          unsern nur deutschen Lehr-<lb/> und Schul-Litteraturgeschichten ein das Ganze zwin <lb
-            break="no"/>gender Gesichtspunkt. Sie geben die äußeren That <lb break="no"/>sachen und
+          unsern nur deutschen Lehr-<lb/> und Schul-Litteraturgeschichten ein das Ganze zwin<lb
+            break="no"/>gender Gesichtspunkt. Sie geben die äußeren That<lb break="no"/>sachen und
           Daten, aber ohne Uebersichtlichkeit, ohne <lb/>Entwickelung. Mit bloßem Zusammenfassen und
           <lb/>Nebeneinanderstellen der einzelnen Perioden und <lb/>Bewegungen ist, namentlich dem
           Lernenden, nicht <lb/>viel geholfen; wenn er bei Herder angelangt ist, <lb/>findet er
           nicht mehr zu Veldeke zurück. Es fehlt <lb/>ein Faden, der durch das Ganze leitet und eine
           <lb/>Orientierung ermöglicht. Scherer versuchte ein <lb/>Solches mit seiner Wellentheorie.
-          Mag dieselbe <lb/>immerhin auch mehr phantastisch als objektiv-wis <lb break="no"
+          Mag dieselbe <lb/>immerhin auch mehr phantastisch als objektiv-wis<lb break="no"
           />senschaftlich sein, so wird sie doch jedem, der sie <lb/>sich ein einziges Mal klar
-          gemacht, treu im Ge <lb break="no"/>dächtnis haften und ein fester Maßstab sein. Es
+          gemacht, treu im Ge<lb break="no"/>dächtnis haften und ein fester Maßstab sein. Es
           <lb/>ist dabei dies eine schwerwiegende Moment, das <lb/>eben nicht als bloß zu
-          verlachende Phantasie an <lb break="no"/>zusehen ist: daß diese Theorie, wenn schon mit
+          verlachende Phantasie an<lb break="no"/>zusehen ist: daß diese Theorie, wenn schon mit
           <lb/>Zwang, doch das ganze große Gebiet unter einen <lb/>einheitlichen Gedanken spannt,
-          und so eine Ueber <lb break="no"/>sicht gestattet, die sonst eben nicht da ist. Was er
+          und so eine Ueber<lb break="no"/>sicht gestattet, die sonst eben nicht da ist. Was er
           <lb/>gewollt, war schließlich dasselbe, wenn die Parallele <lb/>erlaubt ist, was für die
           Sprache Grimm durch sein <lb/>Gesetz der Lautverschiebung gefunden hat. </p>
         <p>
@@ -2864,21 +2862,21 @@
           Einmündung nicht solche blieben, so wenig, <lb/>als etwa die Mosel bei ihrem Einfluß in
           den Rhein <lb/>Mosel bleibt, sondern sich sofort vermischten und <lb/>dadurch eine
           zeitweilige Färbung des Hauptflusses <lb/>veranlaßten, die sich aber allmählich verlief.
-          Unsere <lb/>Dichtung ist deshalb nicht weniger <emph>unsere</emph> Dich <lb break="no"
+          Unsere <lb/>Dichtung ist deshalb nicht weniger <emph>unsere</emph> Dich<lb break="no"
           />tung und nicht weniger deutsch; der Rhein wird <lb/>immer der Rhein sein und nicht bloß
           dem Namen <lb/>nach, obgleich er sich nur aus den Gewässern von <pb ed="#ed-3Tausend"
             facs="Vorwort-3tsd_Seite_3.tiff.txt"/>
           <cb n="5"/>
           <fw>—5—</fw>
-          <lb/>hundert andern Bächen und Flüssen zusammen <lb break="no"/>sammelt und vertrocknen
-          würde, falls diese versieg <lb break="no"/>ten. Wenn Gottfried von Straßburg z. B. zu An
+          <lb/>hundert andern Bächen und Flüssen zusammen<lb break="no"/>sammelt und vertrocknen
+          würde, falls diese versieg<lb break="no"/>ten. Wenn Gottfried von Straßburg z. B. zu An
             <lb break="no"/>fang des dreizehnten Jahrhunderts auch nach dem <lb/>Französischen des
           Thomas von Bretagne schrieb, <lb/>Wolfram von Eschenbach meist nach Chrêtien de
           <lb/>Troyes arbeitete, so sind Tristan und Parzival <lb/>demungeachtet <emph>unser</emph>
-          geistiges Eigentum und ver <lb break="no"/>liert weder jener noch dieser an historischer
-          Be <lb break="no"/>deutung, denn sie schufen Vorbilder, an welche <lb/>spätere Zeiten, der
+          geistiges Eigentum und ver<lb break="no"/>liert weder jener noch dieser an historischer
+          Be<lb break="no"/>deutung, denn sie schufen Vorbilder, an welche <lb/>spätere Zeiten, der
           fremden Quelle vergessend, nun <lb/>unmittelbar anknüpfen konnten. Auch galt ja der
-          <lb/>Satz, daß ein selbstständig schöpferisches Hervor <lb break="no"/>bringen der Dichter
+          <lb/>Satz, daß ein selbstständig schöpferisches Hervor<lb break="no"/>bringen der Dichter
           des Mittelalteiss völlig fremd <lb/>gewesen sei, nie in der schroffen Unbedingtheit,
           <lb/>die er auszudrücken scheint: als ob alle jene Dichter <lb/>nichts weiter als
           mechanische Uebersetzer gewesen. </p>
@@ -2886,100 +2884,100 @@
           <lb/>Der Weg, auf welchem fremde Stoffe, Ideen <lb/>und Anschauungen bei uns Eingang
           fanden und <lb/>von Einfluß wurden, ist allerdings keineswegs <lb/>immer der gleiche.
           Tritt dabei das eine Mal mehr <lb/>die politisch-soziale Verbindung der beiden Völker
-          <lb/>in den Vordergrund, ist ein anderes Mal die Ein <lb break="no"/>wirkung vorwiegend
-          bloß litterarischer Natur; doch <lb/>verkettet sich beides meist so eng, daß eine Tren <lb
+          <lb/>in den Vordergrund, ist ein anderes Mal die Ein<lb break="no"/>wirkung vorwiegend
+          bloß litterarischer Natur; doch <lb/>verkettet sich beides meist so eng, daß eine Tren<lb
             break="no"/>nung fast umnöglich ist. So erzieht sich in den <lb/>Kreuzzügen unser bis
-          dahin schwerfälliges und un <lb break="no"/>beholfenes Ritterwesen nach dem Muster des
-          fran <lb break="no"/>zösischen ganz und gar zu dessen feineren Lebens- <lb/>und
+          dahin schwerfälliges und un<lb break="no"/>beholfenes Ritterwesen nach dem Muster des
+          fran<lb break="no"/>zösischen ganz und gar zu dessen feineren Lebens- <lb/>und
           Gesellschaftsformen, wodurch dann auch die <lb/>aufs engste damit verbundene und ebenso
           schon <lb/>weit selbständigere und ausgebildetere französische <lb/>Litteratur den
-          nachhaltigsten Einfluß gewinnt. Die <lb break="no"/>ser aber ist in vielem wieder ein
+          nachhaltigsten Einfluß gewinnt. Die<lb break="no"/>ser aber ist in vielem wieder ein
           völlig andrer <lb/>als die Einwirkung, welche, abgesehen von der <lb/>veränderten
           ästhetischen Anschauung, sechshundert <lb/>Jahre später etwa Diderot auf Lessing hatte,
-          oder <lb/>als der Einfluß, von welchem Shakespeare auf die <lb break="no"/>sen wurde. Soll
+          oder <lb/>als der Einfluß, von welchem Shakespeare auf die<lb break="no"/>sen wurde. Soll
           ein Unterschied herausgeklügelt <lb/>werden, so dürfte sich vielleicht im allgemeinen
-          <lb/>unsre Litteratur in den älteren Perioden den frem <lb break="no"/>den Beeinflussungen
+          <lb/>unsre Litteratur in den älteren Perioden den frem<lb break="no"/>den Beeinflussungen
           gegenüber etwas passiver, in <lb/>den neueren aktiver entpfangend verhalten. </p>
         <p>
-          <lb/>Wenn aber ferner z. B. zur Sturm- und Drang <lb break="no"/>zeit des vorigen
-          Jahrhunderts, in der vorwie <lb break="no"/>gend französischer und englischer Einfluß sich
-          gel <lb break="no"/>tend macht, die tabellarsische Zeichnung nur ein <lb/>schwaches
+          <lb/>Wenn aber ferner z. B. zur Sturm- und Drang<lb break="no"/>zeit des vorigen
+          Jahrhunderts, in der vorwie<lb break="no"/>gend französischer und englischer Einfluß sich
+          gel<lb break="no"/>tend macht, die tabellarsische Zeichnung nur ein <lb/>schwaches
           Durchschimmern reindeutscher Dichtung <lb/>bemerken läßt, so ist dies doch auch nicht zu
           fassen, <cb n="6"/>
           <fw>—6—</fw>
           <lb/>als ob nun von A bis Z jeder, der überhaupt schrieb, <lb/>Rousseau oder Shakespeare
-          excerpiert und nach <lb break="no"/>geahmt hätte; es ist nur die ganze Periode, welche
+          excerpiert und nach<lb break="no"/>geahmt hätte; es ist nur die ganze Periode, welche
           <lb/>sich so charakterisiert. Die Tafel hat ein derartige <lb/>Irrtümer ausschließendes
-          Bekanntsein mit unsrer <lb/>Litteratur zur ersten, selbstverständlichen Voraus <lb
+          Bekanntsein mit unsrer <lb/>Litteratur zur ersten, selbstverständlichen Voraus<lb
             break="no"/>setzung. Goethe blieb nicht sein ganzes Leben lang <lb/>in dem Ideenkreise,
           aus dem er seinen Werther <lb/>herausschuf, und in Schillers Wallenstein wurden <lb/>ganz
           andre Bedingungen wirksam, als etwa in <lb/>Kabale und Liebe. Im großen und ganzen habe
           <lb/>ich die einzelnen Namen in <emph>der</emph> Zeit angegeben, <lb/>welche für die
-          betreffenden Träger derselben un <lb break="no"/>gefähr den durchschnittlichen Höhepunkt
-          des Schaf <lb break="no"/>fens kennzeichnet. Mag ein solches Verfahren an <lb break="no"
+          betreffenden Träger derselben un<lb break="no"/>gefähr den durchschnittlichen Höhepunkt
+          des Schaf<lb break="no"/>fens kennzeichnet. Mag ein solches Verfahren an<lb break="no"
           />zufechten sein, so kann ihm, wie ich glaube, doch <lb/>nicht der Vorwurf der Willkür
-          gemacht werden. <lb/>Dem einzelnen Dichter seine richtige Stellung in <lb break="no"
+          gemacht werden. <lb/>Dem einzelnen Dichter seine richtige Stellung in<lb break="no"
           />nerhalb des Flusses anzuweisen, in wie weit er <lb/>unter diesem oder jenem Einfluß
           steht, muß dem <lb/>überlassen bleiben, der sich des Näheren damit <lb/>beschäftigt hat,
           der da weiß, daß Walter von <lb/>der Vogelweide z. B. nicht mit den Nachahmern <lb/>der
           provençalischen Lyrik geht, sondern daß <emph>er</emph>
           <lb/>gerade, im Gegensatz zu diesen, einer reindeutschen <lb/>Lyrik Bahn bricht. Aus der
-          Zeichnung kann so <lb break="no"/>wohl das eine als das andre erlesen werden, doch
+          Zeichnung kann so<lb break="no"/>wohl das eine als das andre erlesen werden, doch
           <lb/>ist einem leichteren Zurechtfinden durch möglichst <lb/>genauen Druck an der
-          entsprechenden Stelle ent <lb break="no"/>gegengekommen. Nur bei den hervorragendsten Ver
+          entsprechenden Stelle ent<lb break="no"/>gegengekommen. Nur bei den hervorragendsten Ver
             <lb break="no"/>tretern unserer zweiten klassischen Blütezeit mußte <lb/>von dem
           Gesagten abgewichen werden, da sie eine <lb/>Entwickelung durchmachten, die bei Dichtern
-          frü <lb break="no"/>herer Perioden in diesem Maße beinahe nie zu <lb/>finden ist. Ich
-          bezeichnete daher bei ihnen vermit <lb break="no"/>telst kleiner Zahlen nur den
+          frü<lb break="no"/>herer Perioden in diesem Maße beinahe nie zu <lb/>finden ist. Ich
+          bezeichnete daher bei ihnen vermit<lb break="no"/>telst kleiner Zahlen nur den
           erfolgreichen Anfang <lb/>ihres Schaffens. </p>
         <p>
           <lb/>Für den Fachmann sind diese Andeutungen <lb/>unnötig, für den Laien dürften sie
           genügen. Es <lb/>ist freilich stets eine mißliche Sache, diesen zwei <lb/>Parteien gerecht
-          werden zu wollen; dennoch hoffe <lb/>ich, daß es mir wenigstens in der Hauptsache ge <lb
+          werden zu wollen; dennoch hoffe <lb/>ich, daß es mir wenigstens in der Hauptsache ge<lb
             break="no"/>lungen, das beiderseitige Interesse zu konzentrieren. </p>
         <p>
           <lb/>Die Trümmer der gotischen Litteratur wurden <lb/>nicht berücksichtigt, da sie sich
-          auf Ulfilas Bibel <lb break="no"/>übersetzung; Bruchstücke eines Kommentars zum
+          auf Ulfilas Bibel<lb break="no"/>übersetzung; Bruchstücke eines Kommentars zum
           <lb/>Evangelium Johannis, die sogenannte Skeireins; <lb/>ein paar Urkunden und ein
-          Kalenderblatt beschrän <lb break="no"/>ken. Die Tafel hätte dadurch nur eine zwecklose <pb
+          Kalenderblatt beschrän<lb break="no"/>ken. Die Tafel hätte dadurch nur eine zwecklose <pb
             ed="#ed-3Tausend" facs="Vorwort-3tsd_Seite_4.tiff.txt"/>
           <cb n="7"/>
           <fw>—7—</fw>
-          <lb/>Vergrößerung erfahren. Außerdem bildet das Go <lb break="no"/>tische wohl die älteste
-          Ueberlieferung unserer ger <lb break="no"/>manischen Sprache, steht aber doch nicht in un
-            <lb break="no"/>mittelbarem Zusammenhang mit dem Althoch <lb break="no"/>deutschen. Im
-          allgemeinen habe ich nur die be <lb break="no"/>deutenderen Denkmäler angeführt. Sämtliche
-          Titel <lb/>und Namen zu bemerken, hätte die Uebersicht be <lb break="no"/>einträchtigt und
+          <lb/>Vergrößerung erfahren. Außerdem bildet das Go<lb break="no"/>tische wohl die älteste
+          Ueberlieferung unserer ger<lb break="no"/>manischen Sprache, steht aber doch nicht in un
+            <lb break="no"/>mittelbarem Zusammenhang mit dem Althoch<lb break="no"/>deutschen. Im
+          allgemeinen habe ich nur die be<lb break="no"/>deutenderen Denkmäler angeführt. Sämtliche
+          Titel <lb/>und Namen zu bemerken, hätte die Uebersicht be<lb break="no"/>einträchtigt und
           wäre unnützes Beiwerk gewesen. <lb/>Der Fachmann kann, was zu seinem Zwecke fehlt,
           <lb/>leicht einzeichnen, wenn ihm an Vollständigkeit <lb/>liegt. Diese wäre gewiß
           allgemein wünschenswert <lb/>gewesen, mußte aber im Hinblick auf das Ganze
           <lb/>unterbleiben. Die einzelnen Kreise benennen die <lb/>beigegebenen Umschriften zur
-          Genüge. Besonders <lb/>für die neuere und neueste Zeit wäre es fast un <lb break="no"
+          Genüge. Besonders <lb/>für die neuere und neueste Zeit wäre es fast un<lb break="no"
           />möglich gewesen, alle Namen zu nennen, selbst nur <lb/>die hervorragenden. Da aber für
-          diese Jahrhun <lb break="no"/>derte ohnehin eine nähere Bekanntschaft voraus <lb
+          diese Jahrhun<lb break="no"/>derte ohnehin eine nähere Bekanntschaft voraus<lb
             break="no"/>gesetzt werden durfte, schien es mir zweckdienlicher, <lb/>die einzelnen
-          Perioden und Richtungen zusammen <lb break="no"/>zufassen und unter ihren überall gäng und
-          gäben <lb/>Bezeichnungen anzuführen. Um aber jeden Vor <lb break="no"/>wurf zu vermeiden,
+          Perioden und Richtungen zusammen<lb break="no"/>zufassen und unter ihren überall gäng und
+          gäben <lb/>Bezeichnungen anzuführen. Um aber jeden Vor<lb break="no"/>wurf zu vermeiden,
           habe ich die Kreise numeriert <lb/>und zur Seite einige Namen beigesetzt. </p>
         <p>
           <lb/>Die Einzeichnung der Heldensage geschah im <lb/>vierzehnten Jahrhundert und bildet da
-          ein Neben <lb break="no"/>kärtchen. Sie hätte streng genommen an den Kopf <lb/>der Tafel
+          ein Neben<lb break="no"/>kärtchen. Sie hätte streng genommen an den Kopf <lb/>der Tafel
           gehört, wo sie sich aber nicht gut hätte <lb/>unterbringen lassen. Ein näheres Eingehen
           auf die <lb/>Heldensage selbst und ein Verfolgen ihrer einzelnen <lb/>Weiterbildungen
-          durch die Jahrhunderte wäre <lb/>eine besondere Arbeit gewesen und hätte einer eig <lb
-            break="no"/>nen Tafel bedurft, wenn sich halbwegs eine Ueber <lb break="no"/>sicht
+          durch die Jahrhunderte wäre <lb/>eine besondere Arbeit gewesen und hätte einer eig<lb
+            break="no"/>nen Tafel bedurft, wenn sich halbwegs eine Ueber<lb break="no"/>sicht
           ermöglichen sollte. Ich habe mich deshalb <lb/>auf Nennung der Kreise beschränkt mit
           Angabe <lb/>der Hauptgestalten, um welche sich die einzelnen <lb/>Dichtungen gruppieren. </p>
         <p>
           <lb/>Die Anordnung des Ganzen teilt sich, soweit <lb/>durchführbar, dahin, daß der Einfluß
-          der romani <lb break="no"/>schen und der mit diesen geistig verwandteren <lb/>Länder auf
+          der romani<lb break="no"/>schen und der mit diesen geistig verwandteren <lb/>Länder auf
           die linke Seite, der der germanischen <lb/>auf die rechte zu stehen kam (vom Ursprung des
-          <lb/>Flusses aus gesehen umgekehrt) und jener in helle <lb break="no"/>ren, dieser in
-          dunkleren Farben gehalten wurde. <lb/>Die Einwirkung des klassischen Altertums, der An <lb
+          <lb/>Flusses aus gesehen umgekehrt) und jener in helle<lb break="no"/>ren, dieser in
+          dunkleren Farben gehalten wurde. <lb/>Die Einwirkung des klassischen Altertums, der An<lb
             break="no"/>tike, welche sich oft genug auf beide verkreuzt, <lb/>geschieht meist von
           rechts aber auch von links, da <cb n="8"/>
           <fw>—7—</fw>
-          <lb/>hier die Darstellung keine strenge Konsequenz ein <lb break="no"/>halten ließ. </p>
+          <lb/>hier die Darstellung keine strenge Konsequenz ein<lb break="no"/>halten ließ. </p>
         <p>
           <lb/>Was die Einflußarme anbelangt, so ist ihre <lb/>Zeichnung, abgesehen von ihrer
           verschiedenen Stärke, <lb/>eine willkürliche und außerhalb der beigegebenen
@@ -2988,28 +2986,28 @@
           an, von denen eine Hauptwirkung <lb/>ausging. </p>
         <p>
           <lb/>Das Hin und Her des Gesamtstroms möchte <lb/>im großen die zeitweilige Neigung unsrer
-          Dich <lb break="no"/>tung zu Volks- oder Kunstpoesie andeuten. </p>
+          Dich<lb break="no"/>tung zu Volks- oder Kunstpoesie andeuten. </p>
         <p>
           <lb/>Die dann und wann vorkommenden Inseln sind <lb/>lediglich äußeres Hilfsmittel,
-          verschiedene Rich <lb break="no"/>tungen deutlicher auseinanderzuhalten. </p>
+          verschiedene Rich<lb break="no"/>tungen deutlicher auseinanderzuhalten. </p>
         <p>
           <lb/>Die sprachliche Einteilung ist durch verschiedene <lb/>Lineatur am linken Rande
           hervorgehoben. Auf dem <lb/>rechten läuft eine Chronologie unserer Kaiser und <lb/>Könige,
           um flüchtig an die jeweiligen politischen <lb/>Zustände zu erinnern. </p>
         <p>
-          <lb/>Von einem begleitenden Texte glaubte ich ab <lb break="no"/>sehen zu dürfen; er wäre
-          einerseits überflüssig ge <lb break="no"/>wesen, und hätte andrerseits wieder, um nicht
+          <lb/>Von einem begleitenden Texte glaubte ich ab<lb break="no"/>sehen zu dürfen; er wäre
+          einerseits überflüssig ge<lb break="no"/>wesen, und hätte andrerseits wieder, um nicht
           zur <lb/>Hauptsache zu werden, zu wenig bieten müssen. <lb/>Sollte sich jedoch ein
           Bedürfnis nach einem solchen <lb/>geltend machen, läßt er sich nachtragen. Falls die
           <lb/>Umstände es erlauben, würde sich der Tafel später <lb/>eine größere Arbeit über das
           behandelte Thema <lb/>anschließen. </p>
         <p>
-          <lb/>Daß manches Datum und manche Linie, nament <lb break="no"/>lich in Bezug auf die
+          <lb/>Daß manches Datum und manche Linie, nament<lb break="no"/>lich in Bezug auf die
           Intensität eines fremden <lb/>Einflusses, zu bestreiten ist und bestritten werden
           <lb/>wird, darf ich offen einräumen. Auch gegen die <lb/>Fassung des Ganzen in Konzeption
-          und Ausfüh <lb break="no"/>rung ließe sich allerlei einwenden, wie z. B. daß <lb/>die
+          und Ausfüh<lb break="no"/>rung ließe sich allerlei einwenden, wie z. B. daß <lb/>die
           anfangs betonte Unterscheidung von Volks- und <lb/>Kunstpoesie nicht auch für die späteren
-          Jahrhun <lb break="no"/>derte festgehalten wurde, daß die Breite des Haupt <lb break="no"
+          Jahrhun<lb break="no"/>derte festgehalten wurde, daß die Breite des Haupt<lb break="no"
           />stroms keine mathematisch berechnete, und manches <lb/>andre. Kritische Bemerkungen
           werden bei eventueller <lb/>Neuauflage sorgfältigste Berücksichtigung erfahren, <lb/>um
           eine möglichste Vervollkommnung anzustreben, <lb/>obgleich diese wohl nie eine absolute
