@@ -20,6 +20,7 @@
       <sourceDesc>
         <listWit>
           <witness xml:id="ed-2Tausend">
+            <bibl>
               <author>Cäsar Flaischlen</author>
               <title>Graphische Litteratur-Tafel. Die Deutsche Litteratur und der Einfluß fremder
                 Litteraturen auf ihren Verlauf vom Beginn einer schriftlichen Überlieferung an bis
@@ -28,6 +29,7 @@
               <publisher>G. J. Göschen'sche Verlagshandlung</publisher>
               <pubPlace>Stuttgart</pubPlace>
               <date>1890</date>
+            </bibl>
           </witness>
           <witness xml:id="ed-3Tausend">
             <bibl>
@@ -74,7 +76,8 @@
           <person xml:id="pers_00003" littafel:href="#a_Johann-Adelphus"
             littafel:coords="1125,720,1292,742">
             <persName><forename>Johannes</forename><surname>Adelphus</surname></persName>
-            <idno type="GND">118500643</idno> <!-- Johannes Adelphus; genannt Muling, Müling oder Mulichius -->
+            <idno type="GND">118500643</idno>
+            <!-- Johannes Adelphus; genannt Muling, Müling oder Mulichius -->
           </person>
           <person xml:id="pers_00004" littafel:href="#pers_Crotus-Rubeanus"
             littafel:coords="1112,759,1307,781">
@@ -110,7 +113,7 @@
             <persName><forename>Nicolaus</forename><surname>Manuel</surname></persName>
             <idno type="GND">118577379</idno>
           </person>
-          
+
           <!-- 
           <person xml:id="pers_00011" littafel:href="#pers_Till-Eulenspiegel"
             littafel:coords="363,824,582,846">
@@ -118,7 +121,7 @@
             <idno type="GND">none</idno>
           </person>
           -->
-          
+
           <person xml:id="pers_00012" littafel:href="#pers_Maximilian-I"
             littafel:coords="1423,698,1563,727">
             <persName>Maximilian I.</persName>
@@ -147,9 +150,9 @@
           <person xml:id="pers_00017" littafel:href="#pers_Valentin_Ickelsamer"
             littafel:coords="1153,1030,1319,1050">
             <persName><forename>Valentin</forename><surname>Ickelsamer</surname></persName>
-            <idno type="GND">118761331</idno>
-            Valentin Ickelsamer (auch: Ikelschamer, Ikelsheimer, Eckelsheimer, Ikkersamer, Becklersheimer, Zangsthamer; * um 1500 bei Rothenburg ob der Tauber; † 1547 in Augsburg) war ein deutscher Grammatiker.
-          </person>
+            <idno type="GND">118761331</idno> Valentin Ickelsamer (auch: Ikelschamer, Ikelsheimer,
+            Eckelsheimer, Ikkersamer, Becklersheimer, Zangsthamer; * um 1500 bei Rothenburg ob der
+            Tauber; † 1547 in Augsburg) war ein deutscher Grammatiker. </person>
           <person xml:id="pers_00018" littafel:href="#pers_Johann-Buggenhagen"
             littafel:coords="1098,1127,1324,1153">
             <persName><forename>Johannes</forename><surname>Bugenhagen</surname></persName>
@@ -187,23 +190,23 @@
           </person>
           <person xml:id="pers_00025" littafel:href="#a_Friedrich-Dedekind"
             littafel:coords="999,1355,1192,1381">
-            <persName>Friedrich Dedekind</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich</forename><surname>Dedekind</surname></persName>
+            <idno type="GND">118671251</idno>
           </person>
           <person xml:id="pers_00026" littafel:href="#a_Jaspar-Gennep"
             littafel:coords="1028,1401,1207,1425">
-            <persName>Jaspar von Gennep</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Jasper</forename><surname>von Gennep</surname></persName>
+            <idno type="GND">118716824</idno>
           </person>
           <person xml:id="pers_00027" littafel:href="#a_Burkart-Waldis"
             littafel:coords="256,1340,439,1365">
-            <persName>Burkart Waldis</persName>
+            <persName><forename>Burkard</forename><surname>Waldis</surname></persName>
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00028" littafel:href="#pers_Ferdinand-I"
             littafel:coords="1443,1506,1586,1538">
             <persName>Ferdinand I</persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">11883732X</idno>
           </person>
 
           <person xml:id="pers_00029" littafel:href="#pers_Maximilian-II"
@@ -213,8 +216,8 @@
           </person>
           <person xml:id="pers_00030" littafel:href="#a_Paulus-Melissus"
             littafel:coords="1020,1557,1170,1582">
-            <persName>Paulus Melissus</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Paulus</forename><surname>Melissus</surname></persName>
+            <idno type="GND">118580558</idno>
           </person>
           <person xml:id="pers_00031" littafel:href="#a_Adam-Puschmann"
             littafel:coords="723,1575,924,1606">
@@ -223,21 +226,19 @@
           </person>
           <person xml:id="pers_00032" littafel:href="#a_Rabelais"
             littafel:coords="274,1534,389,1569">
-            <persName>Rabelais</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>François</forename><surname>Rabelais</surname></persName>
+            <idno type="GND">118597450</idno>
           </person>
           <person xml:id="pers_00033" littafel:href="#a_Johann-Fischart"
             littafel:coords="226,1715,463,1745">
-            <persName>Johann Fischart</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann</forename><surname>Fischart</surname></persName>
+            <idno type="GND">118533185</idno>
           </person>
           <person xml:id="pers_00034" littafel:href="#a_Nicodemus-Frischlin"
             littafel:coords="1097,1660,1344,1683">
-            <persName>Nicodemus Frischlin</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Nicodemus</forename><surname>Frischlin</surname></persName>
+            <idno type="GND">118693719</idno>
           </person>
-
-
           <person xml:id="pers_00035" littafel:href="#pers_Rudolf-II"
             littafel:coords="1460,1978,1580,2008">
             <persName>Rudolf II</persName>
@@ -307,8 +308,6 @@
             <persName>Joseph II</persName>
             <idno type="GND">none</idno>
           </person>
-
-
           <person xml:id="pers_00048" littafel:href="#pers_Leopold-II"
             littafel:coords="1532,5163,1663,5187">
             <persName>Leopold II</persName>
@@ -337,13 +336,14 @@
           </person>
           <person xml:id="pers_00053" littafel:href="#pers_Heinrich-Julius-von-Braunschweig"
             littafel:coords="811,1934,1174,1953">
-            <persName>Heinrich Julius von Braunschweig</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Heinrich</forename><surname>Julius von
+              Braunschweig</surname></persName>
+            <idno type="GND">118709887</idno>
           </person>
           <person xml:id="pers_00054" littafel:href="#a_Jacob_Ayrer"
             littafel:coords="661,1994,833,2029">
-            <persName>Jacob Ayrer</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Jakob</forename><surname>Ayrer</surname></persName>
+            <idno type="GND">118651307</idno>
           </person>
 
           <person xml:id="pers_00055" littafel:href="#a_Peter-Danasius"
@@ -353,83 +353,85 @@
           </person>
           <person xml:id="pers_00056" littafel:href="#a_Georg-Rollenhagen"
             littafel:coords="778,2099,977,2122">
-            <persName>Georg Rollenhagen</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Georg</forename><surname>Rollenhagen</surname></persName>
+            <idno type="GND">118749544</idno>
           </person>
 
 
           <person xml:id="pers_00057" littafel:href="#a_Wolfhart-Spangenberg"
             littafel:coords="745,2258,1008,2285">
-            <persName>Wolfhart Spangenberg</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Wolfhart</forename><surname>Spangenberg</surname></persName>
+            <idno type="GND">119066947</idno>
           </person>
           <person xml:id="pers_00058" littafel:href="#a_Marot" littafel:coords="300,2389,386,2415">
-            <persName>Marot</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Clément</forename><surname>Marot</surname></persName>
+            <idno type="GND">118731122</idno>
           </person>
           <person xml:id="pers_00059" littafel:href="#a_Jodelle" littafel:coords="275,2429,364,2455">
-            <persName>Jodelle</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Étienne</forename><surname>Jodelle</surname></persName>
+            <idno type="GND">121065162</idno>
           </person>
           <person xml:id="pers_00060" littafel:href="#a_Ronsard" littafel:coords="253,2474,351,2500">
-            <persName>Ronsard</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Pierre</forename><surname>de Ronsard</surname></persName>
+            <idno type="GND">118602519</idno>
           </person>
           <person xml:id="pers_00061" littafel:href="#a_Malherbe"
             littafel:coords="279,2532,390,2556">
-            <persName>Malherbe</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>François</forename><surname>de Malherbe</surname></persName>
+            <idno type="GND">11873038X</idno>
           </person>
           <person xml:id="pers_00062" littafel:href="#a_Scudery" littafel:coords="394,2557,488,2586">
             <persName>Scudéry</persName>
             <idno type="GND">none</idno>
+            <!-- AH: jetzt die Frau oder der Mann? Madeleine de Scudéry  GND: 119069563 (* 15. Oktober 1607 in Le Havre; † 2. Juni 1701 in Paris) wohl eher sie!
+            Georges de Scudéry GND: 118795899  (* 22. August 1601 in Le Havre; † 14. Mai 1667 in Paris) -->
           </person>
           <person xml:id="pers_00063" littafel:href="#a_Lauremberg"
             littafel:coords="620,2568,773,2598">
-            <persName>J. Lauremberg</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann</forename><surname>Lauremberg</surname></persName>
+            <idno type="GND">118726714</idno>
           </person>
           <person xml:id="pers_00064" littafel:href="#a_Weckherlin"
             littafel:coords="1084,2423,1260,2445">
-            <persName>G.R. Weckherlin</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Georg Rodolf</forename><surname>Weckherlin</surname></persName>
+            <idno type="GND">118629840</idno>
           </person>
 
           <person xml:id="pers_00065" littafel:href="#a_Martin-Opitz"
             littafel:coords="1063,2498,1418,2528">
-            <persName>Martin Opitz</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Martin</forename><surname>Opitz</surname></persName>
+            <idno type="GND">118590111</idno>
           </person>
           <person xml:id="pers_00066" littafel:href="#a_Zinkgreff"
             littafel:coords="1088,2540,1241,2569">
             <persName>J.W. Zinkgreff</persName>
             <idno type="GND">none</idno>
           </person>
-          <person xml:id="pers_00067" littafel:href="#a_Friedrich-Speer"
+          <person xml:id="pers_00067" littafel:href="#a_Friedrich-Spee"
             littafel:coords="1046,2598,1224,2621">
-            <persName>Friedrich Speer</persName>
+            <persName><forename>Friedrich</forename><surname>von Spee</surname></persName>
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00068" littafel:href="#a_Friedrich-Logau"
             littafel:coords="1221,2613,1433,2644">
-            <persName>Friedrich von Logau</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich</forename><surname>von Logau</surname></persName>
+            <idno type="GND">11872889X</idno>
           </person>
 
           <person xml:id="pers_00069" littafel:href="#a_Joost-van-der-Vondel"
             littafel:coords="1197,2749,1425,2777">
-            <persName>Joost van der Vondel</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Joost</forename><surname>van der Vondel</surname></persName>
+            <idno type="GND">118627848</idno>
           </person>
           <person xml:id="pers_00070" littafel:href="#a_Andreas-Tscherning"
             littafel:coords="1113,2795,1291,2819">
-            <persName>Andreas Tscherning</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Andreas</forename><surname>Tscherning</surname></persName>
+            <idno type="GND">118802879</idno>
           </person>
           <person xml:id="pers_00071" littafel:href="#a_J-G-Schottelius"
             littafel:coords="1291,2830,1424,2851">
-            <persName>J.G. Schottelius</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Justus Georg</forename><surname>Schottelius</surname></persName>
+            <idno type="GND">118610554</idno>
           </person>
           <person xml:id="pers_00072" littafel:href="#a_Johann-Rist"
             littafel:coords="1239,2873,1360,2894">
@@ -1120,8 +1122,8 @@
           </person>
           <person xml:id="pers_00218" littafel:href="#a_Benjamin-Neukirch"
             littafel:coords="1206,3677,1401,3703">
-            <persName>Benjamin Neukirch</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Benjamin</forename><surname>Neukirch</surname></persName>
+            <idno type="GND">118785990</idno>
           </person>
           <person xml:id="pers_00219" littafel:href="#a_Marini" littafel:coords="360,2772,449,2795">
             <persName>Marini</persName>
@@ -1129,26 +1131,648 @@
           </person>
           <person xml:id="pers_00220" littafel:href="#a_Dumas-père"
             littafel:coords="345,5873,508,5909">
-            <persName>Dumas père</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Alexandre</forename><surname>Dumas</surname></persName>
+            <idno type="GND">118528068</idno>
           </person>
           <person xml:id="pers_00221" littafel:href="#a_Ponsard" littafel:coords="393,5931,494,5960">
-            <persName>Ponsard</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>François</forename><surname>Ponsard</surname></persName>
+            <idno type="GND">118595695</idno>
           </person>
-
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
   <sourceDoc>
     <surfaceGrp>
-    <!-- Hier die Tafel -->
-    <!-- Testcase: Teil 3 der Tafel 3. Tausend width=1920px   -->
-    <surface facs="Flaischlen_3_kleiner.png">
-      
-      <zone ulx="" uly="" lrx="" lry=""/>
-    </surface>
+      <!-- Hier die Tafel -->
+      <!-- Testcase: Teil 3 der Tafel 3. Tausend width=1920px   -->
+      <surface facs="Flaischlen_3_kleiner.png">
+        <zone xml:id="z_ed3-p3_001" ulx="1118" uly="630" lrx="1268" lry="667"
+          littafel:href="#a_Jacob-Locher"><line>Jacob Locher</line></zone>
+        <zone xml:id="z_ed3-p3_002" ulx="1120" uly="670" lrx="1275" lry="702"
+          littafel:href="#aHeinrich-Bebel"><line>Heinrich Bebel</line></zone>
+        <zone xml:id="z_ed3-p3_003" ulx="1125" uly="720" lrx="1292" lry="742"
+          littafel:href="#a_Johann-Adelphus"><line>Johann Adelphus</line></zone>
+        <zone xml:id="z_ed3-p3_004" ulx="1112" uly="759" lrx="1307" lry="781"
+          littafel:href="#pers_Crotus-Rubeanus"><line>Crotus Rubeanus</line></zone>
+        <zone xml:id="z_ed3-p3_005" ulx="1116" uly="801" lrx="1301" lry="831"
+          littafel:href="#pers_Ulrich-von-Hutten"><line>Ulrich von Hutten</line></zone>
+        <zone xml:id="z_ed3-p3_006" ulx="850" uly="840" lrx="985" lry="863"
+          littafel:href="#a_Johann-Pauli"><line>Johann Pauli</line></zone>
+        <zone xml:id="z_ed3-p3_007" ulx="982" uly="898" lrx="1073" lry="930"
+          littafel:href="#a_Aesop"><line>Aesop</line></zone>
+        <zone xml:id="z_ed3-p3_008" ulx="1030" uly="863" lrx="1307" lry="885"
+          littafel:href="#t_Teurdank und Weisskunig"><line>Teurdank und Weisskunig</line></zone>
+        <zone xml:id="z_ed3-p3_009" ulx="233" uly="730" lrx="472" lry="756"
+          littafel:href="#a_Pamphilus-Gengenbach"><line>Pamphilus Gengenbach</line></zone>
+        <zone xml:id="z_ed3-p3_010" ulx="199" uly="799" lrx="405" lry="828"
+          littafel:href="#a_Thomas-Murner"><line>Thomas Murner</line></zone>
+        <zone xml:id="z_ed3-p3_011" ulx="276" uly="769" lrx="450" lry="790"
+          littafel:href="#a_Nicolaus_Manuel"><line>Nicolaus Manuel</line></zone>
+        <zone xml:id="z_ed3-p3_012" ulx="363" uly="824" lrx="582" lry="846"
+          littafel:href="#pers_Till-Eulenspiegel"><line>Till Eulenspiegel</line></zone>
+        <zone xml:id="z_ed3-p3_013" ulx="1423" uly="698" lrx="1563" lry="727"
+          littafel:href="#pers_Maximilian-I"><line>Maximilian I.</line></zone>
+        <zone xml:id="z_ed3-p3_014" ulx="1453" uly="1162" lrx="1556" lry="1200"
+          littafel:href="#pers_Karl-V"><line>Karl V.</line></zone>
+        <zone xml:id="z_ed3-p3_015" ulx="1418" uly="878" lrx="1468" lry="901"
+          littafel:href="#y_1519"><line>1519</line></zone>
+        <zone xml:id="z_ed3-p3_016" ulx="202" uly="875" lrx="447" lry="937"
+          littafel:href="#hist_Neuhochdeutsche-Periode-bis-heute"><line>Neuhochdeutsche Periode bis
+            heute</line></zone>
+        <zone xml:id="z_ed3-p3_017" ulx="278" uly="961" lrx="481" lry="992"
+          littafel:href="#a_Martin-Luther"><line>Martin Luther</line></zone>
+        <zone xml:id="z_ed3-p3_018" ulx="279" uly="996" lrx="455" lry="1022"
+          littafel:href="#a_Hans-Sachs"><line>Hans Sachs</line></zone>
+        <zone xml:id="z_ed3-p3_019" ulx="254" uly="1062" lrx="479" lry="1090"
+          littafel:href="#g_das-Kirchenlied"><line>das Kirchenlied</line></zone>
+        <zone xml:id="z_ed3-p3_020" ulx="1033" uly="1002" lrx="1297" lry="1037"
+          littafel:href="#pers_Philipp_Melanchthon"><line>Philipp Melanchthon</line></zone>
+        <zone xml:id="z_ed3-p3_021" ulx="1153" uly="1030" lrx="1319" lry="1050"
+          littafel:href="#pers_Valentin_Ickelsamer"><line>Valentin Ickelsamer</line></zone>
+        <zone xml:id="z_ed3-p3_022" ulx="891" uly="1083" lrx="1066" lry="1108"
+          littafel:href="#t_Reineke-Voss"><line>Reineke Voss</line></zone>
+        <zone xml:id="z_ed3-p3_023" ulx="1098" uly="1127" lrx="1324" lry="1153"
+          littafel:href="#pers_Johann-Buggenhagen"><line>Johann Buggenhagen</line></zone>
+        <zone xml:id="z_ed3-p3_024" ulx="1079" uly="1168" lrx="1221" lry="1192"
+          littafel:href="#a_Paul-Rebhun"><line>Paul Rebhun</line></zone>
+        <zone xml:id="z_ed3-p3_025" ulx="1061" uly="1213" lrx="1272" lry="1237"
+          littafel:href="#a_Thomas-Naogeorgius"><line>Thomas Naogeorgius</line></zone>
+        <zone xml:id="z_ed3-p3_026" ulx="820" uly="1199" lrx="960" lry="1224"
+          littafel:href="#a_Jörg-Wickram"><line>Jörg Wickram</line></zone>
+        <zone xml:id="z_ed3-p3_027" ulx="1117" uly="1254" lrx="1274" lry="1279"
+          littafel:href="#a_Johann-Agricola"><line>Johann Agricola</line></zone>
+        <zone xml:id="z_ed3-p3_028" ulx="1089" uly="1289" lrx="1252" lry="1312"
+          littafel:href="#a_Sebastian-Frank"><line>Sebastian Frank</line></zone>
+        <zone xml:id="z_ed3-p3_029" ulx="1041" uly="1324" lrx="1225" lry="1345"
+          littafel:href="#a_Erasmus-Alberus"><line>Erasmus Alberus</line></zone>
+        <zone xml:id="z_ed3-p3_030" ulx="999" uly="1355" lrx="1192" lry="1381"
+          littafel:href="#a_Friedrich-Dedekind"><line>Friedrich Dedekind</line></zone>
+        <zone xml:id="z_ed3-p3_031" ulx="1028" uly="1401" lrx="1207" lry="1425"
+          littafel:href="#a_Jaspar-Gennep"><line>Jaspar von Gennep</line></zone>
+        <zone xml:id="z_ed3-p3_032" ulx="256" uly="1340" lrx="439" lry="1365"
+          littafel:href="#a_Burkart-Waldis"><line>Burkart Waldis</line></zone>
+        <zone xml:id="z_ed3-p3_033" ulx="1434" uly="1464" lrx="1483" lry="1484"
+          littafel:href="#y_1556"><line>1556</line></zone>
+        <zone xml:id="z_ed3-p3_034" ulx="1443" uly="1506" lrx="1586" lry="1538"
+          littafel:href="#pers_Ferdinand-I"><line>Ferdinand I</line></zone>
+        <zone xml:id="z_ed3-p3_035" ulx="1441" uly="1577" lrx="1484" lry="1602"
+          littafel:href="#y_1564"><line>1564</line></zone>
+        <zone xml:id="z_ed3-p3_036" ulx="1442" uly="1641" lrx="1592" lry="1673"
+          littafel:href="#pers_Maximilian-II"><line>Maximilian II</line></zone>
+        <zone xml:id="z_ed3-p3_037" ulx="1020" uly="1557" lrx="1170" lry="1582"
+          littafel:href="#a_Paulus-Melissus"><line>Paulus Melissus</line></zone>
+        <zone xml:id="z_ed3-p3_038" ulx="723" uly="1575" lrx="924" lry="1606"
+          littafel:href="#a_Adam-Puschmann"><line>Adam Puschmann</line></zone>
+        <zone xml:id="z_ed3-p3_039" ulx="274" uly="1534" lrx="389" lry="1569"
+          littafel:href="#a_Rabelais"><line>Rabelais</line></zone>
+        <zone xml:id="z_ed3-p3_040" ulx="226" uly="1715" lrx="463" lry="1745"
+          littafel:href="#a_Johann-Fischart"><line>Johann Fischart</line></zone>
+        <zone xml:id="z_ed3-p3_041" ulx="84" uly="758" lrx="151" lry="787" littafel:href="#y_1510"
+            ><line>1510</line></zone>
+        <zone xml:id="z_ed3-p3_042" ulx="89" uly="912" lrx="154" lry="945" littafel:href="#y_1520"
+            ><line>1520</line></zone>
+        <zone xml:id="z_ed3-p3_043" ulx="91" uly="1068" lrx="159" lry="1098" littafel:href="#y_1530"
+            ><line>1530</line></zone>
+        <zone xml:id="z_ed3-p3_044" ulx="95" uly="1222" lrx="161" lry="1264" littafel:href="#y_1540"
+            ><line>1540</line></zone>
+        <zone xml:id="z_ed3-p3_045" ulx="98" uly="1382" lrx="164" lry="1414" littafel:href="#y_1550"
+            ><line>1550</line></zone>
+        <zone xml:id="z_ed3-p3_046" ulx="103" uly="1536" lrx="171" lry="1574"
+          littafel:href="#y_1560"><line>1560</line></zone>
+        <zone xml:id="z_ed3-p3_047" ulx="110" uly="1702" lrx="178" lry="1730"
+          littafel:href="#y_1570"><line>1570</line></zone>
+        <zone xml:id="z_ed3-p3_048" ulx="122" uly="2014" lrx="189" lry="2041"
+          littafel:href="#y_1590"><line>1590</line></zone>
+        <zone xml:id="z_ed3-p3_049" ulx="122" uly="2168" lrx="189" lry="2199"
+          littafel:href="#y_1600"><line>1600</line></zone>
+        <zone xml:id="z_ed3-p3_050" ulx="123" uly="2328" lrx="190" lry="2353"
+          littafel:href="#y_1610"><line>1610</line></zone>
+        <zone xml:id="z_ed3-p3_051" ulx="126" uly="2483" lrx="193" lry="2510"
+          littafel:href="#y_1620"><line>1620</line></zone>
+        <zone xml:id="z_ed3-p3_052" ulx="130" uly="2641" lrx="198" lry="2670"
+          littafel:href="#y_1630"><line>1630</line></zone>
+        <zone xml:id="z_ed3-p3_053" ulx="132" uly="2799" lrx="200" lry="2827"
+          littafel:href="#y_1640"><line>1640</line></zone>
+        <zone xml:id="z_ed3-p3_054" ulx="136" uly="2955" lrx="206" lry="2984"
+          littafel:href="#y_1650"><line>1650</line></zone>
+        <zone xml:id="z_ed3-p3_055" ulx="140" uly="3110" lrx="211" lry="3141"
+          littafel:href="#y_1660"><line>1660</line></zone>
+        <zone xml:id="z_ed3-p3_056" ulx="145" uly="3269" lrx="211" lry="3295"
+          littafel:href="#y_1670"><line>1670</line></zone>
+        <zone xml:id="z_ed3-p3_057" ulx="144" uly="3429" lrx="215" lry="3456"
+          littafel:href="#y_1680"><line>1680</line></zone>
+        <zone xml:id="z_ed3-p3_058" ulx="690" uly="1626" lrx="1149" lry="1663"
+          littafel:href="#g_die-Englischen-Komödianten"><line>die Englischen
+          Komödianten</line></zone>
+        <zone xml:id="z_ed3-p3_059" ulx="152" uly="3584" lrx="226" lry="3614"
+          littafel:href="#y_1690"><line>1690</line></zone>
+        <zone xml:id="z_ed3-p3_060" ulx="158" uly="3739" lrx="229" lry="3768"
+          littafel:href="#y_1700"><line>1700</line></zone>
+        <zone xml:id="z_ed3-p3_061" ulx="158" uly="3899" lrx="227" lry="3930"
+          littafel:href="#y_1710"><line>1710</line></zone>
+        <zone xml:id="z_ed3-p3_062" ulx="162" uly="4062" lrx="224" lry="4088"
+          littafel:href="#y_1720"><line>1720</line></zone>
+        <zone xml:id="z_ed3-p3_063" ulx="165" uly="4221" lrx="234" lry="4247"
+          littafel:href="#y_1730"><line>1730</line></zone>
+        <zone xml:id="z_ed3-p3_064" ulx="169" uly="4376" lrx="236" lry="4403"
+          littafel:href="#y_1740"><line>1740</line></zone>
+        <zone xml:id="z_ed3-p3_065" ulx="167" uly="4532" lrx="237" lry="4561"
+          littafel:href="#y_1750"><line>1750</line></zone>
+        <zone xml:id="z_ed3-p3_066" ulx="173" uly="4689" lrx="241" lry="4717"
+          littafel:href="#y_1760"><line>1760</line></zone>
+        <zone xml:id="z_ed3-p3_067" ulx="175" uly="4850" lrx="249" lry="4879"
+          littafel:href="#y_1770"><line>1770</line></zone>
+        <zone xml:id="z_ed3-p3_068" ulx="178" uly="5006" lrx="250" lry="5032"
+          littafel:href="#y_1780"><line>1780</line></zone>
+        <zone xml:id="z_ed3-p3_069" ulx="181" uly="5163" lrx="257" lry="5190"
+          littafel:href="#y_1790"><line>1790</line></zone>
+        <zone xml:id="z_ed3-p3_070" ulx="186" uly="5321" lrx="258" lry="5353"
+          littafel:href="#y_1800"><line>1800</line></zone>
+        <zone xml:id="z_ed3-p3_071" ulx="191" uly="5635" lrx="264" lry="5663"
+          littafel:href="#y_1820"><line>1820</line></zone>
+        <zone xml:id="z_ed3-p3_072" ulx="194" uly="5788" lrx="265" lry="5819"
+          littafel:href="#y_1830"><line>1830</line></zone>
+        <zone xml:id="z_ed3-p3_073" ulx="199" uly="5947" lrx="267" lry="5975"
+          littafel:href="#y_1840"><line>1840</line></zone>
+        <zone xml:id="z_ed3-p3_074" ulx="204" uly="6099" lrx="273" lry="6127"
+          littafel:href="#y_1850"><line>1850</line></zone>
+        <zone xml:id="z_ed3-p3_075" ulx="207" uly="6259" lrx="279" lry="6290"
+          littafel:href="#y_1860"><line>1860</line></zone>
+        <zone xml:id="z_ed3-p3_076" ulx="207" uly="6418" lrx="285" lry="6447"
+          littafel:href="#y_1870"><line>1870</line></zone>
+        <zone xml:id="z_ed3-p3_077" ulx="212" uly="6574" lrx="287" lry="6604"
+          littafel:href="#y_1880"><line>1880</line></zone>
+        <zone xml:id="z_ed3-p3_078" ulx="211" uly="6731" lrx="290" lry="6761"
+          littafel:href="#y_1890"><line>1890</line></zone>
+        <zone xml:id="z_ed3-p3_079" ulx="249" uly="1801" lrx="365" lry="1832"
+          littafel:href="#g_Tellsage"><line>Tellsage</line></zone>
+        <zone xml:id="z_ed3-p3_080" ulx="1097" uly="1660" lrx="1344" lry="1683"
+          littafel:href="#a_Nicodemus-Frischlin"><line>Nicodemus Frischlin</line></zone>
+        <zone xml:id="z_ed3-p3_081" ulx="224" uly="1963" lrx="357" lry="1996"
+          littafel:href="#g_Faustsage"><line>Faustsage</line></zone>
+        <zone xml:id="z_ed3-p3_082" ulx="1448" uly="1778" lrx="1490" lry="1796"
+          littafel:href="#y_1576"><line>1576</line></zone>
+        <zone xml:id="z_ed3-p3_083" ulx="1460" uly="1978" lrx="1580" lry="2008"
+          littafel:href="#pers_Rudolf-II"><line>Rudolf II</line></zone>
+        <zone xml:id="z_ed3-p3_084" ulx="1453" uly="2339" lrx="1502" lry="2361"
+          littafel:href="#y_1612"><line>1612</line></zone>
+        <zone xml:id="z_ed3-p3_085" ulx="1478" uly="2376" lrx="1597" lry="2408"
+          littafel:href="#pers_Matthias"><line>Matthias</line></zone>
+        <zone xml:id="z_ed3-p3_086" ulx="1458" uly="2441" lrx="1502" lry="2461"
+          littafel:href="#y_1619"><line>1619</line></zone>
+        <zone xml:id="z_ed3-p3_087" ulx="1472" uly="2572" lrx="1604" lry="2596"
+          littafel:href="#pers_Ferdinand-II"><line>Ferdinand II</line></zone>
+        <zone xml:id="z_ed3-p3_088" ulx="1466" uly="2726" lrx="1508" lry="2747"
+          littafel:href="#y_1637"><line>1637</line></zone>
+        <zone xml:id="z_ed3-p3_089" ulx="1478" uly="2877" lrx="1626" lry="2904"
+          littafel:href="#pers_Ferdinand-III"><line>Ferdinand III</line></zone>
+        <zone xml:id="z_ed3-p3_090" ulx="1472" uly="3042" lrx="1527" lry="3075"
+          littafel:href="#y_1657/8"><line>1657/8</line></zone>
+        <zone xml:id="z_ed3-p3_091" ulx="1501" uly="3350" lrx="1620" lry="3379"
+          littafel:href="#pers_Leopold-I"><line>Leopold I</line></zone>
+        <zone xml:id="z_ed3-p3_092" ulx="1486" uly="3801" lrx="1525" lry="3825"
+          littafel:href="#y_1705"><line>1705</line></zone>
+        <zone xml:id="z_ed3-p3_093" ulx="1509" uly="3840" lrx="1624" lry="3875"
+          littafel:href="#pers_Joseph-I"><line>Joseph I</line></zone>
+        <zone xml:id="z_ed3-p3_094" ulx="1491" uly="3909" lrx="1521" lry="3928"
+          littafel:href="#y_1711"><line>1711</line></zone>
+        <zone xml:id="z_ed3-p3_095" ulx="1521" uly="4141" lrx="1627" lry="4171"
+          littafel:href="#pers_Karl-VI"><line>Karl VI</line></zone>
+        <zone xml:id="z_ed3-p3_096" ulx="1498" uly="4360" lrx="1532" lry="4379"
+          littafel:href="#y_1740"><line>1740</line></zone>
+        <zone xml:id="z_ed3-p3_097" ulx="1502" uly="4442" lrx="1535" lry="4460"
+          littafel:href="#y_1745"><line>1745</line></zone>
+        <zone xml:id="z_ed3-p3_098" ulx="1522" uly="4352" lrx="1636" lry="4406"
+          littafel:href="#pers_Maria-Theresia"><line>Maria Theresia</line></zone>
+        <zone xml:id="z_ed3-p3_099" ulx="1532" uly="4416" lrx="1624" lry="4438"
+          littafel:href="#pers_Karl-VII"><line>Karl VII</line></zone>
+        <zone xml:id="z_ed3-p3_100" ulx="1523" uly="4560" lrx="1627" lry="4594"
+          littafel:href="#pers_Franz-I"><line>Franz I</line></zone>
+        <zone xml:id="z_ed3-p3_101" ulx="1526" uly="4660" lrx="1624" lry="4711"
+          littafel:href="#pers_Friedrich-der-Große"><line>Friedrich der Große</line></zone>
+        <zone xml:id="z_ed3-p3_102" ulx="1505" uly="4755" lrx="1541" lry="4779"
+          littafel:href="#y_1765"><line>1765</line></zone>
+        <zone xml:id="z_ed3-p3_103" ulx="1527" uly="4830" lrx="1638" lry="4880"
+          littafel:href="#pers_Maria-Theresia"><line>Maria Theresia</line></zone>
+        <zone xml:id="z_ed3-p3_104" ulx="1507" uly="4995" lrx="1553" lry="5019"
+          littafel:href="#y_1780"><line>1780</line></zone>
+        <zone xml:id="z_ed3-p3_105" ulx="1536" uly="5049" lrx="1654" lry="5081"
+          littafel:href="#pers_Joseph-II"><line>Joseph II</line></zone>
+        <zone xml:id="z_ed3-p3_106" ulx="1512" uly="5149" lrx="1549" lry="5166"
+          littafel:href="#y_1790"><line>1790</line></zone>
+        <zone xml:id="z_ed3-p3_107" ulx="1514" uly="5193" lrx="1550" lry="5210"
+          littafel:href="#y_1792"><line>1792</line></zone>
+        <zone xml:id="z_ed3-p3_108" ulx="1532" uly="5163" lrx="1663" lry="5187"
+          littafel:href="#pers_Leopold-II"><line>Leopold II</line></zone>
+        <zone xml:id="z_ed3-p3_109" ulx="1539" uly="5265" lrx="1657" lry="5302"
+          littafel:href="#pers_Franz-II"><line>Franz II</line></zone>
+        <zone xml:id="z_ed3-p3_110" ulx="1517" uly="5388" lrx="1559" lry="5408"
+          littafel:href="#y_1806"><line>1806</line></zone>
+        <zone xml:id="z_ed3-p3_111" ulx="1534" uly="5379" lrx="1667" lry="5468"
+          littafel:href="#hist_Auflösung-des-deutschen-Reiches"><line>Auflösung des deutschen
+            Reiches</line></zone>
+        <zone xml:id="z_ed3-p3_112" ulx="1554" uly="6414" lrx="1696" lry="6496"
+          littafel:href="#hist_Erneuerung-der-deutschen-Kaiserwürde"><line>Erneuerung der deutschen
+            Kaiserwürde</line></zone>
+        <zone xml:id="z_ed3-p3_113" ulx="1543" uly="6415" lrx="1581" lry="6434"
+          littafel:href="#y_1871"><line>1871</line></zone>
+        <zone xml:id="z_ed3-p3_114" ulx="1567" uly="6518" lrx="1692" lry="6544"
+          littafel:href="#pers_Wilhelm-I"><line>Wilhelm I.</line></zone>
+        <zone xml:id="z_ed3-p3_115" ulx="1558" uly="6662" lrx="1702" lry="6683"
+          littafel:href="#pers_Friedrich-III"><line>Friedrich III.</line></zone>
+        <zone xml:id="z_ed3-p3_116" ulx="1550" uly="6685" lrx="1592" lry="6703"
+          littafel:href="#y_1888"><line>1888</line></zone>
+        <zone xml:id="z_ed3-p3_117" ulx="1567" uly="6701" lrx="1704" lry="6724"
+          littafel:href="#pers_Wilhelm-II"><line>Wilhelm II.</line></zone>
+        <zone xml:id="z_ed3-p3_118" ulx="811" uly="1934" lrx="1174" lry="1953"
+          littafel:href="#pers_Heinrich-Julius-von-Braunschweig"><line>Heinrich Julius von
+            Braunschweig</line></zone>
+        <zone xml:id="z_ed3-p3_119" ulx="661" uly="1994" lrx="833" lry="2029"
+          littafel:href="#a_Jacob_Ayrer"><line>Jacob Ayrer</line></zone>
+        <zone xml:id="z_ed3-p3_120" ulx="894" uly="1978" lrx="1047" lry="2002"
+          littafel:href="#t_Buch-Liebe"><line>Buch der Liebe</line></zone>
+        <zone xml:id="z_ed3-p3_121" ulx="1119" uly="1985" lrx="1255" lry="2005"
+          littafel:href="#a_Peter-Danasius"><line>Peter Danasius</line></zone>
+        <zone xml:id="z_ed3-p3_122" ulx="778" uly="2099" lrx="977" lry="2122"
+          littafel:href="#a_Georg-Rollenhagen"><line>Georg Rollenhagen</line></zone>
+        <zone xml:id="z_ed3-p3_123" ulx="1119" uly="2287" lrx="1377" lry="2315"
+          littafel:href="#litarea_Klassisches-Altertum"><line>Klassisches Altertum</line></zone>
+        <zone xml:id="z_ed3-p3_124" ulx="264" uly="2212" lrx="423" lry="2244"
+          littafel:href="#t_Ahasversage"><line>Ahasversage</line></zone>
+        <zone xml:id="z_ed3-p3_125" ulx="745" uly="2258" lrx="1008" lry="2285"
+          littafel:href="#a_Wolfhart-Spangenberg"><line>Wolfhart Spangenberg</line></zone>
+        <zone xml:id="z_ed3-p3_126" ulx="300" uly="2389" lrx="386" lry="2415"
+          littafel:href="#a_Marot"><line>Marot</line></zone>
+        <zone xml:id="z_ed3-p3_127" ulx="275" uly="2429" lrx="364" lry="2455"
+          littafel:href="#a_Jodelle"><line>Jodelle</line></zone>
+        <zone xml:id="z_ed3-p3_128" ulx="253" uly="2474" lrx="351" lry="2500"
+          littafel:href="#a_Ronsard"><line>Ronsard</line></zone>
+        <zone xml:id="z_ed3-p3_129" ulx="279" uly="2532" lrx="390" lry="2556"
+          littafel:href="#a_Malherbe"><line>Malherbe</line></zone>
+        <zone xml:id="z_ed3-p3_130" ulx="394" uly="2557" lrx="488" lry="2586"
+          littafel:href="#a_Scudery"><line>Scudéry</line></zone>
+        <zone xml:id="z_ed3-p3_131" ulx="620" uly="2568" lrx="773" lry="2598"
+          littafel:href="#a_Lauremberg"><line>J. Lauremberg</line></zone>
+        <zone xml:id="z_ed3-p3_132" ulx="1084" uly="2423" lrx="1260" lry="2445"
+          littafel:href="#a_Weckherlin"><line>G.R. Weckherlin</line></zone>
+        <zone xml:id="z_ed3-p3_133" ulx="1097" uly="2447" lrx="1407" lry="2471"
+          littafel:href="#org_Fruchtbringende-Gesellschaft"><line>Fruchtbringende
+            Gesellschaft</line></zone>
+        <zone xml:id="z_ed3-p3_134" ulx="1063" uly="2498" lrx="1418" lry="2528"
+          littafel:href="#a_Martin-Opitz"><line>Martin Opitz</line></zone>
+        <zone xml:id="z_ed3-p3_135" ulx="1088" uly="2540" lrx="1241" lry="2569"
+          littafel:href="#a_Zinkgreff"><line>J.W. Zinkgreff</line></zone>
+        <zone xml:id="z_ed3-p3_136" ulx="1046" uly="2598" lrx="1224" lry="2621"
+          littafel:href="#a_Friedrich-Speer"><line>Friedrich Speer</line></zone>
+        <zone xml:id="z_ed3-p3_137" ulx="1221" uly="2613" lrx="1433" lry="2644"
+          littafel:href="#a_Friedrich-Logau"><line>Friedrich von Logau</line></zone>
+        <zone xml:id="z_ed3-p3_138" ulx="1061" uly="2656" lrx="1408" lry="2710"
+          littafel:href="#per_Shakespeare-und-sein-zeitgenössisches-Theater"><line>Shakespeare und
+            sein zeitgenössisches Theater</line></zone>
+        <zone xml:id="z_ed3-p3_139" ulx="1197" uly="2749" lrx="1425" lry="2777"
+          littafel:href="#a_Joost-van-der-Vondel"><line>Joost van der Vondel</line></zone>
+        <zone xml:id="z_ed3-p3_140" ulx="1113" uly="2795" lrx="1291" lry="2819"
+          littafel:href="#a_Andreas-Tscherning"><line>Andreas Tscherning</line></zone>
+        <zone xml:id="z_ed3-p3_141" ulx="1291" uly="2830" lrx="1424" lry="2851"
+          littafel:href="#a_J-G-Schottelius"><line>J.G. Schottelius</line></zone>
+        <zone xml:id="z_ed3-p3_142" ulx="1239" uly="2873" lrx="1360" lry="2894"
+          littafel:href="#a_Johann-Rist"><line>Johann Rist</line></zone>
+        <zone xml:id="z_ed3-p3_143" ulx="521" uly="2726" lrx="644" lry="2761"
+          littafel:href="#g_die-Lyrik"><line>die Lyrik</line></zone>
+        <zone xml:id="z_ed3-p3_144" ulx="331" uly="2745" lrx="448" lry="2769"
+          littafel:href="#a_Guarini"><line>Guarini</line></zone>
+        <zone xml:id="z_ed3-p3_145" ulx="595" uly="2785" lrx="819" lry="2810"
+          littafel:href="#group_die-Königsberger"><line>die Königsberger</line></zone>
+        <zone xml:id="z_ed3-p3_146" ulx="576" uly="2814" lrx="666" lry="2834"
+          littafel:href="#a_Simon-Dach"><line>Simon Dach</line></zone>
+        <zone xml:id="z_ed3-p3_147" ulx="252" uly="2831" lrx="421" lry="2858"
+          littafel:href="#a_Paul-Flemming"><line>Paul Flemming</line></zone>
+        <zone xml:id="z_ed3-p3_148" ulx="667" uly="2816" lrx="864" lry="2835" littafel:href=""
+            ><line>Robert Robert hrn.Hrch.Albert</line></zone>
+        <zone xml:id="z_ed3-p3_149" ulx="1072" uly="2936" lrx="1360" lry="2976"
+          littafel:href="#a_Andreas-Gryphius"><line>Andreas Gryphius</line></zone>
+        <zone xml:id="z_ed3-p3_150" ulx="1172" uly="2995" lrx="1313" lry="3019"
+          littafel:href="#a_A-H-Buchholz"><line>A.H. Buchholz</line></zone>
+        <zone xml:id="z_ed3-p3_151" ulx="1046" uly="3039" lrx="1236" lry="3066"
+          littafel:href="#g_der-französische-Roman"><line>der französische Roman</line></zone>
+        <zone xml:id="z_ed3-p3_152" ulx="285" uly="2854" lrx="447" lry="2871"
+          littafel:href="#a_Paulus-Gerhardt"><line>Paulus Gerhardt</line></zone>
+        <zone xml:id="z_ed3-p3_153" ulx="244" uly="2874" lrx="411" lry="2891"
+          littafel:href="#a_Joachim-Neander"><line>Joachim Neander</line></zone>
+        <zone xml:id="z_ed3-p3_154" ulx="279" uly="2892" lrx="434" lry="2914"
+          littafel:href="#a_Georg-Neumark"><line>Georg Neumark</line></zone>
+        <zone xml:id="z_ed3-p3_155" ulx="643" uly="2852" lrx="812" lry="2875"
+          littafel:href="#a_Philipp-von-Zesen"><line>Philipp vom Zesen</line></zone>
+        <zone xml:id="z_ed3-p3_156" ulx="632" uly="2875" lrx="834" lry="2895"
+          littafel:href="#group_deutschgesinnte-Genossenschaft"><line>deutschgesinnte
+            Genossenschfat</line></zone>
+        <zone xml:id="z_ed3-p3_157" ulx="247" uly="2995" lrx="527" lry="3025"
+          littafel:href="#a_HJ-Chr-von-Grimelshausen"><line>HJ.Chr. von Grimelshausen</line></zone>
+        <zone xml:id="z_ed3-p3_158" ulx="524" uly="2971" lrx="752" lry="2996"
+          littafel:href="#group_die-Pegnitzschäfer"><line>die Pegnitzschäfer</line></zone>
+        <zone xml:id="z_ed3-p3_159" ulx="541" uly="2996" lrx="746" lry="3014" littafel:href=""
+          ><line/></zone>
+        <zone xml:id="z_ed3-p3_160" ulx="645" uly="3012" lrx="782" lry="3035"
+          littafel:href="#a_Montemaior"><line>Montemaior</line></zone>
+        <zone xml:id="z_ed3-p3_161" ulx="272" uly="3055" lrx="453" lry="3101"
+          littafel:href="#g_der-französische-Roman"><line>der französische Roman</line></zone>
+        <zone xml:id="z_ed3-p3_162" ulx="251" uly="3111" lrx="545" lry="3131"
+          littafel:href="#a_Hoffman-von-Hoffmanswaldau"><line>Hoffman von
+          Hoffmanswaldau</line></zone>
+        <zone xml:id="z_ed3-p3_163" ulx="270" uly="3144" lrx="542" lry="3172"
+          littafel:href="#a_Caspar-von-Lohenstein"><line>Caspar von Lohenstein</line></zone>
+        <zone xml:id="z_ed3-p3_164" ulx="518" uly="3295" lrx="732" lry="3322"
+          littafel:href="a_Christian-Gryphius"><line>Christian Gryphius</line></zone>
+        <zone xml:id="z_ed3-p3_165" ulx="769" uly="3834" lrx="824" lry="3854"
+          littafel:href="#a_Canitz"><line>Canitz</line></zone>
+        <zone xml:id="z_ed3-p3_166" ulx="768" uly="3857" lrx="831" lry="3875"
+          littafel:href="#a_Besser"><line>Besser</line></zone>
+        <zone xml:id="z_ed3-p3_167" ulx="769" uly="3878" lrx="821" lry="3898"
+          littafel:href="#a_König"><line>König</line></zone>
+        <zone xml:id="z_ed3-p3_168" ulx="772" uly="3895" lrx="831" lry="3916"
+          littafel:href="#a_Pietsch"><line>Pietsch</line></zone>
+        <zone xml:id="z_ed3-p3_169" ulx="373" uly="3888" lrx="488" lry="3914"
+          littafel:href="#a_Corneille"><line>Corneille</line></zone>
+        <zone xml:id="z_ed3-p3_170" ulx="384" uly="3932" lrx="483" lry="3956"
+          littafel:href="#a_Racine"><line>Racine</line></zone>
+        <zone xml:id="z_ed3-p3_171" ulx="280" uly="3972" lrx="384" lry="3997"
+          littafel:href="#a_Molière"><line>Molière</line></zone>
+        <zone xml:id="z_ed3-p3_172" ulx="307" uly="4022" lrx="405" lry="4051"
+          littafel:href="#a_Regnard"><line>Regnard</line></zone>
+        <zone xml:id="z_ed3-p3_173" ulx="314" uly="4064" lrx="432" lry="4082"
+          littafel:href="#a_Destouches"><line>Destouches</line></zone>
+        <zone xml:id="z_ed3-p3_174" ulx="444" uly="4060" lrx="547" lry="4079"
+          littafel:href="#a_Lafontaine"><line>Lafontaine</line></zone>
+        <zone xml:id="z_ed3-p3_175" ulx="1235" uly="3919" lrx="1309" lry="3942"
+          littafel:href="#a_Defoe"><line>Defoe</line></zone>
+        <zone xml:id="z_ed3-p3_176" ulx="1195" uly="3972" lrx="1456" lry="3993"
+          littafel:href="#a_Johan-Christian-Günther"><line>Johan Christian Günther</line></zone>
+        <zone xml:id="z_ed3-p3_177" ulx="1273" uly="4023" lrx="1342" lry="4047"
+          littafel:href="#a_Horaz"><line>Horaz</line></zone>
+        <zone xml:id="z_ed3-p3_178" ulx="1198" uly="4039" lrx="1275" lry="4064"
+          littafel:href="#a_Homer"><line>Homer</line></zone>
+        <zone xml:id="z_ed3-p3_179" ulx="1281" uly="4052" lrx="1364" lry="4075"
+          littafel:href="#a_Martial"><line>Martial</line></zone>
+        <zone xml:id="z_ed3-p3_180" ulx="1267" uly="4077" lrx="1346" lry="4100"
+          littafel:href="#a_Catull"><line>Catull</line></zone>
+        <zone xml:id="z_ed3-p3_181" ulx="1226" uly="4136" lrx="1441" lry="4165"
+          littafel:href="#news_the-Spectator"><line>the Spectator</line></zone>
+        <zone xml:id="z_ed3-p3_182" ulx="1333" uly="4226" lrx="1418" lry="4251"
+          littafel:href="#a_Milton"><line>Milton</line></zone>
+        <zone xml:id="z_ed3-p3_183" ulx="1240" uly="4266" lrx="1391" lry="4295" littafel:href=""
+            ><line>Young Pope</line></zone>
+        <zone xml:id="z_ed3-p3_184" ulx="1049" uly="4103" lrx="1150" lry="4145"
+          littafel:href="#g_die-Robinsonaden"><line>die Robinsonaden</line></zone>
+        <zone xml:id="z_ed3-p3_185" ulx="1205" uly="4358" lrx="1334" lry="4383"
+          littafel:href="#a_Richardson"><line>Richardson</line></zone>
+        <zone xml:id="z_ed3-p3_186" ulx="1056" uly="4358" lrx="1119" lry="4377"
+          littafel:href="#a_Bodmer"><line>Bodmer</line></zone>
+        <zone xml:id="z_ed3-p3_187" ulx="1096" uly="4376" lrx="1171" lry="4394"
+          littafel:href="#a_Breitinger"><line>Breitinger</line></zone>
+        <zone xml:id="z_ed3-p3_188" ulx="1111" uly="4393" lrx="1161" lry="4408"
+          littafel:href="#a_Haller"><line>Haller</line></zone>
+        <zone xml:id="z_ed3-p3_189" ulx="1175" uly="4402" lrx="1233" lry="4425"
+          littafel:href="#a_Lillo"><line>Lillo</line></zone>
+        <zone xml:id="z_ed3-p3_190" ulx="1311" uly="4406" lrx="1378" lry="4423"
+          littafel:href="#a_Moore"><line>Moore</line></zone>
+        <zone xml:id="z_ed3-p3_191" ulx="1290" uly="4443" lrx="1373" lry="4469"
+          littafel:href="#a_Fielding"><line>Fielding</line></zone>
+        <zone xml:id="z_ed3-p3_192" ulx="1099" uly="4586" lrx="1243" lry="4612"
+          littafel:href="#a_Aristoteles"><line>Aristoteles</line></zone>
+        <zone xml:id="z_ed3-p3_193" ulx="305" uly="4339" lrx="426" lry="4361"
+          littafel:href="#a_Anakreon"><line>Anakreon</line></zone>
+        <zone xml:id="z_ed3-p3_194" ulx="373" uly="4373" lrx="449" lry="4397"
+          littafel:href="#a_Horaz"><line>Horaz</line></zone>
+        <zone xml:id="z_ed3-p3_195" ulx="312" uly="4427" lrx="413" lry="4451"
+          littafel:href="#a_Petrarca"><line>Petrarca</line></zone>
+        <zone xml:id="z_ed3-p3_196" ulx="420" uly="4473" lrx="540" lry="4505"
+          littafel:href="#a_Diderot"><line>Diderot</line></zone>
+        <zone xml:id="z_ed3-p3_197" ulx="281" uly="4507" lrx="427" lry="4538"
+          littafel:href="#a_Rousseau"><line>Rousseau</line></zone>
+        <zone xml:id="z_ed3-p3_198" ulx="1046" uly="4637" lrx="1167" lry="4666"
+          littafel:href="#a_Sophocles"><line>Sophocles</line></zone>
+        <zone xml:id="z_ed3-p3_199" ulx="1191" uly="4635" lrx="1317" lry="4656"
+          littafel:href="#a_Aeschylus"><line>Aeschylus</line></zone>
+        <zone xml:id="z_ed3-p3_200" ulx="276" uly="4636" lrx="384" lry="4664"
+          littafel:href="#a_Voltaire"><line>Voltaire</line></zone>
+        <zone xml:id="z_ed3-p3_201" ulx="1171" uly="4764" lrx="1442" lry="4802"
+          littafel:href="#a_Shakespeare"><line>Shakespeare</line></zone>
+        <zone xml:id="z_ed3-p3_202" ulx="1179" uly="4965" lrx="1259" lry="4999"
+          littafel:href="#a_Percy"><line>Percy</line></zone>
+        <zone xml:id="z_ed3-p3_203" ulx="1362" uly="4981" lrx="1434" lry="5008"
+          littafel:href="#a_Swift"><line>Swift</line></zone>
+        <zone xml:id="z_ed3-p3_204" ulx="1334" uly="5020" lrx="1418" lry="5044"
+          littafel:href="#a_Sterne"><line>Sterne</line></zone>
+        <zone xml:id="z_ed3-p3_205" ulx="1282" uly="5079" lrx="1406" lry="5114"
+          littafel:href="#a_Klopstock"><line>Klopstock</line></zone>
+        <zone xml:id="z_ed3-p3_206" ulx="1279" uly="5107" lrx="1394" lry="5136"
+          littafel:href="#a_Wieland"><line>Wieland</line></zone>
+        <zone xml:id="z_ed3-p3_207" ulx="1281" uly="5139" lrx="1376" lry="5168"
+          littafel:href="#a_Bürger"><line>Bürger</line></zone>
+        <zone xml:id="z_ed3-p3_208" ulx="1284" uly="5165" lrx="1381" lry="5192"
+          littafel:href="#a_Herder"><line>Herder</line></zone>
+        <zone xml:id="z_ed3-p3_209" ulx="1286" uly="5192" lrx="1385" lry="5223"
+          littafel:href="#a_Goethe"><line>Goethe</line></zone>
+        <zone xml:id="z_ed3-p3_210" ulx="1287" uly="5224" lrx="1395" lry="5248"
+          littafel:href="#a_Schiller"><line>Schiller</line></zone>
+        <zone xml:id="z_ed3-p3_211" ulx="1130" uly="4997" lrx="1306" lry="5031"
+          littafel:href="#a_Macpherson"><line>Macpherson</line></zone>
+        <zone xml:id="z_ed3-p3_212" ulx="501" uly="4556" lrx="555" lry="4575"
+          littafel:href="#a_Gleim"><line>Gleim</line></zone>
+        <zone xml:id="z_ed3-p3_213" ulx="524" uly="4581" lrx="575" lry="4599"
+          littafel:href="#a_Jacobi"><line>Jacobi</line></zone>
+        <zone xml:id="z_ed3-p3_214" ulx="585" uly="4578" lrx="645" lry="4599"
+          littafel:href="#a_Ramler"><line>Ramler</line></zone>
+        <zone xml:id="z_ed3-p3_215" ulx="553" uly="4557" lrx="604" lry="4574"
+          littafel:href="#a_Kleist"><line>Kleist</line></zone>
+        <zone xml:id="z_ed3-p3_216" ulx="349" uly="4781" lrx="423" lry="4798"
+          littafel:href="#a_Leisewitz"><line>Leisewitz</line></zone>
+        <zone xml:id="z_ed3-p3_217" ulx="429" uly="4779" lrx="527" lry="4800"
+          littafel:href="#a_Gerstenberg"><line>Gerstenberg</line></zone>
+        <zone xml:id="z_ed3-p3_218" ulx="526" uly="4778" lrx="570" lry="4797"
+          littafel:href="#a_Lenz"><line>Lenz</line></zone>
+        <zone xml:id="z_ed3-p3_219" ulx="337" uly="4802" lrx="399" lry="4825"
+          littafel:href="#a_Klinger"><line>Klinger</line></zone>
+        <zone xml:id="z_ed3-p3_220" ulx="406" uly="4802" lrx="464" lry="4820"
+          littafel:href="#a_Müller"><line>Müller</line></zone>
+        <zone xml:id="z_ed3-p3_221" ulx="469" uly="4799" lrx="536" lry="4821"
+          littafel:href="#a_Wagner"><line>Wagner</line></zone>
+        <zone xml:id="z_ed3-p3_222" ulx="546" uly="4796" lrx="621" lry="4817"
+          littafel:href="#a_Schubart"><line>Schubart</line></zone>
+        <zone xml:id="z_ed3-p3_223" ulx="443" uly="4845" lrx="538" lry="4875"
+          littafel:href="#a_Homer"><line>Homer</line></zone>
+        <zone xml:id="z_ed3-p3_224" ulx="407" uly="4881" lrx="572" lry="4905"
+          littafel:href="#a_Aristophanes"><line>Aristophanes</line></zone>
+        <zone xml:id="z_ed3-p3_225" ulx="411" uly="4911" lrx="489" lry="4943"
+          littafel:href="#a_Virgil"><line>Virgil</line></zone>
+        <zone xml:id="z_ed3-p3_226" ulx="553" uly="4908" lrx="612" lry="4932"
+          littafel:href="#a_Ovid"><line>Ovid</line></zone>
+        <zone xml:id="z_ed3-p3_227" ulx="631" uly="4998" lrx="712" lry="5029"
+          littafel:href="#a_Voss"><line>Voss</line></zone>
+        <zone xml:id="z_ed3-p3_228" ulx="347" uly="5053" lrx="441" lry="5077"
+          littafel:href="#a_Goldoni"><line>Goldoni</line></zone>
+        <zone xml:id="z_ed3-p3_229" ulx="452" uly="5053" lrx="523" lry="5076"
+          littafel:href="#a_Gozzi"><line>Gozzi</line></zone>
+        <zone xml:id="z_ed3-p3_230" ulx="342" uly="5081" lrx="415" lry="5107"
+          littafel:href="#a_Dante"><line>Dante</line></zone>
+        <zone xml:id="z_ed3-p3_231" ulx="331" uly="5113" lrx="438" lry="5137"
+          littafel:href="#a_Petrarca"><line>Petrarca</line></zone>
+        <zone xml:id="z_ed3-p3_232" ulx="456" uly="5131" lrx="620" lry="5152"
+          littafel:href="#a_Bocaccio"><line>Bocaccio</line></zone>
+        <zone xml:id="z_ed3-p3_233" ulx="329" uly="5197" lrx="449" lry="5221"
+          littafel:href="#a_Cervantes"><line>Cervantes</line></zone>
+        <zone xml:id="z_ed3-p3_234" ulx="296" uly="5234" lrx="409" lry="5261"
+          littafel:href="#a_Calderon"><line>Calderon</line></zone>
+        <zone xml:id="z_ed3-p3_235" ulx="461" uly="5234" lrx="600" lry="5260"
+          littafel:href="#a_Lope-de-Vega"><line>Lope de Vega</line></zone>
+        <zone xml:id="z_ed3-p3_236" ulx="326" uly="5402" lrx="404" lry="5424"
+          littafel:href="#a_Schlegel"><line>Schlegel</line></zone>
+        <zone xml:id="z_ed3-p3_237" ulx="328" uly="5425" lrx="381" lry="5448"
+          littafel:href="#a_Tieck"><line>Tieck</line></zone>
+        <zone xml:id="z_ed3-p3_238" ulx="330" uly="5450" lrx="402" lry="5471"
+          littafel:href="#a_Novalis"><line>Novalis</line></zone>
+        <zone xml:id="z_ed3-p3_239" ulx="332" uly="5474" lrx="415" lry="5492"
+          littafel:href="#a_Brentano"><line>Brentano</line></zone>
+        <zone xml:id="z_ed3-p3_240" ulx="331" uly="5499" lrx="392" lry="5518"
+          littafel:href="#a_Arnim"><line>Arnim</line></zone>
+        <zone xml:id="z_ed3-p3_241" ulx="333" uly="5521" lrx="456" lry="5537"
+          littafel:href="#a_ETA-Hoffmann"><line>E.T.A. Hoffmann</line></zone>
+        <zone xml:id="z_ed3-p3_242" ulx="334" uly="5543" lrx="418" lry="5566"
+          littafel:href="#a_H-v-Kleist"><line>H.v.Kleist</line></zone>
+        <zone xml:id="z_ed3-p3_243" ulx="331" uly="5569" lrx="402" lry="5590"
+          littafel:href="#a_Fouque"><line>Fouqué</line></zone>
+        <zone xml:id="z_ed3-p3_244" ulx="333" uly="5592" lrx="422" lry="5612"
+          littafel:href="#a_E-Schulze"><line>E Schulze</line></zone>
+        <zone xml:id="z_ed3-p3_245" ulx="336" uly="5615" lrx="415" lry="5636"
+          littafel:href="#a_Chamisso"><line>Chamisso</line></zone>
+        <zone xml:id="z_ed3-p3_246" ulx="335" uly="5641" lrx="424" lry="5657"
+          littafel:href="#a_Eichendorf"><line>Eichendorf</line></zone>
+        <zone xml:id="z_ed3-p3_247" ulx="332" uly="5658" lrx="377" lry="5678"
+          littafel:href="#a_Halm"><line>Halm</line></zone>
+        <zone xml:id="z_ed3-p3_248" ulx="334" uly="5681" lrx="390" lry="5698"
+          littafel:href="#a_Zedlitz"><line>Zedlitz</line></zone>
+        <zone xml:id="z_ed3-p3_249" ulx="335" uly="5702" lrx="374" lry="5718"
+          littafel:href="#a_Grün"><line>Grün</line></zone>
+        <zone xml:id="z_ed3-p3_250" ulx="335" uly="5720" lrx="380" lry="5740"
+          littafel:href="#a_Legnan"><line>Legnan</line></zone>
+        <zone xml:id="z_ed3-p3_251" ulx="324" uly="5747" lrx="461" lry="5772"
+          littafel:href="#a_Eugène-Sue"><line>Eugène Sue</line></zone>
+        <zone xml:id="z_ed3-p3_252" ulx="1110" uly="5489" lrx="1309" lry="5519"
+          littafel:href="#a_Walter-Scott"><line>Walter Scott</line></zone>
+        <zone xml:id="z_ed3-p3_253" ulx="1243" uly="5535" lrx="1340" lry="5566"
+          littafel:href="#a_Bulwer"><line>Bulwer</line></zone>
+        <zone xml:id="z_ed3-p3_254" ulx="1367" uly="5510" lrx="1420" lry="5527"
+          littafel:href="#a_Arndt"><line>Arndt</line></zone>
+        <zone xml:id="z_ed3-p3_255" ulx="1366" uly="5530" lrx="1431" lry="5548"
+          littafel:href="#a_Körner"><line>Körner</line></zone>
+        <zone xml:id="z_ed3-p3_256" ulx="1369" uly="5553" lrx="1482" lry="5568"
+          littafel:href="#a_Schenkendorf"><line>Schenkendorf</line></zone>
+        <zone xml:id="z_ed3-p3_257" ulx="1182" uly="5632" lrx="1403" lry="5666"
+          littafel:href="#a_Lord-Byron"><line>Lord Byron</line></zone>
+        <zone xml:id="z_ed3-p3_258" ulx="512" uly="5654" lrx="581" lry="5672"
+          littafel:href="#a_Werner"><line>Werner</line></zone>
+        <zone xml:id="z_ed3-p3_259" ulx="515" uly="5674" lrx="586" lry="5689"
+          littafel:href="#a_Müllner"><line>Müllner</line></zone>
+        <zone xml:id="z_ed3-p3_260" ulx="519" uly="5692" lrx="608" lry="5712"
+          littafel:href="#a_Grillparzer"><line>Grillparzer</line></zone>
+        <zone xml:id="z_ed3-p3_261" ulx="1371" uly="5745" lrx="1434" lry="5767"
+          littafel:href="#a_Uhland"><line>Uhland</line></zone>
+        <zone xml:id="z_ed3-p3_262" ulx="1374" uly="5769" lrx="1431" lry="5787"
+          littafel:href="#a_Schwab"><line>Schwab</line></zone>
+        <zone xml:id="z_ed3-p3_263" ulx="1370" uly="5789" lrx="1428" lry="5805"
+          littafel:href="#a_Kerner"><line>Kerner</line></zone>
+        <zone xml:id="z_ed3-p3_264" ulx="1371" uly="5809" lrx="1433" lry="5826"
+          littafel:href="#a_Mörike"><line>Mörike</line></zone>
+        <zone xml:id="z_ed3-p3_265" ulx="1204" uly="5894" lrx="1262" lry="5914"
+          littafel:href="#a_Heine"><line>Heine</line></zone>
+        <zone xml:id="z_ed3-p3_266" ulx="1287" uly="5894" lrx="1342" lry="5912"
+          littafel:href="#a_Börne"><line>Börne</line></zone>
+        <zone xml:id="z_ed3-p3_267" ulx="1363" uly="5893" lrx="1448" lry="5911"
+          littafel:href="#a_Wienbarg"><line>Wienbarg</line></zone>
+        <zone xml:id="z_ed3-p3_268" ulx="1206" uly="5915" lrx="1268" lry="5939"
+          littafel:href="#a_Mundt"><line>Mundt</line></zone>
+        <zone xml:id="z_ed3-p3_269" ulx="1286" uly="5917" lrx="1358" lry="5937"
+          littafel:href="#a_Gutzkow"><line>Gutzkow</line></zone>
+        <zone xml:id="z_ed3-p3_270" ulx="1366" uly="5915" lrx="1419" lry="5934"
+          littafel:href="#a_Laube"><line>Laube</line></zone>
+        <zone xml:id="z_ed3-p3_271" ulx="1222" uly="5967" lrx="1297" lry="5992"
+          littafel:href="#a_Platen"><line>Platen</line></zone>
+        <zone xml:id="z_ed3-p3_272" ulx="1070" uly="6034" lrx="1164" lry="6056"
+          littafel:href="#a_Dickens"><line>Dickens</line></zone>
+        <zone xml:id="z_ed3-p3_273" ulx="1083" uly="6061" lrx="1337" lry="6089"
+          littafel:href="#g_Socialer-Roman"><line>Socialer Roman</line></zone>
+        <zone xml:id="z_ed3-p3_274" ulx="1266" uly="6028" lrx="1386" lry="6057"
+          littafel:href="#a_Thackeray"><line>Thackeray</line></zone>
+        <zone xml:id="z_ed3-p3_275" ulx="1231" uly="6113" lrx="1504" lry="6138"
+          littafel:href="#g_der-Gouvernantenroman"><line>der Gouvernantenroman</line></zone>
+        <zone xml:id="z_ed3-p3_276" ulx="493" uly="5604" lrx="681" lry="5625"
+          littafel:href="#t_West-östlicher-Divan"><line>West-östlicher Divan</line></zone>
+        <zone xml:id="z_ed3-p3_277" ulx="364" uly="5814" lrx="495" lry="5847"
+          littafel:href="#a_Scribe"><line>Scribe</line></zone>
+        <zone xml:id="z_ed3-p3_278" ulx="328" uly="6002" lrx="436" lry="6022"
+          littafel:href="#a_Fallersleben"><line>Fallersleben</line></zone>
+        <zone xml:id="z_ed3-p3_279" ulx="329" uly="6022" lrx="429" lry="6042"
+          littafel:href="#a_Dingelstedt"><line>Dingelstedt</line></zone>
+        <zone xml:id="z_ed3-p3_280" ulx="329" uly="6045" lrx="373" lry="6062"
+          littafel:href="#a_Prutz"><line>Prutz</line></zone>
+        <zone xml:id="z_ed3-p3_281" ulx="330" uly="6065" lrx="397" lry="6082"
+          littafel:href="#a_Herwegh"><line>Herwegh</line></zone>
+        <zone xml:id="z_ed3-p3_282" ulx="329" uly="6085" lrx="417" lry="6103"
+          littafel:href="#a_Freiligrath"><line>Freiligrath</line></zone>
+        <zone xml:id="z_ed3-p3_283" ulx="661" uly="5965" lrx="730" lry="5986"
+          littafel:href="#a_Rückert"><line>Rückert</line></zone>
+        <zone xml:id="z_ed3-p3_284" ulx="623" uly="6058" lrx="714" lry="6081"
+          littafel:href="#a_Freiligrath"><line>Freiligrath</line></zone>
+        <zone xml:id="z_ed3-p3_285" ulx="619" uly="6078" lrx="720" lry="6098"
+          littafel:href="#a_Bodenstedt"><line>Bodenstedt</line></zone>
+        <zone xml:id="z_ed3-p3_286" ulx="1057" uly="6351" lrx="1167" lry="6374"
+          littafel:href="#a_Puschkin"><line>Puschkin</line></zone>
+        <zone xml:id="z_ed3-p3_287" ulx="1220" uly="6368" lrx="1331" lry="6395"
+          littafel:href="#a_Turgeniew"><line>Turgeniew</line></zone>
+        <zone xml:id="z_ed3-p3_288" ulx="1372" uly="6521" lrx="1474" lry="6552"
+          littafel:href="#a_Björnson"><line>Björnson</line></zone>
+        <zone xml:id="z_ed3-p3_289" ulx="1407" uly="6550" lrx="1492" lry="6571"
+          littafel:href="#a_Kielland"><line>Kielland</line></zone>
+        <zone xml:id="z_ed3-p3_290" ulx="1342" uly="6571" lrx="1433" lry="6595"
+          littafel:href="#a_Ibsen"><line>Ibsen</line></zone>
+        <zone xml:id="z_ed3-p3_291" ulx="404" uly="6113" lrx="508" lry="6148"
+          littafel:href="#a_Augier"><line>Augier</line></zone>
+        <zone xml:id="z_ed3-p3_292" ulx="440" uly="6162" lrx="555" lry="6192"
+          littafel:href="#a_Sardou"><line>Sardou</line></zone>
+        <zone xml:id="z_ed3-p3_293" ulx="433" uly="6437" lrx="512" lry="6471"
+          littafel:href="#a_Zola"><line>Zola</line></zone>
+        <zone xml:id="z_ed3-p3_294" ulx="487" uly="6521" lrx="569" lry="6548"
+          littafel:href="#a_Ohnet"><line>Ohnet</line></zone>
+        <zone xml:id="z_ed3-p3_295" ulx="535" uly="3322" lrx="789" lry="3350"
+          littafel:href="#a_Assmann-von-Abschatz"><line>Assmann von Abschatz</line></zone>
+        <zone xml:id="z_ed3-p3_296" ulx="537" uly="3354" lrx="881" lry="3372"
+          littafel:href="#a_Anton-Ulrich-von-Braunschweig"><line>Anton Ulrich von
+            Braunschweig</line></zone>
+        <zone xml:id="z_ed3-p3_297" ulx="541" uly="3374" lrx="859" lry="3402"
+          littafel:href="#a_H-A-von-Ziegler-Klipphausen"><line>H.A. von
+          Ziegler-Klipphausen</line></zone>
+        <zone xml:id="z_ed3-p3_298" ulx="284" uly="3441" lrx="432" lry="3468"
+          littafel:href="#a_Ph-J-Spener"><line>Ph. J. Spener</line></zone>
+        <zone xml:id="z_ed3-p3_299" ulx="514" uly="3645" lrx="692" lry="3671"
+          littafel:href="#litarea_FranzFormalismus"><line>Franz. Formalismus</line></zone>
+        <zone xml:id="z_ed3-p3_300" ulx="1189" uly="3371" lrx="1390" lry="3398"
+          littafel:href="#a_Christian-Weise"><line>Christian Weise</line></zone>
+        <zone xml:id="z_ed3-p3_301" ulx="1188" uly="3419" lrx="1331" lry="3448"
+          littafel:href="#a_Georg-Morhof"><line>Georg Morhof</line></zone>
+        <zone xml:id="z_ed3-p3_302" ulx="1166" uly="3447" lrx="1363" lry="3472"
+          littafel:href="#a_Christian-Wernicke"><line>Christian Wernicke</line></zone>
+        <zone xml:id="z_ed3-p3_303" ulx="1208" uly="3640" lrx="1426" lry="3660"
+          littafel:href="#a_Erdmann-Neumeister"><line>Erdmann Neumeister</line></zone>
+        <zone xml:id="z_ed3-p3_304" ulx="1206" uly="3677" lrx="1401" lry="3703"
+          littafel:href="#a_Benjamin-Neukirch"><line>Benjamin Neukirch</line></zone>
+        <zone xml:id="z_ed3-p3_305" ulx="360" uly="2772" lrx="449" lry="2795"
+          littafel:href="#a_Marini"><line>Marini</line></zone>
+        <zone xml:id="z_ed3-p3_306" ulx="345" uly="5873" lrx="508" lry="5909"
+          littafel:href="#a_Dumas-père"><line>Dumas père</line></zone>
+        <zone xml:id="z_ed3-p3_307" ulx="393" uly="5931" lrx="494" lry="5960"
+          littafel:href="#a_Ponsard"><line>Ponsard</line></zone>
+      </surface>
     </surfaceGrp>
   </sourceDoc>
   <text>
@@ -1200,25 +1824,25 @@
           Erscheinungen die Grund <lb break="no"/>stimmung des Gesamtbildes. Man wird den Stil <cb
             n="2"/>
           <lb/>eines Platzes zweifellos allgemein mit Renaissance <lb/>bezeichnen, auch wenn selbst
-          zwei Fünftel der Ge <lb break="no"/>bäude eklektischer Bauart sind. Die Ausnahme,
-          <lb/>das Verschiedene tritt zurück, wodurch sich eine feste, <lb/>so oder so getönte
-          Anschauung gestaltet. So kam <lb/>auch für die nachfolgende Darstellung nur ein der
-          <lb/>jeweiligen Gegenwart gewissermaßen entfernter und <lb/>mehr Jahrzehnte überblickender
-          Standpunkt in Be <lb break="no"/>tracht. Aus ähnlichen Gründen mußte die Mün <lb
-            break="no"/>dung eines Zuflusses da geschehen, wo sich etwa <lb/>die betreffende fremde
-          Einwirkung in unsrer Lit <lb break="no"/>teratur äußert. Daß hierbei nicht mit Monaten
-          <lb/>gerechnet werden konnte, daß oft Jahre, ja Jahr <lb break="no"/>zehnte streitig
-          waren, braucht kaum bemerkt zu <lb/>werden. Es lag mir namentlich daran, den Cha <lb
-            break="no"/>rakter der verschiedenen <emph>Perioden</emph> hervortreten zu <lb/>lassen,
-          die größeren Strömungen zu skizzieren, wie <lb/>sie auftauchen, sich verlaufen oder
-          verdrängt wer <lb break="no"/>den. Mathematisch ist dergleichen freilich nicht zu
-          <lb/>fixieren; denn geistige Bewegungen lassen sich nicht <lb/>in absolute Zahlen grenzen,
-          es sind Prozesse, keine <lb/>Produkte, und in fortwährender Umbildung be <lb break="no"
-          />griffen. So konnte sich auch eine Zeichnung der <lb break="no"/>selben häufig nur an
-          eine mehr oder minder glück <lb break="no"/>lich getroffene Schätzung halten; wird ja doch
-          selbst <lb/>die strengste Karte von Meeresströmungen z. B. <lb/>nie absolut nach einzelnen
-          Wellen zu rechnen im <lb/>stande sein, so wenig als sich eine Isothermen- <lb/>oder
-          Isonephentabelle nach einzelnen Luftteilchen <lb/>oder Feldsteinen abzirkeln läßt. </p>
+          zwei Fünftel der Ge <lb break="no"/>bäude eklektischer Bauart sind. Die Ausnahme, <lb/>das
+          Verschiedene tritt zurück, wodurch sich eine feste, <lb/>so oder so getönte Anschauung
+          gestaltet. So kam <lb/>auch für die nachfolgende Darstellung nur ein der <lb/>jeweiligen
+          Gegenwart gewissermaßen entfernter und <lb/>mehr Jahrzehnte überblickender Standpunkt in
+          Be <lb break="no"/>tracht. Aus ähnlichen Gründen mußte die Mün <lb break="no"/>dung eines
+          Zuflusses da geschehen, wo sich etwa <lb/>die betreffende fremde Einwirkung in unsrer Lit
+            <lb break="no"/>teratur äußert. Daß hierbei nicht mit Monaten <lb/>gerechnet werden
+          konnte, daß oft Jahre, ja Jahr <lb break="no"/>zehnte streitig waren, braucht kaum bemerkt
+          zu <lb/>werden. Es lag mir namentlich daran, den Cha <lb break="no"/>rakter der
+          verschiedenen <emph>Perioden</emph> hervortreten zu <lb/>lassen, die größeren Strömungen
+          zu skizzieren, wie <lb/>sie auftauchen, sich verlaufen oder verdrängt wer <lb break="no"
+          />den. Mathematisch ist dergleichen freilich nicht zu <lb/>fixieren; denn geistige
+          Bewegungen lassen sich nicht <lb/>in absolute Zahlen grenzen, es sind Prozesse, keine
+          <lb/>Produkte, und in fortwährender Umbildung be <lb break="no"/>griffen. So konnte sich
+          auch eine Zeichnung der <lb break="no"/>selben häufig nur an eine mehr oder minder glück
+            <lb break="no"/>lich getroffene Schätzung halten; wird ja doch selbst <lb/>die strengste
+          Karte von Meeresströmungen z. B. <lb/>nie absolut nach einzelnen Wellen zu rechnen im
+          <lb/>stande sein, so wenig als sich eine Isothermen- <lb/>oder Isonephentabelle nach
+          einzelnen Luftteilchen <lb/>oder Feldsteinen abzirkeln läßt. </p>
         <p>
           <lb/>Die Tafel soll vor allem zu einem Ueberblick <lb/>über das Große und Ganze dienen, zu
           einer Ver <pb ed="#ed-3Tausend" facs="Vorwort-3tsd_Seite_2.tiff.txt" break="no"/>
@@ -1266,22 +1890,22 @@
           <lb/>der Weltlitteratur auch dadurch wieder ziemlich an <lb/>Faßlichkeit, daß, wie dies
           allerdings nicht anders <lb/>geht, die einzelnen Völker eben nacheinander be <lb
             break="no"/>handelt werden müssen. — Im allgemeinen jedoch <lb/>mangelt ebenso auch
-          unsern nur deutschen Lehr-<lb/> und Schul-Litteraturgeschichten ein das Ganze
-          zwin <lb break="no"/>gender Gesichtspunkt. Sie geben die äußeren That <lb break="no"
-          />sachen und Daten, aber ohne Uebersichtlichkeit, ohne <lb/>Entwickelung. Mit bloßem
-          Zusammenfassen und <lb/>Nebeneinanderstellen der einzelnen Perioden und <lb/>Bewegungen
-          ist, namentlich dem Lernenden, nicht <lb/>viel geholfen; wenn er bei Herder angelangt ist,
-          <lb/>findet er nicht mehr zu Veldeke zurück. Es fehlt <lb/>ein Faden, der durch das Ganze
-          leitet und eine <lb/>Orientierung ermöglicht. Scherer versuchte ein <lb/>Solches mit
-          seiner Wellentheorie. Mag dieselbe <lb/>immerhin auch mehr phantastisch als objektiv-wis
-            <lb break="no"/>senschaftlich sein, so wird sie doch jedem, der sie <lb/>sich ein
-          einziges Mal klar gemacht, treu im Ge <lb break="no"/>dächtnis haften und ein fester
-          Maßstab sein. Es <lb/>ist dabei dies eine schwerwiegende Moment, das <lb/>eben nicht als
-          bloß zu verlachende Phantasie an <lb break="no"/>zusehen ist: daß diese Theorie, wenn
-          schon mit <lb/>Zwang, doch das ganze große Gebiet unter einen <lb/>einheitlichen Gedanken
-          spannt, und so eine Ueber <lb break="no"/>sicht gestattet, die sonst eben nicht da ist.
-          Was er <lb/>gewollt, war schließlich dasselbe, wenn die Parallele <lb/>erlaubt ist, was
-          für die Sprache Grimm durch sein <lb/>Gesetz der Lautverschiebung gefunden hat. </p>
+          unsern nur deutschen Lehr-<lb/> und Schul-Litteraturgeschichten ein das Ganze zwin <lb
+            break="no"/>gender Gesichtspunkt. Sie geben die äußeren That <lb break="no"/>sachen und
+          Daten, aber ohne Uebersichtlichkeit, ohne <lb/>Entwickelung. Mit bloßem Zusammenfassen und
+          <lb/>Nebeneinanderstellen der einzelnen Perioden und <lb/>Bewegungen ist, namentlich dem
+          Lernenden, nicht <lb/>viel geholfen; wenn er bei Herder angelangt ist, <lb/>findet er
+          nicht mehr zu Veldeke zurück. Es fehlt <lb/>ein Faden, der durch das Ganze leitet und eine
+          <lb/>Orientierung ermöglicht. Scherer versuchte ein <lb/>Solches mit seiner Wellentheorie.
+          Mag dieselbe <lb/>immerhin auch mehr phantastisch als objektiv-wis <lb break="no"
+          />senschaftlich sein, so wird sie doch jedem, der sie <lb/>sich ein einziges Mal klar
+          gemacht, treu im Ge <lb break="no"/>dächtnis haften und ein fester Maßstab sein. Es
+          <lb/>ist dabei dies eine schwerwiegende Moment, das <lb/>eben nicht als bloß zu
+          verlachende Phantasie an <lb break="no"/>zusehen ist: daß diese Theorie, wenn schon mit
+          <lb/>Zwang, doch das ganze große Gebiet unter einen <lb/>einheitlichen Gedanken spannt,
+          und so eine Ueber <lb break="no"/>sicht gestattet, die sonst eben nicht da ist. Was er
+          <lb/>gewollt, war schließlich dasselbe, wenn die Parallele <lb/>erlaubt ist, was für die
+          Sprache Grimm durch sein <lb/>Gesetz der Lautverschiebung gefunden hat. </p>
         <p>
           <lb/>Es mag überraschend sein, wie viel fremde <lb/>Elemente in unsrer Dichtung wirksam
           wurden und <lb/>waren; dabei aber darf nicht vergessen werden, <lb/>daß ein Strom nicht
