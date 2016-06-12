@@ -1144,6 +1144,957 @@
   </teiHeader>
   <sourceDoc>
     <surfaceGrp>
+      <!-- coordinates of WU-Scan 3. Tausend -->
+      <surface facs="Flaischlen_1_kleiner.png">
+        <!-- Part 1 -->
+
+        <zone xml:id="z_ed3-p1_001" ulx="235" uly="1367" lrx="303" lry="1398" littafel:href="#750"
+            ><line>750</line></zone>
+        <zone xml:id="z_ed3-p1_002" ulx="231" uly="1534" lrx="297" lry="1568" littafel:href="#760"
+            ><line>760</line></zone>
+        <zone xml:id="z_ed3-p1_003" ulx="232" uly="1696" lrx="298" lry="1734" littafel:href="#770"
+            ><line>770</line></zone>
+        <zone xml:id="z_ed3-p1_004" ulx="225" uly="1859" lrx="290" lry="1893" littafel:href="#780"
+            ><line>780</line></zone>
+        <zone xml:id="z_ed3-p1_005" ulx="223" uly="2025" lrx="288" lry="2057" littafel:href="#790"
+            ><line>790</line></zone>
+        <zone xml:id="z_ed3-p1_006" ulx="223" uly="2189" lrx="288" lry="2225" littafel:href="#800"
+            ><line>800</line></zone>
+        <zone xml:id="z_ed3-p1_007" ulx="215" uly="2353" lrx="281" lry="2391" littafel:href="#810"
+            ><line>810</line></zone>
+        <zone xml:id="z_ed3-p1_008" ulx="210" uly="2517" lrx="276" lry="2553" littafel:href="#820"
+            ><line>820</line></zone>
+        <zone xml:id="z_ed3-p1_009" ulx="205" uly="2677" lrx="277" lry="2713" littafel:href="#830"
+            ><line>830</line></zone>
+        <zone xml:id="z_ed3-p1_010" ulx="201" uly="2846" lrx="267" lry="2878" littafel:href="#840"
+            ><line>840</line></zone>
+        <zone xml:id="z_ed3-p1_011" ulx="204" uly="3007" lrx="264" lry="3042" littafel:href="#850"
+            ><line>850</line></zone>
+        <zone xml:id="z_ed3-p1_012" ulx="197" uly="3174" lrx="261" lry="3208" littafel:href="#860"
+            ><line>860</line></zone>
+        <zone xml:id="z_ed3-p1_013" ulx="199" uly="3335" lrx="261" lry="3372" littafel:href="#870"
+            ><line>870</line></zone>
+        <zone xml:id="z_ed3-p1_014" ulx="198" uly="3503" lrx="261" lry="3534" littafel:href="#880"
+            ><line>880</line></zone>
+        <zone xml:id="z_ed3-p1_015" ulx="195" uly="3666" lrx="260" lry="3698" littafel:href="#890"
+            ><line>890</line></zone>
+        <zone xml:id="z_ed3-p1_016" ulx="193" uly="3824" lrx="259" lry="3860" littafel:href="#900"
+            ><line>900</line></zone>
+        <zone xml:id="z_ed3-p1_017" ulx="195" uly="3984" lrx="258" lry="4018" littafel:href="#910"
+            ><line>910</line></zone>
+        <zone xml:id="z_ed3-p1_018" ulx="189" uly="4150" lrx="254" lry="4182" littafel:href="#920"
+            ><line>920</line></zone>
+        <zone xml:id="z_ed3-p1_019" ulx="182" uly="4313" lrx="247" lry="4347" littafel:href="#930"
+            ><line>930</line></zone>
+        <zone xml:id="z_ed3-p1_020" ulx="183" uly="4476" lrx="246" lry="4511" littafel:href="#940"
+            ><line>940</line></zone>
+        <zone xml:id="z_ed3-p1_021" ulx="182" uly="4640" lrx="243" lry="4672" littafel:href="#950"
+            ><line>950</line></zone>
+        <zone xml:id="z_ed3-p1_022" ulx="174" uly="4803" lrx="238" lry="4839" littafel:href="#960"
+            ><line>960</line></zone>
+        <zone xml:id="z_ed3-p1_023" ulx="175" uly="4968" lrx="238" lry="5002" littafel:href="#970"
+            ><line>970</line></zone>
+        <zone xml:id="z_ed3-p1_024" ulx="166" uly="5131" lrx="234" lry="5164" littafel:href="#980"
+            ><line>980</line></zone>
+        <zone xml:id="z_ed3-p1_025" ulx="169" uly="5295" lrx="231" lry="5330" littafel:href="#990"
+            ><line>990</line></zone>
+        <zone xml:id="z_ed3-p1_026" ulx="152" uly="5461" lrx="228" lry="5490" littafel:href="#1000"
+            ><line>1000</line></zone>
+        <zone xml:id="z_ed3-p1_027" ulx="151" uly="5623" lrx="224" lry="5652" littafel:href="#1010"
+            ><line>1010</line></zone>
+        <zone xml:id="z_ed3-p1_028" ulx="147" uly="5790" lrx="220" lry="5818" littafel:href="#1020"
+            ><line>1020</line></zone>
+        <zone xml:id="z_ed3-p1_029" ulx="144" uly="5948" lrx="220" lry="5982" littafel:href="#1030"
+            ><line>1030</line></zone>
+        <zone xml:id="z_ed3-p1_030" ulx="141" uly="6115" lrx="217" lry="6145" littafel:href="#1040"
+            ><line>1040</line></zone>
+        <zone xml:id="z_ed3-p1_031" ulx="139" uly="6273" lrx="212" lry="6304" littafel:href="#1050"
+            ><line>1050</line></zone>
+        <zone xml:id="z_ed3-p1_032" ulx="138" uly="6440" lrx="211" lry="6469" littafel:href="#1060"
+            ><line>1060</line></zone>
+        <zone xml:id="z_ed3-p1_033" ulx="136" uly="6603" lrx="206" lry="6634" littafel:href="#1070"
+            ><line>1070</line></zone>
+        <zone xml:id="z_ed3-p1_034" ulx="129" uly="6770" lrx="203" lry="6799" littafel:href="#1080"
+            ><line>1080</line></zone>
+        <zone xml:id="z_ed3-p1_035" ulx="126" uly="6934" lrx="203" lry="6963" littafel:href="#1090"
+            ><line>1090</line></zone>
+        <zone xml:id="z_ed3-p1_036" ulx="127" uly="7098" lrx="197" lry="7125" littafel:href="#1100"
+            ><line>1100</line></zone>
+        <zone xml:id="z_ed3-p1_037" ulx="475" uly="714" lrx="770" lry="770"
+          littafel:href="#h2_Volkspoesie"><line>Volkspoesie</line></zone>
+        <zone xml:id="z_ed3-p1_038" ulx="1105" uly="730" lrx="1506" lry="785"
+          littafel:href="#h2_Kunstpoesie"><line>Kunstpoesie</line></zone>
+        <zone xml:id="z_ed3-p1_039" ulx="680" uly="853" lrx="869" lry="885"
+          littafel:href="#g_Cultusgesänge"><line>Cultus-gesänge</line></zone>
+        <zone xml:id="z_ed3-p1_040" ulx="562" uly="937" lrx="932" lry="976"
+          littafel:href="#g_Rhapsodendichtung"><line>Rhapsodendichtung</line></zone>
+        <zone xml:id="z_ed3-p1_041" ulx="1029" uly="858" lrx="1413" lry="997"
+          littafel:href="#t_Altes-und-Neues-Testament"><line>Altes und Neues Testament</line></zone>
+        <zone xml:id="z_ed3-p1_042" ulx="734" uly="1016" lrx="884" lry="1045"
+          littafel:href="#g_Heldensage"><line>Heldensage</line></zone>
+        <zone xml:id="z_ed3-p1_043" ulx="405" uly="1078" lrx="520" lry="1105"
+          littafel:href="#g_Volkslieder"><line>Volkslieder</line></zone>
+        <zone xml:id="z_ed3-p1_044" ulx="460" uly="1342" lrx="720" lry="1374"
+          littafel:href="#t_Meseburger-Zaubersprüche"><line>Merseburger Zaubersprüche</line></zone>
+        <zone xml:id="z_ed3-p1_045" ulx="503" uly="1407" lrx="669" lry="1429"
+          littafel:href="#t_Wiener-Hundesegen"><line>Wiener Hundesegen</line></zone>
+        <zone xml:id="z_ed3-p1_046" ulx="482" uly="1446" lrx="617" lry="1469"
+          littafel:href="#t_Spurihalzsegen"><line>Spurihalzsegen</line></zone>
+        <zone xml:id="z_ed3-p1_047" ulx="458" uly="1484" lrx="582" lry="1504"
+          littafel:href="#t_Contra-vermes"><line>Contra vermes</line></zone>
+        <zone xml:id="z_ed3-p1_048" ulx="427" uly="1524" lrx="620" lry="1548"
+          littafel:href="#t_Strassburger-Blutsegen"><line>Strassburger Blutsegen</line></zone>
+        <zone xml:id="z_ed3-p1_049" ulx="381" uly="1566" lrx="596" lry="1587"
+          littafel:href="#t_Contra-malum-malannum"><line>Contra malum malannum</line></zone>
+        <zone xml:id="z_ed3-p1_050" ulx="379" uly="1607" lrx="587" lry="1631"
+          littafel:href="#t_Weingartner-Reisesegen"><line>Weingartner Reisesegen</line></zone>
+        <zone xml:id="z_ed3-p1_051" ulx="435" uly="1651" lrx="612" lry="1674"
+          littafel:href="#t_Lorscher-Bienensegen"><line>Lorscher Bienensegen</line></zone>
+        <zone xml:id="z_ed3-p1_052" ulx="521" uly="1689" lrx="616" lry="1714"
+          littafel:href="#t_Milchsegen"><line>Milchsegen</line></zone>
+        <zone xml:id="z_ed3-p1_053" ulx="877" uly="1074" lrx="1119" lry="1104"
+          littafel:href="#g_Bibelcommentare"><line>Bibelkommentare</line></zone>
+        <zone xml:id="z_ed3-p1_054" ulx="347" uly="1135" lrx="576" lry="1250"
+          littafel:href="#periode_mündliche-Überlieferung"><line>die Poesie in nur mündlicher
+            Überlieferung bis etwa 780</line></zone>
+        <zone xml:id="z_ed3-p1_055" ulx="330" uly="1856" lrx="614" lry="1960"
+          littafel:href="#periode_Althochdeutsche-Periode"><line>Althochdeutsche Periode bis etwa
+            1050</line></zone>
+        <zone xml:id="z_ed3-p1_056" ulx="423" uly="2252" lrx="639" lry="2290"
+          littafel:href="#t_Hildebrandslied"><line>Hildebrandslied</line></zone>
+        <zone xml:id="z_ed3-p1_057" ulx="1005" uly="1925" lrx="1212" lry="1949"
+          littafel:href="#t_Sächsisches-Taufgelöbniss"><line>Sächsisches Taufgelöbniss</line></zone>
+        <zone xml:id="z_ed3-p1_058" ulx="1004" uly="2055" lrx="1123" lry="2081"
+          littafel:href="#t_Fränkisches-Taufgelöbnis"><line>Fränk. Taufg.</line></zone>
+        <zone xml:id="z_ed3-p1_059" ulx="982" uly="2099" lrx="1158" lry="2128"
+          littafel:href="#t_Oberdeutsches-Taufg"><line>Oberdeutsches Taufg.</line></zone>
+        <zone xml:id="z_ed3-p1_060" ulx="853" uly="2157" lrx="1149" lry="2194"
+          littafel:href="#t_Wessobrunner-Gebet"><line>Wessobrunner Gebet</line></zone>
+        <zone xml:id="z_ed3-p1_061" ulx="1311" uly="2132" lrx="1465" lry="2175"
+          littafel:href="#t_Weissenburger-Katechismus"><line>Weissenburger Katechismus</line></zone>
+        <zone xml:id="z_ed3-p1_062" ulx="1343" uly="2307" lrx="1505" lry="2331"
+          littafel:href="#t_Freisinger-Paternoster"><line>Freisinger Paternoster</line></zone>
+        <zone xml:id="z_ed3-p1_063" ulx="1307" uly="2433" lrx="1457" lry="2461"
+          littafel:href="#t_Benedictinerregel"><line>Benediktinerregel</line></zone>
+        <zone xml:id="z_ed3-p1_064" ulx="1257" uly="2559" lrx="1439" lry="2589"
+          littafel:href="#t_Murbacher-Hymnen"><line>Murbacher Hymnen</line></zone>
+        <zone xml:id="z_ed3-p1_065" ulx="1106" uly="2803" lrx="1220" lry="2838"
+          littafel:href="#t_Heliand"><line>Heliand</line></zone>
+        <zone xml:id="z_ed3-p1_066" ulx="526" uly="3080" lrx="698" lry="3112"
+          littafel:href="#litarea_Nordfrankreich"><line>Nordfrankreich</line></zone>
+        <zone xml:id="z_ed3-p1_067" ulx="1160" uly="3350" lrx="1249" lry="3381"
+          littafel:href="#t_Otfrid"><line>Otfrid</line></zone>
+        <zone xml:id="z_ed3-p1_068" ulx="1241" uly="3238" lrx="1462" lry="3264"
+          littafel:href="#t_Bittgesang-des-heilig-Petrus"><line>Bittgesang des heilig.
+          Petrus</line></zone>
+        <zone xml:id="z_ed3-p1_069" ulx="1268" uly="3282" lrx="1493" lry="3308"
+          littafel:href="#t_Christus-Samariterin"><line>Christus und die Samariterin</line></zone>
+        <zone xml:id="z_ed3-p1_070" ulx="1282" uly="3328" lrx="1378" lry="3352"
+          littafel:href="#t_Georgslied"><line>Georgslied</line></zone>
+        <zone xml:id="z_ed3-p1_071" ulx="1286" uly="3379" lrx="1457" lry="3408"
+          littafel:href="#t_Ratperts-Lobgesang"><line>Ratperts Lobgesang</line></zone>
+        <zone xml:id="z_ed3-p1_072" ulx="1277" uly="3417" lrx="1490" lry="3447"
+          littafel:href="#t_Übersetzung-Psalm-138"><line>Übersetzung von Psalm 138</line></zone>
+        <zone xml:id="z_ed3-p1_073" ulx="1246" uly="3464" lrx="1403" lry="3490"
+          littafel:href="#t_Gebet-Sigihart"><line>Gebet des Sigihart</line></zone>
+        <zone xml:id="z_ed3-p1_074" ulx="1419" uly="3470" lrx="1524" lry="3488"
+          littafel:href="#t_Augsb-Gebet"><line>Augsb Gebet</line></zone>
+        <zone xml:id="z_ed3-p1_075" ulx="1239" uly="3496" lrx="1359" lry="3517"
+          littafel:href="#t_Hirsch-Hindin"><line>Hirsch und Hindin</line></zone>
+        <zone xml:id="z_ed3-p1_076" ulx="1382" uly="3499" lrx="1540" lry="3518"
+          littafel:href="#t_StGall-Schreibervers"><line>St.Gall Schreibervers</line></zone>
+        <zone xml:id="z_ed3-p1_077" ulx="1066" uly="3584" lrx="1276" lry="3614"
+          littafel:href="#a_Notker-I-Babulus"><line>Notker I. Babulus</line></zone>
+        <zone xml:id="z_ed3-p1_078" ulx="1205" uly="3535" lrx="1328" lry="3564"
+          littafel:href="#t_Ludwigslied"><line>Ludwigslied</line></zone>
+        <zone xml:id="z_ed3-p1_079" ulx="1246" uly="3943" lrx="1508" lry="4014"
+          littafel:href="#litarea_Nordische-Sagenelemente"><line>Nordische
+          Sagen-Elemente</line></zone>
+        <zone xml:id="z_ed3-p1_080" ulx="554" uly="4136" lrx="863" lry="4164"
+          littafel:href="#t_Sprichwörter-StGaller-HS"><line>Sprichwörter aus St. Galler
+            Handschriften</line></zone>
+        <zone xml:id="z_ed3-p1_081" ulx="657" uly="4243" lrx="896" lry="4267"
+          littafel:href="#t_Verse-StGaller-Chronik"><line>Verse aus der St. Galler
+          Chronik</line></zone>
+        <zone xml:id="z_ed3-p1_082" ulx="465" uly="4273" lrx="747" lry="4353"
+          littafel:href="#litarea_Orientalisch-Indische-Novellenstoffe"><line>Orientalisch-Indische
+            Novellen-Stoffe</line></zone>
+        <zone xml:id="z_ed3-p1_083" ulx="685" uly="4406" lrx="867" lry="4439"
+          littafel:href="#t_Waltarilied"><line>Waltarilied</line></zone>
+        <zone xml:id="z_ed3-p1_084" ulx="400" uly="4371" lrx="507" lry="4391"
+          littafel:href="#t_Vers-vom-Eber"><line>Vers vom Eber</line></zone>
+        <zone xml:id="z_ed3-p1_085" ulx="460" uly="4541" lrx="530" lry="4564"
+          littafel:href="#t_Spottvers"><line>Spottvers</line></zone>
+        <zone xml:id="z_ed3-p1_086" ulx="1322" uly="2772" lrx="1439" lry="2810"
+          littafel:href="#t_Muspilli"><line>Muspilli</line></zone>
+        <zone xml:id="z_ed3-p1_087" ulx="1111" uly="5603" lrx="1358" lry="5667"
+          littafel:href="#a_Notker-III-Labeo"><line>Notker III Labeo Teutonicus</line></zone>
+        <zone xml:id="z_ed3-p1_088" ulx="400" uly="5856" lrx="748" lry="5893"
+          littafel:href="#litarea_Alexandrin-Naturphilosophie"><line>Alexandrin.
+            Naturphilosophie</line></zone>
+        <zone xml:id="z_ed3-p1_089" ulx="1046" uly="6207" lrx="1151" lry="6232"
+          littafel:href="#t_Ezzolied"><line>Ezzolied</line></zone>
+        <zone xml:id="z_ed3-p1_090" ulx="245" uly="6337" lrx="515" lry="6467"
+          littafel:href="#periode_Übergang-Mhd"><line>Übergang zum Mittelhochdeutschen bis etwa
+            1125</line></zone>
+        <zone xml:id="z_ed3-p1_091" ulx="464" uly="6868" lrx="681" lry="6903"
+          littafel:href="#litarea_Karlssage"><line>Karlssage</line></zone>
+        <zone xml:id="z_ed3-p1_092" ulx="378" uly="7016" lrx="523" lry="7045"
+          littafel:href="#litarea_Kreuzzüge"><line>Kreuzzüge</line></zone>
+        <zone xml:id="z_ed3-p1_093" ulx="651" uly="6985" lrx="843" lry="7009"
+          littafel:href="#litarea_Tiersagenelemente"><line>Tiersagenelemente</line></zone>
+        <zone xml:id="z_ed3-p1_094" ulx="1636" uly="1388" lrx="1736" lry="1460"
+          littafel:href="#pers_Pipin-Kleine"><line>Pipin der Kleine</line></zone>
+        <zone xml:id="z_ed3-p1_095" ulx="1609" uly="2534" lrx="1709" lry="2605"
+          littafel:href="#pers_Ludwig-Fromme"><line>Ludwig der Fromme</line></zone>
+        <zone xml:id="z_ed3-p1_096" ulx="1616" uly="2943" lrx="1729" lry="2964"
+          littafel:href="#event_Vertrag-Verdun"><line>Vertrag von Verdun</line></zone>
+        <zone xml:id="z_ed3-p1_097" ulx="1604" uly="3185" lrx="1712" lry="3252"
+          littafel:href="#pers_Ludwig-Baier"><line>Ludwig der Baier</line></zone>
+        <zone xml:id="z_ed3-p1_098" ulx="1613" uly="3517" lrx="1696" lry="3588"
+          littafel:href="#pers_Karl-Dicke"><line>Karl der Dicke</line></zone>
+        <zone xml:id="z_ed3-p1_099" ulx="1600" uly="3687" lrx="1708" lry="3755"
+          littafel:href="#pers_Arnulf-Kärnten"><line>Arnulf von Kärnten</line></zone>
+        <zone xml:id="z_ed3-p1_100" ulx="1604" uly="3893" lrx="1698" lry="3963"
+          littafel:href="#pers_Ludwig-Kind"><line>Ludwig das Kind</line></zone>
+        <zone xml:id="z_ed3-p1_101" ulx="1593" uly="4082" lrx="1713" lry="4139"
+          littafel:href="#pers_Konrad-I-Franken"><line>Konrad I. von Franken</line></zone>
+        <zone xml:id="z_ed3-p1_102" ulx="1588" uly="4666" lrx="1683" lry="4735"
+          littafel:href="#pers_Otto-I-Große"><line>Otto I. der Große</line></zone>
+        <zone xml:id="z_ed3-p1_103" ulx="1593" uly="5111" lrx="1671" lry="5138"
+          littafel:href="#pers_Otto-II"><line>Otto II</line></zone>
+        <zone xml:id="z_ed3-p1_104" ulx="1584" uly="5320" lrx="1675" lry="5387"
+          littafel:href="#pers_Otto-III-Kind"><line>Otto III. das Kind</line></zone>
+        <zone xml:id="z_ed3-p1_105" ulx="1556" uly="5985" lrx="1677" lry="6047"
+          littafel:href="#pers_Konrad-II-Salier"><line>Konrad II der Salier</line></zone>
+        <zone xml:id="z_ed3-p1_106" ulx="1539" uly="6279" lrx="1675" lry="6349"
+          littafel:href="#pers_Heinrich-III-Schwarze"><line>Heinrich III. der Schwarze</line></zone>
+        <zone xml:id="z_ed3-p1_107" ulx="1534" uly="6638" lrx="1676" lry="6672"
+          littafel:href="#pers_Heinrich-IV"><line>Heinrich IV</line></zone>
+        <zone xml:id="z_ed3-p1_108" ulx="1058" uly="6625" lrx="1199" lry="6648"
+          littafel:href="#t_Otlohs-Gebet"><line>Otloh's Gebet</line></zone>
+        <zone xml:id="z_ed3-p1_109" ulx="1048" uly="6997" lrx="1132" lry="7020"
+          littafel:href="#t_Exodus"><line>Exodus</line></zone>
+        <zone xml:id="z_ed3-p1_110" ulx="1113" uly="7030" lrx="1265" lry="7057"
+          littafel:href="#t_Bücher-Mose"><line>Bücher Mose</line></zone>
+        <zone xml:id="z_ed3-p1_111" ulx="1074" uly="7087" lrx="1242" lry="7113"
+          littafel:href="#t_Summa-theologiae"><line>Summa theologiae</line></zone>
+        <zone xml:id="z_ed3-p1_112" ulx="842" uly="1142" lrx="913" lry="1162"
+          littafel:href="#a_Hilarius"><line>Hilarius</line></zone>
+        <zone xml:id="z_ed3-p1_113" ulx="942" uly="1146" lrx="1028" lry="1164"
+          littafel:href="#a_Ambrosius"><line>Ambrosius</line></zone>
+        <zone xml:id="z_ed3-p1_114" ulx="956" uly="1173" lrx="1036" lry="1195"
+          littafel:href="#a_Augustin"><line>Augustin</line></zone>
+        <zone xml:id="z_ed3-p1_115" ulx="1061" uly="1173" lrx="1118" lry="1196"
+          littafel:href="#a_Gregor"><line>Gregor</line></zone>
+        <zone xml:id="z_ed3-p1_116" ulx="1104" uly="1000" lrx="1144" lry="1017"
+          littafel:href="#t_Itala"><line>Itala</line></zone>
+        <zone xml:id="z_ed3-p1_117" ulx="995" uly="1000" lrx="1084" lry="1018"
+          littafel:href="#t_Septuaginta"><line>Septuaginta</line></zone>
+        <zone xml:id="z_ed3-p1_118" ulx="1063" uly="1020" lrx="1169" lry="1038"
+          littafel:href="#t_Apokryphen"><line>die apokryphen</line></zone>
+        <zone xml:id="z_ed3-p1_119" ulx="1334" uly="1004" lrx="1390" lry="1025"
+          littafel:href="#t_Vulgata"><line>Vulgata</line></zone>
+        <zone xml:id="z_ed3-p1_120" ulx="1320" uly="1024" lrx="1394" lry="1044"
+          littafel:href="#t_Evangelien"><line>Evangelien</line></zone>
+        <zone xml:id="z_ed3-p1_121" ulx="1422" uly="1147" lrx="1515" lry="1169"
+          littafel:href="#a_Kaedmon"><line>Kaedmon</line></zone>
+        <zone xml:id="z_ed3-p1_122" ulx="1430" uly="1197" lrx="1478" lry="1218"
+          littafel:href="#a_Beda"><line>Beda</line></zone>
+        <zone xml:id="z_ed3-p1_123" ulx="1335" uly="1381" lrx="1516" lry="1413"
+          littafel:href="#t_Glossen"><line>die Glossen</line></zone>
+        <zone xml:id="z_ed3-p1_124" ulx="1332" uly="1480" lrx="1525" lry="1515"
+          littafel:href="#t_Keronische-Sippe"><line>Keronische Sippe</line></zone>
+        <zone xml:id="z_ed3-p1_125" ulx="1358" uly="1635" lrx="1525" lry="1696"
+          littafel:href="#t_Vocabularis-rerum-StGalli"><line>Vocabularis rerum
+          St.Galli</line></zone>
+        <zone xml:id="z_ed3-p1_126" ulx="1114" uly="1783" lrx="1189" lry="1806"
+          littafel:href="#a_Alcuin"><line>Alcuin</line></zone>
+        <zone xml:id="z_ed3-p1_127" ulx="1327" uly="2032" lrx="1530" lry="2067"
+          littafel:href="#t_Rhabanische-Sippe"><line>Rhabanische Sippe</line></zone>
+        <zone xml:id="z_ed3-p1_128" ulx="1294" uly="2089" lrx="1506" lry="2115"
+          littafel:href="#t_Paris-Monseer-Gruppe"><line>Paris-Monseer-Gruppe</line></zone>
+        <zone xml:id="z_ed3-p1_129" ulx="977" uly="2270" lrx="1360" lry="2298"
+          littafel:href="#a_Rhabanus-Maurus"><line>Rhabanus Maurus</line></zone>
+        <zone xml:id="z_ed3-p1_130" ulx="960" uly="2318" lrx="1208" lry="2341"
+          littafel:href="#t_Exhortatio-plebem-christianam"><line>Exhortatio ad plebem
+            christianam</line></zone>
+        <zone xml:id="z_ed3-p1_131" ulx="1223" uly="2747" lrx="1303" lry="2773"
+          littafel:href="#a_Tatian"><line>Tatian</line></zone>
+        <zone xml:id="z_ed3-p1_132" ulx="609" uly="2891" lrx="783" lry="2910"
+          littafel:href="#t_Strassburger-Eide"><line>die Strassburger Eide</line></zone>
+        <zone xml:id="z_ed3-p1_133" ulx="584" uly="3606" lrx="708" lry="3628"
+          littafel:href="#t_Sequenzen"><line>die Sequenzen</line></zone>
+        <zone xml:id="z_ed3-p1_134" ulx="1057" uly="4479" lrx="1210" lry="4503"
+          littafel:href="#t_Ecbasis-captivi"><line>Ecbasis captivi</line></zone>
+        <zone xml:id="z_ed3-p1_135" ulx="582" uly="4697" lrx="689" lry="4717"
+          littafel:href="#t_de-Henrico"><line>de Henrico</line></zone>
+        <zone xml:id="z_ed3-p1_136" ulx="500" uly="4826" lrx="574" lry="4843"
+          littafel:href="#unident_Leise"><line>die Leise</line></zone>
+        <zone xml:id="z_ed3-p1_137" ulx="401" uly="5118" lrx="754" lry="5151"
+          littafel:href="#a_Roswitha-Gandersheim"><line>Roswitha von Gandersheim</line></zone>
+        <zone xml:id="z_ed3-p1_138" ulx="362" uly="5206" lrx="482" lry="5226"
+          littafel:href="#t_Modus-Florum"><line>Modus Florum</line></zone>
+        <zone xml:id="z_ed3-p1_139" ulx="360" uly="5270" lrx="484" lry="5290"
+          littafel:href="#t_Modus-Liebinc"><line>Modus Liebinc</line></zone>
+        <zone xml:id="z_ed3-p1_140" ulx="362" uly="5239" lrx="477" lry="5258"
+          littafel:href="#t_Modus-Othinc"><line>Modus Othinc</line></zone>
+        <zone xml:id="z_ed3-p1_141" ulx="486" uly="5413" lrx="678" lry="5461"
+          littafel:href="#t_Heldensage-Quedlinburger-Chronik"><line>Heldensage in der Quedlinburger
+            Chronik</line></zone>
+        <zone xml:id="z_ed3-p1_142" ulx="360" uly="5552" lrx="577" lry="5572"
+          littafel:href="#t_Lantfrido-Cobonne"><line>de Lantfrido et Cobbonne</line></zone>
+        <zone xml:id="z_ed3-p1_143" ulx="363" uly="5589" lrx="492" lry="5607"
+          littafel:href="#t_Proterii-filia"><line>de Proterii filia</line></zone>
+        <zone xml:id="z_ed3-p1_144" ulx="359" uly="5626" lrx="425" lry="5648"
+          littafel:href="#t_Heriger"><line>Heriger</line></zone>
+        <zone xml:id="z_ed3-p1_145" ulx="359" uly="5663" lrx="508" lry="5682"
+          littafel:href="#t_Alverades-Eselin"><line>Alverades Eselin</line></zone>
+        <zone xml:id="z_ed3-p1_146" ulx="360" uly="5707" lrx="534" lry="5733"
+          littafel:href="Sacerdos et lupus"><line>Sacerdos et lupus</line></zone>
+        <zone xml:id="z_ed3-p1_147" ulx="355" uly="5746" lrx="429" lry="5767"
+          littafel:href="#t_Unibos"><line>Unibos</line></zone>
+        <zone xml:id="z_ed3-p1_148" ulx="357" uly="5918" lrx="462" lry="5941"
+          littafel:href="#t_Ruodlieb"><line>Ruodlieb</line></zone>
+        <zone xml:id="z_ed3-p1_149" ulx="493" uly="6148" lrx="684" lry="6191"
+          littafel:href="#unident_Pseudo-Chrysostomus"><line>Pseudo Chrysostomus im X.
+          Jahrh</line></zone>
+        <zone xml:id="z_ed3-p1_150" ulx="968" uly="6332" lrx="1283" lry="6378"
+          littafel:href="#t_Physiologus-redda"><line>Physiologus: redda umbe diu tier</line></zone>
+        <zone xml:id="z_ed3-p1_151" ulx="1001" uly="6562" lrx="1114" lry="6589"
+          littafel:href="#a_Williram"><line>Williram</line></zone>
+        <zone xml:id="z_ed3-p1_152" ulx="538" uly="6502" lrx="665" lry="6535"
+          littafel:href="#t_Merigarto"><line>Merigarto</line></zone>
+        <zone xml:id="z_ed3-p1_153" ulx="1033" uly="6695" lrx="1129" lry="6720"
+          littafel:href="#t_Genesis"><line>Genesis</line></zone>
+        <zone xml:id="z_ed3-p1_154" ulx="344" uly="4887" lrx="342" lry="4923"
+          littafel:href="#label_Blüte-lateinische-Poesie"><line>Blüte der lateinischen
+          Poesie</line></zone>
+        <zone xml:id="z_ed3-p1_155" ulx="324" uly="3088" lrx="353" lry="3072"
+          littafel:href="#label_Alliteration"><line>Alliteration</line></zone>
+        <zone xml:id="z_ed3-p1_156" ulx="330" uly="3589" lrx="354" lry="3602"
+          littafel:href="#label_Reim"><line>Reim</line></zone>
+      </surface>
+
+
+      <surface facs="Flaischlen_2_kleiner.png">
+        <!-- Part 2 -->
+        <zone xml:id="z_ed3-p2_001" ulx="201" uly="755" lrx="263" lry="782" littafel:href="#1110"
+            ><line>1110</line></zone>
+        <zone xml:id="z_ed3-p2_002" ulx="199" uly="917" lrx="265" lry="941" littafel:href="#1120"
+            ><line>1120</line></zone>
+        <zone xml:id="z_ed3-p2_003" ulx="196" uly="1078" lrx="265" lry="1108" littafel:href="#1130"
+            ><line>1130</line></zone>
+        <zone xml:id="z_ed3-p2_004" ulx="194" uly="1242" lrx="263" lry="1267" littafel:href="#1140"
+            ><line>1140</line></zone>
+        <zone xml:id="z_ed3-p2_005" ulx="196" uly="1404" lrx="264" lry="1430" littafel:href="#1150"
+            ><line>1150</line></zone>
+        <zone xml:id="z_ed3-p2_006" ulx="197" uly="1567" lrx="266" lry="1594" littafel:href="#1160"
+            ><line>1160</line></zone>
+        <zone xml:id="z_ed3-p2_007" ulx="194" uly="1731" lrx="263" lry="1758" littafel:href="#1170"
+            ><line>1170</line></zone>
+        <zone xml:id="z_ed3-p2_008" ulx="195" uly="1894" lrx="260" lry="1922" littafel:href="#1180"
+            ><line>1180</line></zone>
+        <zone xml:id="z_ed3-p2_009" ulx="196" uly="2054" lrx="262" lry="2080" littafel:href="#1190"
+            ><line>1190</line></zone>
+        <zone xml:id="z_ed3-p2_010" ulx="193" uly="2221" lrx="263" lry="2246" littafel:href="#1200"
+            ><line>1200</line></zone>
+        <zone xml:id="z_ed3-p2_011" ulx="193" uly="2382" lrx="259" lry="2409" littafel:href="#1210"
+            ><line>1210</line></zone>
+        <zone xml:id="z_ed3-p2_012" ulx="190" uly="2544" lrx="262" lry="2572" littafel:href="#1220"
+            ><line>1220</line></zone>
+        <zone xml:id="z_ed3-p2_013" ulx="191" uly="2709" lrx="260" lry="2735" littafel:href="#1230"
+            ><line>1230</line></zone>
+        <zone xml:id="z_ed3-p2_014" ulx="188" uly="2870" lrx="257" lry="2895" littafel:href="#1240"
+            ><line>1240</line></zone>
+        <zone xml:id="z_ed3-p2_015" ulx="189" uly="3035" lrx="258" lry="3058" littafel:href="#1250"
+            ><line>1250</line></zone>
+        <zone xml:id="z_ed3-p2_016" ulx="188" uly="3196" lrx="258" lry="3223" littafel:href="#1260"
+            ><line>1260</line></zone>
+        <zone xml:id="z_ed3-p2_017" ulx="191" uly="3357" lrx="263" lry="3386" littafel:href="#1270"
+            ><line>1270</line></zone>
+        <zone xml:id="z_ed3-p2_018" ulx="189" uly="3518" lrx="258" lry="3545" littafel:href="#1280"
+            ><line>1280</line></zone>
+        <zone xml:id="z_ed3-p2_019" ulx="192" uly="3679" lrx="261" lry="3704" littafel:href="#1290"
+            ><line>1290</line></zone>
+        <zone xml:id="z_ed3-p2_020" ulx="193" uly="3842" lrx="262" lry="3872" littafel:href="#1300"
+            ><line>1300</line></zone>
+        <zone xml:id="z_ed3-p2_021" ulx="187" uly="4004" lrx="259" lry="4032" littafel:href="#1310"
+            ><line>1310</line></zone>
+        <zone xml:id="z_ed3-p2_022" ulx="184" uly="4172" lrx="257" lry="4199" littafel:href="#1320"
+            ><line>1320</line></zone>
+        <zone xml:id="z_ed3-p2_023" ulx="184" uly="4331" lrx="255" lry="4360" littafel:href="#1330"
+            ><line>1330</line></zone>
+        <zone xml:id="z_ed3-p2_024" ulx="184" uly="4496" lrx="257" lry="4524" littafel:href="#1340"
+            ><line>1340</line></zone>
+        <zone xml:id="z_ed3-p2_025" ulx="183" uly="4659" lrx="256" lry="4685" littafel:href="#1350"
+            ><line>1350</line></zone>
+        <zone xml:id="z_ed3-p2_026" ulx="184" uly="4821" lrx="257" lry="4847" littafel:href="#1360"
+            ><line>1360</line></zone>
+        <zone xml:id="z_ed3-p2_027" ulx="190" uly="4986" lrx="261" lry="5015" littafel:href="#1370"
+            ><line>1370</line></zone>
+        <zone xml:id="z_ed3-p2_028" ulx="188" uly="5147" lrx="263" lry="5177" littafel:href="#1380"
+            ><line>1380</line></zone>
+        <zone xml:id="z_ed3-p2_029" ulx="186" uly="5312" lrx="261" lry="5339" littafel:href="#1390"
+            ><line>1390</line></zone>
+        <zone xml:id="z_ed3-p2_030" ulx="190" uly="5471" lrx="263" lry="5501" littafel:href="#1400"
+            ><line>1400</line></zone>
+        <zone xml:id="z_ed3-p2_031" ulx="187" uly="5634" lrx="262" lry="5660" littafel:href="#1410"
+            ><line>1410</line></zone>
+        <zone xml:id="z_ed3-p2_032" ulx="193" uly="5791" lrx="264" lry="5820" littafel:href="#1420"
+            ><line>1420</line></zone>
+        <zone xml:id="z_ed3-p2_033" ulx="191" uly="5952" lrx="262" lry="5980" littafel:href="#1430"
+            ><line>1430</line></zone>
+        <zone xml:id="z_ed3-p2_034" ulx="190" uly="6114" lrx="263" lry="6140" littafel:href="#1440"
+            ><line>1440</line></zone>
+        <zone xml:id="z_ed3-p2_035" ulx="193" uly="6272" lrx="261" lry="6301" littafel:href="#1450"
+            ><line>1450</line></zone>
+        <zone xml:id="z_ed3-p2_036" ulx="193" uly="6430" lrx="263" lry="6460" littafel:href="#1460"
+            ><line>1460</line></zone>
+        <zone xml:id="z_ed3-p2_037" ulx="192" uly="6592" lrx="266" lry="6618" littafel:href="#1470"
+            ><line>1470</line></zone>
+        <zone xml:id="z_ed3-p2_038" ulx="194" uly="6757" lrx="267" lry="6780" littafel:href="#1480"
+            ><line>1480</line></zone>
+        <zone xml:id="z_ed3-p2_039" ulx="196" uly="6912" lrx="265" lry="6939" littafel:href="#1490"
+            ><line>1490</line></zone>
+        <zone xml:id="z_ed3-p2_040" ulx="197" uly="7072" lrx="270" lry="7098" littafel:href="#1500"
+            ><line>1500</line></zone>
+        <zone xml:id="z_ed3-p2_041" ulx="673" uly="733" lrx="786" lry="767"
+          littafel:href="#litarea_Annolied"><line>Annolied</line></zone>
+        <zone xml:id="z_ed3-p2_042" ulx="1266" uly="657" lrx="1500" lry="691"
+          littafel:href="#litarea_Trojanische-Sage"><line>Trojanische Sage</line></zone>
+        <zone xml:id="z_ed3-p2_043" ulx="1100" uly="705" lrx="1278" lry="739"
+          littafel:href="#litarea_Alexandersage"><line>Alexandersage</line></zone>
+        <zone xml:id="z_ed3-p2_044" ulx="1395" uly="815" lrx="1534" lry="846"
+          littafel:href="#litarea_Aeneassage"><line>Aeneassage</line></zone>
+        <zone xml:id="z_ed3-p2_045" ulx="1340" uly="899" lrx="1386" lry="920"
+          littafel:href="#a_Ovid"><line>Ovid</line></zone>
+        <zone xml:id="z_ed3-p2_046" ulx="1295" uly="695" lrx="1370" lry="718"
+          littafel:href="#a_Pindarus"><line>Pindarus</line></zone>
+        <zone xml:id="z_ed3-p2_047" ulx="1311" uly="1062" lrx="1459" lry="1084"
+          littafel:href="#t_Melker-Marienlied"><line>Melker Marienlied</line></zone>
+        <zone xml:id="z_ed3-p2_048" ulx="309" uly="958" lrx="616" lry="1033"
+          littafel:href="#litarea_Oriental-Novellen-Anekdoten-Elemente"><line>Oriental. Novellen- u.
+            Anekdoten-Elemente</line></zone>
+        <zone xml:id="z_ed3-p2_049" ulx="635" uly="1108" lrx="815" lry="1139"
+          littafel:href="#t_Rolandslied"><line>Rolandslied</line></zone>
+        <zone xml:id="z_ed3-p2_050" ulx="1423" uly="847" lrx="1465" lry="865"
+          littafel:href="#a_Vergil"><line>Vergil</line></zone>
+        <zone xml:id="z_ed3-p2_051" ulx="304" uly="1225" lrx="562" lry="1322"
+          littafel:href="#periode_Mittelhochdeutsche-Periode"><line>Mittelhochdeutsche Periode 1125
+            etwa 1400</line></zone>
+        <zone xml:id="z_ed3-p2_052" ulx="474" uly="1340" lrx="592" lry="1371"
+          littafel:href="#litarea_Artussage"><line>Artussage</line></zone>
+        <zone xml:id="z_ed3-p2_053" ulx="356" uly="1444" lrx="578" lry="1479"
+          littafel:href="#litarea_Tristansage"><line>Tristansage</line></zone>
+        <zone xml:id="z_ed3-p2_054" ulx="639" uly="1434" lrx="742" lry="1467"
+          littafel:href="#litarea_Gralsage"><line>Gralsage</line></zone>
+        <zone xml:id="z_ed3-p2_055" ulx="310" uly="1612" lrx="585" lry="1680"
+          littafel:href="#litarea_Provencalische-Lyrik"><line>Provencalische Lyrik</line></zone>
+        <zone xml:id="z_ed3-p2_056" ulx="1097" uly="1017" lrx="1232" lry="1064"
+          littafel:href="#t_Mittelfränkisches-Legendar"><line>Mittelfränkisches
+          Legendar</line></zone>
+        <zone xml:id="z_ed3-p2_057" ulx="1189" uly="1316" lrx="1390" lry="1335"
+          littafel:href="#t_Arnsteiner-Marienleich"><line>Arnsteiner Marienleich</line></zone>
+        <zone xml:id="z_ed3-p2_058" ulx="1044" uly="1389" lrx="1231" lry="1421"
+          littafel:href="#t_Alexanderlied"><line>Alexanderlied</line></zone>
+        <zone xml:id="z_ed3-p2_059" ulx="1262" uly="1403" lrx="1436" lry="1431"
+          littafel:href="#t_Kaiserchronik"><line>Kaiserchronik</line></zone>
+        <zone xml:id="z_ed3-p2_060" ulx="1294" uly="1486" lrx="1464" lry="1589"
+          littafel:href="#litarea_Nordische-Sagenelemente"><line>Nordische
+          Sagenelemente</line></zone>
+        <zone xml:id="z_ed3-p2_061" ulx="1122" uly="1652" lrx="1257" lry="1672"
+          littafel:href="#a_Dietmar-Eist"><line>Dietmar v. Eist</line></zone>
+        <zone xml:id="z_ed3-p2_062" ulx="1058" uly="1676" lrx="1176" lry="1695"
+          littafel:href="#a_König-Rother"><line>König Rother</line></zone>
+        <zone xml:id="z_ed3-p2_063" ulx="1053" uly="1547" lrx="1228" lry="1570"
+          littafel:href="#litarea_Visionenlegenden"><line>Visionenlegenden</line></zone>
+        <zone xml:id="z_ed3-p2_064" ulx="1109" uly="1695" lrx="1279" lry="1714"
+          littafel:href="#a_Burggrad-Regensburg"><line>Burggraf von Regensburg</line></zone>
+        <zone xml:id="z_ed3-p2_065" ulx="1146" uly="1714" lrx="1373" lry="1734"
+          littafel:href="#a_Meinloh-Sevelingen"><line>Meinloh von Sevelingen</line></zone>
+        <zone xml:id="z_ed3-p2_066" ulx="1329" uly="1655" lrx="1461" lry="1676"
+          littafel:href="#t_Heinrichs-Litanei"><line>Heinrich's Litanei</line></zone>
+        <zone xml:id="z_ed3-p2_067" ulx="1361" uly="1746" lrx="1498" lry="1763"
+          littafel:href="#t_Hartmanns-Credo"><line>Hartmann's Credo</line></zone>
+        <zone xml:id="z_ed3-p2_068" ulx="996" uly="1788" lrx="1115" lry="1808"
+          littafel:href="#a_Graf-Rudolf"><line>Graf Rudolf</line></zone>
+        <zone xml:id="z_ed3-p2_069" ulx="1010" uly="1849" lrx="1153" lry="1875"
+          littafel:href="#a_Herzog-Ernst"><line>Herzog Ernst</line></zone>
+        <zone xml:id="z_ed3-p2_070" ulx="1075" uly="1884" lrx="1274" lry="1916"
+          littafel:href="#a_Eilhart-Oberge"><line>Eilhart von Oberge</line></zone>
+        <zone xml:id="z_ed3-p2_071" ulx="1061" uly="1941" lrx="1174" lry="1970"
+          littafel:href="#a_Veldeke"><line>Veldeke</line></zone>
+        <zone xml:id="z_ed3-p2_072" ulx="452" uly="1935" lrx="635" lry="1957"
+          littafel:href="#a_Friedrich-Hausen"><line>Friedrich von Hausen</line></zone>
+        <zone xml:id="z_ed3-p2_073" ulx="533" uly="1965" lrx="710" lry="1987"
+          littafel:href="#a_Ulrich-Guotenburg"><line>Ulrich von Guotenburg</line></zone>
+        <zone xml:id="z_ed3-p2_074" ulx="559" uly="1993" lrx="698" lry="2011"
+          littafel:href="#a_Rudolf_Fenis"><line>Rudolf von Fenis</line></zone>
+        <zone xml:id="z_ed3-p2_075" ulx="511" uly="2021" lrx="724" lry="2046"
+          littafel:href="#a_Burggraf-Rietenburg"><line>Burggraf von Rietenburg</line></zone>
+        <zone xml:id="z_ed3-p2_076" ulx="538" uly="2049" lrx="685" lry="2070"
+          littafel:href="#a_Hartwig-Rute"><line>Hartwig von Rute</line></zone>
+        <zone xml:id="z_ed3-p2_077" ulx="448" uly="2077" lrx="594" lry="2101"
+          littafel:href="#a_Heinrich-Rugge"><line>Heinrich von Rugge</line></zone>
+        <zone xml:id="z_ed3-p2_078" ulx="614" uly="2075" lrx="776" lry="2096"
+          littafel:href="#a_Bernger-Horheim"><line>Bernger von Horheim</line></zone>
+        <zone xml:id="z_ed3-p2_079" ulx="419" uly="2103" lrx="591" lry="2128"
+          littafel:href="#a_Bligger-Steinach"><line>Bligger von Steinach</line></zone>
+        <zone xml:id="z_ed3-p2_080" ulx="603" uly="2105" lrx="779" lry="2124"
+          littafel:href="#a_Albrecht_Johansdorf"><line>Albrecht von Johansdorf</line></zone>
+        <zone xml:id="z_ed3-p2_081" ulx="447" uly="2163" lrx="705" lry="2197"
+          littafel:href="#a_Hartmann-Aue"><line>Hartmann von Aue</line></zone>
+        <zone xml:id="z_ed3-p2_082" ulx="1057" uly="2122" lrx="1490" lry="2167"
+          littafel:href="#t_Nibelungenlied und Klage"><line>Nibelungen-lied und Klage</line></zone>
+        <zone xml:id="z_ed3-p2_083" ulx="1268" uly="2170" lrx="1440" lry="2191"
+          littafel:href="#a_Konrad-Heimesfurt"><line>Konrad von Heimesfurt</line></zone>
+        <zone xml:id="z_ed3-p2_084" ulx="308" uly="2262" lrx="540" lry="2297"
+          littafel:href="#a_Heinrich-Morungen"><line>Heinrich v. Morungen</line></zone>
+        <zone xml:id="z_ed3-p2_085" ulx="566" uly="2248" lrx="786" lry="2276"
+          littafel:href="#a_Ulrich_Zazichofen"><line>Ulrich von Zazichofen</line></zone>
+        <zone xml:id="z_ed3-p2_086" ulx="551" uly="2282" lrx="784" lry="2314"
+          littafel:href="#a_Wirnt-Gravenberg"><line>Wirnt von Gravenberg</line></zone>
+        <zone xml:id="z_ed3-p2_087" ulx="475" uly="2334" lrx="796" lry="2364"
+          littafel:href="#a_Wolfram-Eschenbach"><line>Wolfram von Eschenbach</line></zone>
+        <zone xml:id="z_ed3-p2_088" ulx="376" uly="2396" lrx="720" lry="2434"
+          littafel:href="#a_Walter-Vogelweide"><line>Walter von der Vogelweide</line></zone>
+        <zone xml:id="z_ed3-p2_089" ulx="1185" uly="2309" lrx="1315" lry="2342"
+          littafel:href="#a_Gudrun"><line>Gudrun</line></zone>
+        <zone xml:id="z_ed3-p2_090" ulx="1131" uly="2354" lrx="1490" lry="2396"
+          littafel:href="#a_Gottfried-Strassburg"><line>Gottfried von Strassburg</line></zone>
+        <zone xml:id="z_ed3-p2_091" ulx="1142" uly="2398" lrx="1320" lry="2418"
+          littafel:href="#a_Herbort-Fritzlar"><line>Herbort von Fritzlar</line></zone>
+        <zone xml:id="z_ed3-p2_092" ulx="1162" uly="2424" lrx="1387" lry="2443"
+          littafel:href="#a_Albrecht-Halberstadt"><line>Albrecht von Halberstadt</line></zone>
+        <zone xml:id="z_ed3-p2_093" ulx="411" uly="2454" lrx="602" lry="2480"
+          littafel:href="#a_Leuthold-Seven"><line>Leuthold von Seven</line></zone>
+        <zone xml:id="z_ed3-p2_094" ulx="419" uly="2491" lrx="634" lry="2521"
+          littafel:href="#a_Ulrich-Singenberg"><line>Ulrich von Singenberg</line></zone>
+        <zone xml:id="z_ed3-p2_095" ulx="354" uly="2528" lrx="573" lry="2549"
+          littafel:href="#a_Otto-Botenlauben"><line>Otto von Botenlauben</line></zone>
+        <zone xml:id="z_ed3-p2_096" ulx="423" uly="2571" lrx="614" lry="2596"
+          littafel:href="#a_Markgraf-Hohenburg"><line>Markgraf von Hohenburg</line></zone>
+        <zone xml:id="z_ed3-p2_097" ulx="407" uly="2609" lrx="601" lry="2631"
+          littafel:href="#a_Hilbolt-Schwangau"><line>Hilbolt von Schwangau</line></zone>
+        <zone xml:id="z_ed3-p2_098" ulx="1137" uly="2542" lrx="1411" lry="2566"
+          littafel:href="#a_Thomasin-Ziklaria"><line>Thomasin von Ziklaria</line></zone>
+        <zone xml:id="z_ed3-p2_099" ulx="1169" uly="2578" lrx="1435" lry="2603"
+          littafel:href="#a_Heinrich-Türlin"><line>Heinrich von dem Türlin</line></zone>
+        <zone xml:id="z_ed3-p2_100" ulx="410" uly="2749" lrx="665" lry="2779"
+          littafel:href="#a_Neidhart-Reuenthal"><line>Neidhart von Reuenthal</line></zone>
+        <zone xml:id="z_ed3-p2_101" ulx="1397" uly="2667" lrx="1465" lry="2691"
+          littafel:href="#t_Bibel"><line/></zone>
+        <zone xml:id="z_ed3-p2_102" ulx="526" uly="2799" lrx="734" lry="2827"
+          littafel:href="#a_Konrad-Marburg"><line>Konrad von Marburg</line></zone>
+        <zone xml:id="z_ed3-p2_103" ulx="351" uly="2831" lrx="562" lry="2856"
+          littafel:href="#a_Reinmar-Zweter"><line>Reinmar von Zweter</line></zone>
+        <zone xml:id="z_ed3-p2_104" ulx="464" uly="2911" lrx="673" lry="2943"
+          littafel:href="#a_David-Augsburg"><line>David von Augsburg</line></zone>
+        <zone xml:id="z_ed3-p2_105" ulx="1074" uly="2810" lrx="1166" lry="2868"
+          littafel:href="#a_Rudolf-Ems"><line>Rudolf von Ems</line></zone>
+        <zone xml:id="z_ed3-p2_106" ulx="1169" uly="2700" lrx="1317" lry="2719"
+          littafel:href="#a_Konrad-Fleck"><line>Konrad von Fleck</line></zone>
+        <zone xml:id="z_ed3-p2_107" ulx="1258" uly="2840" lrx="1391" lry="2858"
+          littafel:href="#a_Stricker"><line>der Stricker</line></zone>
+        <zone xml:id="z_ed3-p2_108" ulx="1259" uly="2953" lrx="1517" lry="2974"
+          littafel:href="#a_Wenher-Garnaere"><line>Wenher der Gartenaere</line></zone>
+        <zone xml:id="z_ed3-p2_109" ulx="1087" uly="2931" lrx="1205" lry="2970"
+          littafel:href="#t_Weltchronik"><line>Weltchronik (Historienbibeln)</line></zone>
+        <zone xml:id="z_ed3-p2_110" ulx="318" uly="2954" lrx="467" lry="2974"
+          littafel:href="#a_Gottfried-Nifen"><line>Gottfried von Nifen</line></zone>
+        <zone xml:id="z_ed3-p2_111" ulx="401" uly="3064" lrx="692" lry="3093"
+          littafel:href="#a_Lamprecht-Regensburg"><line>Lamprecht von Regensburg</line></zone>
+        <zone xml:id="z_ed3-p2_112" ulx="511" uly="3097" lrx="673" lry="3117"
+          littafel:href="#a_Heinrich-Krolewicz"><line>Heinrich von Krolewicz</line></zone>
+        <zone xml:id="z_ed3-p2_113" ulx="1140" uly="3147" lrx="1344" lry="3172"
+          littafel:href="#a_Ulrich-Türheim"><line>Ulrich von Türheim</line></zone>
+        <zone xml:id="z_ed3-p2_114" ulx="1085" uly="3237" lrx="1290" lry="3263"
+          littafel:href="#a_Ulrich-Türlin"><line>Ulrich von dem Türlin</line></zone>
+        <zone xml:id="z_ed3-p2_115" ulx="367" uly="3231" lrx="596" lry="3253"
+          littafel:href="#t_Gedicht-Wartburgkrieg"><line>Gedicht vom Wartburgkrieg</line></zone>
+        <zone xml:id="z_ed3-p2_116" ulx="1072" uly="3328" lrx="1315" lry="3352"
+          littafel:href="#litaerea_spätlateinische-Didactik"><line>Spätlateinische
+          Didactik</line></zone>
+        <zone xml:id="z_ed3-p2_117" ulx="1162" uly="3381" lrx="1453" lry="3416"
+          littafel:href="#a_Konrad-Würzburg"><line>Konrad von Würzburg</line></zone>
+        <zone xml:id="z_ed3-p2_118" ulx="428" uly="3266" lrx="701" lry="3301"
+          littafel:href="#a_Berthold-Regensburg"><line>Berthold von Regensburg</line></zone>
+        <zone xml:id="z_ed3-p2_119" ulx="1107" uly="3426" lrx="1308" lry="3453"
+          littafel:href="#a_Heinrich-Freiberg"><line>Heinrich von Freiberg</line></zone>
+        <zone xml:id="z_ed3-p2_120" ulx="1087" uly="3486" lrx="1201" lry="3507"
+          littafel:href="#t_Buch-Lügen"><line>Buch der Lügen</line></zone>
+        <zone xml:id="z_ed3-p2_121" ulx="522" uly="3538" lrx="693" lry="3563"
+          littafel:href="#a_Hugo-Langenstein"><line>Hugo von Langenstein</line></zone>
+        <zone xml:id="z_ed3-p2_122" ulx="1043" uly="3644" lrx="1322" lry="3672"
+          littafel:href="#a_Ulrich-Eschenbach"><line>Ulrich von Eschenbach</line></zone>
+        <zone xml:id="z_ed3-p2_123" ulx="1158" uly="3771" lrx="1402" lry="3808"
+          littafel:href="#a_Hugo-Trimberg"><line>Hugo von Trimberg</line></zone>
+        <zone xml:id="z_ed3-p2_124" ulx="1250" uly="4023" lrx="1333" lry="4056"
+          littafel:href="#a_Aesop"><line>Aesop</line></zone>
+        <zone xml:id="z_ed3-p2_125" ulx="1286" uly="3968" lrx="1467" lry="3987"
+          littafel:href="#t_Ottokars-östr-Chronik"><line>Ottokar's östr. Chronik</line></zone>
+        <zone xml:id="z_ed3-p2_126" ulx="1100" uly="3905" lrx="1334" lry="3927"
+          littafel:href="#a_Heinrich-Neuenstadt"><line>Heinrich von Neuenstadt</line></zone>
+        <zone xml:id="z_ed3-p2_127" ulx="1196" uly="4118" lrx="1357" lry="4141"
+          littafel:href="#a_Johann-Würzburg"><line>Johann von Würzburg</line></zone>
+        <zone xml:id="z_ed3-p2_128" ulx="995" uly="4260" lrx="1204" lry="4291"
+          littafel:href="#a_Ulrich-Boner"><line>Ulrich Boner</line></zone>
+        <zone xml:id="z_ed3-p2_129" ulx="1049" uly="4224" lrx="1453" lry="4280"
+          littafel:href="#t_Spiel-Jungfrauen"><line>Spiel von den klugen und thörichten
+            Jungfrauen</line></zone>
+        <zone xml:id="z_ed3-p2_130" ulx="413" uly="4091" lrx="634" lry="4115"
+          littafel:href="#a_Heinrich-Frauenlob"><line>Heinrich Frauenlob</line></zone>
+        <zone xml:id="z_ed3-p2_131" ulx="1186" uly="4316" lrx="1383" lry="4342"
+          littafel:href="#a_Jacob-Cessoles"><line>Jacob von Cessoles</line></zone>
+        <zone xml:id="z_ed3-p2_132" ulx="1172" uly="4350" lrx="1332" lry="4371"
+          littafel:href="#a_Heinrich-Beringen"><line>Heinrich von Beringen</line></zone>
+        <zone xml:id="z_ed3-p2_133" ulx="1168" uly="4387" lrx="1438" lry="4410"
+          littafel:href="#a_Konrad-Ammenhusen"><line>Konrad von Ammenhusen</line></zone>
+        <zone xml:id="z_ed3-p2_134" ulx="538" uly="4549" lrx="699" lry="4571"
+          littafel:href="#a_Johann-Tauler"><line>Johann Tauler</line></zone>
+        <zone xml:id="z_ed3-p2_135" ulx="368" uly="4589" lrx="547" lry="4607"
+          littafel:href="#a_Hadamar-Labar"><line>Hadamar von Labar</line></zone>
+        <zone xml:id="z_ed3-p2_136" ulx="590" uly="4613" lrx="745" lry="4635"
+          littafel:href="#a_Heinrich_Suso"><line>Heinrich Suso</line></zone>
+        <zone xml:id="z_ed3-p2_137" ulx="410" uly="4635" lrx="597" lry="4654"
+          littafel:href="#a_Nicolaus-Basel"><line>Nicolaus von Basel</line></zone>
+        <zone xml:id="z_ed3-p2_138" ulx="542" uly="4662" lrx="693" lry="4678"
+          littafel:href="#a_Rulmann-Merswin"><line>Rulmann Merswin</line></zone>
+        <zone xml:id="z_ed3-p2_139" ulx="530" uly="4698" lrx="764" lry="4725"
+          littafel:href="#a_Heinrich-Nördlingen"><line>Heinrich von Nördlingen</line></zone>
+        <zone xml:id="z_ed3-p2_140" ulx="444" uly="4901" lrx="699" lry="4934"
+          littafel:href="#a_Heinrich-Teichner"><line>Heinrich der Teichner</line></zone>
+        <zone xml:id="z_ed3-p2_141" ulx="485" uly="5210" lrx="694" lry="5239"
+          littafel:href="#a_Heinrich-Mügeln"><line>Heinrich von Mügeln</line></zone>
+        <zone xml:id="z_ed3-p2_142" ulx="1417" uly="700" lrx="1493" lry="718"
+          littafel:href="#a_Thebanus"><line>Thebanus</line></zone>
+        <zone xml:id="z_ed3-p2_143" ulx="1437" uly="726" lrx="1502" lry="749"
+          littafel:href="#a_Dictys"><line>Dictys</line></zone>
+        <zone xml:id="z_ed3-p2_144" ulx="1440" uly="758" lrx="1500" lry="780"
+          littafel:href="#a_Dares"><line>Dares</line></zone>
+        <zone xml:id="z_ed3-p2_145" ulx="1082" uly="743" lrx="1219" lry="764"
+          littafel:href="#a_Pseudo-Kallistenes"><line>Pseudo Kallistenes</line></zone>
+        <zone xml:id="z_ed3-p2_146" ulx="1111" uly="772" lrx="1224" lry="792"
+          littafel:href="#unident_Julius-Valerius"><line>Julius Valerius
+          (unidentified)</line></zone>
+        <zone xml:id="z_ed3-p2_147" ulx="1143" uly="912" lrx="1253" lry="962"
+          littafel:href="#t_Ava-Leben-Jesu"><line>der Ava Leben Jesu</line></zone>
+        <zone xml:id="z_ed3-p2_148" ulx="1145" uly="806" lrx="1283" lry="825"
+          littafel:href="#a_Archipresbyter-Leo"><line>Archipresbyter Leo</line></zone>
+        <zone xml:id="z_ed3-p2_149" ulx="314" uly="1084" lrx="418" lry="1106"
+          littafel:href="#label_Vorblüte"><line>I Vorblüte</line></zone>
+        <zone xml:id="z_ed3-p2_150" ulx="394" uly="1192" lrx="589" lry="1216"
+          littafel:href="#litarea_Rahmenerzählung"><line>Rahmenerzählung</line></zone>
+        <zone xml:id="z_ed3-p2_151" ulx="409" uly="1367" lrx="551" lry="1389"
+          littafel:href="#a_Gottfried-Momauth"><line>Gottfried von Momauth</line></zone>
+        <zone xml:id="z_ed3-p2_152" ulx="563" uly="1370" lrx="600" lry="1388"
+          littafel:href="#a_Wace"><line>Wace</line></zone>
+        <zone xml:id="z_ed3-p2_153" ulx="1140" uly="1440" lrx="1323" lry="1463"
+          littafel:href="#t_Gereimter-Physiologus"><line>Gereimter Physiologus</line></zone>
+        <zone xml:id="z_ed3-p2_154" ulx="1137" uly="1475" lrx="1296" lry="1499"
+          littafel:href="#a_Kührenberger"><line>der Kührenberger</line></zone>
+        <zone xml:id="z_ed3-p2_155" ulx="1107" uly="1510" lrx="1251" lry="1529"
+          littafel:href="#t_Taugemundslied"><line>Taugemundslied</line></zone>
+        <zone xml:id="z_ed3-p2_156" ulx="1060" uly="1364" lrx="1203" lry="1384"
+          littafel:href="#t_Ysengrimus"><line>der Jsengrimus</line></zone>
+        <zone xml:id="z_ed3-p2_157" ulx="1025" uly="1462" lrx="1108" lry="1485"
+          littafel:href="#t_Anegenge"><line/></zone>
+        <zone xml:id="z_ed3-p2_158" ulx="1041" uly="1493" lrx="1092" lry="1511"
+          littafel:href="#a_Herger"><line>Herger</line></zone>
+        <zone xml:id="z_ed3-p2_159" ulx="1006" uly="1595" lrx="1079" lry="1611"
+          littafel:href="#t_Tundalus"><line>Tundalus</line></zone>
+        <zone xml:id="z_ed3-p2_160" ulx="1309" uly="1612" lrx="1491" lry="1632"
+          littafel:href="#t_Todes-Gehügede"><line>Von des Todes Gehügede</line></zone>
+        <zone xml:id="z_ed3-p2_161" ulx="384" uly="1484" lrx="434" lry="1503"
+          littafel:href="#a_Beroux"><line>Beroux</line></zone>
+        <zone xml:id="z_ed3-p2_162" ulx="369" uly="1510" lrx="503" lry="1531"
+          littafel:href="#a_Thomas-Bretagne"><line>Thomas von Bretagne</line></zone>
+        <zone xml:id="z_ed3-p2_163" ulx="569" uly="1521" lrx="764" lry="1544"
+          littafel:href="#a_Chretien-Troyes"><line>Chrêtien de Troyes</line></zone>
+        <zone xml:id="z_ed3-p2_164" ulx="655" uly="1481" lrx="737" lry="1503"
+          littafel:href="#t_Mabinogion"><line>Mabinogion</line></zone>
+        <zone xml:id="z_ed3-p2_165" ulx="1142" uly="1734" lrx="1240" lry="1756"
+          littafel:href="#a_Spervogel"><line>Spervogel</line></zone>
+        <zone xml:id="z_ed3-p2_166" ulx="1133" uly="1770" lrx="1235" lry="1789"
+          littafel:href="#a_Glichezaere"><line>Glichezaere</line></zone>
+        <zone xml:id="z_ed3-p2_167" ulx="1021" uly="1758" lrx="1082" lry="1775"
+          littafel:href="#unident_Floris"><line>Floris (unidentified)</line></zone>
+        <zone xml:id="z_ed3-p2_168" ulx="1020" uly="1709" lrx="1100" lry="1728"
+          littafel:href="#t_Orendel"><line>Orendel</line></zone>
+        <zone xml:id="z_ed3-p2_169" ulx="1032" uly="1731" lrx="1109" lry="1752"
+          littafel:href="#t_Oswald"><line>Oswald</line></zone>
+        <zone xml:id="z_ed3-p2_170" ulx="979" uly="1818" lrx="1150" lry="1838"
+          littafel:href="#t_Salomon-Morolt"><line>Salomon u. Morolt</line></zone>
+        <zone xml:id="z_ed3-p2_171" ulx="1319" uly="1775" lrx="1471" lry="1798"
+          littafel:href="#t_Wernhers-Maria"><line>Wernhers Maria</line></zone>
+        <zone xml:id="z_ed3-p2_172" ulx="570" uly="1794" lrx="645" lry="1810"
+          littafel:href="#g_Albas"><line>die Albas</line></zone>
+        <zone xml:id="z_ed3-p2_173" ulx="620" uly="1819" lrx="719" lry="1838"
+          littafel:href="#g_Kreuzlieder"><line>Kreuzlieder</line></zone>
+        <zone xml:id="z_ed3-p2_174" ulx="316" uly="1797" lrx="462" lry="1849"
+          littafel:href="#label_IV-Lyrik-Romantische-Schule"><line>IV Lyrik: Romantische
+            Schule</line></zone>
+        <zone xml:id="z_ed3-p2_175" ulx="651" uly="1063" lrx="667" lry="1086"
+          littafel:href="#ptr_I-Vorblüte"><line>I [target I Vorblüte]</line></zone>
+        <zone xml:id="z_ed3-p2_176" ulx="1012" uly="1393" lrx="1029" lry="1416"
+          littafel:href="#ptr_II-Nationale-Lyrik"><line>II [target Nationale Lyrik]</line></zone>
+        <zone xml:id="z_ed3-p2_177" ulx="1261" uly="1840" lrx="1281" lry="1861"
+          littafel:href="#ptr_III-Gap-Poesie"><line>III [target gap]Poesie</line></zone>
+        <zone xml:id="z_ed3-p2_178" ulx="1373" uly="1826" lrx="1485" lry="1881"
+          littafel:href="#label_II-Nationale-Lyrik"><line>II Nationale Lyrik</line></zone>
+        <zone xml:id="z_ed3-p2_179" ulx="1383" uly="1907" lrx="1475" lry="1961"
+          littafel:href="#label_III-Gap-Poesie"><line>[???] poesie, wahrscheinlich III</line></zone>
+        <zone xml:id="z_ed3-p2_180" ulx="1301" uly="2037" lrx="1435" lry="2053"
+          littafel:href="#t_Himmelreich"><line>das Himmelreich</line></zone>
+        <zone xml:id="z_ed3-p2_181" ulx="1280" uly="2058" lrx="1484" lry="2078"
+          littafel:href="#a_Konrad-Flussesbrunnen"><line>Konrad von Flussesbrunnen</line></zone>
+        <zone xml:id="z_ed3-p2_182" ulx="483" uly="2218" lrx="499" lry="2238"
+          littafel:href="#ptr_V-Blütezeit"><line>V [target Blütezeit]</line></zone>
+        <zone xml:id="z_ed3-p2_183" ulx="309" uly="2218" lrx="425" lry="2242"
+          littafel:href="#label_V-Blütezeit"><line>V Blütezeit</line></zone>
+        <zone xml:id="z_ed3-p2_184" ulx="1357" uly="2274" lrx="1469" lry="2292"
+          littafel:href="#t_Ottes-Eraklius"><line>Otte's Eraklius</line></zone>
+        <zone xml:id="z_ed3-p2_185" ulx="1185" uly="2642" lrx="1311" lry="2662"
+          littafel:href="#t_Windsbeke"><line>Windsbeke</line></zone>
+        <zone xml:id="z_ed3-p2_186" ulx="1252" uly="2662" lrx="1334" lry="2680"
+          littafel:href="#t_Windsbekin"><line>Windsbekin</line></zone>
+        <zone xml:id="z_ed3-p2_187" ulx="831" uly="2460" lrx="918" lry="2507"
+          littafel:href="#litarea_Novelle"><line>die Novelle</line></zone>
+        <zone xml:id="z_ed3-p2_188" ulx="812" uly="2520" lrx="870" lry="2546"
+          littafel:href="#t_Pantscha-tantra"><line>Pantscha tantra</line></zone>
+        <zone xml:id="z_ed3-p2_189" ulx="804" uly="2578" lrx="921" lry="2609"
+          littafel:href="#t_sieben-weisen-Meister"><line>die sieben weisen Meister</line></zone>
+        <zone xml:id="z_ed3-p2_190" ulx="815" uly="2612" lrx="927" lry="2630"
+          littafel:href="#a_Petrus-Alfonsus"><line>Petrus Alfonsus</line></zone>
+        <zone xml:id="z_ed3-p2_191" ulx="818" uly="2634" lrx="933" lry="2666"
+          littafel:href="#a_Caesarius-Heisterbach"><line>Cäsarius von Heisterbach</line></zone>
+        <zone xml:id="z_ed3-p2_192" ulx="812" uly="2669" lrx="933" lry="2684"
+          littafel:href="#t_Gesta-romanorum"><line>Gesta Romanorum</line></zone>
+        <zone xml:id="z_ed3-p2_193" ulx="814" uly="2693" lrx="872" lry="2726"
+          littafel:href="#t_Contes-fabliaux"><line>Contes et fabliaux</line></zone>
+        <zone xml:id="z_ed3-p2_194" ulx="1200" uly="2722" lrx="1317" lry="2749"
+          littafel:href="#a_Vridank"><line>Vridank</line></zone>
+        <zone xml:id="z_ed3-p2_195" ulx="496" uly="2994" lrx="518" lry="3014"
+          littafel:href="#ptr_VI-Abblüte"><line>VI [target Abblüte]</line></zone>
+        <zone xml:id="z_ed3-p2_196" ulx="306" uly="3040" lrx="422" lry="3064"
+          littafel:href="#label_VI-Abblüte"><line>Abblüte</line></zone>
+        <zone xml:id="z_ed3-p2_197" ulx="1164" uly="2975" lrx="1240" lry="2997"
+          littafel:href="#t_Wigamur"><line>Wigamur</line></zone>
+        <zone xml:id="z_ed3-p2_198" ulx="1321" uly="3010" lrx="1502" lry="3032"
+          littafel:href="#t_Reinaerts-Historie"><line>Reinaerts Historie</line></zone>
+        <zone xml:id="z_ed3-p2_199" ulx="1293" uly="3054" lrx="1536" lry="3074"
+          littafel:href="#t_Jans-Fürstenbuch"><line>Jans des Enenkel Fürstenbuch</line></zone>
+        <zone xml:id="z_ed3-p2_200" ulx="1229" uly="2886" lrx="1309" lry="2912"
+          littafel:href="#unident_Willam"><line>Willam</line></zone>
+        <zone xml:id="z_ed3-p2_201" ulx="1389" uly="2887" lrx="1486" lry="2913"
+          littafel:href="#t_Reinaert"><line>Rainaert</line></zone>
+        <zone xml:id="z_ed3-p2_202" ulx="1396" uly="2762" lrx="1532" lry="2777"
+          littafel:href="#a_Petrus-Comestor"><line>Petrus Comestor</line></zone>
+        <zone xml:id="z_ed3-p2_203" ulx="1365" uly="2789" lrx="1523" lry="2809"
+          littafel:href="#a_Gottfried-Viterbo"><line>Gottfried von Viterbo</line></zone>
+        <zone xml:id="z_ed3-p2_204" ulx="309" uly="2866" lrx="443" lry="2883"
+          littafel:href="#a_Tannhäuser"><line>der Tannhäuser</line></zone>
+        <zone xml:id="z_ed3-p2_205" ulx="309" uly="3155" lrx="409" lry="3177"
+          littafel:href="#a_Marner"><line>der Marner</line></zone>
+        <zone xml:id="z_ed3-p2_206" ulx="407" uly="3411" lrx="488" lry="3429"
+          littafel:href="#a_Steinmar"><line>Steinmar</line></zone>
+        <zone xml:id="z_ed3-p2_207" ulx="1107" uly="3284" lrx="1337" lry="3311"
+          littafel:href="#t_jüngerer-Titurel"><line>der jüngere Titurel</line></zone>
+        <zone xml:id="z_ed3-p2_208" ulx="986" uly="3436" lrx="1034" lry="3451"
+          littafel:href="#unident_Cato"><line>der Cato (unidentified)</line></zone>
+        <zone xml:id="z_ed3-p2_209" ulx="1144" uly="3588" lrx="1266" lry="3606"
+          littafel:href="#t_Lucidarius"><line>der Lucidarius</line></zone>
+        <zone xml:id="z_ed3-p2_210" ulx="1290" uly="3588" lrx="1424" lry="3609"
+          littafel:href="#a_Seyfried-Helbling"><line>Seyfried Helbling</line></zone>
+        <zone xml:id="z_ed3-p2_211" ulx="1093" uly="3748" lrx="1160" lry="3766"
+          littafel:href="#t_Hirzelin"><line>Hirzelin</line></zone>
+        <zone xml:id="z_ed3-p2_212" ulx="1040" uly="3938" lrx="1265" lry="3959"
+          littafel:href="#t_Kreuzfahrt-Ludwig-Thüringen"><line>Kreuzfahrt Ludwigs von
+            Thüringen</line></zone>
+        <zone xml:id="z_ed3-p2_213" ulx="638" uly="3659" lrx="667" lry="3680"
+          littafel:href="#ptr_VII"><line>VII [target Verfall]</line></zone>
+        <zone xml:id="z_ed3-p2_214" ulx="306" uly="3685" lrx="417" lry="3708"
+          littafel:href="#label_VII-Verfall"><line>VII Verfall</line></zone>
+        <zone xml:id="z_ed3-p2_215" ulx="427" uly="3713" lrx="594" lry="3737"
+          littafel:href="#t_Väterbuch"><line>das Väterbuch</line></zone>
+        <zone xml:id="z_ed3-p2_216" ulx="402" uly="3750" lrx="666" lry="3779"
+          littafel:href="#t_Passional"><line>das grosse Passional</line></zone>
+        <zone xml:id="z_ed3-p2_217" ulx="554" uly="3785" lrx="677" lry="3802"
+          littafel:href="#a_Heinrich-Hessler"><line>Heinrich Hessler</line></zone>
+        <zone xml:id="z_ed3-p2_218" ulx="467" uly="3811" lrx="663" lry="3836"
+          littafel:href="#t_Leben-hl-Elisabeth"><line>Leben der heiligen Elisabeth</line></zone>
+        <zone xml:id="z_ed3-p2_219" ulx="504" uly="3904" lrx="647" lry="3927"
+          littafel:href="#a_Meister-Eckhart"><line>Meister Eckart</line></zone>
+        <zone xml:id="z_ed3-p2_220" ulx="463" uly="3949" lrx="558" lry="3971"
+          littafel:href="#a_Hadlaub"><line>Hadlaub</line></zone>
+        <zone xml:id="z_ed3-p2_221" ulx="322" uly="4012" lrx="755" lry="4036"
+          littafel:href="#t_Manessische-Handschrift"><line>Anfang der Manessischen
+            Handschrift</line></zone>
+        <zone xml:id="z_ed3-p2_222" ulx="498" uly="4148" lrx="681" lry="4172"
+          littafel:href="#a_Barthel-Regenbogen"><line>Barthel Regenbogen</line></zone>
+        <zone xml:id="z_ed3-p2_223" ulx="1235" uly="4460" lrx="1401" lry="4480"
+          littafel:href="#a_Nicolaus-Jeroschin"><line>Nicolaus Jeroschin</line></zone>
+        <zone xml:id="z_ed3-p2_224" ulx="1024" uly="4523" lrx="1492" lry="5523"
+          littafel:href="#area_deutsche-Heldensage"><line>Bereich mit den Kreisen der deutschen
+            Heldensage</line></zone>
+        <zone xml:id="z_ed3-p2_225" ulx="558" uly="5535" lrx="726" lry="5561"
+          littafel:href="#a_Hugo-Montfort"><line>Hugo von Montfort</line></zone>
+        <zone xml:id="z_ed3-p2_226" ulx="489" uly="5573" lrx="695" lry="5597"
+          littafel:href="#a_Peter-Suchenwirt"><line>Peter Suchenwirt</line></zone>
+        <zone xml:id="z_ed3-p2_227" ulx="551" uly="5614" lrx="661" lry="5633"
+          littafel:href="#a_Muscatblüt"><line>Muscatblüt</line></zone>
+        <zone xml:id="z_ed3-p2_228" ulx="1119" uly="5554" lrx="1287" lry="5574"
+          littafel:href="#a_Ebernand-Cersne"><line>Ebernand von Cersne</line></zone>
+        <zone xml:id="z_ed3-p2_229" ulx="1296" uly="5578" lrx="1455" lry="5600"
+          littafel:href="#t_Limburger-Chronik"><line>Limburger Chronik</line></zone>
+        <zone xml:id="z_ed3-p2_230" ulx="289" uly="5619" lrx="547" lry="5747"
+          littafel:href="#periode_Nhd"><line>Übergang zum Neuhochdeutschen bis etwa
+          1522</line></zone>
+        <zone xml:id="z_ed3-p2_231" ulx="1095" uly="5701" lrx="1240" lry="5719"
+          littafel:href="#a_Hans-Büheler"><line>Hans der Büheler</line></zone>
+        <zone xml:id="z_ed3-p2_232" ulx="1061" uly="5736" lrx="1175" lry="5758"
+          littafel:href="#a_Hans-Vintler"><line>Hans Vintler</line></zone>
+        <zone xml:id="z_ed3-p2_233" ulx="1137" uly="5853" lrx="1308" lry="5878"
+          littafel:href="#litarea_Volksromane"><line>Volksromane</line></zone>
+        <zone xml:id="z_ed3-p2_234" ulx="485" uly="5766" lrx="716" lry="5786"
+          littafel:href="#a_Oswald-Wolkenstein"><line>Oswald von Wolkenstein</line></zone>
+        <zone xml:id="z_ed3-p2_235" ulx="1070" uly="5889" lrx="1163" lry="5919"
+          littafel:href="#unident_Malagis"><line>Malagis</line></zone>
+        <zone xml:id="z_ed3-p2_236" ulx="1128" uly="5925" lrx="1401" lry="5951"
+          littafel:href="#t_Ogier-Dänemark"><line>Ogier von Dänemark</line></zone>
+        <zone xml:id="z_ed3-p2_237" ulx="1247" uly="5892" lrx="1492" lry="5915"
+          littafel:href="#t_Reinald-Montalban"><line>Reinald von Montalban</line></zone>
+        <zone xml:id="z_ed3-p2_238" ulx="411" uly="5894" lrx="831" lry="5948"
+          littafel:href="#litarea_Romane-Kerlingischer-Sagenkreis"><line>Romane aus dem
+            Kerlingischen Sagenkreis</line></zone>
+        <zone xml:id="z_ed3-p2_239" ulx="371" uly="6005" lrx="515" lry="6032"
+          littafel:href="#g_Volkslied"><line>Volkslied</line></zone>
+        <zone xml:id="z_ed3-p2_240" ulx="360" uly="6056" lrx="643" lry="6130"
+          littafel:href="#litarea_Artus-Gral-Sage"><line>[Romane] der Artus und Gral-
+          Sage</line></zone>
+        <zone xml:id="z_ed3-p2_241" ulx="305" uly="6167" lrx="511" lry="6202"
+          littafel:href="#g_Fastnachtspiel"><line>Fastnachtspiel</line></zone>
+        <zone xml:id="z_ed3-p2_242" ulx="688" uly="5996" lrx="762" lry="6014"
+          littafel:href="#t_Melusine"><line>Melusine</line></zone>
+        <zone xml:id="z_ed3-p2_243" ulx="745" uly="6016" lrx="854" lry="6036"
+          littafel:href="#t_Hug-Schapler"><line>Hug Schapler</line></zone>
+        <zone xml:id="z_ed3-p2_244" ulx="694" uly="6049" lrx="839" lry="6068"
+          littafel:href="#t_Pontus-Sidonia"><line>Pontus und Sidonia</line></zone>
+        <zone xml:id="z_ed3-p2_245" ulx="365" uly="6266" lrx="570" lry="6296"
+          littafel:href="#a_Hans-Rosenplüt"><line>Hans Rosenplüt</line></zone>
+        <zone xml:id="z_ed3-p2_246" ulx="392" uly="6336" lrx="600" lry="6363"
+          littafel:href="#a_Michael-Beheim"><line>Michael Beheim</line></zone>
+        <zone xml:id="z_ed3-p2_247" ulx="408" uly="6414" lrx="532" lry="6439"
+          littafel:href="#a_Hans-Folz"><line>Hans Folz</line></zone>
+        <zone xml:id="z_ed3-p2_248" ulx="1149" uly="6229" lrx="1429" lry="6257"
+          littafel:href="#a_Gerhard-Groote"><line>Gerhard de Groote</line></zone>
+        <zone xml:id="z_ed3-p2_249" ulx="1142" uly="6318" lrx="1356" lry="6334"
+          littafel:href="#a_Hermann-Sachsenheim"><line>Hermann von Sachsenheim</line></zone>
+        <zone xml:id="z_ed3-p2_250" ulx="1113" uly="6355" lrx="1445" lry="6387"
+          littafel:href="#litarea_Humanismus"><line>der Humanismus</line></zone>
+        <zone xml:id="z_ed3-p2_251" ulx="366" uly="6487" lrx="486" lry="6514"
+          littafel:href="#a_Bocaccio"><line>Bocaccio</line></zone>
+        <zone xml:id="z_ed3-p2_252" ulx="322" uly="6535" lrx="690" lry="6556"
+          littafel:href="#litarea_Italienische-Novellistik"><line>Jtalienische
+          Novellistik</line></zone>
+        <zone xml:id="z_ed3-p2_253" ulx="1259" uly="6560" lrx="1405" lry="6584"
+          littafel:href="#a_Rudolf-Agricola"><line>Rudolf Agricola</line></zone>
+        <zone xml:id="z_ed3-p2_254" ulx="964" uly="6592" lrx="1080" lry="6632"
+          littafel:href="#a_Caspar-Roen"><line>Caspar von der Roen</line></zone>
+        <zone xml:id="z_ed3-p2_255" ulx="585" uly="6653" lrx="736" lry="6669"
+          littafel:href="#a_Johann-Soest"><line>Johann von Soest</line></zone>
+        <zone xml:id="z_ed3-p2_256" ulx="315" uly="6684" lrx="713" lry="6705"
+          littafel:href="#a_Püterich-Reichardshausen"><line>Püterich von
+          Reichardshausen</line></zone>
+        <zone xml:id="z_ed3-p2_257" ulx="945" uly="6695" lrx="1137" lry="6716"
+          littafel:href="#a_Clara-Hätzlerin"><line>Clara Hätzlerin</line></zone>
+        <zone xml:id="z_ed3-p2_258" ulx="1242" uly="6726" lrx="1403" lry="6744"
+          littafel:href="#a_Johann-Reuchlin"><line>Johann Reuchlin</line></zone>
+        <zone xml:id="z_ed3-p2_259" ulx="494" uly="6722" lrx="702" lry="6737"
+          littafel:href="#a_Heinrich-Steinhövel"><line>Heinrich Steinhövel</line></zone>
+        <zone xml:id="z_ed3-p2_260" ulx="397" uly="6744" lrx="556" lry="6763"
+          littafel:href="#a_Theodor_Schernbeck"><line>Theodor Schernbeck</line></zone>
+        <zone xml:id="z_ed3-p2_261" ulx="423" uly="6768" lrx="530" lry="6788"
+          littafel:href="#a_Veit-Weber"><line>Veit Weber</line></zone>
+        <zone xml:id="z_ed3-p2_262" ulx="347" uly="6805" lrx="637" lry="6838"
+          littafel:href="#a_Geiler-Kaiserberg"><line>Geiler von Kaiserberg</line></zone>
+        <zone xml:id="z_ed3-p2_263" ulx="433" uly="6846" lrx="567" lry="6867"
+          littafel:href="#a_Albrecht-Eyb"><line>Albrecht von Eyb</line></zone>
+        <zone xml:id="z_ed3-p2_264" ulx="567" uly="6859" lrx="688" lry="6878"
+          littafel:href="#a_Nicolaus-Wyle"><line>Nicolaus v. Wyle</line></zone>
+        <zone xml:id="z_ed3-p2_265" ulx="903" uly="6815" lrx="1074" lry="6835"
+          littafel:href="#a_Ulrich-Füterer"><line>Ulrich Füterer</line></zone>
+        <zone xml:id="z_ed3-p2_266" ulx="1221" uly="6790" lrx="1398" lry="6816"
+          littafel:href="#a_Jacob-Wimpheling"><line>Jacob Wimpheling</line></zone>
+        <zone xml:id="z_ed3-p2_267" ulx="424" uly="6905" lrx="644" lry="6930"
+          littafel:href="#a_Pfaff-Kalenberg"><line>der Pfaff von Kalenberg</line></zone>
+        <zone xml:id="z_ed3-p2_268" ulx="320" uly="7008" lrx="600" lry="7043"
+          littafel:href="#a_Sebastian-Brant"><line>Sebastian Brant</line></zone>
+        <zone xml:id="z_ed3-p2_269" ulx="1216" uly="6899" lrx="1359" lry="6918"
+          littafel:href="#a_Konrad-Celtes"><line>Konrad Celtes</line></zone>
+        <zone xml:id="z_ed3-p2_270" ulx="1206" uly="6953" lrx="1396" lry="6970"
+          littafel:href="#a_Desiderius-Erasmus"><line>Desiderius Erasmus</line></zone>
+        <zone xml:id="z_ed3-p2_271" ulx="1018" uly="7034" lrx="1343" lry="7067"
+          littafel:href="#t_Reineke-Voss"><line>Reineke Voss [kathol. Glosse]</line></zone>
+        <zone xml:id="z_ed3-p2_272" ulx="1604" uly="836" lrx="1733" lry="875"
+          littafel:href="#pers_Heinrich-V"><line>Heinrich V.</line></zone>
+        <zone xml:id="z_ed3-p2_273" ulx="1594" uly="1082" lrx="1711" lry="1148"
+          littafel:href="#pers_Lothar-Sachsen"><line>Lothar von Sachsen</line></zone>
+        <zone xml:id="z_ed3-p2_274" ulx="1583" uly="1323" lrx="1722" lry="1359"
+          littafel:href="#pers_Konrad-III"><line>Konrad III.</line></zone>
+        <zone xml:id="z_ed3-p2_275" ulx="1584" uly="1703" lrx="1712" lry="1782"
+          littafel:href="#pers_Friedrich-Barbarossa"><line>Friedrich I Barbarossa.</line></zone>
+        <zone xml:id="z_ed3-p2_276" ulx="1587" uly="2122" lrx="1718" lry="2160"
+          littafel:href="#pers_Heinrich-VI"><line>Heinrich VI.</line></zone>
+        <zone xml:id="z_ed3-p2_277" ulx="1582" uly="2272" lrx="1700" lry="2339"
+          littafel:href="#pers_Philipp-Schwaben"><line>Philipp von Schwaben bis 1208</line></zone>
+        <zone xml:id="z_ed3-p2_278" ulx="1574" uly="2354" lrx="1706" lry="2410"
+          littafel:href="#pers_Otto-Braunschweig"><line>Otto IV v. Braunschweig</line></zone>
+        <zone xml:id="z_ed3-p2_279" ulx="1579" uly="2708" lrx="1722" lry="2740"
+          littafel:href="#pers_Friedrich-II"><line>Friedrich II.</line></zone>
+        <zone xml:id="z_ed3-p2_280" ulx="1588" uly="3058" lrx="1717" lry="3091"
+          littafel:href="#pers_Konrad-IV"><line>Konrad IV</line></zone>
+        <zone xml:id="z_ed3-p2_281" ulx="1581" uly="3226" lrx="1721" lry="3255"
+          littafel:href="#event_Interregnum"><line>Interregnum</line></zone>
+        <zone xml:id="z_ed3-p2_282" ulx="1609" uly="3267" lrx="1695" lry="3293"
+          littafel:href="#pers_Alfons-X"><line>Alfons X.</line></zone>
+        <zone xml:id="z_ed3-p2_283" ulx="1570" uly="3294" lrx="1730" lry="3336"
+          littafel:href="#pers_Richard-Cornwallis"><line>Richard v. Cornwallis</line></zone>
+        <zone xml:id="z_ed3-p2_284" ulx="1569" uly="3505" lrx="1706" lry="3577"
+          littafel:href="#pers_Rudolf-I-Habsburg"><line>Rudolf I von Habsburg.</line></zone>
+        <zone xml:id="z_ed3-p2_285" ulx="1590" uly="3731" lrx="1694" lry="3798"
+          littafel:href="#pers_Adolf-Nassau"><line>Adolf von Nassau.</line></zone>
+        <zone xml:id="z_ed3-p2_286" ulx="1580" uly="3903" lrx="1702" lry="3961"
+          littafel:href="#pers_Albrecht-I-Österreich"><line>Albrecht I. von Österreich</line></zone>
+        <zone xml:id="z_ed3-p2_287" ulx="1572" uly="4022" lrx="1713" lry="4073"
+          littafel:href="#pers_Heinrich-VII-Luxemburg"><line>Heinrich VII. von
+          Luxemburg</line></zone>
+        <zone xml:id="z_ed3-p2_288" ulx="1592" uly="4135" lrx="1692" lry="4220"
+          littafel:href="#pers_Ludwig-Baiern"><line>Ludwig von Baiern bis 1347</line></zone>
+        <zone xml:id="z_ed3-p2_289" ulx="1579" uly="4248" lrx="1692" lry="4326"
+          littafel:href="#pers_Friedrich-Österreich"><line>Friedrich von Österreich bis
+          1330</line></zone>
+        <zone xml:id="z_ed3-p2_290" ulx="1580" uly="4595" lrx="1698" lry="4681"
+          littafel:href="#pers_Guenther-Schwarzburg"><line>Günther von Schwarzburg</line></zone>
+        <zone xml:id="z_ed3-p2_291" ulx="1577" uly="4863" lrx="1700" lry="4950"
+          littafel:href="#pers_Karl-IV"><line>Karl IV- von Luxemburg Böhmen</line></zone>
+        <zone xml:id="z_ed3-p2_292" ulx="1591" uly="5231" lrx="1677" lry="5259"
+          littafel:href="#pers_Wenzel"><line>Wenzel</line></zone>
+        <zone xml:id="z_ed3-p2_293" ulx="1572" uly="5526" lrx="1700" lry="5585"
+          littafel:href="#pers_Ruprecht-Gap"><line>Ruprecht von d.[Gap]</line></zone>
+        <zone xml:id="z_ed3-p2_294" ulx="1575" uly="5837" lrx="1714" lry="5868"
+          littafel:href="#pers_Sigismund"><line>Sigismund</line></zone>
+        <zone xml:id="z_ed3-p2_295" ulx="1601" uly="6089" lrx="1716" lry="6142"
+          littafel:href="#pers_Albrecht-II-Oesterreich"><line>Albrecht II. v.
+          Österreich</line></zone>
+        <zone xml:id="z_ed3-p2_296" ulx="1568" uly="6480" lrx="1714" lry="6511"
+          littafel:href="#pers_Friedrich-III"><line>Friedrich III.</line></zone>
+        <zone xml:id="z_ed3-p2_297" ulx="1574" uly="3133" lrx="1715" lry="3161"
+          littafel:href="#pers_Wilh-Holland"><line>Wilh. von Holland</line></zone>
+      </surface>
+
+
       <!-- Hier die Tafel -->
       <!-- Testcase: Teil 3 der Tafel 3. Tausend width=1920px   -->
       <surface facs="Flaischlen_3_kleiner.png">
