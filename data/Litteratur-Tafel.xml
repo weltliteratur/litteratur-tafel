@@ -725,8 +725,8 @@
           </person>
           <person xml:id="pers_02107" littafel:href="#a_Hans-Büheler"
             littafel:coords="1095,5701,1240,5719">
-            <persName>Hans der Büheler</persName>
-            <idno>none</idno>
+            <persName><forename>Hans</forename><surname>von Bühel</surname></persName>
+            <idno type="GND">119011697</idno>
           </person>
           <person xml:id="pers_02108" littafel:href="#a_Hans-Vintler"
             littafel:coords="1061,5736,1175,5758">
