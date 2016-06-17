@@ -1611,28 +1611,28 @@
           </person>
           <person xml:id="pers_00124" littafel:href="#a_Wieland"
             littafel:coords="1279,5107,1394,5136">
-            <persName>Wieland</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Christoph Martin</forename><surname>Wieland</surname></persName>
+            <idno type="GND">118632477</idno>
           </person>
           <person xml:id="pers_00125" littafel:href="#a_Bürger"
             littafel:coords="1281,5139,1376,5168">
-            <persName>Bürger</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Gottfried August</forename><surname>Bürger</surname></persName>
+            <idno type="GND">118517104</idno>
           </person>
           <person xml:id="pers_00126" littafel:href="#a_Herder"
             littafel:coords="1284,5165,1381,5192">
-            <persName>Herder</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann Gottfried</forename><surname>Herder</surname></persName>
+            <idno type="GND">118549553</idno>
           </person>
           <person xml:id="pers_00127" littafel:href="#a_Goethe"
             littafel:coords="1286,5192,1385,5223">
-            <persName>Goethe</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann Wolfgang</forename><surname>Goethe</surname></persName>
+            <idno type="GND">118540238</idno>
           </person>
           <person xml:id="pers_00128" littafel:href="#a_Schiller"
             littafel:coords="1287,5224,1395,5248">
-            <persName>Schiller</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann Christoph Friedrich</forename><surname>von Schiller</surname></persName>
+            <idno type="GND">118607626</idno>
           </person>
           <person xml:id="pers_00129" littafel:href="#a_Macpherson"
             littafel:coords="1130,4997,1306,5031">
