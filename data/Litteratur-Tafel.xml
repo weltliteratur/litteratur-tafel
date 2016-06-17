@@ -1606,8 +1606,8 @@
           </person>
           <person xml:id="pers_00123" littafel:href="#a_Klopstock"
             littafel:coords="1282,5079,1406,5114">
-            <persName>Klopstock</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich Gottlieb</forename><surname>Klopstock</surname></persName>
+            <idno type="GND">118563386</idno>
           </person>
           <person xml:id="pers_00124" littafel:href="#a_Wieland"
             littafel:coords="1279,5107,1394,5136">
