@@ -1880,8 +1880,8 @@
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00183" littafel:href="#a_Heine" littafel:coords="1204,5894,1262,5914">
-            <persName>Heine</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Heinrich</forename><surname>Heine</surname></persName>
+            <idno type="GND">118548018</idno>
           </person>
           <person xml:id="pers_00184" littafel:href="#a_Börne" littafel:coords="1287,5894,1342,5912">
             <persName>Börne</persName>
@@ -1898,12 +1898,12 @@
           </person>
           <person xml:id="pers_00187" littafel:href="#a_Gutzkow"
             littafel:coords="1286,5917,1358,5937">
-            <persName>Gutzkow</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Karl</forename><surname>Gutzkow</surname></persName>
+            <idno type="GND">118543830</idno>
           </person>
           <person xml:id="pers_00188" littafel:href="#a_Laube" littafel:coords="1366,5915,1419,5934">
-            <persName>Laube</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Heinrich</forename><surname>Laube</surname></persName>
+            <idno type="GND">118570080</idno>
           </person>
           <person xml:id="pers_00189" littafel:href="#a_Platen"
             littafel:coords="1222,5967,1297,5992">
@@ -2021,29 +2021,29 @@
           </person>
           <person xml:id="pers_00213" littafel:href="#a_Ph-J-Spener"
             littafel:coords="284,3441,432,3468">
-            <persName>Ph. J. Spener</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Philipp Jacob</forename><surname>Spener</surname></persName>
+            <idno type="GND">118616099</idno>
           </person>
 
           <person xml:id="pers_00214" littafel:href="#a_Christian-Weise"
             littafel:coords="1189,3371,1390,3398">
-            <persName>Christian Weise</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Christian</forename><surname>Weise</surname></persName>
+            <idno type="GND">118630369</idno>
           </person>
           <person xml:id="pers_00215" littafel:href="#a_Georg-Morhof"
             littafel:coords="1188,3419,1331,3448">
-            <persName>Georg Morhof</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Daniel Georg</forename><surname>Morhof</surname></persName>
+            <idno type="GND">118784919</idno>
           </person>
           <person xml:id="pers_00216" littafel:href="#a_Christian-Wernicke"
             littafel:coords="1166,3447,1363,3472">
-            <persName>Christian Wernicke</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Christian</forename><surname>Wernicke</surname></persName>
+            <idno type="GND">118631586</idno>
           </person>
           <person xml:id="pers_00217" littafel:href="#a_Erdmann-Neumeister"
             littafel:coords="1208,3640,1426,3660">
-            <persName>Erdmann Neumeister</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Erdmann</forename><surname>Neumeister</surname></persName>
+            <idno type="GND"> 11893094X</idno>
           </person>
           <person xml:id="pers_00218" littafel:href="#a_Benjamin-Neukirch"
             littafel:coords="1206,3677,1401,3703">
