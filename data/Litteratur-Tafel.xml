@@ -67,27 +67,27 @@
           <person xml:id="pers_01000" littafel:href="#a_Notker-I-Babulus"
             littafel:coords="1066,3584,1276,3614">
             <persName>Notker I. Babulus</persName>
-            <idno>none</idno>
+            <idno type="GND">118588850</idno>
           </person>
           <person xml:id="pers_01001" littafel:href="#a_Notker-III-Labeo"
             littafel:coords="1111,5603,1358,5667">
             <persName>Notker III Labeo Teutonicus</persName>
-            <idno>none</idno>
+            <idno type="GND">118588869</idno>
           </person>
           <person xml:id="pers_01002" littafel:href="#pers_Pipin-Kleine"
             littafel:coords="1636,1388,1736,1460">
-            <persName>Pipin der Kleine</persName>
-            <idno>none</idno>
+            <persName>Pippin III.</persName>
+            <idno type="GND">118594540</idno>
           </person>
           <person xml:id="pers_01003" littafel:href="#pers_Ludwig-Fromme"
             littafel:coords="1609,2534,1709,2605">
-            <persName>Ludwig der Fromme</persName>
-            <idno>none</idno>
+            <persName>Ludwig I.</persName>
+            <idno type="GND">118640658</idno>
           </person>
           <person xml:id="pers_01004" littafel:href="#pers_Ludwig-Baier"
             littafel:coords="1604,3185,1712,3252">
-            <persName>Ludwig der Baier</persName>
-            <idno>none</idno>
+            <persName>Ludwig IV.</persName>
+            <idno type="GND">118574957</idno>
           </person>
           <person xml:id="pers_01005" littafel:href="#pers_Karl-Dicke"
             littafel:coords="1613,3517,1696,3588">
@@ -171,7 +171,7 @@
           <person xml:id="pers_01021" littafel:href="#a_Alcuin"
             littafel:coords="1114,1783,1189,1806">
             <persName>Alcuin</persName>
-            <idno>none</idno>
+            <idno type="GND">118502026</idno>
           </person>
           <person xml:id="pers_01022" littafel:href="#a_Rhabanus-Maurus"
             littafel:coords="977,2270,1360,2298">
@@ -181,17 +181,17 @@
           <person xml:id="pers_01023" littafel:href="#a_Tatian"
             littafel:coords="1223,2747,1303,2773">
             <persName>Tatian</persName>
-            <idno>none</idno>
+            <idno type="GND">11864310X</idno>
           </person>
           <person xml:id="pers_01024" littafel:href="#a_Roswitha-Gandersheim"
             littafel:coords="401,5118,754,5151">
-            <persName>Roswitha von Gandersheim</persName>
-            <idno>none</idno>
+            <persName>Hrotsvita Gandeshemensis</persName>
+            <idno type="GND">118553941</idno>
           </person>
           <person xml:id="pers_01025" littafel:href="#a_Williram"
             littafel:coords="1001,6562,1114,6589">
-            <persName>Williram</persName>
-            <idno>none</idno>
+            <persName>Willeramus Eberspergensis</persName>
+            <idno type="GND">118633406</idno>
           </person>
 
 
@@ -199,7 +199,7 @@
 
           <person xml:id="pers_02000" littafel:href="#a_Ovid" littafel:coords="1340,899,1386,920">
             <persName>Ovid</persName>
-            <idno>none</idno>
+            <idno type="GND">118590995</idno>
           </person>
           <person xml:id="pers_02001" littafel:href="#a_Pindarus"
             littafel:coords="1295,695,1370,718">
