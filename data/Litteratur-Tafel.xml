@@ -410,7 +410,7 @@
           <person xml:id="pers_02024" littafel:href="#a_Wirnt-Gravenberg"
             littafel:coords="551,2282,784,2314">
             <persName><forename>Wirnt</forename>
-              v<addName>on Grafenberg</addName>
+              v<addName>von Grafenberg</addName>
             </persName>
             <idno>118633945</idno>
           </person>
@@ -622,7 +622,7 @@
           </person>
           <person xml:id="pers_02059" littafel:href="#a_Johann-Würzburg"
             littafel:coords="1196,4118,1357,4141">
-            <persName>J<forename>ohann</forename> 
+            <persName><forename>Johann</forename> 
               <addName>von Würzburg</addName></persName>
             <idno type="GND">118712349</idno>
           </person>
@@ -844,7 +844,8 @@
             <idno type="GND">118528823</idno>
           </person>
           <person xml:id="pers_02099" littafel:href="#a_Hadlaub" littafel:coords="463,3949,558,3971">
-            <persName><surname>Hadloub</surname> <forename>Johannes</forename></persName>
+            <persName><surname>Hadloub</surname> 
+              <forename>Johannes</forename></persName>
             <idno type="GND">118544349</idno>
           </person>
           <person xml:id="pers_02100" littafel:href="#a_Barthel-Regenbogen"
@@ -1460,12 +1461,12 @@
             <idno type="GND">121065162</idno>
           </person>
           <person xml:id="pers_00060" littafel:href="#a_Ronsard" littafel:coords="253,2474,351,2500">
-            <persName><forename>Pierre</forename><surname>de Ronsard</surname></persName>
+            <persName><forename>Pierre</forename><nameLink>de</nameLink><surname>Ronsard</surname></persName>
             <idno type="GND">118602519</idno>
           </person>
           <person xml:id="pers_00061" littafel:href="#a_Malherbe"
             littafel:coords="279,2532,390,2556">
-            <persName><forename>François</forename><surname>de Malherbe</surname></persName>
+            <persName><forename>François</forename><nameLink>de</nameLink><surname>Malherbe</surname></persName>
             <idno type="GND">11873038X</idno>
           </person>
           <person xml:id="pers_00062" littafel:href="#a_Scudery" littafel:coords="394,2557,488,2586">
@@ -1497,7 +1498,7 @@
           </person>
           <person xml:id="pers_00067" littafel:href="#a_Friedrich-Spee"
             littafel:coords="1046,2598,1224,2621">
-            <persName><forename>Friedrich</forename><surname>von Spee</surname></persName>
+            <persName><forename>Friedrich</forename><nameLink>von</nameLink><surname>Spee</surname></persName>
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00068" littafel:href="#a_Friedrich-Logau"
@@ -1508,7 +1509,7 @@
 
           <person xml:id="pers_00069" littafel:href="#a_Joost-van-der-Vondel"
             littafel:coords="1197,2749,1425,2777">
-            <persName><forename>Joost</forename><surname>van der Vondel</surname></persName>
+            <persName><forename>Joost</forename><nameLink>van der</nameLink><surname>Vondel</surname></persName>
             <idno type="GND">118627848</idno>
           </person>
           <person xml:id="pers_00070" littafel:href="#a_Andreas-Tscherning"
@@ -2251,7 +2252,7 @@
             <idno type="GND">118535196</idno>
           </person>
           <person xml:id="pers_00198" littafel:href="#a_Rückert" littafel:coords="661,5965,730,5986">
-            <persName><forename>Friedrich</forename><surname>Rücker</surname>t</persName>
+            <persName><forename>Friedrich</forename><surname>Rückert</surname></persName>
             <idno type="GND">118603817</idno>
           </person>
           <person xml:id="pers_00200" littafel:href="#a_Bodenstedt"
