@@ -1637,42 +1637,42 @@
           </person>
           <person xml:id="pers_00129" littafel:href="#a_Macpherson"
             littafel:coords="1130,4997,1306,5031">
-            <persName>Macpherson</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>James</forename><surname>Macpherson</surname></persName>
+            <idno type="GND">118781154</idno>
           </person>
           <person xml:id="pers_00130" littafel:href="#a_Gleim" littafel:coords="501,4556,555,4575">
-            <persName>Gleim</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann Wilhelm Ludwig</forename><surname>Gleim</surname></persName>
+            <idno type="GND">118717758</idno>
           </person>
           <person xml:id="pers_00131" littafel:href="#a_Jacobi" littafel:coords="524,4581,575,4599">
-            <persName>Jacobi</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich Heinrich</forename><surname>Jacobi</surname></persName>
+            <idno type="GND">118556312</idno>
           </person>
           <person xml:id="pers_00132" littafel:href="#a_Ramler" littafel:coords="585,4578,645,4599">
-            <persName>Ramler</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Karl Wilhelm</forename><surname>Ramler</surname></persName>
+            <idno type="GND">119059614</idno>
           </person>
           <person xml:id="pers_00133" littafel:href="#a_Kleist" littafel:coords="553,4557,604,4574">
-            <persName>Kleist</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Heinrich</forename><surname>von Kleist</surname></persName>
+            <idno type="GND">118563076</idno>
           </person>
           <person xml:id="pers_00134" littafel:href="#a_Leisewitz"
             littafel:coords="349,4781,423,4798">
-            <persName>Leisewitz</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann Anton</forename><surname>Leisewitz</surname></persName>
+            <idno type="GND">118571370</idno>
           </person>
           <person xml:id="pers_00135" littafel:href="#a_Gerstenberg"
             littafel:coords="429,4779,527,4800">
-            <persName>Gerstenberg</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Heinrich Wilhelm</forename><surname>von Gerstenberg</surname></persName>
+            <idno type="GND">118690949</idno>
           </person>
           <person xml:id="pers_00136" littafel:href="#a_Lenz" littafel:coords="526,4778,570,4797">
-            <persName>Lenz</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Jakob Michael Reinhold</forename><surname>Lenz</surname></persName>
+            <idno type="GND">118571656</idno>
           </person>
           <person xml:id="pers_00137" littafel:href="#a_Klinger" littafel:coords="337,4802,399,4825">
-            <persName>Klinger</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich Maximilian</forename><surname>von Klinger</surname></persName>
+            <idno type="GND">118563319</idno>
           </person>
           <person xml:id="pers_00138" littafel:href="#a_Müller" littafel:coords="406,4802,464,4820">
             <persName>Müller</persName>
@@ -1717,13 +1717,13 @@
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00148" littafel:href="#a_Dante" littafel:coords="342,5081,415,5107">
-            <persName>Dante</persName>
-            <idno type="GND">none</idno>
+            <persName>Dante Alighieri</persName>
+            <idno type="GND">118523708</idno>
           </person>
           <person xml:id="pers_00149" littafel:href="#a_Petrarca"
             littafel:coords="331,5113,438,5137">
-            <persName>Petrarca</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Francesco</forename><surname>Petrarca</surname></persName>
+            <idno type="GND">118593234</idno>
           </person>
           <person xml:id="pers_00150" littafel:href="#a_Bocaccio"
             littafel:coords="456,5131,620,5152">
@@ -1751,8 +1751,8 @@
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00155" littafel:href="#a_Tieck" littafel:coords="328,5425,381,5448">
-            <persName>Tieck</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Ludwig</forename><surname>Tieck</surname></persName>
+            <idno type="GND">12989432X</idno>
           </person>
           <person xml:id="pers_00156" littafel:href="#a_Novalis" littafel:coords="330,5450,402,5471">
             <persName>Novalis</persName>
