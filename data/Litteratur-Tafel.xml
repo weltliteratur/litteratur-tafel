@@ -1771,7 +1771,7 @@
           </person>
           <person xml:id="pers_00120" littafel:href="#a_Percy" littafel:coords="1179,4965,1259,4999">
             <persName>Percy</persName>
-            <idno type="GND">none</idno>
+            <idno type="GND"></idno>
           </person>
           <person xml:id="pers_00121" littafel:href="#a_Swift" littafel:coords="1362,4981,1434,5008">
             <persName><surname>Swift</surname>
@@ -1964,8 +1964,8 @@
           </person>
           <person xml:id="pers_00152" littafel:href="#a_Calderon"
             littafel:coords="296,5234,409,5261">
-            <persName>Calderon</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Pedro</forename><surname>Calderón</surname><nameLink>de la Barca</nameLink></persName>
+            <idno type="GND">118518399</idno>
           </person>
           <person xml:id="pers_00153" littafel:href="#a_Lope-de-Vega"
             littafel:coords="461,5234,600,5260">
@@ -2018,14 +2018,13 @@
             <idno type="GND">118563076</idno>
           </person>
           <person xml:id="pers_00161" littafel:href="#a_Fouque" littafel:coords="331,5569,402,5590">
-            <!-- Caroline de la Motte Fouqué (1773–1831), deutsche Schriftstellerin GND: 118692321 oder Friedrich de la Motte Fouqué (1777–1843), deutscher Dichter GND: 118534556 -->
-            <persName>Fouqué</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich</forename><nameLink>de la Motte</nameLink><surname>Fouqué</surname></persName>
+            <idno type="GND">118534556</idno>
           </person>
           <person xml:id="pers_00162" littafel:href="#a_E-Schulze"
             littafel:coords="333,5592,422,5612">
-            <persName>E Schulze</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Ernst</forename><surname>Schulze</surname></persName>
+            <idno type="GND">11899848X</idno>
           </person>
           <person xml:id="pers_00163" littafel:href="#a_Chamisso"
             littafel:coords="336,5615,415,5636">
@@ -2045,11 +2044,12 @@
             <idno type="GND">118529390</idno>
           </person>
           <person xml:id="pers_00165" littafel:href="#a_Halm" littafel:coords="332,5658,377,5678">
-            <persName>Halm</persName>
+            <persName><forename>Eligius Franz Joseph</forename><nameLink>von</nameLink><surname>Münch-Bellinghausen</surname></persName>
+            <!-- Pseudonym --> Friedrich Halm
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00166" littafel:href="#a_Zedlitz" littafel:coords="334,5681,390,5698">
-            <persName>Zedlitz</persName>
+            <persName><forename>Joseph Christian</forename><nameLink>von</nameLink><surname>Zedlitz</surname></persName>
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00167" littafel:href="#a_Grün" littafel:coords="335,5702,374,5718">
@@ -2082,13 +2082,13 @@
             littafel:coords="1243,5535,1340,5566">
             <persName>
               <forename></forename>
-              <surname>Bulwer</surname></persName>
+              <surname><forename>Edward George</forename><surname>Bulwer-Lytton</surname></surname></persName>
             
-            <idno type="GND">none</idno>
+            <idno type="GND">11866493X</idno>
           </person>
           <person xml:id="pers_00172" littafel:href="#a_Arndt" littafel:coords="1367,5510,1420,5527">
-            <persName>Arndt</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Ernst Moritz</forename><surname>Arndt</surname></persName>
+            <idno type="GND">118504118</idno>
           </person>
           <person xml:id="pers_00173" littafel:href="#a_Körner"
             littafel:coords="1366,5530,1431,5548">
@@ -2146,8 +2146,8 @@
           </person>
           <person xml:id="pers_00181" littafel:href="#a_Kerner"
             littafel:coords="1370,5789,1428,5805">
-            <persName>Kerner</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Justinus</forename><surname>Kerner</surname></persName>
+            <idno type="GND">118561545</idno>
           </person>
           <person xml:id="pers_00182" littafel:href="#a_Mörike"
             littafel:coords="1371,5809,1433,5826">
@@ -2215,12 +2215,12 @@
 
           <person xml:id="pers_00191" littafel:href="#a_Thackeray"
             littafel:coords="1266,6028,1386,6057">
-            <persName>Thackeray</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>William Makepeace</forename><surname>Thackeray</surname></persName>
+            <idno type="GND">118621483</idno>
           </person>
           <person xml:id="pers_00192" littafel:href="#a_Scribe" littafel:coords="364,5814,495,5847">
-            <persName>Scribe</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Eugène</forename><surname>Scribe</surname></persName>
+            <idno type="GND">118612425</idno>
           </person>
           <person xml:id="pers_00193" littafel:href="#a_Fallersleben"
             littafel:coords="328,6002,436,6022">
@@ -2235,8 +2235,8 @@
             <idno type="GND">118525751</idno>
           </person>
           <person xml:id="pers_00195" littafel:href="#a_Prutz" littafel:coords="329,6045,373,6062">
-            <persName>Prutz</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Robert Eduard</forename><surname>Prutz</surname></persName>
+            <idno type="GND">11859687X</idno>
           </person>
           <person xml:id="pers_00196" littafel:href="#a_Herwegh" littafel:coords="330,6065,397,6082">
             <persName><surname>Herwegh</surname>
@@ -2251,8 +2251,8 @@
             <idno type="GND">118535196</idno>
           </person>
           <person xml:id="pers_00198" littafel:href="#a_Rückert" littafel:coords="661,5965,730,5986">
-            <persName>Rückert</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich</forename><surname>Rücker</surname>t</persName>
+            <idno type="GND">118603817</idno>
           </person>
           <person xml:id="pers_00200" littafel:href="#a_Bodenstedt"
             littafel:coords="619,6078,720,6098">
@@ -2296,8 +2296,8 @@
             <idno type="GND">118555286</idno>
           </person>
           <person xml:id="pers_00206" littafel:href="#a_Augier" littafel:coords="404,6113,508,6148">
-            <persName>Augier</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Émile</forename><surname>Augier</surname></persName>
+            <idno type="GND">119493020</idno>
           </person>
           <person xml:id="pers_00207" littafel:href="#a_Sardou" littafel:coords="440,6162,555,6192">
             <persName>
@@ -2313,18 +2313,19 @@
             <idno type="GND">118637223</idno>
           </person>
           <person xml:id="pers_00209" littafel:href="#a_Ohnet" littafel:coords="487,6521,569,6548">
-            <persName>Ohnet</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Georges</forename><surname>Hénot</surname></persName>
+            <!-- Pseudonym -->Georges Ohnet
+            <idno type="GND">117112372</idno>
           </person>
           <person xml:id="pers_00210" littafel:href="#a_Assmann-von-Abschatz"
             littafel:coords="535,3322,789,3350">
-            <persName>Assmann von Abschatz</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Hans Assmann</forename><nameLink>von</nameLink><surname>Abschatz</surname></persName>
+            <idno type="GND">118500279</idno>
           </person>
           <person xml:id="pers_00211" littafel:href="#a_Anton-Ulrich-von-Braunschweig"
             littafel:coords="537,3354,881,3372">
-            <persName>Anton Ulrich von Braunschweig</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Anton Ulrich</forename><nameLink>von</nameLink><surname>Braunschweig</surname></persName>
+            <idno type="GND">118503472</idno>
           </person>
           <person xml:id="pers_00212" littafel:href="#a_H-A-von-Ziegler-Klipphausen"
             littafel:coords="541,3374,859,3402">
