@@ -1552,25 +1552,26 @@
             <idno type="GND">none</idno>
           </person>
           <person xml:id="pers_00089" littafel:href="#a_Pietsch" littafel:coords="772,3895,831,3916">
-            <persName>Pietsch</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Ludwig</forename><surname>Pietsch</surname></persName>
+            <idno type="GND">118742507</idno>
           </person>
           <person xml:id="pers_00090" littafel:href="#a_Corneille"
             littafel:coords="373,3888,488,3914">
-            <persName>Corneille</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Pierre</forename><surname>Corneille</surname></persName>
+            <idno type="GND">118522175</idno>
           </person>
           <person xml:id="pers_00091" littafel:href="#a_Racine" littafel:coords="384,3932,483,3956">
-            <persName>Racine</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Jean</forename><surname>Racine</surname></persName>
+            <idno type="GND">118597523</idno>
           </person>
           <person xml:id="pers_00092" littafel:href="#a_Molière" littafel:coords="280,3972,384,3997">
-            <persName>Molière</persName>
-            <idno type="GND">none</idno>
+            <persName> <forename>Jean-Baptiste</forename><surname>Poquelin</surname></persName>
+            <!-- Pseudonym --> Molière
+            <idno type="GND">11858331X</idno>
           </person>
           <person xml:id="pers_00093" littafel:href="#a_Regnard" littafel:coords="307,4022,405,4051">
-            <persName>Regnard</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Jean-François</forename><surname>Regnard</surname></persName>
+            <idno type="GND">118788124</idno>
           </person>
           <person xml:id="pers_00094" littafel:href="#a_Destouches"
             littafel:coords="314,4064,432,4082">
@@ -1579,12 +1580,12 @@
           </person>
           <person xml:id="pers_00095" littafel:href="#a_Lafontaine"
             littafel:coords="444,4060,547,4079">
-            <persName>Lafontaine</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>August</forename><surname>Lafontaine</surname></persName>
+            <idno type="GND">118725947</idno>
           </person>
           <person xml:id="pers_00096" littafel:href="#a_Defoe" littafel:coords="1235,3919,1309,3942">
-            <persName>Defoe</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Daniel</forename><surname>Defoe</surname></persName>
+            <idno type="GND">118524275</idno>
           </person>
           <person xml:id="pers_00097" littafel:href="#a_Johan-Christian-Günther"
             littafel:coords="1195,3972,1456,3993">
@@ -1611,8 +1612,8 @@
           </person>
           <person xml:id="pers_00102" littafel:href="#a_Milton"
             littafel:coords="1333,4226,1418,4251">
-            <persName>Milton</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>John</forename><surname>Milton</surname></persName>
+            <idno type="GND">118582607</idno>
           </person>
           <person xml:id="pers_00103" littafel:href="#a_Richardson"
             littafel:coords="1205,4358,1334,4383">
@@ -1957,6 +1958,7 @@
             <idno type="GND">118563076</idno>
           </person>
           <person xml:id="pers_00161" littafel:href="#a_Fouque" littafel:coords="331,5569,402,5590">
+            <!-- Caroline de la Motte Fouqué (1773–1831), deutsche Schriftstellerin GND: 118692321 oder Friedrich de la Motte Fouqué (1777–1843), deutscher Dichter GND: 118534556 -->
             <persName>Fouqué</persName>
             <idno type="GND">none</idno>
           </person>
@@ -2169,8 +2171,8 @@
           </person>
           <person xml:id="pers_00194" littafel:href="#a_Dingelstedt"
             littafel:coords="329,6022,429,6042">
-            <persName>Dingelstedt</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Franz</forename><nameLink>von</nameLink><surname>Dingelstedt</surname></persName>
+            <idno type="GND">118525751</idno>
           </person>
           <person xml:id="pers_00195" littafel:href="#a_Prutz" littafel:coords="329,6045,373,6062">
             <persName>Prutz</persName>
@@ -2266,10 +2268,10 @@
           </person>
           <person xml:id="pers_00212" littafel:href="#a_H-A-von-Ziegler-Klipphausen"
             littafel:coords="541,3374,859,3402">
-            <persName><forename>H.A.</forename> 
+            <persName><forename>Heinrich Anselm</forename> 
               <nameLink>von</nameLink> 
               <surname>Ziegler-Klipphausen</surname></persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">118772902</idno>
           </person>
           <person xml:id="pers_00213" littafel:href="#a_Ph-J-Spener"
             littafel:coords="284,3441,432,3468">
