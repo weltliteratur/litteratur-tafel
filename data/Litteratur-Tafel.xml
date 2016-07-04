@@ -617,8 +617,8 @@
           </person>
           <person xml:id="pers_02058" littafel:href="#a_Heinrich-Neuenstadt"
             littafel:coords="1100,3905,1334,3927">
-            <persName>Heinrich von Neuenstadt</persName>
-            <idno>none</idno>
+            <persName><forename>Heinrich</forename> <addName>von Neustadt</addName></persName>
+            <idno type="GND">118548433</idno>
           </person>
           <person xml:id="pers_02059" littafel:href="#a_Johann-Würzburg"
             littafel:coords="1196,4118,1357,4141">
@@ -733,16 +733,18 @@
               <forename>Leo</forename>
               <addName>von Neapel</addName>
             </persName>
-            <idno>119508796</idno>
+            <idno type="GND">119508796</idno>
           </person>
           <person xml:id="pers_02078" littafel:href="#a_Gottfried-Momauth"
             littafel:coords="409,1367,551,1389">
-            <persName>Gottfried von Momauth</persName>
-            <idno>none</idno>
+            <persName>
+              <forename>Galfredus</forename> <addName>Monumetensis</addName>
+            </persName>
+            <idno type="GND">118716883</idno>
           </person>
           <person xml:id="pers_02079" littafel:href="#a_Wace" littafel:coords="563,1370,600,1388">
-            <persName>Wace</persName>
-            <idno>none</idno>
+            <persName><forename>Wace</forename></persName>
+            <idno type="GND">118805827</idno>
           </person>
           <person xml:id="pers_02080" littafel:href="#a_Kührenberger"
             littafel:coords="1137,1475,1296,1499">
@@ -774,8 +776,8 @@
           </person>
           <person xml:id="pers_02085" littafel:href="#a_Spervogel"
             littafel:coords="1142,1734,1240,1756">
-            <persName>Spervogel</persName>
-            <idno>none</idno>
+            <persName><addName>Spervogel</addName></persName>
+            <idno type="GND">119505231</idno>
           </person>
           <person xml:id="pers_02086" littafel:href="#a_Glichezaere"
             littafel:coords="1133,1770,1235,1789">
@@ -791,8 +793,9 @@
           </person>
           <person xml:id="pers_02088" littafel:href="#a_Petrus-Alfonsus"
             littafel:coords="815,2612,927,2630">
-            <persName>Petrus Alfonsus</persName>
-            <idno>none</idno>
+            <persName><forename>Petrus</forename> 
+              <addName>Alfonsi</addName></persName>
+            <idno type="GND">118740423</idno>
           </person>
           <person xml:id="pers_02089" littafel:href="#a_Caesarius-Heisterbach"
             littafel:coords="818,2634,933,2666">
@@ -802,8 +805,8 @@
           </person>
           <person xml:id="pers_02090" littafel:href="#a_Vridank"
             littafel:coords="1200,2722,1317,2749">
-            <persName>Vridank</persName>
-            <idno>none</idno>
+            <persName><forename>Freidank</forename></persName>
+            <idno type="GND">118535188</idno>
           </person>
           <person xml:id="pers_02091" littafel:href="#a_Petrus-Comestor"
             littafel:coords="1396,2762,1532,2777">
@@ -859,30 +862,26 @@
             <persName><forename>Nicolaus</forename><surname>Jeroschin</surname></persName>
             <idno>119014998</idno>
           </person>
-          <person xml:id="pers_02102" littafel:href="#area_deutsche-Heldensage"
-            littafel:coords="1024,4523,1492,5523">
-            <persName>Bereich mit den Kreisen der deutschen Heldensage</persName>
-            <idno>none</idno>
-          </person>
           <person xml:id="pers_02103" littafel:href="#a_Hugo-Montfort"
             littafel:coords="558,5535,726,5561">
-            <persName>Hugo von Montfort</persName>
-            <idno>none</idno>
+            <persName><forename>Hugo</forename> 
+              <addName>von Montfort</addName></persName>
+            <idno type="GND">118554603</idno>
           </person>
           <person xml:id="pers_02104" littafel:href="#a_Peter-Suchenwirt"
             littafel:coords="489,5573,695,5597">
             <persName><forename>Peter</forename><surname>Suchenwirt</surname></persName>
-            <idno>118619829</idno>
+            <idno type="GND">118619829</idno>
           </person>
           <person xml:id="pers_02105" littafel:href="#a_Muscatblüt"
             littafel:coords="551,5614,661,5633">
-            <persName>Muscatblüt</persName>
-            <idno>none</idno>
+            <persName><addName>Muskatblüt</addName></persName>
+            <idno type="GND">118585924</idno>
           </person>
           <person xml:id="pers_02106" littafel:href="#a_Ebernand-Cersne"
             littafel:coords="1119,5554,1287,5574">
-            <persName>Ebernand von Cersne</persName>
-            <idno>none</idno>
+            <persName><forename>Eberhard</forename> <addName>von Cersne</addName></persName>
+            <idno type="GND">118528521</idno>
           </person>
           <person xml:id="pers_02107" littafel:href="#a_Hans-Büheler"
             littafel:coords="1095,5701,1240,5719">
@@ -894,63 +893,64 @@
           <person xml:id="pers_02108" littafel:href="#a_Hans-Vintler"
             littafel:coords="1061,5736,1175,5758">
             <persName><forename>Hans</forename><surname>Vintler</surname></persName>
-            <idno>118804707</idno>
+            <idno type="GND">118804707</idno>
           </person>
           <person xml:id="pers_02109" littafel:href="#a_Oswald-Wolkenstein"
             littafel:coords="485,5766,716,5786">
-            <persName><forename>Oswald</forename><nameLink>von</nameLink><surname>Wolkenstein</surname></persName>
-            <idno> 118590618</idno>
+            <persName><forename>Oswald</forename><addName>von Wolkenstein</addName></persName>
+            <idno type="GND">118590618</idno>
           </person>
           <person xml:id="pers_02110" littafel:href="#a_Hans-Rosenplüt"
             littafel:coords="365,6266,570,6296">
             <persName><forename>Hans</forename><surname>Rosenplüt</surname></persName>
-            <idno>118791176</idno>
+            <idno type="GND">118791176</idno>
           </person>
           <person xml:id="pers_02111" littafel:href="#a_Michael-Beheim"
             littafel:coords="392,6336,600,6363">
             <persName><forename>Michael</forename><surname>Beheim</surname></persName>
-            <idno> 118508342</idno>
+            <idno type="GND">118508342</idno>
           </person>
           <person xml:id="pers_02112" littafel:href="#a_Hans-Folz"
             littafel:coords="408,6414,532,6439">
             <persName><forename>Hans</forename><surname>Folz</surname></persName>
-            <idno>118534211</idno>
+            <idno type="GND">118534211</idno>
           </person>
           <person xml:id="pers_02113" littafel:href="#a_Gerhard-Groote"
             littafel:coords="1149,6229,1429,6257">
             <persName><forename>Gerhard</forename><nameLink>de</nameLink><surname>Groote</surname></persName>
-            <idno>118639404</idno>
+            <idno type="GND">118639404</idno>
           </person>
           <person xml:id="pers_02114" littafel:href="#a_Hermann-Sachsenheim"
             littafel:coords="1142,6318,1356,6334">
             <persName><forename>Hermann</forename><nameLink>von</nameLink><surname>Sachsenheim</surname></persName>
-            <idno>118549723</idno>
+            <idno type="GND">118549723</idno>
           </person>
           <person xml:id="pers_02115" littafel:href="#a_Bocaccio"
             littafel:coords="366,6487,486,6514">
             <persName><forename>Giovanni</forename><surname>Boccaccio</surname></persName>
-            <idno>11851217X</idno>
+            <idno type="GND">11851217X</idno>
           </person>
           <person xml:id="pers_02116" littafel:href="#a_Rudolf-Agricola"
             littafel:coords="1259,6560,1405,6584">
             <persName><forename>Rudolf</forename><surname>Agricola</surname></persName>
-            <idno>118501089</idno>
+            <idno type="GND">118501089</idno>
           </person>
           <person xml:id="pers_02117" littafel:href="#a_Caspar-Roen"
             littafel:coords="964,6592,1080,6632">
-            <persName>Caspar von der Roen</persName>
-            <idno>none</idno>
+            <persName><forename>Kaspar</forename> 
+              <addName>von der Rhön</addName></persName>
+            <idno type="GND">100964494</idno>
           </person>
           <person xml:id="pers_02118" littafel:href="#a_Johann-Soest"
             littafel:coords="585,6653,736,6669">
             <persName>Johann von Soest</persName>
-            eigentlich Johann Grumelkut
-            <idno>119269473</idno>
+            <!-- eigentlich Johann Grumelkut -->
+            <idno type="GND">119269473</idno>
           </person>
           <person xml:id="pers_02119" littafel:href="#a_Püterich-Reichardshausen"
             littafel:coords="315,6684,713,6705">
             <persName><forename>Jakob Püterich</forename><nameLink>von</nameLink><surname>Reichertshausen</surname></persName>
-            <idno>118742892</idno>
+            <idno type="GND">118742892</idno>
           </person>
           <person xml:id="pers_02120" littafel:href="#a_Clara-Hätzlerin"
             littafel:coords="945,6695,1137,6716">
@@ -960,12 +960,12 @@
           <person xml:id="pers_02121" littafel:href="#a_Johann-Reuchlin"
             littafel:coords="1242,6726,1403,6744">
             <persName><forename>Johann</forename><surname>Reuchlin</surname></persName>
-            <idno>118744658</idno>
+            <idno type="GND">118744658</idno>
           </person>
           <person xml:id="pers_02122" littafel:href="#a_Heinrich-Steinhövel"
             littafel:coords="494,6722,702,6737">
             <persName><forename>Heinrich</forename><surname>Steinhöwel</surname></persName>
-            <idno>118617486</idno>
+            <idno type="GND">118617486</idno>
           </person>
           <person xml:id="pers_02123" littafel:href="#a_Theodor_Schernbeck"
             littafel:coords="397,6744,556,6763">
@@ -975,127 +975,140 @@
           <person xml:id="pers_02124" littafel:href="#a_Veit-Weber"
             littafel:coords="423,6768,530,6788">
             <persName>Veit Weber</persName>
-            <idno>none</idno>
+            <!-- Pseudonym für Leonhard Wächter -->
+            <idno type="GND">118806432</idno>
           </person>
           <person xml:id="pers_02125" littafel:href="#a_Geiler-Kaiserberg"
             littafel:coords="347,6805,637,6838">
-            <persName>Geiler von Kaiserberg</persName>
-            <idno>none</idno>
+            <persName><surname>Geiler</surname> <addName>von Kaysersberg</addName> <forename>Johannes</forename></persName>
+            <idno type="GND">118538209</idno>
           </person>
           <person xml:id="pers_02126" littafel:href="#a_Albrecht-Eyb"
             littafel:coords="433,6846,567,6867">
-            <persName>Albrecht von Eyb</persName>
-            <idno>none</idno>
+            <persName><forename>Albrecht</forename> 
+              <addName>von Eyb</addName></persName>
+            <idno type="GND">118644378</idno>
           </person>
           <person xml:id="pers_02127" littafel:href="#a_Nicolaus-Wyle"
             littafel:coords="567,6859,688,6878">
-            <persName>Nicolaus v. Wyle</persName>
-            <idno>none</idno>
+            <persName><surname>Wyle</surname> <forename>Niklas</forename> <nameLink>von</nameLink></persName>
+            <idno type="GND">118635735</idno>
           </person>
           <person xml:id="pers_02128" littafel:href="#a_Ulrich-Füterer"
             littafel:coords="903,6815,1074,6835">
-            <persName>Ulrich Füterer</persName>
-            <idno>none</idno>
+            <persName><surname>Füetrer</surname> <forename>Ulrich</forename></persName>
+            <idno type="GND">118694081</idno>
           </person>
           <person xml:id="pers_02129" littafel:href="#a_Jacob-Wimpheling"
             littafel:coords="1221,6790,1398,6816">
-            <persName>Jacob Wimpheling</persName>
-            <idno>none</idno>
+            <persName><surname>Wimpfeling</surname> <forename>Jakob</forename></persName>
+            <idno type="GND">118769189</idno>
           </person>
           <person xml:id="pers_02130" littafel:href="#a_Pfaff-Kalenberg"
             littafel:coords="424,6905,644,6930">
-            <persName>der Pfaff von Kalenberg</persName>
-            <idno>none</idno>
+            <persName><forename>Gundacker</forename> <addName>von Thernbergder Pfaff von Kalenberg</addName> </persName>
+            <idno type="GND">129176680</idno>
           </person>
           <person xml:id="pers_02131" littafel:href="#a_Sebastian-Brant"
             littafel:coords="320,7008,600,7043">
-            <persName>Sebastian Brant</persName>
-            <idno>none</idno>
+            <persName><forename>Sebastian</forename> 
+              <surname>Brant</surname></persName>
+            <idno type="GND">118514474</idno>
           </person>
           <person xml:id="pers_02132" littafel:href="#a_Konrad-Celtes"
             littafel:coords="1216,6899,1359,6918">
-            <persName>Konrad Celtes</persName>
-            <idno>none</idno>
+            <persName><surname>Celtis</surname> <forename>Konrad</forename></persName>
+            <idno type="GND">118519891</idno>
           </person>
           <person xml:id="pers_02133" littafel:href="#a_Desiderius-Erasmus"
             littafel:coords="1206,6953,1396,6970">
-            <persName>Desiderius Erasmus</persName>
-            <idno>none</idno>
+            <persName><surname>Desiderius</surname> 
+              <forename>Erasmus</forename></persName>
+            <idno type="GND">118530666</idno>
           </person>
           <person xml:id="pers_02134" littafel:href="#pers_Heinrich-V"
             littafel:coords="1604,836,1733,875">
-            <persName>Heinrich V.</persName>
-            <idno>none</idno>
+            <persName><forename>Heinrich</forename> 
+              <genName>V.</genName></persName>
+            <idno type="GND">11854828X</idno>
           </person>
           <person xml:id="pers_02135" littafel:href="#pers_Lothar-Sachsen"
             littafel:coords="1594,1082,1711,1148">
-            <persName>Lothar von Sachsen</persName>
-            <idno>none</idno>
+            <persName><forename>Lothar</forename> 
+              <genName>III.</genName></persName>
+            <idno type="GND">118574515</idno>
           </person>
           <person xml:id="pers_02136" littafel:href="#pers_Konrad-III"
             littafel:coords="1583,1323,1722,1359">
-            <persName>Konrad III.</persName>
-            <idno>none</idno>
+            <persName><forename>Konrad</forename> <genName>III.</genName></persName>
+            <idno type="GND">118713892</idno>
           </person>
           <person xml:id="pers_02137" littafel:href="#pers_Friedrich-Barbarossa"
             littafel:coords="1584,1703,1712,1782">
-            <persName>Friedrich I Barbarossa.</persName>
-            <idno>none</idno>
+            <persName><forename>Friedrich</forename> <genName>I.</genName> <addName>Barbarossa</addName></persName>
+            <idno type="GND">118535757</idno>
           </person>
           <person xml:id="pers_02138" littafel:href="#pers_Heinrich-VI"
             littafel:coords="1587,2122,1718,2160">
-            <persName>Heinrich VI.</persName>
-            <idno>none</idno>
+            <persName><forename>Heinrich</forename> <genName>VI.</genName></persName>
+            <idno type="GND">118548298</idno>
           </person>
           <person xml:id="pers_02139" littafel:href="#pers_Philipp-Schwaben"
             littafel:coords="1582,2272,1700,2339">
-            <persName>Philipp von Schwaben bis 1208</persName>
-            <idno>none</idno>
+            <persName><forename>Philipp</forename> <addName>von Schwaben</addName></persName>
+            <idno type="GND">118593854</idno>
           </person>
           <person xml:id="pers_02140" littafel:href="#pers_Otto-Braunschweig"
             littafel:coords="1574,2354,1706,2410">
-            <persName>Otto IV v. Braunschweig</persName>
-            <idno>none</idno>
+            <persName><forename>Otto</forename> <genName>IV</genName> <addName>von Braunschweig</addName></persName>
+            <idno type="GND">118590774</idno>
           </person>
           <person xml:id="pers_02141" littafel:href="#pers_Friedrich-II"
             littafel:coords="1579,2708,1722,2740">
-            <persName>Friedrich II.</persName>
-            <idno>none</idno>
+            <persName><forename>Friedrich</forename> 
+              <genName>II.</genName></persName>
+            <idno type="GND">118535765</idno>
           </person>
           <person xml:id="pers_02142" littafel:href="#pers_Konrad-IV"
             littafel:coords="1588,3058,1717,3091">
-            <persName>Konrad IV</persName>
-            <idno>none</idno>
+            <persName><forename>Konrad</forename> <genName>IV</genName></persName>
+            <idno type="GND">118565087</idno>
           </person>
           <person xml:id="pers_02143" littafel:href="#pers_Alfons-X"
             littafel:coords="1609,3267,1695,3293">
-            <persName>Alfons X.</persName>
-            <idno>none</idno>
+            <persName><forename>Alfons</forename> <genName>X.</genName></persName>
+            <idno type="GND">11864811X</idno>
           </person>
           <person xml:id="pers_02144" littafel:href="#pers_Richard-Cornwallis"
             littafel:coords="1570,3294,1730,3336">
-            <persName>Richard v. Cornwallis</persName>
-            <idno>none</idno>
+            <persName><forename>Richard</forename> 
+              <addName>von Cornwall</addName></persName>
+            <idno type="GND">118600273</idno>
           </person>
           <person xml:id="pers_02145" littafel:href="#pers_Rudolf-I-Habsburg"
             littafel:coords="1569,3505,1706,3577">
-            <persName>Rudolf I von Habsburg.</persName>
-            <idno>none</idno>
+            <!-- check date! -->
+            <persName><forename>Rudolf</forename> <genName>I</genName> <nameLink>von</nameLink> <surname>Habsburg</surname></persName>
+            <idno type="GND">11860371X</idno>
           </person>
           <person xml:id="pers_02146" littafel:href="#pers_Adolf-Nassau"
             littafel:coords="1590,3731,1694,3798">
-            <persName>Adolf von Nassau.</persName>
-            <idno>none</idno>
+            <persName><forename>Adolf</forename> <addName>von Nassau</addName></persName>
+            <idno type="GND">118637606</idno>
           </person>
           <person xml:id="pers_02147" littafel:href="#pers_Albrecht-I-Österreich"
             littafel:coords="1580,3903,1702,3961">
-            <persName>Albrecht I. von Österreich</persName>
-            <idno>none</idno>
+            <persName><forename>Albrecht</forename> 
+              <genName>I.</genName> 
+              <addName>von Österreich</addName></persName>
+            <idno type="GND">118501607</idno>
           </person>
           <person xml:id="pers_02148" littafel:href="#pers_Heinrich-VII-Luxemburg"
             littafel:coords="1572,4022,1713,4073">
-            <persName>Heinrich VII. von Luxemburg</persName>
-            <idno>none</idno>
+            <persName><forename>Heinrich</forename> 
+              <genName>VII.</genName> 
+              <addName>von Luxemburg</addName></persName>
+            <idno type="GND">118548301</idno>
           </person>
           <person xml:id="pers_02149" littafel:href="#pers_Ludwig-Baiern"
             littafel:coords="1592,4135,1692,4220">
@@ -1291,7 +1304,7 @@
           <person xml:id="pers_00027" littafel:href="#a_Burkart-Waldis"
             littafel:coords="256,1340,439,1365">
             <persName><forename>Burkard</forename><surname>Waldis</surname></persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">118628666</idno>
           </person>
           <person xml:id="pers_00028" littafel:href="#pers_Ferdinand-I"
             littafel:coords="1443,1506,1586,1538">
@@ -1311,8 +1324,8 @@
           </person>
           <person xml:id="pers_00031" littafel:href="#a_Adam-Puschmann"
             littafel:coords="723,1575,924,1606">
-            <persName>Adam Puschmann</persName>
-            <idno type="GND">none</idno>
+            <persName><surname>Puschmann</surname> <forename>Adam</forename></persName>
+            <idno type="GND">118803352</idno>
           </person>
           <person xml:id="pers_00032" littafel:href="#a_Rabelais"
             littafel:coords="274,1534,389,1569">
@@ -1410,19 +1423,19 @@
           </person>
           <person xml:id="pers_00050" littafel:href="#pers_Wilhelm-I"
             littafel:coords="1567,6518,1692,6544">
-            <persName>Wilhelm I.</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Wilhelm</forename> <genName>I.</genName></persName>
+            <idno type="GND">118632884</idno>
           </person>
           <person xml:id="pers_00051" littafel:href="#pers_Friedrich-III"
             littafel:coords="1558,6662,1702,6683">
-            <persName>Friedrich III.</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich</forename> <genName>III.</genName></persName>
+            <idno type="GND">118535668</idno>
           </person>
 
           <person xml:id="pers_00052" littafel:href="#pers_Wilhelm-II"
             littafel:coords="1567,6701,1704,6724">
-            <persName>Wilhelm II.</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Wilhelm</forename> <genName>II.</genName></persName>
+            <idno type="GND">118632892</idno>
           </person>
           <person xml:id="pers_00053" littafel:href="#pers_Heinrich-Julius-von-Braunschweig"
             littafel:coords="811,1934,1174,1953">
@@ -1494,13 +1507,13 @@
           </person>
           <person xml:id="pers_00066" littafel:href="#a_Zinkgreff"
             littafel:coords="1088,2540,1241,2569">
-            <persName>J.W. Zinkgreff</persName>
-            <idno type="GND">none</idno>
+            <persName><surname>Zincgref</surname> <forename>Julius Wilhelm</forename></persName>
+            <idno type="GND">11885870X</idno>
           </person>
           <person xml:id="pers_00067" littafel:href="#a_Friedrich-Spee"
             littafel:coords="1046,2598,1224,2621">
             <persName><forename>Friedrich</forename><nameLink>von</nameLink><surname>Spee</surname></persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">11861598X</idno>
           </person>
           <person xml:id="pers_00068" littafel:href="#a_Friedrich-Logau"
             littafel:coords="1221,2613,1433,2644">
@@ -1530,8 +1543,9 @@
           </person>
 
           <person xml:id="pers_00073" littafel:href="#a_Guarini" littafel:coords="331,2745,448,2769">
-            <persName>Guarini</persName>
-            <idno type="GND">none</idno>
+            <persName><surname>Guarini</surname> 
+              <forename>Battista</forename></persName>
+            <idno type="GND">118698753</idno>
           </person>
 
           <person xml:id="pers_00074" littafel:href="#a_Simon-Dach"
@@ -1552,8 +1566,9 @@
           </person>
           <person xml:id="pers_00077" littafel:href="#a_A-H-Buchholz"
             littafel:coords="1172,2995,1313,3019">
-            <persName>A.H. Buchholz</persName>
-            <idno type="GND">none</idno>
+            <persName><surname>Bucholtz</surname>
+              <forename>Andreas Heinrich</forename></persName>
+            <idno type="GND">118516744</idno>
           </person>
 
           <person xml:id="pers_00078" littafel:href="#a_Paulus-Gerhardt"
@@ -1568,33 +1583,35 @@
           </person>
           <person xml:id="pers_00080" littafel:href="#a_Georg-Neumark"
             littafel:coords="279,2892,434,2914">
-            <persName>Georg Neumark</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Georg</forename> 
+              <surname>Neumark</surname></persName>
+            <idno type="GND">118587404</idno>
           </person>
           <person xml:id="pers_00081" littafel:href="#a_Philipp-von-Zesen"
             littafel:coords="643,2852,812,2875">
-            <persName>Philipp vom Zesen</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Philipp</forename> <nameLink>von</nameLink> <surname>Zesen</surname></persName>
+            <idno type="GND">118636596</idno>
           </person>
 
           <person xml:id="pers_00082" littafel:href="#a_HJ-Chr-von-Grimelshausen"
             littafel:coords="247,2995,527,3025">
-            <persName>HJ.Chr. von Grimelshausen</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Hans Jakob Christoffel</forename> <nameLink>von</nameLink> <surname>Grimmelshausen</surname></persName>
+            <idno type="GND">118542273</idno>
           </person>
 
 
           <person xml:id="pers_00083" littafel:href="#a_Montemaior"
             littafel:coords="645,3012,782,3035">
             <persName>Montemaior</persName>
-            Jorge de Montemayor? 1520-1561
+            <!-- Jorge de Montemayor? 1520-1561 -->
             <idno type="GND">118736728</idno>
           </person>
 
           <person xml:id="pers_00084" littafel:href="#a_Hoffman-von-Hoffmanswaldau"
             littafel:coords="251,3111,545,3131">
-            <persName>Hoffman von Hoffmanswaldau</persName>
-            <idno type="GND">none</idno>
+            <persName><roleName>Hofmann</roleName> <nameLink>von</nameLink> <surname>Hofmannswaldau</surname>
+              <forename>Christian</forename></persName>
+            <idno type="GND">118706187</idno>
           </person>
           <person xml:id="pers_00085" littafel:href="#a_Caspar-von-Lohenstein"
             littafel:coords="270,3144,542,3172">
@@ -1652,26 +1669,26 @@
           </person>
           <person xml:id="pers_00097" littafel:href="#a_Johan-Christian-Günther"
             littafel:coords="1195,3972,1456,3993">
-            <persName>Johan Christian Günther</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann Christian</forename> <surname>Günther</surname></persName>
+            <idno type="GND">11854327X</idno>
           </person>
           <person xml:id="pers_00098" littafel:href="#a_Horaz" littafel:coords="1273,4023,1342,4047">
-            <persName>Horaz</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Quintus</forename> <surname>Horatius</surname> <addName>Flaccus</addName></persName>
+            <idno type="GND">118553569</idno>
           </person>
           <person xml:id="pers_00099" littafel:href="#a_Homer" littafel:coords="1198,4039,1275,4064">
-            <persName>Homer</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Homer</forename></persName>
+            <idno type="GND">11855333X</idno>
           </person>
           <person xml:id="pers_00100" littafel:href="#a_Martial"
             littafel:coords="1281,4052,1364,4075">
-            <persName>Martial</persName>
-            <idno type="GND">none</idno>
+            <persName><addName>Martialis</addName> <forename>Marcus</forename> <surname>Valerius</surname></persName>
+            <idno type="GND">11857826X</idno>
           </person>
           <person xml:id="pers_00101" littafel:href="#a_Catull"
             littafel:coords="1267,4077,1346,4100">
-            <persName>Catull</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Gaius</forename> <surname>Valerius</surname> <addName>Catullus</addName></persName>
+            <idno type="GND">118519719</idno>
           </person>
           <person xml:id="pers_00102" littafel:href="#a_Milton"
             littafel:coords="1333,4226,1418,4251">
@@ -1685,18 +1702,18 @@
           </person>
           <person xml:id="pers_00104" littafel:href="#a_Bodmer"
             littafel:coords="1056,4358,1119,4377">
-            <persName>Bodmer</persName>
-            <idno type="GND">none</idno>
+            <persName><surname>Bodmer</surname> <forename>Johann Jakob</forename></persName>
+            <idno type="GND">118512315</idno>
           </person>
           <person xml:id="pers_00105" littafel:href="#a_Breitinger"
             littafel:coords="1096,4376,1171,4394">
-            <persName>Johann Jakob Breitinger</persName>
+            <persName><forename>Johann Jakob</forename> <surname>Breitinger</surname></persName>
             <idno type="GND">118514881</idno>
           </person>
           <person xml:id="pers_00106" littafel:href="#a_Haller"
             littafel:coords="1111,4393,1161,4408">
-            <persName>Haller</persName>
-            <idno type="GND">none</idno>
+            <persName><surname>Haller</surname> <forename>Albrecht</forename> <nameLink>von</nameLink></persName>
+            <idno type="GND">118545140</idno>
           </person>
           <person xml:id="pers_00107" littafel:href="#a_Lillo" littafel:coords="1175,4402,1233,4425">
             <persName>Lillo</persName>
@@ -2047,13 +2064,14 @@
             <idno type="GND">118529390</idno>
           </person>
           <person xml:id="pers_00165" littafel:href="#a_Halm" littafel:coords="332,5658,377,5678">
-            <persName><forename>Eligius Franz Joseph</forename><nameLink>von</nameLink><surname>Münch-Bellinghausen</surname></persName>
-            <!-- Pseudonym --> Friedrich Halm
-            <idno type="GND">none</idno>
+            <persName><!-- <forename>Eligius Franz Joseph</forename><nameLink>von</nameLink><surname>Münch-Bellinghausen</surname> -->
+            <forename>Friedrich</forename><surname>Halm</surname>
+            </persName>
+            <idno type="GND">118720074</idno>
           </person>
           <person xml:id="pers_00166" littafel:href="#a_Zedlitz" littafel:coords="334,5681,390,5698">
             <persName><forename>Joseph Christian</forename><nameLink>von</nameLink><surname>Zedlitz</surname></persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">118808346</idno>
           </person>
           <person xml:id="pers_00167" littafel:href="#a_Grün" littafel:coords="335,5702,374,5718">
             <persName>
@@ -3303,7 +3321,7 @@
         <zone ana="#author" corresp="#pers_02101" littafel:href="#a_Nicolaus-Jeroschin"
           xml:id="z_ed2_379" ulx="2633" uly="4163" lrx="2784" lry="4181" sameAs="#z_ed3-p2_223"
             ><line>Nicolaus Jeroschin</line></zone>
-        <zone ana="#author" corresp="#pers_02102" littafel:href="#area_deutsche-Heldensage"
+        <zone littafel:href="#area_deutsche-Heldensage"
           xml:id="z_ed2_380" ulx="2425" uly="4226" lrx="2853" lry="5140" sameAs="#z_ed3-p2_224"
             ><line>Bereich mit den Kreisen der deutschen Heldensage</line></zone>
         <zone ana="#author" corresp="#pers_02103" littafel:href="#a_Hugo-Montfort"
@@ -5550,7 +5568,7 @@
         <zone sameAs="#z_ed2_379" corresp="#pers_02101" ana="#author" xml:id="z_ed3-p2_223"
           ulx="1235" uly="4460" lrx="1401" lry="4480" littafel:href="#a_Nicolaus-Jeroschin"
             ><line>Nicolaus Jeroschin</line></zone>
-        <zone sameAs="#z_ed2_380" corresp="#pers_02102" ana="#author" xml:id="z_ed3-p2_224"
+        <zone sameAs="#z_ed2_380" xml:id="z_ed3-p2_224"
           ulx="1024" uly="4523" lrx="1492" lry="5523" littafel:href="#area_deutsche-Heldensage"
             ><line>Bereich mit den Kreisen der deutschen Heldensage</line></zone>
         <zone sameAs="#z_ed2_381" corresp="#pers_02103" ana="#author" xml:id="z_ed3-p2_225"
