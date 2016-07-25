@@ -260,11 +260,7 @@
 
           <!-- Part2: #pers starting at pers_02000 -->
 
-          <person xml:id="pers_02000" littafel:href="#a_Ovid" littafel:coords="1340,899,1386,920">
-            <!-- Doppelt, aber zeigt GND; weiterer Eintrag vollständig -->
-            <persName>Ovid</persName>
-            <idno type="GND">118590995</idno>
-          </person>
+          
           <person xml:id="pers_02001" littafel:href="#a_Pindarus"
             littafel:coords="1295,695,1370,718">
             <persName>
@@ -272,11 +268,7 @@
             </persName>
             <idno type="GND">118594427</idno>
           </person>
-          <person xml:id="pers_02002" littafel:href="#a_Vergil" littafel:coords="1423,847,1465,865">
-            <!-- doppelt? weiterer Eintrag vollständig -->
-            <persName>Vergil</persName>
-            <idno>118626574</idno>
-          </person>
+          
           <person xml:id="pers_02003" littafel:href="#a_Dietmar-Eist"
             littafel:coords="1122,1652,1257,1672">
             <persName><forename>Dietmar</forename>
@@ -618,10 +610,7 @@
               <addName>von Trimberg</addName></persName>
             <idno type="GND">118554638</idno>
           </person>
-          <person xml:id="pers_02057" littafel:href="#a_Aesop" littafel:coords="1250,4023,1333,4056">
-            <persName>Aesopus</persName>
-            <idno type="GND">118647180</idno>
-          </person>
+         
           <person xml:id="pers_02058" littafel:href="#a_Heinrich-Neuenstadt"
             littafel:coords="1100,3905,1334,3927">
             <persName><forename>Heinrich</forename> <addName>von Neustadt</addName></persName>
@@ -932,11 +921,7 @@
             <persName><forename>Hermann</forename><nameLink>von</nameLink><surname>Sachsenheim</surname></persName>
             <idno type="GND">118549723</idno>
           </person>
-          <person xml:id="pers_02115" littafel:href="#a_Bocaccio"
-            littafel:coords="366,6487,486,6514">
-            <persName><forename>Giovanni</forename><surname>Boccaccio</surname></persName>
-            <idno type="GND">11851217X</idno>
-          </person>
+          
           <person xml:id="pers_02116" littafel:href="#a_Rudolf-Agricola"
             littafel:coords="1259,6560,1405,6584">
             <persName><forename>Rudolf</forename><surname>Agricola</surname></persName>
@@ -1408,11 +1393,7 @@
             <persName>Friedrich der Große</persName>
             <idno type="GND">118535749</idno>
           </person>
-          <person xml:id="pers_00046" littafel:href="#pers_Maria-Theresia"
-            littafel:coords="1527,4830,1638,4880">
-            <persName>Maria Theresia</persName>
-            <idno type="GND">118577867</idno>
-          </person>
+          
           <person xml:id="pers_00047" littafel:href="#pers_Joseph-II"
             littafel:coords="1536,5049,1654,5081">
             <persName>Joseph II</persName>
@@ -1745,14 +1726,7 @@
             <persName>Anakreon</persName>
             <idno type="GND">118649035</idno>
           </person>
-          <person xml:id="pers_00112" littafel:href="#a_Horaz" littafel:coords="373,4373,449,4397">
-            <persName>
-              <surname>Horatius</surname> 
-              <addName>Flaccus</addName>
-              <forename>Quintus</forename>
-            </persName>
-            <idno type="GND">118553569</idno>
-          </person>
+         
           <person xml:id="pers_00113" littafel:href="#a_Petrarca"
             littafel:coords="312,4427,413,4451">
             <persName><surname>Petrarca</surname>
@@ -1922,10 +1896,7 @@
             <forename>Ludwig</forename></persName>
             <idno type="GND">11710745X</idno>
           </person>
-          <person xml:id="pers_00141" littafel:href="#a_Homer" littafel:coords="443,4845,538,4875">
-            <persName><forename>Homer</forename></persName>
-            <idno type="GND">11855333X</idno>
-          </person>
+          
           <person xml:id="pers_00142" littafel:href="#a_Aristophanes"
             littafel:coords="407,4881,572,4905">
             <persName><forename>Aristophanes</forename></persName>
@@ -1967,13 +1938,7 @@
               <surname>Alighieri</surname></persName>
             <idno type="GND">118523708</idno>
           </person>
-          <person xml:id="pers_00149" littafel:href="#a_Petrarca"
-            littafel:coords="331,5113,438,5137">
-            <persName>
-              <forename>Francesco</forename>
-              <surname>Petrarca</surname></persName>
-            <idno type="GND">118593234</idno>
-          </person>
+          
           <person xml:id="pers_00150" littafel:href="#a_Bocaccio"
             littafel:coords="456,5131,620,5152">
             <persName>
@@ -2036,14 +2001,7 @@
               <surname>Hoffmann</surname></persName>
             <idno type="GND">118552465</idno>
           </person>
-          <person xml:id="pers_00160" littafel:href="#a_H-v-Kleist"
-            littafel:coords="334,5543,418,5566">
-            <persName>
-              <forename>Heinrich</forename>
-              <nameLink>von</nameLink>
-              <surname>Kleist</surname></persName>
-            <idno type="GND">118563076</idno>
-          </person>
+          
           <person xml:id="pers_00161" littafel:href="#a_Fouque" littafel:coords="331,5569,402,5590">
             <persName><forename>Friedrich</forename><nameLink>de la Motte</nameLink><surname>Fouqué</surname></persName>
             <idno type="GND">118534556</idno>
@@ -2856,7 +2814,7 @@
           lrx="2658" lry="756" sameAs="#z_ed3-p2_043"><line>Alexandersage</line></zone>
         <zone littafel:href="#litarea_Aeneassage" xml:id="z_ed2_200" ulx="2763" uly="821" lrx="2890"
           lry="850" sameAs="#z_ed3-p2_044"><line>Aeneassage</line></zone>
-        <zone ana="#author" corresp="#pers_02000" littafel:href="#a_Ovid" xml:id="z_ed2_201"
+        <zone ana="#author" corresp="#pers_00144" littafel:href="#a_Ovid" xml:id="z_ed2_201"
           ulx="2710" uly="901" lrx="2752" lry="920" sameAs="#z_ed3-p2_045"><line>Ovid</line></zone>
         <zone ana="#author" corresp="#pers_02001" littafel:href="#a_Pindarus" xml:id="z_ed2_202"
           ulx="2671" uly="715" lrx="2740" lry="736" sameAs="#z_ed3-p2_046"
@@ -2868,7 +2826,7 @@
             Novellen- u. Anekdoten-Elemente</line></zone>
         <zone littafel:href="#t_Rolandslied" xml:id="z_ed2_205" ulx="2067" uly="1095" lrx="2232"
           lry="1123" sameAs="#z_ed3-p2_049"><line>Rolandslied</line></zone>
-        <zone ana="#author" corresp="#pers_02002" littafel:href="#a_Vergil" xml:id="z_ed2_206"
+        <zone ana="#author" corresp="#pers_00143" littafel:href="#a_Vergil" xml:id="z_ed2_206"
           ulx="2751" uly="852" lrx="2823" lry="868" sameAs="#z_ed3-p2_050"
           ><line>Vergil</line></zone>
         <zone littafel:href="#periode_Mittelhochdeutsche-Periode" xml:id="z_ed2_207" ulx="1767"
@@ -3075,7 +3033,7 @@
         <zone ana="#author" corresp="#pers_02056" littafel:href="#a_Hugo-Trimberg"
           xml:id="z_ed2_279" ulx="2558" uly="3532" lrx="2781" lry="3566" sameAs="#z_ed3-p2_123"
             ><line>Hugo von Trimberg</line></zone>
-        <zone ana="#author" corresp="#pers_02057" littafel:href="#a_Aesop" xml:id="z_ed2_280"
+        <zone ana="#author" corresp="#pers_00007" littafel:href="#a_Aesop" xml:id="z_ed2_280"
           ulx="2642" uly="3762" lrx="2718" lry="3792" sameAs="#z_ed3-p2_124"
           ><line>Aesop</line></zone>
         <zone littafel:href="#t_Ottokars-östr-Chronik" xml:id="z_ed2_281" ulx="2679" uly="3712"
@@ -3398,7 +3356,7 @@
             ><line>Hermann von Sachsenheim</line></zone>
         <zone littafel:href="#litarea_Humanismus" xml:id="z_ed2_406" ulx="2517" uly="5928"
           lrx="2821" lry="5958" sameAs="#z_ed3-p2_250"><line>der Humanismus</line></zone>
-        <zone ana="#author" corresp="#pers_02115" littafel:href="#a_Bocaccio" xml:id="z_ed2_407"
+        <zone ana="#author" corresp="#pers_00150" littafel:href="#a_Bocaccio" xml:id="z_ed2_407"
           ulx="1826" uly="6050" lrx="1936" lry="6075" sameAs="#z_ed3-p2_251"
           ><line>Bocaccio</line></zone>
         <zone littafel:href="#litarea_Italienische-Novellistik" xml:id="z_ed2_408" ulx="1784"
@@ -3555,7 +3513,7 @@
         <zone ana="#author" corresp="#pers_00006" littafel:href="#a_Johann-Pauli" xml:id="z_ed2_459"
           ulx="3815" uly="870" lrx="3939" lry="891" sameAs="#z_ed3-p3_006"><line>Johann
           Pauli</line></zone>
-        <zone ana="#author" corresp="#pers_02057" littafel:href="#a_Aesop" xml:id="z_ed2_460"
+        <zone ana="#author" corresp="#pers_00007" littafel:href="#a_Aesop" xml:id="z_ed2_460"
           ulx="3937" uly="929" lrx="4020" lry="958" sameAs="#z_ed3-p3_007"><line>Aesop</line></zone>
         <zone littafel:href="#t_Teurdank und Weisskunig" xml:id="z_ed2_461" ulx="3983" uly="894"
           lrx="4235" lry="920" sameAs="#z_ed3-p3_008"><line>Teurdank und Weisskunig</line></zone>
@@ -4133,7 +4091,7 @@
         <zone ana="#author" corresp="#pers_00143" littafel:href="#a_Virgil" xml:id="z_ed2_676"
           ulx="3315" uly="4713" lrx="3380" lry="4742" sameAs="#z_ed3-p3_225"
           ><line>Virgil</line></zone>
-        <zone ana="#author" corresp="#pers_02000" littafel:href="#a_Ovid" xml:id="z_ed2_677"
+        <zone ana="#author" corresp="#pers_00144" littafel:href="#a_Ovid" xml:id="z_ed2_677"
           ulx="3446" uly="4714" lrx="3500" lry="4736" sameAs="#z_ed3-p3_226"
           ><line>Ovid</line></zone>
         <zone ana="#author" corresp="#pers_00145" littafel:href="#a_Voss" xml:id="z_ed2_678"
@@ -4151,7 +4109,7 @@
         <zone ana="#author" corresp="#pers_00113" littafel:href="#a_Petrarca" xml:id="z_ed2_682"
           ulx="3235" uly="4905" lrx="3333" lry="4927" sameAs="#z_ed3-p3_231"
           ><line>Petrarca</line></zone>
-        <zone ana="#author" corresp="#pers_02115" littafel:href="#a_Bocaccio" xml:id="z_ed2_683"
+        <zone ana="#author" corresp="#pers_00150" littafel:href="#a_Bocaccio" xml:id="z_ed2_683"
           ulx="3354" uly="4925" lrx="3504" lry="4948" sameAs="#z_ed3-p3_232"
           ><line>Bocaccio</line></zone>
         <zone ana="#author" corresp="#pers_00151" littafel:href="#a_Cervantes" xml:id="z_ed2_684"
@@ -4181,7 +4139,7 @@
         <zone ana="#author" corresp="#pers_00159" littafel:href="#a_ETA-Hoffmann" xml:id="z_ed2_692"
           ulx="3222" uly="5290" lrx="3334" lry="5309" sameAs="#z_ed3-p3_241"><line>E.T.A.
             Hoffmann</line></zone>
-        <zone ana="#author" corresp="#pers_00160" littafel:href="#a_H-v-Kleist" xml:id="z_ed2_693"
+        <zone ana="#author" corresp="#pers_00133" littafel:href="#a_H-v-Kleist" xml:id="z_ed2_693"
           ulx="3223" uly="5312" lrx="3299" lry="5333" sameAs="#z_ed3-p3_242"
           ><line>H.v.Kleist</line></zone>
         <zone ana="#author" corresp="#pers_00161" littafel:href="#a_Fouque" xml:id="z_ed2_694"
@@ -5107,7 +5065,7 @@
           littafel:href="#litarea_Alexandersage"><line>Alexandersage</line></zone>
         <zone sameAs="#z_ed2_200" xml:id="z_ed3-p2_044" ulx="1395" uly="815" lrx="1534" lry="846"
           littafel:href="#litarea_Aeneassage"><line>Aeneassage</line></zone>
-        <zone sameAs="#z_ed2_201" corresp="#pers_02000" ana="#author" xml:id="z_ed3-p2_045"
+        <zone sameAs="#z_ed2_201" corresp="#pers_00144" ana="#author" xml:id="z_ed3-p2_045"
           ulx="1340" uly="899" lrx="1386" lry="920" littafel:href="#a_Ovid"><line>Ovid</line></zone>
         <zone sameAs="#z_ed2_202" corresp="#pers_02001" ana="#author" xml:id="z_ed3-p2_046"
           ulx="1295" uly="695" lrx="1370" lry="718" littafel:href="#a_Pindarus"
@@ -5119,7 +5077,7 @@
             Anekdoten-Elemente</line></zone>
         <zone sameAs="#z_ed2_205" xml:id="z_ed3-p2_049" ulx="635" uly="1108" lrx="815" lry="1139"
           littafel:href="#t_Rolandslied"><line>Rolandslied</line></zone>
-        <zone sameAs="#z_ed2_206" corresp="#pers_02002" ana="#author" xml:id="z_ed3-p2_050"
+        <zone sameAs="#z_ed2_206" corresp="#pers_00143" ana="#author" xml:id="z_ed3-p2_050"
           ulx="1423" uly="847" lrx="1465" lry="865" littafel:href="#a_Vergil"
           ><line>Vergil</line></zone>
         <zone sameAs="#z_ed2_207" xml:id="z_ed3-p2_051" ulx="304" uly="1225" lrx="562" lry="1322"
@@ -5326,7 +5284,7 @@
         <zone sameAs="#z_ed2_279" corresp="#pers_02056" ana="#author" xml:id="z_ed3-p2_123"
           ulx="1158" uly="3771" lrx="1402" lry="3808" littafel:href="#a_Hugo-Trimberg"><line>Hugo
             von Trimberg</line></zone>
-        <zone sameAs="#z_ed2_280" corresp="#pers_02057" ana="#author" xml:id="z_ed3-p2_124"
+        <zone sameAs="#z_ed2_280" corresp="#pers_00007" ana="#author" xml:id="z_ed3-p2_124"
           ulx="1250" uly="4023" lrx="1333" lry="4056" littafel:href="#a_Aesop"
           ><line>Aesop</line></zone>
         <zone sameAs="#z_ed2_281" xml:id="z_ed3-p2_125" ulx="1286" uly="3968" lrx="1467" lry="3987"
@@ -5645,7 +5603,7 @@
             ><line>Hermann von Sachsenheim</line></zone>
         <zone sameAs="#z_ed2_406" xml:id="z_ed3-p2_250" ulx="1113" uly="6355" lrx="1445" lry="6387"
           littafel:href="#litarea_Humanismus"><line>der Humanismus</line></zone>
-        <zone sameAs="#z_ed2_407" corresp="#pers_02115" ana="#author" xml:id="z_ed3-p2_251"
+        <zone sameAs="#z_ed2_407" corresp="#pers_00150" ana="#author" xml:id="z_ed3-p2_251"
           ulx="366" uly="6487" lrx="486" lry="6514" littafel:href="#a_Bocaccio"
             ><line>Bocaccio</line></zone>
         <zone sameAs="#z_ed2_408" xml:id="z_ed3-p2_252" ulx="322" uly="6535" lrx="690" lry="6556"
@@ -5808,7 +5766,7 @@
         <zone sameAs="#z_ed2_459" corresp="#pers_00006" ana="#author" xml:id="z_ed3-p3_006"
           ulx="850" uly="840" lrx="985" lry="863" littafel:href="#a_Johann-Pauli"><line>Johann
             Pauli</line></zone>
-        <zone sameAs="#z_ed2_460" corresp="#pers_02057" ana="#author" xml:id="z_ed3-p3_007"
+        <zone sameAs="#z_ed2_460" corresp="#pers_00007" ana="#author" xml:id="z_ed3-p3_007"
           ulx="982" uly="898" lrx="1073" lry="930" littafel:href="#a_Aesop"
           ><line>Aesop</line></zone>
         <zone sameAs="#z_ed2_461" xml:id="z_ed3-p3_008" ulx="1030" uly="863" lrx="1307" lry="885"
@@ -6390,7 +6348,7 @@
         <zone sameAs="#z_ed2_676" corresp="#pers_00143" ana="#author" xml:id="z_ed3-p3_225"
           ulx="411" uly="4911" lrx="489" lry="4943" littafel:href="#a_Virgil"
           ><line>Virgil</line></zone>
-        <zone sameAs="#z_ed2_677" corresp="#pers_02000" ana="#author" xml:id="z_ed3-p3_226"
+        <zone sameAs="#z_ed2_677" corresp="#pers_00144" ana="#author" xml:id="z_ed3-p3_226"
           ulx="553" uly="4908" lrx="612" lry="4932" littafel:href="#a_Ovid"><line>Ovid</line></zone>
         <zone sameAs="#z_ed2_678" corresp="#pers_00145" ana="#author" xml:id="z_ed3-p3_227"
           ulx="631" uly="4998" lrx="712" lry="5029" littafel:href="#a_Voss"><line>Voss</line></zone>
@@ -6406,7 +6364,7 @@
         <zone sameAs="#z_ed2_682" corresp="#pers_00113" ana="#author" xml:id="z_ed3-p3_231"
           ulx="331" uly="5113" lrx="438" lry="5137" littafel:href="#a_Petrarca"
             ><line>Petrarca</line></zone>
-        <zone sameAs="#z_ed2_683" corresp="#pers_02115" ana="#author" xml:id="z_ed3-p3_232"
+        <zone sameAs="#z_ed2_683" corresp="#pers_00150" ana="#author" xml:id="z_ed3-p3_232"
           ulx="456" uly="5131" lrx="620" lry="5152" littafel:href="#a_Bocaccio"
             ><line>Bocaccio</line></zone>
         <zone sameAs="#z_ed2_684" corresp="#pers_00151" ana="#author" xml:id="z_ed3-p3_233"
@@ -6436,7 +6394,7 @@
         <zone sameAs="#z_ed2_692" corresp="#pers_00159" ana="#author" xml:id="z_ed3-p3_241"
           ulx="333" uly="5521" lrx="456" lry="5537" littafel:href="#a_ETA-Hoffmann"><line>E.T.A.
             Hoffmann</line></zone>
-        <zone sameAs="#z_ed2_693" corresp="#pers_00160" ana="#author" xml:id="z_ed3-p3_242"
+        <zone sameAs="#z_ed2_693" corresp="#pers_00133" ana="#author" xml:id="z_ed3-p3_242"
           ulx="334" uly="5543" lrx="418" lry="5566" littafel:href="#a_H-v-Kleist"
             ><line>H.v.Kleist</line></zone>
         <zone sameAs="#z_ed2_694" corresp="#pers_00161" ana="#author" xml:id="z_ed3-p3_243"
