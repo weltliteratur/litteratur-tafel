@@ -9,11 +9,17 @@
         <editor>Ingo Börner</editor>
         <editor>Frank Fischer</editor>
         <editor>Angelika Hechtl</editor>
+        <editor>Peer Trilcke</editor>
       </titleStmt>
+      <editionStmt>
+        <edition>Alpha <date>August 2016</date></edition>
+      </editionStmt>
       <publicationStmt>
-        <publisher>
+        <distributor>
+          <title type="main">weltliteratur.net</title>
+          <title type="sub">A Black Market for the Digital Humanities</title>
           <ref>http://weltliteratur.net</ref>
-        </publisher>
+        </distributor>
       </publicationStmt>
       <sourceDesc>
         <listWit>
@@ -244,7 +250,8 @@
           </person>
           <person xml:id="pers_01025" littafel:href="#a_Williram"
             littafel:coords="1001,6562,1114,6589">
-            <persName><forename>Willeramus</forename>
+            <persName>
+              <forename>Willeramus</forename>
               <addName>Eberspergensis</addName>
             </persName>
             <idno type="GND">118633406</idno>
@@ -2102,9 +2109,9 @@
           <person xml:id="pers_00171" littafel:href="#a_Bulwer"
             littafel:coords="1243,5535,1340,5566">
             <persName>
-              <forename></forename>
-              <surname><forename>Edward George</forename><surname>Bulwer-Lytton</surname></surname></persName>
-            
+              <persName>
+                <forename>Edward George</forename><surname>Bulwer-Lytton</surname></persName>
+            </persName>
             <idno type="GND">11866493X</idno>
           </person>
           <person xml:id="pers_00172" littafel:href="#a_Arndt" littafel:coords="1367,5510,1420,5527">
@@ -6649,11 +6656,11 @@
           <lb/>Die vorliegende Arbeit soll zunächst nur ein <lb/>Versuch sein: wie der Titel besagt,
           die Geschichte <lb/>unsrer deutschen Litteratur und den Einfluß frem<lb break="no"/>der
           Litteraturen auf ihren Verlauf, vom Beginn <lb/>einer schriftlichen Ueberlieferung an,
-          durch graphi<lb break="no"/>sche Darstellung übersichtlich zu machen. Es <emph>kann</emph>
+          durch graphi<lb break="no"/>sche Darstellung übersichtlich zu machen. Es <emph>kann</emph> 
           <lb/>auch nur ein Versuch sein, denn ihre absolute Lö<lb break="no"/>sung in derartiger
           Fassung wäre wissenschaftlich <lb/>nur möglich in detailliertester Specialzeichnung,
           <lb/>und eine solche hinwiederum nur auf Grund end<lb break="no"/>gültig abgeschlossener
-          Resultate umfassendster Quel <lb break="no"/>lenforschung Diese aber steht hier trotz der
+          Resultate umfassendster Quel<lb break="no"/>lenforschung. Diese aber steht hier trotz der
             un<lb break="no"/>vergleichlichen Ergebnisse, zu denen sie in dem kur<lb break="no"/>zen
           Zeitraum vielleicht der letzten 75 Jahre gekom<lb break="no"/>men ist, doch noch vor
           vielen Lücken, namentlich <lb/>was die ältere Zeit anbelangt. Es konnte sich des<lb
@@ -6692,7 +6699,7 @@
           einzelnen Luftteilchen <lb/>oder Feldsteinen abzirkeln läßt. </p>
         <p>
           <lb/>Die Tafel soll vor allem zu einem Ueberblick <lb/>über das Große und Ganze dienen, zu
-          einer Ver <pb ed="#ed-3Tausend" facs="Vorwort-3tsd_Seite_2.tiff.txt" break="no"/>
+          einer Ver<pb ed="#ed-3Tausend" facs="Vorwort-3tsd_Seite_2.tiff.txt" break="no"/>
           <cb break="no" n="3"/>
           <fw>— 3 —</fw>
           <lb break="no"/>anschaulichung des Gesamtverlaufs unserer Dich<lb break="no"/>tung und
@@ -6818,8 +6825,7 @@
           />nerhalb des Flusses anzuweisen, in wie weit er <lb/>unter diesem oder jenem Einfluß
           steht, muß dem <lb/>überlassen bleiben, der sich des Näheren damit <lb/>beschäftigt hat,
           der da weiß, daß Walter von <lb/>der Vogelweide z. B. nicht mit den Nachahmern <lb/>der
-          provençalischen Lyrik geht, sondern daß <emph>er</emph>
-          <lb/>gerade, im Gegensatz zu diesen, einer reindeutschen <lb/>Lyrik Bahn bricht. Aus der
+          provençalischen Lyrik geht, sondern daß <emph>er</emph> <lb/>gerade, im Gegensatz zu diesen, einer reindeutschen <lb/>Lyrik Bahn bricht. Aus der
           Zeichnung kann so<lb break="no"/>wohl das eine als das andre erlesen werden, doch <lb/>ist
           einem leichteren Zurechtfinden durch möglichst <lb/>genauen Druck an der entsprechenden
           Stelle ent<lb break="no"/>gegengekommen. Nur bei den hervorragendsten Ver <lb break="no"
