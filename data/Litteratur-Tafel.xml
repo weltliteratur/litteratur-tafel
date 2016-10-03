@@ -1544,7 +1544,7 @@
           </person>
           <person xml:id="pers_00075" littafel:href="#a_Paul-Flemming"
             littafel:coords="252,2831,421,2858">
-            <persName><forename>Paul</forename><surname>Fleming</surname></persName>
+            <persName><forename>Paul</forename><surname sort="1">Fleming</surname></persName>
             <idno type="GND">118533908</idno>
           </person>
 
