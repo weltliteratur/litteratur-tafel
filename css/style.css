@@ -1,0 +1,143 @@
+body {  
+	background-color:black;
+	}
+
+	
+body.modal-open { 
+	/*fixes modals-Bug: https://github.com/twbs/bootstrap/issues/9886 */
+	overflow:inherit; padding-right:inherit !important; 
+}
+	
+footer {
+	margin-top:30px;
+	height: 120px;
+	background-color:#D2B48C;
+	border:1;
+}
+
+
+footer .container {
+	padding-top:50px;
+	height:20px;
+	} 
+
+
+a {
+color: #B22222;
+}
+
+a:hover {
+ color: #8B0000;
+}
+
+.btn-default:hover {
+	background-color: #8B0000;
+	color:white;
+	border-color:#B22222;
+}
+	
+.navbar {
+	background-color:none;
+	border:0;
+	background-color:white;
+}
+
+
+.navbar-elevated {
+	box-shadow: 0px 5px 10px grey;
+	border:1;
+}
+
+.navbar span {
+	font-size:140%;
+	}
+
+#nav-title {
+	color: black;
+	font-family: 'Jacques Francois', serif;
+	font-size:180%;
+	text-shadow:  1px 1px 0px white, 2px 2px 0px black;
+}
+
+#title-Part {
+	margin-bottom: 3em;
+}
+
+#start {
+	background-color:white;
+	 background-image: url("../img/Flaischlen-Background.png");
+	height: 100vh;
+}
+
+#start h3  {
+	font-size:150%;
+}
+
+
+#start p {
+	font-size:100%;
+}
+
+#start-image {
+	height:40vh
+}
+
+#scroll {
+	position: absolute;
+	bottom:0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+
+#main-title {
+	font-family: 'Jacques Francois', serif;
+	text-shadow:  1px 1px 0px white, 2px 2px 0px black;
+}
+
+#sub-title {
+	font-family: 'Jacques Francois', serif;
+	font-size:190%;
+	margin-top:0em;
+}
+
+#byline {
+	color: black;
+	font-size:220%;
+	font-family: 'Jacques Francois', serif;
+	text-shadow:  1px 1px 0px white, 2px 2px 0px black;
+}
+
+#can-scroll {
+position:absolute;
+bottom:0px;
+left:0px;
+width:100%
+}
+
+#can-scroll span {
+	width: 100%;
+	font-size:250%;
+	color:grey;
+}
+
+#info-modal .modal-dialog , #facs-view .modal-dialog , #introduction .modal-dialog{
+	width:75%;
+}
+
+#legend-buttons {
+	position: fixed;
+	bottom: 20px;
+	right:20px;
+	
+}
+
+#legend-buttons span {
+	font-size:250%;
+	color:grey;
+}
+
+.pb {
+	display:none;
+}	
+	
