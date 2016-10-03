@@ -1081,12 +1081,14 @@
           <person xml:id="pers_02145" littafel:href="#pers_Rudolf-I-Habsburg"
             littafel:coords="1569,3505,1706,3577">
             <!-- check date! -->
-            <persName><forename>Rudolf</forename> <genName>I</genName> <nameLink>von</nameLink> <surname>Habsburg</surname></persName>
+            <persName><forename>Rudolf</forename> <genName>I</genName> <nameLink>von</nameLink> <addName>Habsburg</addName></persName>
             <idno type="GND">11860371X</idno>
           </person>
           <person xml:id="pers_02146" littafel:href="#pers_Adolf-Nassau"
             littafel:coords="1590,3731,1694,3798">
-            <persName><forename>Adolf</forename> <addName>von Nassau</addName></persName>
+            <persName><forename>Adolf</forename> 
+              <nameLink>von</nameLink>
+              <addName>Nassau</addName></persName>
             <idno type="GND">118637606</idno>
           </person>
           <person xml:id="pers_02147" littafel:href="#pers_Albrecht-I-Österreich"
@@ -1218,7 +1220,8 @@
 
           <person xml:id="pers_00012" littafel:href="#pers_Maximilian-I"
             littafel:coords="1423,698,1563,727">
-            <persName>Maximilian I.</persName>
+            <persName><forename sort="1">Maximilian</forename> 
+              <genName>I.</genName></persName>
             <idno type="GND">118579371</idno>
           </person>
           <person xml:id="pers_00013" littafel:href="#pers_Karl-V"
@@ -1578,7 +1581,7 @@
           </person>
           <person xml:id="pers_00081" littafel:href="#a_Philipp-von-Zesen"
             littafel:coords="643,2852,812,2875">
-            <persName><forename>Philipp</forename> <nameLink>von</nameLink> <surname>Zesen</surname></persName>
+            <persName><forename>Philipp</forename> <nameLink>von</nameLink> <surname sort="1">Zesen</surname></persName>
             <idno type="GND">118636596</idno>
           </person>
 
