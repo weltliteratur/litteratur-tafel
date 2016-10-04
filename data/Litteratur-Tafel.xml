@@ -1701,7 +1701,7 @@
           <person xml:id="pers_00068" littafel:href="#a_Friedrich-Logau"
             littafel:coords="1221,2613,1433,2644">
             <persName><forename>Friedrich</forename>
-              <addName>von</addName>
+              <nameLink>von</nameLink>
               <surname sort="1">Logau</surname></persName>
             <idno type="GND">11872889X</idno>
           </person>
@@ -1809,7 +1809,7 @@
 
           <person xml:id="pers_00084" littafel:href="#a_Hoffman-von-Hoffmanswaldau"
             littafel:coords="251,3111,545,3131">
-            <persName><roleName>Hofmann</roleName> <nameLink>von</nameLink> <surname sort="1">Hofmannswaldau</surname>
+            <persName><surname sort="1">Hofmann von Hofmannswaldau</surname>
               <forename>Christian</forename></persName>
             <idno type="GND">118706187</idno>
           </person>
@@ -4136,7 +4136,7 @@
         <zone ana="#author" corresp="#pers_00066" littafel:href="#a_Zinkgreff" xml:id="z_ed2_588"
           ulx="4003" uly="2484" lrx="4143" lry="2510" sameAs="#z_ed3-p3_135"><line>J.W.
             Zinkgreff</line></zone>
-        <zone ana="#author" corresp="#" littafel:href="#a_Friedrich-Speer" xml:id="z_ed2_589"
+        <zone ana="#author" corresp="#pers_00067" littafel:href="#a_Friedrich-Speer" xml:id="z_ed2_589"
           ulx="3965" uly="2535" lrx="4128" lry="2556" sameAs="#z_ed3-p3_136"><line>Friedrich
             Speer</line></zone>
         <zone ana="#author" corresp="#pers_00068" littafel:href="#a_Friedrich-Logau"
@@ -6390,7 +6390,7 @@
         <zone sameAs="#z_ed2_588" corresp="#pers_00066" ana="#author" xml:id="z_ed3-p3_135"
           ulx="1088" uly="2540" lrx="1241" lry="2569" littafel:href="#a_Zinkgreff"><line>J.W.
             Zinkgreff</line></zone>
-        <zone sameAs="#z_ed2_589" corresp="#" ana="#author" xml:id="z_ed3-p3_136" ulx="1046"
+        <zone sameAs="#z_ed2_589" corresp="#pers_00067" ana="#author" xml:id="z_ed3-p3_136" ulx="1046"
           uly="2598" lrx="1224" lry="2621" littafel:href="#a_Friedrich-Speer"><line>Friedrich
             Speer</line></zone>
         <zone sameAs="#z_ed2_590" corresp="#pers_00068" ana="#author" xml:id="z_ed3-p3_137"
