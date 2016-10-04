@@ -1,13 +1,13 @@
-body {  
+body {
 	background-color:black;
 	}
 
-	
-body.modal-open { 
+
+body.modal-open {
 	/*fixes modals-Bug: https://github.com/twbs/bootstrap/issues/9886 */
-	overflow:inherit; padding-right:inherit !important; 
+	overflow:inherit; padding-right:inherit !important;
 }
-	
+
 footer {
 	margin-top:30px;
 	height: 120px;
@@ -19,7 +19,7 @@ footer {
 footer .container {
 	padding-top:50px;
 	height:20px;
-	} 
+	}
 
 
 a {
@@ -35,7 +35,7 @@ a:hover {
 	color:white;
 	border-color:#B22222;
 }
-	
+
 .navbar {
 	background-color:none;
 	border:0;
@@ -129,7 +129,7 @@ width:100%
 	position: fixed;
 	bottom: 20px;
 	right:20px;
-	
+
 }
 
 #legend-buttons span {
@@ -139,5 +139,10 @@ width:100%
 
 .pb {
 	display:none;
-}	
-	
+}
+
+/* Indices */
+
+.index ul {
+	list-style-type: none;
+}
