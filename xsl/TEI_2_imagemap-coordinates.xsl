@@ -34,11 +34,11 @@
   <!-- select x-range for extracting zones; allows slicing of SUB's image -->
   <xsl:param name="from-x-coordinate">
     <!-- SUB not sliced, maximum lrx value if bigger, would be next slice -->
-    1040
+    221
   </xsl:param>
   <xsl:param name="to-x-coordinate">
     <!-- SUB not sliced, maximum lrx value if bigger, would be next slice -->
-    1300
+    1066
   </xsl:param>
   
  
@@ -68,7 +68,10 @@
     <xsl:for-each select="//tei:zone[ancestor::tei:surfaceGrp[@xml:id eq $map-ed]][contains(@ana,'#author')][number(@ulx) &gt; number($from-x-coordinate)][number(@lrx) &lt; number($to-x-coordinate)]">
       <!-- <area shape="rect" coords="474,776,737,820" alt="Volkspoesie" href="#h2_Volkspoesie" /> -->
       <xsl:element name="area">
-          <xsl:attribute name="shape">
+        <xsl:attribute name="id">
+          <xsl:value-of select="@xml:id"/>
+        </xsl:attribute>  
+        <xsl:attribute name="shape">
             <xsl:text>rect</xsl:text>
           </xsl:attribute>
           <xsl:attribute name="coords">
