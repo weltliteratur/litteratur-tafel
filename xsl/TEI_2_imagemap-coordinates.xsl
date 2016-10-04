@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Generates areas for a .map File, that can be edited in the GIMP-Imagemap-Tool -->
+<!-- also works for transforming zones to html:imagemap areas 
+set the params accordingly:
+Reference Points for the slices see wiki: https://github.com/weltliteratur/litteratur-tafel/wiki/Coordinates-cheat-sheet
+-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:tei="http://www.tei-c.org/ns/1.0"
@@ -16,29 +20,29 @@
   </xsl:param>
   
   <xsl:param name="reference-pt-old-x">
-    210
+    3193
   </xsl:param>
   
   <xsl:param name="reference-pt-old-y">
-    155
+    874
   </xsl:param>
   
   <xsl:param name="reference-pt-new-x">
-    221
+    105
   </xsl:param>
   
   <xsl:param name="reference-pt-new-y">
-    266
+    227
   </xsl:param>
   
   <!-- select x-range for extracting zones; allows slicing of SUB's image -->
   <xsl:param name="from-x-coordinate">
     <!-- SUB not sliced, maximum lrx value if bigger, would be next slice -->
-    221
+    3082
   </xsl:param>
   <xsl:param name="to-x-coordinate">
     <!-- SUB not sliced, maximum lrx value if bigger, would be next slice -->
-    1066
+    4517
   </xsl:param>
   
  
