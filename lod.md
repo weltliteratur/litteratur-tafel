@@ -17,7 +17,7 @@ Herausforderungen:
 
 - author CäsarFlaischlen
 - year 1890
-- instance [littaImage](#littaImage) *Soll auf eine konkrete
+- instance [littaImage](#littaimage) *Soll auf eine konkrete
   Repräsentation verweisen (rja, 2016-11-08)*
 
 ## littaImage
@@ -27,8 +27,8 @@ Herausforderungen:
 - mimeType PNG
 - dimensions "x,y"
 - hasURI URI
-- contains [rectangle](#rectangle) *Links zu den einzelnen Teilen,
-  könnten wir weglassen*
+- contains [rectangle](#rectangle) *(Links zu den einzelnen Teilen,
+  könnten wir weglassen)*
 
 ## person
 
@@ -36,18 +36,18 @@ Herausforderungen:
 
 - [rdfs:type](https://www.w3.org/TR/rdf-schema/#ch_type) [writer](https://www.wikidata.org/wiki/Q36180)
 - [rdfs:label](https://www.w3.org/TR/rdf-schema/#ch_label) "Vorname Nachname"
-- hasGND "id" *könnten wir uns auch sparen, wenn wir schon zu WikiData
-  verlinkt haben, da dort die GND ja verlinkt ist (rja, 2016-11-08)*
+- hasGND "id" *(könnten wir uns auch sparen, wenn wir schon zu WikiData
+  verlinkt haben, da dort die GND ja verlinkt ist, rja, 2016-11-08)*
 - [owl:sameAs](https://www.w3.org/TR/owl-ref/#sameAs-def) wikidataId
-- mentionedIn [rectangle](#rectangle) *ein erster Versuch (rja,
+- mentionedIn [rectangle](#rectangle) *(ein erster Versuch, rja,
   2016-11-08)*
-- influencedBy [influenceStatement](#influenceStatement)
+- influencedBy [influenceStatement](#influencestatement)
 
 ## rectangle
 
 *eine BoundingBox für eine konkrete Person*
 
-- partOf [littaImage](#littaImage)
+- partOf [littaImage](#littaimage)
 - pos "x,y"
 - size "h,w"
 - mentions [person](#person)
