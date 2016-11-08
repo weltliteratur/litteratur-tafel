@@ -17,7 +17,7 @@ Herausforderungen:
 
 - author CäsarFlaischlen
 - year 1890
-- instance [littaImage](#littaimage) *Soll auf eine konkrete
+- instance [littaImage](#littaimage) *(soll auf eine konkrete
   Repräsentation verweisen (rja, 2016-11-08)*
 
 ## littaImage
