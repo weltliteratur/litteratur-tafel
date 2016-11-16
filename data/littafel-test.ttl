@@ -2,10 +2,18 @@
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+# TODO!
+@prefix owl: 
+
 
 # für die eigenen Sachen braucht's einen namespace
 @prefix littafel: <http://litteratur-tafel.weltliteratur.net/> .
 # soll man da unterscheiden zwischen entities und dem vokabular/der ontology?
+# Technisch ist das Geschmackssache, da gibt es sicher Empfehlungen zu
+# DBpedia macht es so:
+# http://dbpedia.org/resource/John_Irving
+# http://dbpedia.org/ontology/birthDate
+# aber an sich sollten wir eh kein neues Vokabular definieren sondern existierendes wiederverwenden.
 
 # Welche Vocabularies?
 
@@ -17,33 +25,54 @@
 
 #http://cidoc-crm.org/official_release_cidoc.html ???
 
-#wikidata
-@prefix wikidata: <https://www.wikidata.org/wiki/> . #gibt's da ein kanonisches prefix?
+# Wikidata
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
 
 # TEI
 @prefix tei: <http://www.tei-c.org/ns/1.0/> . # kann ich elemente als RDF dann so ansprechen tei:forename ???
+# Wozu TEI?
 
 
 # litteraturTafel
 # soll sein: eine abstrakte Beschreibung der Tafel ...
 
+littafel:litteraturTafel a foaf:document ;
+# foaf:document ist meine Verlegenheitslösung
+# wir könnten auch bibo:Document nehmen
+      	wdt:P31 wd:PXXXX; # instanceOf TODO: Written Work o.Ä.?
 
-littafel:litteraturTafel a foaf:document ; # foaf:document ist meine Verlegenheitslösung, IB entspricht tei:TEI, also der Digitalen Edition auf weltliteratur.net? Wenn nicht, müssen wir irgendwo die Edition definieren, damit man auch Aussagen über die Webseite treffen kann hasURI, dc:creator, Version, andere Repräsentation beispielsweise das TEI-Dokument ...
+# IB entspricht tei:TEI, also der Digitalen Edition auf
+# weltliteratur.net? Wenn nicht, müssen wir irgendwo die Edition
+# definieren, damit man auch Aussagen über die Webseite treffen kann
+# hasURI, dc:creator, Version, andere Repräsentation beispielsweise
+# das TEI-Dokument ...
         rdfs:label "Graphische Litteratur-Tafel" ;
-        dc:creator wikidata:Q69363 #@prefix von wikidata weiß ich nicht
-        dc:date "1980" ; #sorry, da kenn ich mich grad nicht aus, wie man den Datentyp festlegt xs:date ??
+        dc:creator wd:Q69363
+	wdt:P50  wd:Q69363  # wdt:P50 = author , P170 = creator
+        dc:date "1890"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+	# sorry, da kenn ich mich grad nicht aus, wie man den Datentyp festlegt xs:date ??
+	# falls der genaue Tag bekannt ist: "1988-09-17"^^<http://www.w3.org/2001/XMLSchema#date>
         foaf:depiction littafel:littaImage .
+        dcterms:language <http://id.loc.gov/vocabulary/iso639-2/ger> .
 
 
-# WICHTIG: Hier fehlt etwas! unterhalb von "abstrakte Beschreibung" gibt es "abstrakte Edition/Ausgabe" darunter "konkretes Exemplar", das digitalisiert wurde
-# Angelika Hechtl hat im ZVAB ein konkretes Exemplar erworben, die SUB hat ein anderes digitalisiert
-# zumindest das Exemplar in der Bibliothek in Göttingen kann man verlinken, nachdem es im Katalog eine konkrete ID hat
 
-# Wir haben mehrere Images; müssen vielleicht unterhalb von littafel:litteraturTafel noch die unterschiedlichen Ausgaben anlegen:
-# zwischen littafel:litteraturTafel und littafel:littaImage muss man noch die Edition einschieben, wie sie tei:witness beschreibt
+# WICHTIG: Hier fehlt etwas! unterhalb von "abstrakte Beschreibung"
+# gibt es "abstrakte Edition/Ausgabe" darunter "konkretes Exemplar",
+# das digitalisiert wurde Angelika Hechtl hat im ZVAB ein konkretes
+# Exemplar erworben, die SUB hat ein anderes digitalisiert zumindest
+# das Exemplar in der Bibliothek in Göttingen kann man verlinken,
+# nachdem es im Katalog eine konkrete ID hat
 
+# Wir haben mehrere Images; müssen vielleicht unterhalb von
+# littafel:litteraturTafel noch die unterschiedlichen Ausgaben anlegen:
+# zwischen littafel:litteraturTafel und littafel:littaImage muss man
+# noch die Edition einschieben, wie sie tei:witness beschreibt
 
-# Hier wird's schwierig. Wir haben mehrere Bilddaten. Die Webseite zeigt 3 Teile vom Göttingen-Scan an, allerdings sind das Derivate davon – ich habe den Kartentitel entfernt!!
+# Hier wird's schwierig. Wir haben mehrere Bilddaten. Die Webseite
+# zeigt 3 Teile vom Göttingen-Scan an, allerdings sind das Derivate
+# davon – ich habe den Kartentitel entfernt!!
 # Die Koordinaten errechnet das XSLT:
 
 # https://github.com/weltliteratur/litteratur-tafel/wiki/Coordinates-cheat-sheet
@@ -54,7 +83,7 @@ littafel:litteraturTafel a foaf:document ; # foaf:document ist meine Verlegenhei
 # Bsp aus dem TEI: <surfaceGrp xml:id="map-ed2"> hier: https://github.com/weltliteratur/litteratur-tafel/blob/gh-pages/data/Litteratur-Tafel.xml#L2673
 # Muss überlegen, auf Grundlage welcher konkreten Datei wir die Koordinaten ermittelt haben
 
-littafel:littaImage a foaf:image . #Verlegenheitslösung foaf; vorsicht, wenn erweitern dann . durch ; ersetzen
+littafel:littaImage a foaf:image . # Verlegenheitslösung foaf; vorsicht, wenn erweitern dann . durch ; ersetzen
         #Namespace für mimeType ??
         #dimensions
         #hasURI: ist das der Link auf das Göttingen Repo?
@@ -81,16 +110,20 @@ littafel:littaImage a foaf:image . #Verlegenheitslösung foaf; vorsicht, wenn er
 
 #person
 littafel:pers_00127 a foaf:person ; #interne IDs vergeben wie zu den tei:person Einträgen im XML?
-        rdfs:type "writer" ; #hier die dbpedia-typen? oder schema.org?? oder mach ich das schon in der 1. Zeile mit a
+        # sollte das nicht foaf:Person sein? (Klassen mit großem Anfangsbuchstaben?)
+        rdfs:type wd:Q36180 ; #hier die dbpedia-typen? oder schema.org?? oder mach ich das schon in der 1. Zeile mit a
+	                      # Je nachdem, was wir ausdrücken wollen. Wenn uns wichtig ist, zu sagen, dass das eine foaf:Person ist, aber (z.B.) wd:Writer nicht eine Unterklasse von foaf:Person ist, dann müssen wir da beides drankleben.
         rdfs:label "Johann Wolfgang von Goethe" ;
         #hasGND ??
-        owl:sameAs wikidata:Q5879 .
+        owl:sameAs wd:Q5879 .
         #mentionedIn
         #influencedBy
         #owl:sameAs tei:person-Eintrag im littafel-tei-XML-Dokument? Kann man hier verlinken?
 
 # wenn ich das dann als RDFa in HTML einbinden, welche Prädikate benötige ich, um die vorhandenen Infos aus dem TEI-File abzubilden?
 # die TEI hat keine RDF Repräsentation, oder doch; siehe @prefix Deklaration oben..
+# RDFa müsste ich mir erstmal wieder anschauen. Ich habe zuletzt immer mit schema.org gearbeitet. 
+#
 
 
 #rectangle
@@ -99,6 +132,7 @@ littafel:pers_00127 a foaf:person ; #interne IDs vergeben wie zu den tei:person 
 
 littafel:z_ed2_660 a rdfs:type "BoundingBox" . #die Zonen tei:zone in der Tafel haben alle eine eideutige ID im TEI-XML Dokument
         #partOf ?
+	# wd:P361 = partOf
         #pos hier gibt's im TEI tei:ulx ... das muss man mappen
         #size siehe pos
         #Bsp.:
