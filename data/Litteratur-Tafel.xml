@@ -1822,16 +1822,16 @@
           </person>
 
           <person xml:id="pers_00086" littafel:href="#a_Canitz" littafel:coords="769,3834,824,3854">
-            <persName>Canitz</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Friedrich</forename> <nameLink>von</nameLink> <surname sort="1">Canitz</surname></persName>
+            <idno type="GND">119171090</idno>
           </person>
           <person xml:id="pers_00087" littafel:href="#a_Besser" littafel:coords="768,3857,831,3875">
-            <persName>Besser</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann</forename> <nameLink>von</nameLink> <surname sort="1">Besser</surname></persName>
+            <idno type="GND">11851024X</idno>
           </person>
           <person xml:id="pers_00088" littafel:href="#a_König" littafel:coords="769,3878,821,3898">
-            <persName>König</persName>
-            <idno type="GND">none</idno>
+            <persName><forename>Johann Ulrich</forename> <nameLink>von</nameLink> <surname sort="1">König</surname></persName>
+            <idno type="GND">118777661</idno>
           </person>
           <person xml:id="pers_00089" littafel:href="#a_Pietsch" littafel:coords="772,3895,831,3916">
             <persName><forename>Ludwig</forename><surname sort="1">Pietsch</surname></persName>
@@ -4213,64 +4213,74 @@
           lrx="3648" lry="3206" sameAs="#z_ed3-p3_164"><line>Christian Gryphius</line></zone>
         <zone ana="#author" corresp="#pers_00086" littafel:href="#a_Canitz" xml:id="z_ed2_616"
           ulx="3671" uly="3704" lrx="3721" lry="3722" sameAs="#z_ed3-p3_165"
-          ><line>Canitz</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Canitz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00087" littafel:href="#a_Besser" xml:id="z_ed2_617"
           ulx="3668" uly="3722" lrx="3726" lry="3738" sameAs="#z_ed3-p3_166"
-          ><line>Besser</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Besser</seg></line></zone>
         <zone ana="#author" corresp="#pers_00088" littafel:href="#a_König" xml:id="z_ed2_618"
           ulx="3670" uly="3739" lrx="3718" lry="3757" sameAs="#z_ed3-p3_167"
-          ><line>König</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">König</seg></line></zone>
         <zone ana="#author" corresp="#pers_00089" littafel:href="#a_Pietsch" xml:id="z_ed2_619"
           ulx="3670" uly="3761" lrx="3724" lry="3781" sameAs="#z_ed3-p3_168"
-          ><line>Pietsch</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Pietsch</seg></line></zone>
         <zone ana="#author" corresp="#pers_00090" littafel:href="#a_Corneille" xml:id="z_ed2_620"
           ulx="3301" uly="3745" lrx="3406" lry="3769" sameAs="#z_ed3-p3_169"
-          ><line>Corneille</line></zone>
+          ><line><seg style="font-family: serif; font-size: 8pt; text-decoration: underline; text-decoration-color: red;">Corneille</seg></line></zone>
         <zone ana="#author" corresp="#pers_00091" littafel:href="#a_Racine" xml:id="z_ed2_621"
           ulx="3310" uly="3785" lrx="3401" lry="3807" sameAs="#z_ed3-p3_170"
-          ><line>Racine</line></zone>
+          ><line><seg style="font-family: serif; font-size: 8pt; text-decoration: underline; text-decoration-color: red;">Racine</seg></line></zone>
         <zone ana="#author" corresp="#pers_00092" littafel:href="#a_Molière" xml:id="z_ed2_622"
           ulx="3210" uly="3821" lrx="3305" lry="3844" sameAs="#z_ed3-p3_171"
-          ><line>Molière</line></zone>
+          ><line><seg style="font-family: serif; font-size: 8pt; text-decoration: underline; text-decoration-color: red;">Molière</seg></line></zone>
         <zone ana="#author" corresp="#pers_00093" littafel:href="#a_Regnard" xml:id="z_ed2_623"
           ulx="3234" uly="3868" lrx="3323" lry="3895" sameAs="#z_ed3-p3_172"
-          ><line>Regnard</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: red;">Regnard</seg></line></zone>
         <zone ana="#author" corresp="#pers_00094" littafel:href="#a_Destouches" xml:id="z_ed2_624"
           ulx="3241" uly="3908" lrx="3349" lry="3924" sameAs="#z_ed3-p3_173"
-          ><line>Destouches</line></zone>
+          ><line><seg style="font-family: serif; font-size: 6pt; text-decoration: underline; text-decoration-color: red;">Destouches</seg></line></zone>
         <zone ana="#author" corresp="#pers_00095" littafel:href="#a_Lafontaine" xml:id="z_ed2_625"
           ulx="3363" uly="3908" lrx="3457" lry="3926" sameAs="#z_ed3-p3_174"
-          ><line>Lafontaine</line></zone>
+          ><line><seg style="font-family: serif; font-size: 6pt; text-decoration: underline; text-decoration-color: red;">Lafontaine</seg></line></zone>
         <zone ana="#author" corresp="#pers_00096" littafel:href="#a_Defoe" xml:id="z_ed2_626"
           ulx="4105" uly="3793" lrx="4173" lry="3814" sameAs="#z_ed3-p3_175"
-          ><line>Defoe</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: blue;">Defoe</seg></line></zone>
         <zone ana="#author" corresp="#pers_00097" littafel:href="#a_Johan-Christian-Günther"
           xml:id="z_ed2_627" ulx="4068" uly="3840" lrx="4310" lry="3862" sameAs="#z_ed3-p3_176"
-            ><line>Johan Christian Günther</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt;">Johan̄ Christian Günther</seg></line></zone>
         <zone ana="#author" corresp="#pers_00098" littafel:href="#a_Horaz" xml:id="z_ed2_628"
           ulx="4139" uly="3890" lrx="4202" lry="3912" sameAs="#z_ed3-p3_177"
-          ><line>Horaz</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: black;">Horaz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00099" littafel:href="#a_Homer" xml:id="z_ed2_629"
           ulx="4075" uly="3903" lrx="4139" lry="3926" sameAs="#z_ed3-p3_178"
-          ><line>Homer</line></zone>
+          ><line><seg style="font-family: serif; font-size: 6pt; text-decoration: underline; text-decoration-color: black;">Homer</seg></line></zone>
         <zone ana="#author" corresp="#pers_00100" littafel:href="#a_Martial" xml:id="z_ed2_630"
           ulx="4149" uly="3917" lrx="4225" lry="3938" sameAs="#z_ed3-p3_179"
-          ><line>Martial</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: black;">Martial</seg></line></zone>
         <zone ana="#author" corresp="#pers_00101" littafel:href="#a_Catull" xml:id="z_ed2_631"
           ulx="4132" uly="3942" lrx="4205" lry="3963" sameAs="#z_ed3-p3_180"
-          ><line>Catull</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: black;">Catull</seg></line></zone>
         <zone littafel:href="#news_the-Spectator" xml:id="z_ed2_632" ulx="4097" uly="3996"
-          lrx="4293" lry="4022" sameAs="#z_ed3-p3_181"><line>the Spectator</line></zone>
+          lrx="4293" lry="4022" sameAs="#z_ed3-p3_181"><line><seg style="font-family: serif; font-size: 7pt; font-weight: lighter; text-decoration: underline; text-decoration-color: blue;">the Spectator</seg></line></zone>
         <zone ana="#author" corresp="#pers_00102" littafel:href="#a_Milton" xml:id="z_ed2_633"
           ulx="4192" uly="4083" lrx="4269" lry="4106" sameAs="#z_ed3-p3_182"
-          ><line>Milton</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: blue;">Milton</seg></line></zone>
+        <!-- ERROR!! -->
         <zone littafel:href="" xml:id="z_ed2_634" ulx="4105" uly="4119" lrx="4243" lry="4146"
-          sameAs="#z_ed3-p3_183"><line>Young Pope</line></zone>
+          sameAs="#z_ed3-p3_183"><line><seg style="font-family: serif; font-size: 6pt; text-decoration: underline; text-decoration-color: blue;">Young Pope</seg></line></zone>
+        <!-- ERROR!! (End) -->
         <zone littafel:href="#g_die-Robinsonaden" xml:id="z_ed2_635" ulx="3929" uly="3961"
-          lrx="4021" lry="4000" sameAs="#z_ed3-p3_184"><line>die Robinsonaden</line></zone>
+          lrx="4021" lry="4000" sameAs="#z_ed3-p3_184">
+          <line>
+            <seg style="font-family: serif; font-size: 6pt;">die Robin-</seg>
+          </line>
+          <line>
+            <seg style="font-family: serif; font-size: 6pt;">sonaden</seg>
+          </line>
+          <!-- put @stlye on zone!! -->
+        </zone>
         <zone ana="#author" corresp="#pers_00103" littafel:href="#a_Richardson" xml:id="z_ed2_636"
           ulx="4070" uly="4206" lrx="4188" lry="4228" sameAs="#z_ed3-p3_185"
-          ><line>Richardson</line></zone>
+          ><line><seg style="font-family: serif; font-size: 6pt; text-decoration: underline; text-decoration-color: blue;">Richardson</seg></line></zone>
         <zone ana="#author" corresp="#pers_00104" littafel:href="#a_Bodmer" xml:id="z_ed2_637"
           ulx="3930" uly="4204" lrx="3987" lry="4221" sameAs="#z_ed3-p3_186"
           ><line>Bodmer</line></zone>
@@ -4282,40 +4292,40 @@
           ><line>Haller</line></zone>
         <zone ana="#author" corresp="#pers_00107" littafel:href="#a_Lillo" xml:id="z_ed2_640"
           ulx="4039" uly="4247" lrx="4092" lry="4268" sameAs="#z_ed3-p3_189"
-          ><line>Lillo</line></zone>
+          ><line><seg style="font-family: serif; font-size: 6pt; text-decoration: underline; text-decoration-color: blue;">Lillo</seg></line></zone>
         <zone ana="#author" corresp="#pers_00108" littafel:href="#a_Moore" xml:id="z_ed2_641"
           ulx="4162" uly="4248" lrx="4230" lry="4268" sameAs="#z_ed3-p3_190"
-          ><line>Moore</line></zone>
+          ><line><seg style="font-family: serif; font-size: 6pt; text-decoration: underline; text-decoration-color: blue;">Moore</seg></line></zone>
         <zone ana="#author" corresp="#pers_00109" littafel:href="#a_Fielding" xml:id="z_ed2_642"
           ulx="4146" uly="4291" lrx="4222" lry="4315" sameAs="#z_ed3-p3_191"
-          ><line>Fielding</line></zone>
+          ><line><seg style="font-family: serif; font-size: 5pt; text-decoration: underline; text-decoration-color: blue;">Fielding</seg></line></zone>
         <zone ana="#author" corresp="#pers_00110" littafel:href="#a_Aristoteles" xml:id="z_ed2_643"
           ulx="3963" uly="4422" lrx="4101" lry="4446" sameAs="#z_ed3-p3_192"
-            ><line>Aristoteles</line></zone>
+          ><line><seg style="font-family: serif; font-size: 8pt; text-decoration: underline; text-decoration-color: black;">Aristoteles</seg></line></zone>
         <zone ana="#author" corresp="#pers_00111" littafel:href="#a_Anakreon" xml:id="z_ed2_644"
           ulx="3224" uly="4169" lrx="3335" lry="4189" sameAs="#z_ed3-p3_193"
-          ><line>Anakreon</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: black;">Anakreon</seg></line></zone>
         <zone ana="#author" corresp="#pers_00098" littafel:href="#a_Horaz" xml:id="z_ed2_645"
           ulx="3289" uly="4200" lrx="3359" lry="4222" sameAs="#z_ed3-p3_194"
-          ><line>Horaz</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: black;">Horaz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00113" littafel:href="#a_Petrarca" xml:id="z_ed2_646"
           ulx="3228" uly="4255" lrx="3321" lry="4277" sameAs="#z_ed3-p3_195"
-          ><line>Petrarca</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: brown;">Petrarca</seg></line></zone>
         <zone ana="#author" corresp="#pers_00114" littafel:href="#a_Diderot" xml:id="z_ed2_647"
           ulx="3328" uly="4299" lrx="3438" lry="4328" sameAs="#z_ed3-p3_196"
-          ><line>Diderot</line></zone>
+          ><line><seg style="font-family: serif; font-size: 9pt; text-decoration: underline; border-bottom: 1px solid red; text-decoration-color: red;">Diderot</seg></line></zone>
         <zone ana="#author" corresp="#pers_00115" littafel:href="#a_Rousseau" xml:id="z_ed2_648"
           ulx="3197" uly="4329" lrx="3331" lry="4357" sameAs="#z_ed3-p3_197"
-          ><line>Rousseau</line></zone>
+          ><line><seg style="font-family: serif; font-size: 9pt; text-decoration: underline; border-bottom: 1px solid red; text-decoration-color: red;">Rousseau</seg></line></zone>
         <zone ana="#author" corresp="#pers_00116" littafel:href="#a_Sophocles" xml:id="z_ed2_649"
           ulx="3919" uly="4466" lrx="4030" lry="4492" sameAs="#z_ed3-p3_198"
-          ><line>Sophocles</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: black;">Sophocles</seg></line></zone>
         <zone ana="#author" corresp="#pers_00117" littafel:href="#a_Aeschylus" xml:id="z_ed2_650"
           ulx="4053" uly="4466" lrx="4168" lry="4493" sameAs="#z_ed3-p3_199"
-          ><line>Aeschylus</line></zone>
+          ><line><seg style="font-family: serif; font-size: 7pt; text-decoration: underline; text-decoration-color: black;">Aeschylus</seg></line></zone>
         <zone ana="#author" corresp="#pers_00118" littafel:href="#a_Voltaire" xml:id="z_ed2_651"
           ulx="3192" uly="4450" lrx="3290" lry="4475" sameAs="#z_ed3-p3_200"
-          ><line>Voltaire</line></zone>
+          ><line><seg style="font-family: serif; font-size: 8pt; text-decoration: underline; text-decoration-color: red;">Voltaire</seg></line></zone>
         <zone ana="#author" corresp="#pers_00119" littafel:href="#a_Shakespeare" xml:id="z_ed2_652"
           ulx="4033" uly="4594" lrx="4280" lry="4628" sameAs="#z_ed3-p3_201"
             ><line>Shakespeare</line></zone>
@@ -4351,16 +4361,18 @@
           ><line>Macpherson</line></zone>
         <zone ana="#author" corresp="#pers_00130" littafel:href="#a_Gleim" xml:id="z_ed2_663"
           ulx="3407" uly="4378" lrx="3457" lry="4395" sameAs="#z_ed3-p3_212"
-          ><line>Gleim</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Gleim.</seg></line></zone>
+        <!-- ERROR: Uz – Johann Peter Uz. is missing!!!!! -->
+        <!-- ERROR: VIII  -->
         <zone ana="#author" corresp="#pers_00131" littafel:href="#a_Jacobi" xml:id="z_ed2_664"
           ulx="3426" uly="4402" lrx="3473" lry="4419" sameAs="#z_ed3-p3_213"
-          ><line>Jacobi</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Jacobi.</seg></line></zone>
         <zone ana="#author" corresp="#pers_00132" littafel:href="#a_Ramler" xml:id="z_ed2_665"
           ulx="3476" uly="4402" lrx="3531" lry="4421" sameAs="#z_ed3-p3_214"
-          ><line>Ramler</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Ramler.</seg></line></zone>
         <zone ana="#author" corresp="#pers_00133" littafel:href="#a_Kleist" xml:id="z_ed2_666"
           ulx="3450" uly="4379" lrx="3501" lry="4395" sameAs="#z_ed3-p3_215"
-          ><line>Kleist</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Kleist.</seg></line></zone>
         <zone ana="#author" corresp="#pers_00134" littafel:href="#a_Leisewitz" xml:id="z_ed2_667"
           ulx="3260" uly="4589" lrx="3328" lry="4605" sameAs="#z_ed3-p3_216"
           ><line>Leisewitz</line></zone>
@@ -4826,19 +4838,20 @@
           littafel:href="#a_Gottsched" littafel:new-zone="true"><line>Gottsched =
           Kreis</line></zone>
         <zone xml:id="z_ed2_839" ulx="3476" uly="4007" lrx="3581" lry="4251"
-          littafel:href="#label_Gottsched-Anhänger" littafel:new-zone="true"><line>V Gottsched u.
-            seine Anhänger</line></zone>
+          littafel:href="#label_Gottsched-Anhänger" littafel:new-zone="true"><line><seg style="font-family: fantasy; font-size: 6pt; font-weight: bold;">V Gottsched u.
+            seine Anhänger.</seg></line></zone>
         <zone xml:id="z_ed2_840" ulx="3902" uly="4057" lrx="4040" lry="4117"
-          littafel:href="#label_Schweizer" littafel:new-zone="true"><line>die
-          Schweizer</line></zone>
+          littafel:href="#label_Schweizer" littafel:new-zone="true"><line><seg style="font-family: fantasy; font-size: 6pt; font-weight: bold;">VI die
+          Schweizer</seg></line></zone>
+        <!-- ERROR! -->
         <zone ana="#author" xml:id="z_ed2_841" ulx="4191" uly="4359" lrx="4220" lry="4424"
           littafel:href="#a_Lessing" littafel:new-zone="true"><line>Lessing = Kreis</line></zone>
         <zone xml:id="z_ed2_842" ulx="4174" uly="4322" lrx="4225" lry="4574"
-          littafel:href="#label_Lessing-Kreis" littafel:new-zone="true"><line>VII Lessing u. seine
-            Freunde</line></zone>
+          littafel:href="#label_Lessing-Kreis" littafel:new-zone="true"><line><seg style="font-family: fantasy; font-size: 6pt; font-weight: bold;">VII Lessing u. seine
+            Freunde.</seg></line></zone>
         <zone xml:id="z_ed2_843" ulx="3558" uly="4342" lrx="3650" lry="4466"
-          littafel:href="#label_VIII-Anakreontiker" littafel:new-zone="true"><line>VIII die
-            Anakreontiker</line></zone>
+          littafel:href="#label_VIII-Anakreontiker" littafel:new-zone="true"><line><seg style="font-family: fantasy; font-size: 5pt;">VIII die
+            Anakreontiker</seg></line></zone>
         <zone xml:id="z_ed2_844" ulx="3434" uly="4357" lrx="3483" lry="4372"
           littafel:href="#ptr_VIII-Anakreontiker" littafel:new-zone="true"><line>zu
           VIII:</line></zone>
@@ -6531,13 +6544,13 @@
             ><line>Richardson</line></zone>
         <zone sameAs="#z_ed2_637" corresp="#pers_00104" ana="#author" xml:id="z_ed3-p3_186"
           ulx="1056" uly="4358" lrx="1119" lry="4377" littafel:href="#a_Bodmer"
-          ><line>Bodmer</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Bodmer</seg></line></zone>
         <zone sameAs="#z_ed2_638" corresp="#pers_00105" ana="#author" xml:id="z_ed3-p3_187"
           ulx="1096" uly="4376" lrx="1171" lry="4394" littafel:href="#a_Breitinger"
-            ><line>Breitinger</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Breitinger</seg></line></zone>
         <zone sameAs="#z_ed2_639" corresp="#pers_00106" ana="#author" xml:id="z_ed3-p3_188"
           ulx="1111" uly="4393" lrx="1161" lry="4408" littafel:href="#a_Haller"
-          ><line>Haller</line></zone>
+          ><line><seg style="font-family: serif; font-size: 4pt;">Haller</seg></line></zone>
         <zone sameAs="#z_ed2_640" corresp="#pers_00107" ana="#author" xml:id="z_ed3-p3_189"
           ulx="1175" uly="4402" lrx="1233" lry="4425" littafel:href="#a_Lillo"
           ><line>Lillo</line></zone>
