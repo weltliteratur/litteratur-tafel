@@ -2745,75 +2745,92 @@
         <zone ana="#year" littafel:href="#1100" xml:id="z_ed2_036" ulx="245" uly="6593" lrx="309"
           lry="6617" sameAs="#z_ed3-p1_036"><line>1100</line></zone>
         <zone littafel:href="#h2_Volkspoesie" xml:id="z_ed2_037" ulx="473" uly="769" lrx="743"
-          lry="820" sameAs="#z_ed3-p1_037"><line>Volkspoesie</line></zone>
+          lry="820" sameAs="#z_ed3-p1_037"><line><seg
+              style="font-family:fantasy;font-size:10pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Volkspoesie</seg></line></zone>
         <zone littafel:href="#h2_Kunstpoesie" xml:id="z_ed2_038" ulx="1039" uly="772" lrx="1406"
-          lry="822" sameAs="#z_ed3-p1_038"><line>Kunstpoesie</line></zone>
+          lry="822" sameAs="#z_ed3-p1_038"><line><seg
+              style="font-family:fantasy;font-size:10pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Kunstpoesie</seg></line></zone>
         <zone littafel:href="#g_Cultusgesänge" xml:id="z_ed2_039" ulx="656" uly="892" lrx="828"
-          lry="921" sameAs="#z_ed3-p1_039"><line>Cultus-gesänge</line></zone>
+          lry="921" sameAs="#z_ed3-p1_039"><line><seg style="font-family:serif;font-weight:bold;font-size:7pt;">Cultus-gesänge</seg></line></zone>
         <zone littafel:href="#g_Rhapsodendichtung" xml:id="z_ed2_040" ulx="552" uly="968" lrx="890"
-          lry="1003" sameAs="#z_ed3-p1_040"><line>Rhapsodendichtung</line></zone>
+          lry="1003" sameAs="#z_ed3-p1_040"><line><seg style="font-family:serif;font-weight:bold;font-size:7pt;">Rhapsodendichtung</seg></line></zone>
         <zone littafel:href="#t_Altes-und-Neues-Testament" xml:id="z_ed2_041" ulx="972" uly="890"
-          lrx="1323" lry="1017" sameAs="#z_ed3-p1_041"><line>Altes und Neues Testament</line></zone>
+          lrx="1323" lry="1017" sameAs="#z_ed3-p1_041"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Altes und Neues Testament</seg></line></zone>
         <zone littafel:href="#g_Heldensage" xml:id="z_ed2_042" ulx="711" uly="1038" lrx="848"
-          lry="1065" sameAs="#z_ed3-p1_042"><line>Heldensage</line></zone>
+          lry="1065" sameAs="#z_ed3-p1_042"><line><seg style="font-family:serif;font-weight:bold;font-size:7pt;">Heldensage</seg></line></zone>
         <zone littafel:href="#g_Volkslieder" xml:id="z_ed2_043" ulx="414" uly="1099" lrx="519"
-          lry="1123" sameAs="#z_ed3-p1_043"><line>Volkslieder</line></zone>
+          lry="1123" sameAs="#z_ed3-p1_043"><line><seg style="font-family:serif;font-weight:bold;font-size:7pt;">Volkslieder</seg></line></zone>
         <zone littafel:href="#t_Meseburger-Zaubersprüche" xml:id="z_ed2_044" ulx="465" uly="1336"
-          lrx="702" lry="1365" sameAs="#z_ed3-p1_044"><line>Merseburger Zaubersprüche</line></zone>
+          lrx="702" lry="1365" sameAs="#z_ed3-p1_044"><line><seg style="font-family:serif;font-weight:bold;font-size:9pt;">Merseburger
+            Zaubersprüche</seg></line></zone>
         <zone littafel:href="#t_Wiener-Hundesegen" xml:id="z_ed2_045" ulx="502" uly="1398" lrx="654"
-          lry="1419" sameAs="#z_ed3-p1_045"><line>Wiener Hundesegen</line></zone>
+          lry="1419" sameAs="#z_ed3-p1_045"><line><seg style="font-family:serif;font-size:6pt;">Wiener Hundesegen</seg></line></zone>
         <zone littafel:href="#t_Spurihalzsegen" xml:id="z_ed2_046" ulx="489" uly="1433" lrx="612"
-          lry="1454" sameAs="#z_ed3-p1_046"><line>Spurihalzsegen</line></zone>
+          lry="1454" sameAs="#z_ed3-p1_046"><line><seg style="font-family:serif;font-size:6pt;">Spurihalzsegen</seg></line></zone>
         <zone littafel:href="#t_Contra-vermes" xml:id="z_ed2_047" ulx="468" uly="1469" lrx="581"
-          lry="1487" sameAs="#z_ed3-p1_047"><line>Contra vermes</line></zone>
+          lry="1487" sameAs="#z_ed3-p1_047"><line><seg style="font-family:serif;font-size:6pt;">Contra vermes</seg></line></zone>
         <zone littafel:href="#t_Strassburger-Blutsegen" xml:id="z_ed2_048" ulx="441" uly="1505"
-          lrx="618" lry="1527" sameAs="#z_ed3-p1_048"><line>Strassburger Blutsegen</line></zone>
+          lrx="618" lry="1527" sameAs="#z_ed3-p1_048"><line><seg style="font-family:serif;font-size:6pt;">Strassburger Blutsegen</seg></line></zone>
         <zone littafel:href="#t_Contra-malum-malannum" xml:id="z_ed2_049" ulx="397" uly="1546"
-          lrx="594" lry="1565" sameAs="#z_ed3-p1_049"><line>Contra malum malannum</line></zone>
+          lrx="594" lry="1565" sameAs="#z_ed3-p1_049"><line><seg style="font-family:serif;font-size:6pt;">Contra malum malannum</seg></line></zone>
         <zone littafel:href="#t_Weingartner-Reisesegen" xml:id="z_ed2_050" ulx="397" uly="1581"
-          lrx="588" lry="1603" sameAs="#z_ed3-p1_050"><line>Weingartner Reisesegen</line></zone>
+          lrx="588" lry="1603" sameAs="#z_ed3-p1_050"><line><seg style="font-family:serif;font-size:6pt;">Weingartner Reisesegen</seg></line></zone>
         <zone littafel:href="#t_Lorscher-Bienensegen" xml:id="z_ed2_051" ulx="447" uly="1621"
-          lrx="608" lry="1643" sameAs="#z_ed3-p1_051"><line>Lorscher Bienensegen</line></zone>
+          lrx="608" lry="1643" sameAs="#z_ed3-p1_051"><seg style="font-family:serif;font-size:6pt;"
+              ><line>Lorscher Bienensegen</line>Lorscher Bienensegen</seg></zone>
         <zone littafel:href="#t_Milchsegen" xml:id="z_ed2_052" ulx="527" uly="1655" lrx="614"
           lry="1678" sameAs="#z_ed3-p1_052"><line>Milchsegen</line></zone>
         <zone littafel:href="#g_Bibelcommentare" xml:id="z_ed2_053" ulx="843" uly="1089" lrx="1064"
-          lry="1116" sameAs="#z_ed3-p1_053"><line>Bibelkommentare</line></zone>
+          lry="1116" sameAs="#z_ed3-p1_053"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Bibelkommentare</seg></line></zone>
         <zone littafel:href="#periode_mündliche-Überlieferung" xml:id="z_ed2_054" ulx="359"
-          uly="1157" lrx="569" lry="1262" sameAs="#z_ed3-p1_054"><line>die Poesie in nur mündlicher
-            Überlieferung bis etwa 780</line></zone>
+          uly="1157" lrx="569" lry="1262" sameAs="#z_ed3-p1_054"><line><seg style="font-family:serif;font-style:italic;font-size:8pt;">die Poesie in nur mündlicher
+              Überlieferung bis etwa 780</seg></line></zone>
         <zone littafel:href="#periode_Althochdeutsche-Periode" xml:id="z_ed2_055" ulx="358"
-          uly="1807" lrx="617" lry="1902" sameAs="#z_ed3-p1_055"><line>Althochdeutsche Periode bis
-            etwa 1050</line></zone>
+          uly="1807" lrx="617" lry="1902" sameAs="#z_ed3-p1_055"><line><seg
+              style="font-family:serif;font-style:italic;text-decoration:underline;font-size:7pt;text-decoration-color:black;"
+              >Althochdeutsche Periode bis etwa 1050</seg></line></zone>
         <zone littafel:href="#t_Hildebrandslied" xml:id="z_ed2_056" ulx="450" uly="2167" lrx="647"
-          lry="2202" sameAs="#z_ed3-p1_056"><line>Hildebrandslied</line></zone>
+          lry="2202" sameAs="#z_ed3-p1_056"><line><seg style="font-family:serif;font-weight:bold;font-size:11pt;">Hildebrandslied</seg></line></zone>
         <zone littafel:href="#t_Sächsisches-Taufgelöbniss" xml:id="z_ed2_057" ulx="971" uly="1864"
-          lrx="1160" lry="1886" sameAs="#z_ed3-p1_057"><line>Sächsisches Taufgelöbniss</line></zone>
+          lrx="1160" lry="1886" sameAs="#z_ed3-p1_057"><line><seg style="font-family:serif;font-size:6pt;">Sächsisches Taufgelöbniss</seg></line></zone>
         <zone littafel:href="#t_Fränkisches-Taufgelöbnis" xml:id="z_ed2_058" ulx="976" uly="1979"
-          lrx="1085" lry="2003" sameAs="#z_ed3-p1_058"><line>Fränk. Taufg.</line></zone>
+          lrx="1085" lry="2003" sameAs="#z_ed3-p1_058"><line><seg style="font-family:serif;font-size:6pt;">Fränk. Taufg.</seg></line></zone>
         <zone littafel:href="#t_Oberdeutsches-Taufg" xml:id="z_ed2_059" ulx="958" uly="2017"
-          lrx="1119" lry="2044" sameAs="#z_ed3-p1_059"><line>Oberdeutsches Taufg.</line></zone>
+          lrx="1119" lry="2044" sameAs="#z_ed3-p1_059"><line><seg style="font-family:serif;font-size:6pt;">Oberdeutsches Taufg.</seg></line></zone>
         <zone littafel:href="#t_Wessobrunner-Gebet" xml:id="z_ed2_060" ulx="840" uly="2076"
-          lrx="1110" lry="2110" sameAs="#z_ed3-p1_060"><line>Wessobrunner Gebet</line></zone>
+          lrx="1110" lry="2110" sameAs="#z_ed3-p1_060"><line><seg style="font-family:serif;font-weight:bold;font-size:10pt;">Wessobrunner
+            Gebet</seg></line></zone>
         <zone littafel:href="#t_Weissenburger-Katechismus" xml:id="z_ed2_061" ulx="1253" uly="2047"
-          lrx="1394" lry="2086" sameAs="#z_ed3-p1_061"><line>Weissenburger Katechismus</line></zone>
+          lrx="1394" lry="2086" sameAs="#z_ed3-p1_061"><line><seg style="font-family:serif;font-weight:bold;font-size:7pt;">Weissenburger
+            Katechismus</seg></line></zone>
         <zone littafel:href="#t_Freisinger-Paternoster" xml:id="z_ed2_062" ulx="1285" uly="2204"
-          lrx="1433" lry="2226" sameAs="#z_ed3-p1_062"><line>Freisinger Paternoster</line></zone>
+          lrx="1433" lry="2226" sameAs="#z_ed3-p1_062"><line><seg style="font-family:serif;font-size:6pt;">Freisinger Paternoster</seg></line></zone>
         <zone littafel:href="#t_Benedictinerregel" xml:id="z_ed2_063" ulx="1250" uly="2317"
-          lrx="1387" lry="2343" sameAs="#z_ed3-p1_063"><line>Benediktinerregel</line></zone>
+          lrx="1387" lry="2343" sameAs="#z_ed3-p1_063"><line><seg style="font-family:serif;font-size:6pt;">Benediktinerregel</seg></line></zone>
         <zone littafel:href="#t_Murbacher-Hymnen" xml:id="z_ed2_064" ulx="1206" uly="2432"
-          lrx="1372" lry="2460" sameAs="#z_ed3-p1_064"><line>Murbacher Hymnen</line></zone>
+          lrx="1372" lry="2460" sameAs="#z_ed3-p1_064"><line><seg style="font-family:serif;font-size:7pt;">Murbacher Hymnen</seg></line></zone>
         <zone littafel:href="#t_Heliand" xml:id="z_ed2_065" ulx="1076" uly="2657" lrx="1180"
-          lry="2689" sameAs="#z_ed3-p1_065"><line>Heliand</line></zone>
+          lry="2689" sameAs="#z_ed3-p1_065"><line><seg
+              style="font-family:fantasy;font-size:10pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Heliand</seg></line></zone>
         <zone littafel:href="#litarea_Nordfrankreich" xml:id="z_ed2_066" ulx="554" uly="2916"
-          lrx="711" lry="2945" sameAs="#z_ed3-p1_066"><line>Nordfrankreich</line></zone>
+          lrx="711" lry="2945" sameAs="#z_ed3-p1_066"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:red;"
+              >Nordfrankreich</seg></line></zone>
         <zone littafel:href="#t_Otfrid" xml:id="z_ed2_067" ulx="1128" uly="3152" lrx="1210"
-          lry="3180" sameAs="#z_ed3-p1_067"><line>Otfrid</line></zone>
+          lry="3180" sameAs="#z_ed3-p1_067"><line><seg
+              style="font-family:fantasy;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Otfrid</seg></line></zone>
         <zone littafel:href="#t_Bittgesang-des-heilig-Petrus" xml:id="z_ed2_068" ulx="1204"
-          uly="3048" lrx="1406" lry="3072" sameAs="#z_ed3-p1_068"><line>Bittgesang des heilig.
-            Petrus</line></zone>
+          uly="3048" lrx="1406" lry="3072" sameAs="#z_ed3-p1_068"><line><seg style="font-family:serif;font-size:6pt;">Bittgesang des heilig. Petrus</seg></line></zone>
         <zone littafel:href="#t_Christus-Samariterin" xml:id="z_ed2_069" ulx="1228" uly="3087"
-          lrx="1434" lry="3111" sameAs="#z_ed3-p1_069"><line>Christus und die
-          Samariterin</line></zone>
+          lrx="1434" lry="3111" sameAs="#z_ed3-p1_069"><line><seg style="">Christus und die Samariterin</seg></line></zone>
         <zone littafel:href="#t_Georgslied" xml:id="z_ed2_070" ulx="1243" uly="3128" lrx="1331"
           lry="3150" sameAs="#z_ed3-p1_070"><line>Georgslied</line></zone>
         <zone littafel:href="#t_Ratperts-Lobgesang" xml:id="z_ed2_071" ulx="1244" uly="3173"
