@@ -2830,26 +2830,26 @@
         <zone littafel:href="#t_Bittgesang-des-heilig-Petrus" xml:id="z_ed2_068" ulx="1204"
           uly="3048" lrx="1406" lry="3072" sameAs="#z_ed3-p1_068"><line><seg style="font-family:serif;font-size:6pt;">Bittgesang des heilig. Petrus</seg></line></zone>
         <zone littafel:href="#t_Christus-Samariterin" xml:id="z_ed2_069" ulx="1228" uly="3087"
-          lrx="1434" lry="3111" sameAs="#z_ed3-p1_069"><line><seg style="">Christus und die Samariterin</seg></line></zone>
+          lrx="1434" lry="3111" sameAs="#z_ed3-p1_069"><line><seg style="font-family:serif;font-size:6pt;">Christus und die Samariterin</seg></line></zone>
         <zone littafel:href="#t_Georgslied" xml:id="z_ed2_070" ulx="1243" uly="3128" lrx="1331"
-          lry="3150" sameAs="#z_ed3-p1_070"><line>Georgslied</line></zone>
+          lry="3150" sameAs="#z_ed3-p1_070"><line><seg style="font-family:serif;font-size:6pt;">Georgslied</seg></line></zone>
         <zone littafel:href="#t_Ratperts-Lobgesang" xml:id="z_ed2_071" ulx="1244" uly="3173"
-          lrx="1400" lry="3200" sameAs="#z_ed3-p1_071"><line>Ratperts Lobgesang</line></zone>
+          lrx="1400" lry="3200" sameAs="#z_ed3-p1_071"><line><seg style="font-family:serif;font-size:6pt;">Ratperts Lobgesang</seg></line></zone>
         <zone littafel:href="#t_Übersetzung-Psalm-138" xml:id="z_ed2_072" ulx="1239" uly="3212"
-          lrx="1434" lry="3239" sameAs="#z_ed3-p1_072"><line>Übersetzung von Psalm 138</line></zone>
+          lrx="1434" lry="3239" sameAs="#z_ed3-p1_072"><line><seg style="font-family:serif;font-size:7pt;">Übersetzung von Psalm 138</seg></line></zone>
         <zone littafel:href="#t_Gebet-Sigihart" xml:id="z_ed2_073" ulx="1207" uly="3254" lrx="1351"
-          lry="3278" sameAs="#z_ed3-p1_073"><line>Gebet des Sigihart</line></zone>
+          lry="3278" sameAs="#z_ed3-p1_073"><line><seg style="font-family:serif;font-size:7pt;">Gebet des Sigihart</seg></line></zone>
         <zone littafel:href="#t_Augsb-Gebet" xml:id="z_ed2_074" ulx="1363" uly="3258" lrx="1459"
-          lry="3275" sameAs="#z_ed3-p1_074"><line>Augsb Gebet</line></zone>
+          lry="3275" sameAs="#z_ed3-p1_074"><line><seg style="font-family:serif;font-size:7pt;">Augsb Gebet</seg></line></zone>
         <zone littafel:href="#t_Hirsch-Hindin" xml:id="z_ed2_075" ulx="1203" uly="3282" lrx="1312"
-          lry="3301" sameAs="#z_ed3-p1_075"><line>Hirsch und Hindin</line></zone>
+          lry="3301" sameAs="#z_ed3-p1_075"><line><seg style="font-family:serif;font-size:6pt;">Hirsch und Hindin</seg></line></zone>
         <zone littafel:href="#t_StGall-Schreibervers" xml:id="z_ed2_076" ulx="1328" uly="3286"
-          lrx="1473" lry="3303" sameAs="#z_ed3-p1_076"><line>St.Gall Schreibervers</line></zone>
+          lrx="1473" lry="3303" sameAs="#z_ed3-p1_076"><line><seg style="font-family:serif;font-size:6pt;">St.Gall. Schreibervers</seg></line></zone>
         <zone ana="#author" corresp="#pers_01000" littafel:href="#a_Notker-I-Babulus"
           xml:id="z_ed2_077" ulx="1048" uly="3365" lrx="1240" lry="3393" sameAs="#z_ed3-p1_077"
-            ><line>Notker I. Babulus</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Notker I. Babulus.</seg></line></zone>
         <zone littafel:href="#t_Ludwigslied" xml:id="z_ed2_078" ulx="1174" uly="3319" lrx="1286"
-          lry="3345" sameAs="#z_ed3-p1_078"><line>Ludwigslied</line></zone>
+          lry="3345" sameAs="#z_ed3-p1_078"><line><seg style="font-family:serif;font-size:7pt;">Ludwigslied</seg></line></zone>
         <zone littafel:href="#litarea_Nordische-Sagenelemente" xml:id="z_ed2_079" ulx="1220"
           uly="3690" lrx="1460" lry="3755" sameAs="#z_ed3-p1_079"><line>Nordische
             Sagen-Elemente</line></zone>
