@@ -3146,84 +3146,102 @@
         <zone ana="#year" littafel:href="#1500" xml:id="z_ed2_196" ulx="1667" uly="6598" lrx="1733"
           lry="6622" sameAs="#z_ed3-p2_040"><line>1500</line></zone>
         <zone littafel:href="#litarea_Annolied" xml:id="z_ed2_197" ulx="2104" uly="756" lrx="2207"
-          lry="787" sameAs="#z_ed3-p2_041"><line>Annolied</line></zone>
+          lry="787" sameAs="#z_ed3-p2_041"><line><seg style="font-family:serif;font-size:11pt;">Annolied</seg></line></zone>
         <zone littafel:href="#litarea_Trojanische-Sage" xml:id="z_ed2_198" ulx="2645" uly="675"
-          lrx="2859" lry="706" sameAs="#z_ed3-p2_042"><line>Trojanische Sage</line></zone>
+          lrx="2859" lry="706" sameAs="#z_ed3-p2_042"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:black;"
+              >Trojanische Sage</seg></line></zone>
         <zone littafel:href="#litarea_Alexandersage" xml:id="z_ed2_199" ulx="2495" uly="725"
-          lrx="2658" lry="756" sameAs="#z_ed3-p2_043"><line>Alexandersage</line></zone>
+          lrx="2658" lry="756" sameAs="#z_ed3-p2_043"><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:10pt;text-decoration-color:black;"
+              >Alexandersage</seg></line></zone>
         <zone littafel:href="#litarea_Aeneassage" xml:id="z_ed2_200" ulx="2763" uly="821" lrx="2890"
-          lry="850" sameAs="#z_ed3-p2_044"><line>Aeneassage</line></zone>
+          lry="850" sameAs="#z_ed3-p2_044"><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:10pt;text-decoration-color:black;"
+              >Aeneassage</seg></line></zone>
         <zone ana="#author" corresp="#pers_00144" littafel:href="#a_Ovid" xml:id="z_ed2_201"
-          ulx="2710" uly="901" lrx="2752" lry="920" sameAs="#z_ed3-p2_045"><line>Ovid</line></zone>
+          ulx="2710" uly="901" lrx="2752" lry="920" sameAs="#z_ed3-p2_045"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:black;"
+              >Ovid</seg></line></zone>
         <zone ana="#author" corresp="#pers_02001" littafel:href="#a_Pindarus" xml:id="z_ed2_202"
           ulx="2671" uly="715" lrx="2740" lry="736" sameAs="#z_ed3-p2_046"
-          ><line>Pindarus</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:black;"
+              >Pindarus</seg></line></zone>
         <zone littafel:href="#t_Melker-Marienlied" xml:id="z_ed2_203" ulx="2685" uly="1048"
-          lrx="2820" lry="1068" sameAs="#z_ed3-p2_047"><line>Melker Marienlied</line></zone>
+          lrx="2820" lry="1068" sameAs="#z_ed3-p2_047"><line><seg style="font-family:serif;font-size:6pt;">Melker Marienlied</seg></line></zone>
         <zone littafel:href="#litarea_Oriental-Novellen-Anekdoten-Elemente" xml:id="z_ed2_204"
-          ulx="1771" uly="967" lrx="2052" lry="1036" sameAs="#z_ed3-p2_048"><line>Oriental.
-            Novellen- u. Anekdoten-Elemente</line></zone>
+          ulx="1771" uly="967" lrx="2052" lry="1036" sameAs="#z_ed3-p2_048"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:yellow;"
+              >Oriental. Novellen- u. Anekdoten-Elemente</seg></line></zone>
         <zone littafel:href="#t_Rolandslied" xml:id="z_ed2_205" ulx="2067" uly="1095" lrx="2232"
-          lry="1123" sameAs="#z_ed3-p2_049"><line>Rolandslied</line></zone>
+          lry="1123" sameAs="#z_ed3-p2_049"><line><seg style="font-family:serif;font-size:11pt;">Rolandslied</seg></line></zone>
         <zone ana="#author" corresp="#pers_00143" littafel:href="#a_Vergil" xml:id="z_ed2_206"
           ulx="2751" uly="852" lrx="2823" lry="868" sameAs="#z_ed3-p2_050"
           ><line>Vergil</line></zone>
         <zone littafel:href="#periode_Mittelhochdeutsche-Periode" xml:id="z_ed2_207" ulx="1767"
-          uly="1211" lrx="2002" lry="1300" sameAs="#z_ed3-p2_051"><line>Mittelhochdeutsche Periode
-            1125 etwa 1400</line></zone>
+          uly="1211" lrx="2002" lry="1300" sameAs="#z_ed3-p2_051"><line><seg
+              style="font-family:serif;font-style:italic;text-decoration:underline;font-size:7pt;text-decoration-color:yellow;"
+              >Mittelhochdeutsche Periode 1125 etwa 1400</seg></line></zone>
         <zone littafel:href="#litarea_Artussage" xml:id="z_ed2_208" ulx="1923" uly="1310" lrx="2031"
-          lry="1335" sameAs="#z_ed3-p2_052"><line>Artussage</line></zone>
+          lry="1335" sameAs="#z_ed3-p2_052"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:red;"
+              >Artussage</seg></line></zone>
         <zone littafel:href="#litarea_Tristansage" xml:id="z_ed2_209" ulx="1820" uly="1399"
-          lrx="2023" lry="1431" sameAs="#z_ed3-p2_053"><line>Tristansage</line></zone>
+          lrx="2023" lry="1431" sameAs="#z_ed3-p2_053"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:red;"
+              >Tristansage</seg></line></zone>
         <zone littafel:href="#litarea_Gralsage" xml:id="z_ed2_210" ulx="2076" uly="1391" lrx="2170"
-          lry="1421" sameAs="#z_ed3-p2_054"><line>Gralsage</line></zone>
+          lry="1421" sameAs="#z_ed3-p2_054"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:red;"
+              >Gralsage</seg></line></zone>
         <zone littafel:href="#litarea_Provencalische-Lyrik" xml:id="z_ed2_211" ulx="1778" uly="1558"
-          lrx="2029" lry="1620" sameAs="#z_ed3-p2_055"><line>Provencalische Lyrik</line></zone>
+          lrx="2029" lry="1620" sameAs="#z_ed3-p2_055"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:red;"
+              >Provencalische Lyrik</seg></line></zone>
         <zone littafel:href="#t_Mittelfränkisches-Legendar" xml:id="z_ed2_212" ulx="2488" uly="1009"
-          lrx="2612" lry="1052" sameAs="#z_ed3-p2_056"><line>Mittelfränkisches
-          Legendar</line></zone>
+          lrx="2612" lry="1052" sameAs="#z_ed3-p2_056"><line><seg style="font-family:serif;font-size:6pt;">Mittelfränkisches Legendar</seg></line></zone>
         <zone littafel:href="#t_Arnsteiner-Marienleich" xml:id="z_ed2_213" ulx="2575" uly="1277"
-          lrx="2758" lry="1295" sameAs="#z_ed3-p2_057"><line>Arnsteiner Marienleich</line></zone>
+          lrx="2758" lry="1295" sameAs="#z_ed3-p2_057"><line><seg style="font-family:serif;font-size:6pt;">Arnsteiner Marienleich</seg></line></zone>
         <zone littafel:href="#t_Alexanderlied" xml:id="z_ed2_214" ulx="2445" uly="1349" lrx="2616"
-          lry="1378" sameAs="#z_ed3-p2_058"><line>Alexanderlied</line></zone>
+          lry="1378" sameAs="#z_ed3-p2_058"><line><seg style="font-family:serif;font-size:10pt;">Alexanderlied</seg></line></zone>
         <zone littafel:href="#t_Kaiserchronik" xml:id="z_ed2_215" ulx="2642" uly="1359" lrx="2801"
-          lry="1384" sameAs="#z_ed3-p2_059"><line>Kaiserchronik</line></zone>
+          lry="1384" sameAs="#z_ed3-p2_059"><line><seg style="font-family:serif;font-size:9pt;">Kaiserchronik</seg></line></zone>
         <zone littafel:href="#litarea_Nordische-Sagenelemente" xml:id="z_ed2_216" ulx="2670"
-          uly="1435" lrx="2825" lry="1529" sameAs="#z_ed3-p2_060"><line>Nordische
-            Sagenelemente</line></zone>
+          uly="1435" lrx="2825" lry="1529" sameAs="#z_ed3-p2_060"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:green;"
+              >Nordische Sagenelemente</seg></line></zone>
         <zone ana="#author" corresp="#pers_02003" littafel:href="#a_Dietmar-Eist" xml:id="z_ed2_217"
-          ulx="2516" uly="1588" lrx="2640" lry="1607" sameAs="#z_ed3-p2_061"><line>Dietmar v.
-            Eist</line></zone>
+          ulx="2516" uly="1588" lrx="2640" lry="1607" sameAs="#z_ed3-p2_061"><line><seg style="font-family:serif;font-size:7pt;">Dietmar v. Eist</seg></line></zone>
         <zone ana="#text" littafel:href="#a_König-Rother" xml:id="z_ed2_218"
-          ulx="2460" uly="1610" lrx="2568" lry="1628" sameAs="#z_ed3-p2_062"><line>König
-            Rother</line></zone>
+          ulx="2460" uly="1610" lrx="2568" lry="1628" sameAs="#z_ed3-p2_062"><line><seg style="font-family:serif;font-size:7pt;">König Rother</seg></line></zone>
         <zone littafel:href="#litarea_Visionenlegenden" xml:id="z_ed2_219" ulx="2451" uly="1492"
-          lrx="2611" lry="1513" sameAs="#z_ed3-p2_063"><line>Visionenlegenden</line></zone>
+          lrx="2611" lry="1513" sameAs="#z_ed3-p2_063"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:green;"
+              >Visionenlegenden</seg></line></zone>
         <zone ana="#author" corresp="#pers_02005" littafel:href="#a_Burggrad-Regensburg"
           xml:id="z_ed2_220" ulx="2504" uly="1628" lrx="2660" lry="1645" sameAs="#z_ed3-p2_064"
-            ><line>Burggraf von Regensburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Burggraf von Regensburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02006" littafel:href="#a_Meinloh-Sevelingen"
           xml:id="z_ed2_221" ulx="2538" uly="1645" lrx="2746" lry="1663" sameAs="#z_ed3-p2_065"
-            ><line>Meinloh von Sevelingen</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Meinloh von Sevelingen</seg></line></zone>
         <zone littafel:href="#t_Heinrichs-Litanei" xml:id="z_ed2_222" ulx="2702" uly="1589"
-          lrx="2822" lry="1608" sameAs="#z_ed3-p2_066"><line>Heinrich's Litanei</line></zone>
+          lrx="2822" lry="1608" sameAs="#z_ed3-p2_066"><line><seg style="font-family:serif;font-size:6pt;">Heinrich's Litanei</seg></line></zone>
         <zone littafel:href="#t_Hartmanns-Credo" xml:id="z_ed2_223" ulx="2734" uly="1675" lrx="2859"
-          lry="1691" sameAs="#z_ed3-p2_067"><line>Hartmann's Credo</line></zone>
+          lry="1691" sameAs="#z_ed3-p2_067"><line><seg style="font-family:serif;font-size:6pt;">Hartmann's Credo</seg></line></zone>
         <zone ana="#text" littafel:href="#a_Graf-Rudolf" xml:id="z_ed2_224"
-          ulx="2404" uly="1713" lrx="2513" lry="1731" sameAs="#z_ed3-p2_068"><line>Graf
-            Rudolf</line></zone>
+          ulx="2404" uly="1713" lrx="2513" lry="1731" sameAs="#z_ed3-p2_068"><line><seg style="font-family:serif;font-size:7pt;">Graf Rudolf</seg></line></zone>
         <zone ana="#text" littafel:href="#a_Herzog-Ernst" xml:id="z_ed2_225"
-          ulx="2415" uly="1768" lrx="2546" lry="1792" sameAs="#z_ed3-p2_069"><line>Herzog
-            Ernst</line></zone>
+          ulx="2415" uly="1768" lrx="2546" lry="1792" sameAs="#z_ed3-p2_069"><line><seg style="font-family:serif;font-size:8pt;">Herzog Ernst</seg></line></zone>
         <zone ana="#author" corresp="#pers_02009" littafel:href="#a_Eilhart-Oberge"
           xml:id="z_ed2_226" ulx="2477" uly="1802" lrx="2659" lry="1832" sameAs="#z_ed3-p2_070"
-            ><line>Eilhart von Oberge</line></zone>
+            ><line><seg style="font-family:serif;font-size:10pt;">Eilhart von Oberge</seg></line></zone>
         <zone ana="#author" corresp="#pers_02010" littafel:href="#a_Veldeke" xml:id="z_ed2_227"
           ulx="2460" uly="1851" lrx="2563" lry="1877" sameAs="#z_ed3-p2_071"
-          ><line>Veldeke</line></zone>
+          ><line><seg style="font-family:serif;font-size:11pt;">Veldeke</seg></line></zone>
         <zone ana="#author" corresp="#pers_02011" littafel:href="#a_Friedrich-Hausen"
           xml:id="z_ed2_228" ulx="1902" uly="1853" lrx="2069" lry="1873" sameAs="#z_ed3-p2_072"
-            ><line>Friedrich von Hausen</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Friedrich von Hausen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02012" littafel:href="#a_Ulrich-Guotenburg"
           xml:id="z_ed2_229" ulx="1980" uly="1877" lrx="2142" lry="1897" sameAs="#z_ed3-p2_073"
             ><line>Ulrich von Guotenburg</line></zone>
