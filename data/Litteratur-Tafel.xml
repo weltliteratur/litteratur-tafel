@@ -3244,78 +3244,87 @@
             ><line><seg style="font-family:serif;font-size:6pt;">Friedrich von Hausen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02012" littafel:href="#a_Ulrich-Guotenburg"
           xml:id="z_ed2_229" ulx="1980" uly="1877" lrx="2142" lry="1897" sameAs="#z_ed3-p2_073"
-            ><line>Ulrich von Guotenburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Ulrich von Guotenburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02013" littafel:href="#a_Rudolf_Fenis" xml:id="z_ed2_230"
-          ulx="2005" uly="1906" lrx="2132" lry="1923" sameAs="#z_ed3-p2_074"><line>Rudolf von
-            Fenis</line></zone>
+          ulx="2005" uly="1906" lrx="2132" lry="1923" sameAs="#z_ed3-p2_074"><line><seg style="font-family:serif;font-size:6pt;">Rudolf von Fenis</seg></line></zone>
         <zone ana="#author" corresp="#pers_02014" littafel:href="#a_Burggraf-Rietenburg"
           xml:id="z_ed2_231" ulx="1961" uly="1930" lrx="2155" lry="1953" sameAs="#z_ed3-p2_075"
-            ><line>Burggraf von Rietenburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Burggraf von Rietenburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02015" littafel:href="#a_Hartwig-Rute" xml:id="z_ed2_232"
-          ulx="1988" uly="1956" lrx="2123" lry="1976" sameAs="#z_ed3-p2_076"><line>Hartwig von
-            Rute</line></zone>
+          ulx="1988" uly="1956" lrx="2123" lry="1976" sameAs="#z_ed3-p2_076"><line><seg style="font-family:serif;font-size:6pt;">Hartwig von Rute</seg></line></zone>
         <zone ana="#author" corresp="#pers_02016" littafel:href="#a_Heinrich-Rugge"
           xml:id="z_ed2_233" ulx="1908" uly="1981" lrx="2042" lry="2003" sameAs="#z_ed3-p2_077"
-            ><line>Heinrich von Rugge</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Heinrich von Rugge</seg></line></zone>
         <zone ana="#author" corresp="#pers_02017" littafel:href="#a_Bernger-Horheim"
           xml:id="z_ed2_234" ulx="2056" uly="1979" lrx="2204" lry="1998" sameAs="#z_ed3-p2_078"
-            ><line>Bernger von Horheim</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Bernger von Horheim</seg></line></zone>
         <zone ana="#author" corresp="#pers_02018" littafel:href="#a_Bligger-Steinach"
           xml:id="z_ed2_235" ulx="1877" uly="2007" lrx="2034" lry="2030" sameAs="#z_ed3-p2_079"
-            ><line>Bligger von Steinach</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Bligger von Steinach</seg></line></zone>
         <zone ana="#author" corresp="#pers_02019" littafel:href="#a_Albrecht_Johansdorf"
           xml:id="z_ed2_236" ulx="2046" uly="2007" lrx="2207" lry="2025" sameAs="#z_ed3-p2_080"
-            ><line>Albrecht von Johansdorf</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Albrecht von Johansdorf</seg></line></zone>
         <zone ana="#author" corresp="#pers_02020" littafel:href="#a_Hartmann-Aue" xml:id="z_ed2_237"
-          ulx="1904" uly="2062" lrx="2140" lry="2093" sameAs="#z_ed3-p2_081"><line>Hartmann von
-            Aue</line></zone>
+          ulx="1904" uly="2062" lrx="2140" lry="2093" sameAs="#z_ed3-p2_081"><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Hartmann von Aue</seg></line></zone>
         <zone littafel:href="#t_Nibelungenlied und Klage" xml:id="z_ed2_238" ulx="2461" uly="2015"
-          lrx="2857" lry="2056" sameAs="#z_ed3-p2_082"><line>Nibelungen-lied und Klage</line></zone>
+          lrx="2857" lry="2056" sameAs="#z_ed3-p2_082"><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Nibelungen-lied und Klage</seg></line></zone>
         <zone ana="#author" corresp="#pers_02021" littafel:href="#a_Konrad-Heimesfurt"
           xml:id="z_ed2_239" ulx="2652" uly="2065" lrx="2809" lry="2084" sameAs="#z_ed3-p2_083"
-            ><line>Konrad von Heimesfurt</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Konrad von Heimesfurt</seg></line></zone>
         <zone ana="#author" corresp="#pers_02022" littafel:href="#a_Heinrich-Morungen"
           xml:id="z_ed2_240" ulx="1779" uly="2150" lrx="1991" lry="2182" sameAs="#z_ed3-p2_084"
-            ><line>Heinrich v. Morungen</line></zone>
+            ><line><seg style="font-family:serif;font-size:10pt;">Heinrich v. Morungen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02023" littafel:href="#a_Ulrich_Zazichofen"
           xml:id="z_ed2_241" ulx="2012" uly="2137" lrx="2213" lry="2163" sameAs="#z_ed3-p2_085"
-            ><line>Ulrich von Zazichofen</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Ulrich von Zazichofen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02024" littafel:href="#a_Wirnt-Gravenberg"
           xml:id="z_ed2_242" ulx="1999" uly="2166" lrx="2212" lry="2196" sameAs="#z_ed3-p2_086"
-            ><line>Wirnt von Gravenberg</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Wirnt von Gravenberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02025" littafel:href="#a_Wolfram-Eschenbach"
           xml:id="z_ed2_243" ulx="1930" uly="2216" lrx="2223" lry="2243" sameAs="#z_ed3-p2_087"
-            ><line>Wolfram von Eschenbach</line></zone>
+            ><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Wolfram von Eschenbach</seg></line></zone>
         <zone ana="#author" corresp="#pers_02026" littafel:href="#a_Walter-Vogelweide"
           xml:id="z_ed2_244" ulx="1844" uly="2269" lrx="2159" lry="2304" sameAs="#z_ed3-p2_088"
-            ><line>Walter von der Vogelweide</line></zone>
+            ><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Walter von der Vogelweide</seg></line></zone>
         <zone ana="#author" corresp="#pers_02027" littafel:href="#a_Gudrun" xml:id="z_ed2_245"
           ulx="2574" uly="2189" lrx="2693" lry="2219" sameAs="#z_ed3-p2_089"
-          ><line>Gudrun</line></zone>
+          ><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Gudrun</seg></line></zone>
         <zone ana="#author" corresp="#pers_02028" littafel:href="#a_Gottfried-Strassburg"
           xml:id="z_ed2_246" ulx="2527" uly="2230" lrx="2855" lry="2268" sameAs="#z_ed3-p2_090"
-            ><line>Gottfried von Strassburg</line></zone>
+            ><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Gottfried von Strassburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02029" littafel:href="#a_Herbort-Fritzlar"
           xml:id="z_ed2_247" ulx="2542" uly="2268" lrx="2704" lry="2287" sameAs="#z_ed3-p2_091"
-            ><line>Herbort von Fritzlar</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Herbort von Fritzlar</seg></line></zone>
         <zone ana="#author" corresp="#pers_02030" littafel:href="#a_Albrecht-Halberstadt"
           xml:id="z_ed2_248" ulx="2552" uly="2295" lrx="2758" lry="2312" sameAs="#z_ed3-p2_092"
-            ><line>Albrecht von Halberstadt</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Albrecht von Halberstadt</seg></line></zone>
         <zone ana="#author" corresp="#pers_02031" littafel:href="#a_Leuthold-Seven"
           xml:id="z_ed2_249" ulx="1873" uly="2327" lrx="2048" lry="2350" sameAs="#z_ed3-p2_093"
-            ><line>Leuthold von Seven</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Leuthold von Seven</seg></line></zone>
         <zone ana="#author" corresp="#pers_02032" littafel:href="#a_Ulrich-Singenberg"
           xml:id="z_ed2_250" ulx="1882" uly="2358" lrx="2078" lry="2386" sameAs="#z_ed3-p2_094"
-            ><line>Ulrich von Singenberg</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Ulrich von Singenberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02033" littafel:href="#a_Otto-Botenlauben"
           xml:id="z_ed2_251" ulx="1824" uly="2396" lrx="2024" lry="2415" sameAs="#z_ed3-p2_095"
-            ><line>Otto von Botenlauben</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Otto von Botenlauben</seg></line></zone>
         <zone ana="#author" corresp="#pers_02034" littafel:href="#a_Markgraf-Hohenburg"
           xml:id="z_ed2_252" ulx="1882" uly="2429" lrx="2057" lry="2452" sameAs="#z_ed3-p2_096"
-            ><line>Markgraf von Hohenburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Markgraf von Hohenburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02035" littafel:href="#a_Hilbolt-Schwangau"
           xml:id="z_ed2_253" ulx="1873" uly="2464" lrx="2050" lry="2484" sameAs="#z_ed3-p2_097"
-            ><line>Hilbolt von Schwangau</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Hilbolt von Schwangau</seg></line></zone>
         <zone ana="#author" corresp="#pers_02036" littafel:href="#a_Thomasin-Ziklaria"
           xml:id="z_ed2_254" ulx="2535" uly="2403" lrx="2785" lry="2425" sameAs="#z_ed3-p2_098"
             ><line>Thomasin von Ziklaria</line></zone>
