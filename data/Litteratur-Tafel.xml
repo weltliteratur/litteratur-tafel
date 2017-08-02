@@ -3437,22 +3437,22 @@
             ><line><seg style="font-family:serif;font-size:7pt;">Hadamar von Labar</seg></line></zone>
         <zone ana="#author" corresp="#pers_02067" littafel:href="#a_Heinrich_Suso"
           xml:id="z_ed2_292" ulx="2041" uly="4307" lrx="2183" lry="4327" sameAs="#z_ed3-p2_136"
-            ><line>Heinrich Suso</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Heinrich Suso</seg></line></zone>
         <zone ana="#author" corresp="#pers_02068" littafel:href="#a_Nicolaus-Basel"
           xml:id="z_ed2_293" ulx="1876" uly="4324" lrx="2047" lry="4342" sameAs="#z_ed3-p2_137"
-            ><line>Nicolaus von Basel</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Nicolaus von Basel</seg></line></zone>
         <zone ana="#author" corresp="#pers_02069" littafel:href="#a_Rulmann-Merswin"
           xml:id="z_ed2_294" ulx="1993" uly="4351" lrx="2135" lry="4365" sameAs="#z_ed3-p2_138"
-            ><line>Rulmann Merswin</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Rulmann Merswin</seg></line></zone>
         <zone ana="#author" corresp="#pers_02070" littafel:href="#a_Heinrich-Nördlingen"
           xml:id="z_ed2_295" ulx="1988" uly="4382" lrx="2202" lry="4406" sameAs="#z_ed3-p2_139"
-            ><line>Heinrich von Nördlingen</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Heinrich von Nördlingen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02071" littafel:href="#a_Heinrich-Teichner"
           xml:id="z_ed2_296" ulx="1910" uly="4567" lrx="2143" lry="4597" sameAs="#z_ed3-p2_140"
-            ><line>Heinrich der Teichner</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Heinrich der Teichner</seg></line></zone>
         <zone ana="#author" corresp="#pers_02072" littafel:href="#a_Heinrich-Mügeln"
           xml:id="z_ed2_297" ulx="1932" uly="4854" lrx="2123" lry="4880" sameAs="#z_ed3-p2_141"
-            ><line>Heinrich von Mügeln</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Heinrich von Mügeln</seg></line></zone>
         <zone ana="#author" corresp="#pers_02073" littafel:href="#a_Thebanus" xml:id="z_ed2_298"
           ulx="2780" uly="714" lrx="2849" lry="731" sameAs="#z_ed3-p2_142"
           ><line>Thebanus</line></zone>
@@ -3562,21 +3562,33 @@
         <zone littafel:href="#t_Windsbekin" xml:id="z_ed2_342" ulx="2644" uly="2515" lrx="2719"
           lry="2531" sameAs="#z_ed3-p2_186"><line>Windsbekin</line></zone>
         <zone littafel:href="#litarea_Novelle" xml:id="z_ed2_343" ulx="2259" uly="2332" lrx="2339"
-          lry="2375" sameAs="#z_ed3-p2_187"><line>die Novelle</line></zone>
+          lry="2375" sameAs="#z_ed3-p2_187"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:yellow;"
+              >die Novelle</seg></line></zone>
         <zone littafel:href="#t_Pantscha-tantra" xml:id="z_ed2_344" ulx="2239" uly="2386" lrx="2292"
-          lry="2410" sameAs="#z_ed3-p2_188"><line>Pantscha tantra</line></zone>
+          lry="2410" sameAs="#z_ed3-p2_188"><line><seg style="font-family:serif;font-size:5pt;">Pantscha tantra</seg></line></zone>
         <zone littafel:href="#t_sieben-weisen-Meister" xml:id="z_ed2_345" ulx="2237" uly="2443"
-          lrx="2344" lry="2471" sameAs="#z_ed3-p2_189"><line>die sieben weisen Meister</line></zone>
+          lrx="2344" lry="2471" sameAs="#z_ed3-p2_189"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:5pt;text-decoration-color:black;"
+              >die sieben weisen Meister</seg></line></zone>
         <zone ana="#author" corresp="#pers_02088" littafel:href="#a_Petrus-Alfonsus"
           xml:id="z_ed2_346" ulx="2242" uly="2472" lrx="2344" lry="2488" sameAs="#z_ed3-p2_190"
-            ><line>Petrus Alfonsus</line></zone>
+            ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:5pt;text-decoration-color:black;"
+              >Petrus Alfonsus</seg></line></zone>
         <zone ana="#author" corresp="#pers_02089" littafel:href="#a_Caesarius-Heisterbach"
           xml:id="z_ed2_347" ulx="2246" uly="2489" lrx="2352" lry="2518" sameAs="#z_ed3-p2_191"
-            ><line>Cäsarius von Heisterbach</line></zone>
+            ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:5pt;text-decoration-color:black;"
+              >Cäsarius von Heisterbach</seg></line></zone>
         <zone littafel:href="#t_Gesta-romanorum" xml:id="z_ed2_348" ulx="2235" uly="2520" lrx="2346"
-          lry="2534" sameAs="#z_ed3-p2_192"><line>Gesta Romanorum</line></zone>
+          lry="2534" sameAs="#z_ed3-p2_192"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:5pt;text-decoration-color:black;"
+              >Gesta Romanorum</seg></line></zone>
         <zone littafel:href="#t_Contes-fabliaux" xml:id="z_ed2_349" ulx="2241" uly="2542" lrx="2294"
-          lry="2572" sameAs="#z_ed3-p2_193"><line>Contes et fabliaux</line></zone>
+          lry="2572" sameAs="#z_ed3-p2_193"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:5pt;text-decoration-color:red;"
+              >Contes et fabliaux</seg></line></zone>
         <zone ana="#author" corresp="#pers_02090" littafel:href="#a_Vridank" xml:id="z_ed2_350"
           ulx="2591" uly="2567" lrx="2698" lry="2592" sameAs="#z_ed3-p2_194"
           ><line>Vridank</line></zone>
@@ -3602,23 +3614,21 @@
           xml:id="z_ed2_359" ulx="2743" uly="2629" lrx="2888" lry="2647" sameAs="#z_ed3-p2_203"
             ><line>Gottfried von Viterbo</line></zone>
         <zone ana="#text" littafel:href="#a_Tannhäuser" xml:id="z_ed2_360"
-          ulx="1782" uly="2702" lrx="1905" lry="2718" sameAs="#z_ed3-p2_204"><line>der
-            Tannhäuser</line></zone>
+          ulx="1782" uly="2702" lrx="1905" lry="2718" sameAs="#z_ed3-p2_204"><line><seg style="font-family:serif;font-size:6pt;">der Tannhäuser</seg></line></zone>
         <zone ana="#author" corresp="#pers_02094" littafel:href="#a_Marner" xml:id="z_ed2_361"
-          ulx="1783" uly="2963" lrx="1875" lry="2983" sameAs="#z_ed3-p2_205"><line>der
-          Marner</line></zone>
+          ulx="1783" uly="2963" lrx="1875" lry="2983" sameAs="#z_ed3-p2_205"><line><seg style="font-family:serif;font-size:6pt;">der Marner</seg></line></zone>
         <zone ana="#author" corresp="#pers_02095" littafel:href="#a_Steinmar" xml:id="z_ed2_362"
           ulx="1872" uly="3201" lrx="1946" lry="3218" sameAs="#z_ed3-p2_206"
-          ><line>Steinmar</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Steinmar</seg></line></zone>
         <zone littafel:href="#t_jüngerer-Titurel" xml:id="z_ed2_363" ulx="2510" uly="3082"
           lrx="2720" lry="3107" sameAs="#z_ed3-p2_207"><line>der jüngere Titurel</line></zone>
         <zone littafel:href="#unident_Cato" xml:id="z_ed2_364" ulx="2401" uly="3223" lrx="2445"
-          lry="3237" sameAs="#z_ed3-p2_208"><line>der Cato (unidentified)</line></zone>
+          lry="3237" sameAs="#z_ed3-p2_208"><line><seg style="font-family:serif;font-size:5pt;">der Cato</seg> (unidentified)</line></zone>
         <zone littafel:href="#t_Lucidarius" xml:id="z_ed2_365" ulx="2546" uly="3363" lrx="2658"
-          lry="3380" sameAs="#z_ed3-p2_209"><line>der Lucidarius</line></zone>
+          lry="3380" sameAs="#z_ed3-p2_209"><line><seg style="font-family:serif;font-size:6pt;">der Lucidarius</seg></line></zone>
         <zone ana="#author" corresp="#pers_02096" littafel:href="#a_Seyfried-Helbling"
           xml:id="z_ed2_366" ulx="2677" uly="3363" lrx="2799" lry="3382" sameAs="#z_ed3-p2_210"
-            ><line>Seyfried Helbling</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Seyfried Helbling</seg></line></zone>
         <zone littafel:href="#t_Hirzelin" xml:id="z_ed2_367" ulx="2501" uly="3510" lrx="2562"
           lry="3527" sameAs="#z_ed3-p2_211"><line>Hirzelin</line></zone>
         <zone littafel:href="#t_Kreuzfahrt-Ludwig-Thüringen" xml:id="z_ed2_368" ulx="2453"
@@ -3658,36 +3668,40 @@
             ><line>Bereich mit den Kreisen der deutschen Heldensage</line></zone>
         <zone ana="#author" corresp="#pers_02103" littafel:href="#a_Hugo-Montfort"
           xml:id="z_ed2_381" ulx="1997" uly="5158" lrx="2159" lry="5182" sameAs="#z_ed3-p2_225"
-            ><line>Hugo von Montfort</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Hugo von Montfort</seg></line></zone>
         <zone ana="#author" corresp="#pers_02104" littafel:href="#a_Peter-Suchenwirt"
           xml:id="z_ed2_382" ulx="1944" uly="5192" lrx="2132" lry="5214" sameAs="#z_ed3-p2_226"
-            ><line>Peter Suchenwirt</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Peter Suchenwirt</seg></line></zone>
         <zone ana="#author" corresp="#pers_02105" littafel:href="#a_Muscatblüt" xml:id="z_ed2_383"
           ulx="1998" uly="5229" lrx="2103" lry="5249" sameAs="#z_ed3-p2_227"
-          ><line>Muscatblüt</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Muscatblüt</seg></line></zone>
         <zone ana="#author" corresp="#pers_02106" littafel:href="#a_Ebernand-Cersne"
           xml:id="z_ed2_384" ulx="2519" uly="5172" lrx="2675" lry="5191" sameAs="#z_ed3-p2_228"
-            ><line>Ebernand von Cersne</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Ebernand von Cersne</seg></line></zone>
         <zone littafel:href="#t_Limburger-Chronik" xml:id="z_ed2_385" ulx="2684" uly="5196"
-          lrx="2830" lry="5216" sameAs="#z_ed3-p2_229"><line>Limburger Chronik</line></zone>
+          lrx="2830" lry="5216" sameAs="#z_ed3-p2_229"><line><seg style="font-family:serif;font-size:6pt;">Limburger Chronik</seg></line></zone>
         <zone littafel:href="#periode_Nhd" xml:id="z_ed2_386" ulx="1773" uly="5237" lrx="2001"
           lry="5354" sameAs="#z_ed3-p2_230"><line>Übergang zum Neuhochdeutschen bis etwa
           1522</line></zone>
         <zone ana="#author" corresp="#pers_02107" littafel:href="#a_Hans-Büheler" xml:id="z_ed2_387"
-          ulx="2498" uly="5312" lrx="2630" lry="5328" sameAs="#z_ed3-p2_231"><line>Hans der
-            Büheler</line></zone>
+          ulx="2498" uly="5312" lrx="2630" lry="5328" sameAs="#z_ed3-p2_231"><line><seg style="font-family:serif;font-size:6pt;">Hans der Büheler</seg></line></zone>
         <zone ana="#author" corresp="#pers_02108" littafel:href="#a_Hans-Vintler" xml:id="z_ed2_388"
-          ulx="2471" uly="5345" lrx="2575" lry="5365" sameAs="#z_ed3-p2_232"><line>Hans
-            Vintler</line></zone>
+          ulx="2471" uly="5345" lrx="2575" lry="5365" sameAs="#z_ed3-p2_232"><line><seg style="font-family:serif;font-size:7pt;">Hans Vintler</seg></line></zone>
         <zone littafel:href="#litarea_Volksromane" xml:id="z_ed2_389" ulx="2540" uly="5454"
-          lrx="2696" lry="5476" sameAs="#z_ed3-p2_233"><line>Volksromane</line></zone>
+          lrx="2696" lry="5476" sameAs="#z_ed3-p2_233"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:black;"
+              >Volksromane</seg></line></zone>
         <zone ana="#author" corresp="#pers_02109" littafel:href="#a_Oswald-Wolkenstein"
           xml:id="z_ed2_390" ulx="1939" uly="5374" lrx="2150" lry="5392" sameAs="#z_ed3-p2_234"
-            ><line>Oswald von Wolkenstein</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Oswald von Wolkenstein</seg></line></zone>
         <zone littafel:href="#unident_Malagis" xml:id="z_ed2_391" ulx="2479" uly="5488" lrx="2564"
-          lry="5516" sameAs="#z_ed3-p2_235"><line>Malagis</line></zone>
+          lry="5516" sameAs="#z_ed3-p2_235"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Malagis</seg></line></zone>
         <zone littafel:href="#t_Ogier-Dänemark" xml:id="z_ed2_392" ulx="2530" uly="5521" lrx="2779"
-          lry="5545" sameAs="#z_ed3-p2_236"><line>Ogier von Dänemark</line></zone>
+          lry="5545" sameAs="#z_ed3-p2_236"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Ogier von Dänemark</seg></line></zone>
         <zone littafel:href="#t_Reinald-Montalban" xml:id="z_ed2_393" ulx="2633" uly="5495"
           lrx="2871" lry="5516" sameAs="#z_ed3-p2_237"><line>Reinald von Montalban</line></zone>
         <zone littafel:href="#litarea_Romane-Kerlingischer-Sagenkreis" xml:id="z_ed2_394" ulx="1866"
