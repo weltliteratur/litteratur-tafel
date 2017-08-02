@@ -3705,62 +3705,72 @@
         <zone littafel:href="#t_Reinald-Montalban" xml:id="z_ed2_393" ulx="2633" uly="5495"
           lrx="2871" lry="5516" sameAs="#z_ed3-p2_237"><line>Reinald von Montalban</line></zone>
         <zone littafel:href="#litarea_Romane-Kerlingischer-Sagenkreis" xml:id="z_ed2_394" ulx="1866"
-          uly="5490" lrx="2258" lry="5544" sameAs="#z_ed3-p2_238"><line>Romane aus dem Kerlingischen
-            Sagenkreis</line></zone>
+          uly="5490" lrx="2258" lry="5544" sameAs="#z_ed3-p2_238"><line><seg style="font-family:serif;font-size:9pt;">Romane aus dem Kerlingischen
+            Sagenkreis</seg></line></zone>
         <zone littafel:href="#g_Volkslied" xml:id="z_ed2_395" ulx="1833" uly="5596" lrx="1963"
-          lry="5621" sameAs="#z_ed3-p2_239"><line>Volkslied</line></zone>
+          lry="5621" sameAs="#z_ed3-p2_239"><line><seg style="font-family:serif;font-size:11pt;">Volkslied</seg></line></zone>
         <zone littafel:href="#litarea_Artus-Gral-Sage" xml:id="z_ed2_396" ulx="1823" uly="5643"
-          lrx="2081" lry="5711" sameAs="#z_ed3-p2_240"><line>[Romane] der Artus und Gral-
-            Sage</line></zone>
+          lrx="2081" lry="5711" sameAs="#z_ed3-p2_240"><line>[Romane] <seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:red;"
+              >der Artus und Gral- Sage</seg></line></zone>
         <zone littafel:href="#g_Fastnachtspiel" xml:id="z_ed2_397" ulx="1772" uly="5745" lrx="1961"
-          lry="5777" sameAs="#z_ed3-p2_241"><line>Fastnachtspiel</line></zone>
+          lry="5777" sameAs="#z_ed3-p2_241"><line><seg style="font-family:serif;font-size:10pt;">Fastnachtspiel</seg></line></zone>
         <zone littafel:href="#t_Melusine" xml:id="z_ed2_398" ulx="2125" uly="5589" lrx="2192"
-          lry="5606" sameAs="#z_ed3-p2_242"><line>Melusine</line></zone>
+          lry="5606" sameAs="#z_ed3-p2_242"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:red;"
+              >Melusine</seg></line></zone>
         <zone littafel:href="#t_Hug-Schapler" xml:id="z_ed2_399" ulx="2175" uly="5606" lrx="2275"
-          lry="5624" sameAs="#z_ed3-p2_243"><line>Hug Schapler</line></zone>
+          lry="5624" sameAs="#z_ed3-p2_243"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:red;"
+              >Hug Schapler</seg></line></zone>
         <zone littafel:href="#t_Pontus-Sidonia" xml:id="z_ed2_400" ulx="2128" uly="5637" lrx="2261"
-          lry="5654" sameAs="#z_ed3-p2_244"><line>Pontus und Sidonia</line></zone>
+          lry="5654" sameAs="#z_ed3-p2_244"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:red;"
+              >Pontus und Sidonia</seg></line></zone>
         <zone ana="#author" corresp="#pers_02110" littafel:href="#a_Hans-Rosenplüt"
           xml:id="z_ed2_401" ulx="1830" uly="5841" lrx="2018" lry="5868" sameAs="#z_ed3-p2_245"
-            ><line>Hans Rosenplüt</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Hans Rosenplüt</seg></line></zone>
         <zone ana="#author" corresp="#pers_02111" littafel:href="#a_Michael-Beheim"
           xml:id="z_ed2_402" ulx="1853" uly="5907" lrx="2043" lry="5932" sameAs="#z_ed3-p2_246"
-            ><line>Michael Beheim</line></zone>
+            ><line><seg style=";font-size:9pt;">Michael Beheim</seg></line></zone>
         <zone ana="#author" corresp="#pers_02112" littafel:href="#a_Hans-Folz" xml:id="z_ed2_403"
-          ulx="1866" uly="5979" lrx="1979" lry="6002" sameAs="#z_ed3-p2_247"><line>Hans
-          Folz</line></zone>
+          ulx="1866" uly="5979" lrx="1979" lry="6002" sameAs="#z_ed3-p2_247"><line><seg style="font-family:serif;font-size:9pt;">Hans Folz</seg></line></zone>
         <zone ana="#author" corresp="#pers_02113" littafel:href="#a_Gerhard-Groote"
           xml:id="z_ed2_404" ulx="2551" uly="5808" lrx="2807" lry="5834" sameAs="#z_ed3-p2_248"
-            ><line>Gerhard de Groote</line></zone>
+            ><line><seg style="font-family:serif;text-decoration:underline">Gerhard de Groote</seg></line></zone>
         <zone ana="#author" corresp="#pers_02114" littafel:href="#a_Hermann-Sachsenheim"
           xml:id="z_ed2_405" ulx="2539" uly="5893" lrx="2734" lry="5907" sameAs="#z_ed3-p2_249"
-            ><line>Hermann von Sachsenheim</line></zone>
+            ><line><seg style="font-family:serif;text-decoration:underline;font-size:6pt">Hermann von
+              Sachsenheim</seg></line></zone>
         <zone littafel:href="#litarea_Humanismus" xml:id="z_ed2_406" ulx="2517" uly="5928"
-          lrx="2821" lry="5958" sameAs="#z_ed3-p2_250"><line>der Humanismus</line></zone>
+          lrx="2821" lry="5958" sameAs="#z_ed3-p2_250"><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:11pt;text-decoration-color:black;"
+              >der Humanismus</seg></line></zone>
         <zone ana="#author" corresp="#pers_00150" littafel:href="#a_Bocaccio" xml:id="z_ed2_407"
           ulx="1826" uly="6050" lrx="1936" lry="6075" sameAs="#z_ed3-p2_251"
-          ><line>Bocaccio</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:brown;"
+              >Bocaccio</seg></line></zone>
         <zone littafel:href="#litarea_Italienische-Novellistik" xml:id="z_ed2_408" ulx="1784"
-          uly="6090" lrx="2120" lry="6109" sameAs="#z_ed3-p2_252"><line>Jtalienische
-            Novellistik</line></zone>
+          uly="6090" lrx="2120" lry="6109" sameAs="#z_ed3-p2_252"><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:7pt;text-decoration-color:brown;"
+              >Jtalienische Novellistik</seg></line></zone>
         <zone ana="#author" corresp="#pers_02116" littafel:href="#a_Rudolf-Agricola"
           xml:id="z_ed2_409" ulx="2648" uly="6118" lrx="2781" lry="6140" sameAs="#z_ed3-p2_253"
-            ><line>Rudolf Agricola</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Rudolf Agricola</seg></line></zone>
         <zone ana="#author" corresp="#pers_02117" littafel:href="#a_Caspar-Roen" xml:id="z_ed2_410"
-          ulx="2379" uly="6148" lrx="2485" lry="6185" sameAs="#z_ed3-p2_254"><line>Caspar von der
-            Roen</line></zone>
+          ulx="2379" uly="6148" lrx="2485" lry="6185" sameAs="#z_ed3-p2_254"><line><seg style="font-family:serif;font-size:8pt;">Caspar von der Roen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02118" littafel:href="#a_Johann-Soest" xml:id="z_ed2_411"
-          ulx="2028" uly="6204" lrx="2162" lry="6222" sameAs="#z_ed3-p2_255"><line>Johann von
-            Soest</line></zone>
+          ulx="2028" uly="6204" lrx="2162" lry="6222" sameAs="#z_ed3-p2_255"><line><seg style="font-family:serif;font-size:7pt;">Johann von Soest</seg></line></zone>
         <zone ana="#author" corresp="#pers_02119" littafel:href="#a_Püterich-Reichardshausen"
           xml:id="z_ed2_412" ulx="1776" uly="6232" lrx="2147" lry="6251" sameAs="#z_ed3-p2_256"
-            ><line>Püterich von Reichardshausen</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Püterich von Reichardshausen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02120" littafel:href="#a_Clara-Hätzlerin"
           xml:id="z_ed2_413" ulx="2354" uly="6245" lrx="2536" lry="6267" sameAs="#z_ed3-p2_257"
-            ><line>Clara Hätzlerin</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Clara Hätzlerin</seg></line></zone>
         <zone ana="#author" corresp="#pers_02121" littafel:href="#a_Johann-Reuchlin"
           xml:id="z_ed2_414" ulx="2636" uly="6273" lrx="2783" lry="6289" sameAs="#z_ed3-p2_258"
-            ><line>Johann Reuchlin</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Johann Reuchlin</seg></line></zone>
         <zone ana="#author" corresp="#pers_02122" littafel:href="#a_Heinrich-Steinhövel"
           xml:id="z_ed2_415" ulx="1941" uly="6270" lrx="2131" lry="6284" sameAs="#z_ed3-p2_259"
             ><line>Heinrich Steinhövel</line></zone>
