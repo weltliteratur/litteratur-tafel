@@ -2851,42 +2851,52 @@
         <zone littafel:href="#t_Ludwigslied" xml:id="z_ed2_078" ulx="1174" uly="3319" lrx="1286"
           lry="3345" sameAs="#z_ed3-p1_078"><line><seg style="font-family:serif;font-size:7pt;">Ludwigslied</seg></line></zone>
         <zone littafel:href="#litarea_Nordische-Sagenelemente" xml:id="z_ed2_079" ulx="1220"
-          uly="3690" lrx="1460" lry="3755" sameAs="#z_ed3-p1_079"><line>Nordische
-            Sagen-Elemente</line></zone>
+          uly="3690" lrx="1460" lry="3755" sameAs="#z_ed3-p1_079"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:green;"
+              >Nordische Sagen-Elemente</seg></line></zone>
         <zone littafel:href="#t_Sprichwörter-StGaller-HS" xml:id="z_ed2_080" ulx="591" uly="3874"
-          lrx="874" lry="3900" sameAs="#z_ed3-p1_080"><line>Sprichwörter aus St. Galler
-            Handschriften</line></zone>
+          lrx="874" lry="3900" sameAs="#z_ed3-p1_080"><line><seg style="font-family:serif;font-size:6pt;">Sprichwörter aus St. Galler
+            Handschriften</seg></line></zone>
         <zone littafel:href="#t_Verse-StGaller-Chronik" xml:id="z_ed2_081" ulx="688" uly="3974"
-          lrx="906" lry="3996" sameAs="#z_ed3-p1_081"><line>Verse aus der St. Galler
-          Chronik</line></zone>
+          lrx="906" lry="3996" sameAs="#z_ed3-p1_081"><line><seg style="font-family:serif;font-size:6pt;">Verse aus der St. Galler Chronik</seg></line></zone>
         <zone littafel:href="#litarea_Orientalisch-Indische-Novellenstoffe" xml:id="z_ed2_082"
           ulx="513" uly="4003" lrx="771" lry="4076" sameAs="#z_ed3-p1_082"
-            ><line>Orientalisch-Indische Novellen-Stoffe</line></zone>
+            ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:yellow;"
+              >Orientalisch-Indische Novellen-Stoffe</seg></line></zone>
         <zone littafel:href="#t_Waltarilied" xml:id="z_ed2_083" ulx="713" uly="4120" lrx="880"
-          lry="4150" sameAs="#z_ed3-p1_083"><line>Waltarilied</line></zone>
+          lry="4150" sameAs="#z_ed3-p1_083"><line><seg style="font-family:serif;font-size:11pt;">Waltarilied</seg></line></zone>
         <zone littafel:href="#t_Vers-vom-Eber" xml:id="z_ed2_084" ulx="453" uly="4092" lrx="550"
-          lry="4110" sameAs="#z_ed3-p1_084"><line>Vers vom Eber</line></zone>
+          lry="4110" sameAs="#z_ed3-p1_084"><line><seg style="font-family:serif;font-size:6pt;">Vers vom Eber</seg></line></zone>
         <zone littafel:href="#t_Spottvers" xml:id="z_ed2_085" ulx="514" uly="4244" lrx="578"
-          lry="4265" sameAs="#z_ed3-p1_085"><line>Spottvers</line></zone>
+          lry="4265" sameAs="#z_ed3-p1_085"><line><seg style="font-family:serif;font-size:6pt;">Spottvers</seg></line></zone>
         <zone littafel:href="#t_Muspilli" xml:id="z_ed2_086" ulx="1268" uly="2622" lrx="1375"
-          lry="2657" sameAs="#z_ed3-p1_086"><line>Muspilli</line></zone>
+          lry="2657" sameAs="#z_ed3-p1_086"><line><seg style="font-family:serif;font-size:11pt;">Muspilli</seg></line></zone>
         <zone ana="#author" corresp="#pers_01001" littafel:href="#a_Notker-III-Labeo"
           xml:id="z_ed2_087" ulx="1115" uly="5206" lrx="1340" lry="5265" sameAs="#z_ed3-p1_087"
-            ><line>Notker III Labeo Teutonicus</line></zone>
+            ><line><seg style="font-family:serif;font-size:11pt;">Notker III Labeo Teutonicus</seg></line></zone>
         <zone littafel:href="#litarea_Alexandrin-Naturphilosophie" xml:id="z_ed2_088" ulx="479"
-          uly="5444" lrx="797" lry="5478" sameAs="#z_ed3-p1_088"><line>Alexandrin.
-            Naturphilosophie</line></zone>
+          uly="5444" lrx="797" lry="5478" sameAs="#z_ed3-p1_088"><line><seg
+              style="font-family:serif;font-weight:bold;text-decoration:underline;font-size:11pt;text-decoration-color:yellow;"
+              >Alexandrin. Naturphilosophie</seg></line></zone>
         <zone littafel:href="#t_Ezzolied" xml:id="z_ed2_089" ulx="1066" uly="5762" lrx="1162"
-          lry="5785" sameAs="#z_ed3-p1_089"><line>Ezzolied</line></zone>
+          lry="5785" sameAs="#z_ed3-p1_089"><line><seg style="font-family:serif;font-size:8pt;">Ezzolied</seg></line></zone>
         <zone littafel:href="#periode_Übergang-Mhd" xml:id="z_ed2_090" ulx="343" uly="5892"
-          lrx="590" lry="6011" sameAs="#z_ed3-p1_090"><line>Übergang zum Mittelhochdeutschen bis
-            etwa 1125</line></zone>
+          lrx="590" lry="6011" sameAs="#z_ed3-p1_090"><line><seg
+              style="font-family:serif;font-style:italic;text-decoration:underline;font-size:8pt;text-decoration-color:red;"
+              >Übergang zum Mittelhochdeutschen bis etwa 1125</seg></line></zone>
         <zone littafel:href="#litarea_Karlssage" xml:id="z_ed2_091" ulx="550" uly="6375" lrx="749"
-          lry="6407" sameAs="#z_ed3-p1_091"><line>Karlssage</line></zone>
+          lry="6407" sameAs="#z_ed3-p1_091"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:red;"
+              >Karlssage</seg></line></zone>
         <zone littafel:href="#litarea_Kreuzzüge" xml:id="z_ed2_092" ulx="470" uly="6514" lrx="602"
-          lry="6540" sameAs="#z_ed3-p1_092"><line>Kreuzzüge</line></zone>
+          lry="6540" sameAs="#z_ed3-p1_092"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:red;"
+              >Kreuzzüge</seg></line></zone>
         <zone littafel:href="#litarea_Tiersagenelemente" xml:id="z_ed2_093" ulx="715" uly="6480"
-          lrx="891" lry="6502" sameAs="#z_ed3-p1_093"><line>Tiersagenelemente</line></zone>
+          lrx="891" lry="6502" sameAs="#z_ed3-p1_093"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:red;"
+              >Tiersagenelemente</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_01002" littafel:href="#pers_Pipin-Kleine"
           xml:id="z_ed2_094" ulx="1537" uly="1364" lrx="1628" lry="1430" sameAs="#z_ed3-p1_094"
             ><line>Pipin der Kleine</line></zone>
@@ -2929,64 +2939,79 @@
           xml:id="z_ed2_107" ulx="1511" uly="6145" lrx="1641" lry="6176" sameAs="#z_ed3-p1_107"
             ><line>Heinrich IV</line></zone>
         <zone littafel:href="#t_Otlohs-Gebet" xml:id="z_ed2_108" ulx="1081" uly="6143" lrx="1210"
-          lry="6164" sameAs="#z_ed3-p1_108"><line>Otloh's Gebet</line></zone>
+          lry="6164" sameAs="#z_ed3-p1_108"><line><seg style="font-family:serif;font-size:7pt;">Otloh's Gebet</seg></line></zone>
         <zone littafel:href="#t_Exodus" xml:id="z_ed2_109" ulx="1072" uly="6486" lrx="1149"
-          lry="6507" sameAs="#z_ed3-p1_109"><line>Exodus</line></zone>
+          lry="6507" sameAs="#z_ed3-p1_109"><line><seg style="font-family:serif;font-size:8pt;">Exodus</seg></line></zone>
         <zone littafel:href="#t_Bücher-Mose" xml:id="z_ed2_110" ulx="1133" uly="6513" lrx="1272"
-          lry="6538" sameAs="#z_ed3-p1_110"><line>Bücher Mose</line></zone>
+          lry="6538" sameAs="#z_ed3-p1_110"><line><seg style="font-family:serif;font-size:8pt;">Bücher Mose</seg></line></zone>
         <zone littafel:href="#t_Summa-theologiae" xml:id="z_ed2_111" ulx="1103" uly="6568"
-          lrx="1260" lry="6591" sameAs="#z_ed3-p1_111"><line>Summa theologiae</line></zone>
+          lrx="1260" lry="6591" sameAs="#z_ed3-p1_111"><line><seg style="font-family:serif;font-size:6pt;">Summa theologiae</seg></line></zone>
         <zone ana="#author" corresp="#pers_01015" littafel:href="#a_Hilarius" xml:id="z_ed2_112"
           ulx="807" uly="1155" lrx="872" lry="1173" sameAs="#z_ed3-p1_112"
-          ><line>Hilarius</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;text-decoration-color:black;"
+            >Hilarius</seg></line></zone>
         <zone ana="#author" corresp="#pers_01016" littafel:href="#a_Ambrosius" xml:id="z_ed2_113"
           ulx="897" uly="1156" lrx="976" lry="1172" sameAs="#z_ed3-p1_113"
-          ><line>Ambrosius</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:black;"
+              >Ambrosius</seg></line></zone>
         <zone ana="#author" corresp="#pers_01017" littafel:href="#a_Augustin" xml:id="z_ed2_114"
           ulx="915" uly="1176" lrx="988" lry="1196" sameAs="#z_ed3-p1_114"
-          ><line>Augustin</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:black;"
+              >Augustin</seg></line></zone>
         <zone ana="#author" corresp="#pers_01018" littafel:href="#a_Gregor" xml:id="z_ed2_115"
           ulx="1010" uly="1175" lrx="1062" lry="1196" sameAs="#z_ed3-p1_115"
-          ><line>Gregor</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:black;"
+              >Gregor</seg></line></zone>
         <zone littafel:href="#t_Itala" xml:id="z_ed2_116" ulx="1046" uly="1021" lrx="1083"
-          lry="1037" sameAs="#z_ed3-p1_116"><line>Itala</line></zone>
+          lry="1037" sameAs="#z_ed3-p1_116"><line><seg style="font-family:serif;font-size:6pt;text-decoration-color:black;">Itala</seg></line></zone>
         <zone littafel:href="#t_Septuaginta" xml:id="z_ed2_117" ulx="951" uly="1020" lrx="1032"
-          lry="1037" sameAs="#z_ed3-p1_117"><line>Septuaginta</line></zone>
+          lry="1037" sameAs="#z_ed3-p1_117"><line><seg style="font-family:serif;font-size:6pt;text-decoration-color:black;"
+            >Septuaginta</seg></line></zone>
         <zone littafel:href="#t_Apokryphen" xml:id="z_ed2_118" ulx="1010" uly="1040" lrx="1107"
-          lry="1056" sameAs="#z_ed3-p1_118"><line>die apokryphen</line></zone>
+          lry="1056" sameAs="#z_ed3-p1_118"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:black;"
+              >die apokryphen</seg></line></zone>
         <zone littafel:href="#t_Vulgata" xml:id="z_ed2_119" ulx="1254" uly="1017" lrx="1306"
-          lry="1036" sameAs="#z_ed3-p1_119"><line>Vulgata</line></zone>
+          lry="1036" sameAs="#z_ed3-p1_119"><line><seg style="font-family:serif;font-size:6pt;text-decoration-color:black;">Vulgata</seg></line></zone>
         <zone littafel:href="#t_Evangelien" xml:id="z_ed2_120" ulx="1241" uly="1038" lrx="1308"
-          lry="1057" sameAs="#z_ed3-p1_120"><line>Evangelien</line></zone>
+          lry="1057" sameAs="#z_ed3-p1_120"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:black;"
+              >Evangelien</seg></line></zone>
         <zone ana="#author" corresp="#pers_01019" littafel:href="#a_Kaedmon" xml:id="z_ed2_121"
           ulx="1334" uly="1148" lrx="1419" lry="1168" sameAs="#z_ed3-p1_121"
-          ><line>Kaedmon</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:blue;"
+              >Kaedmon</seg></line></zone>
         <zone ana="#author" corresp="#pers_01020" littafel:href="#a_Beda" xml:id="z_ed2_122"
           ulx="1343" uly="1196" lrx="1387" lry="1216" sameAs="#z_ed3-p1_122"
-          ><line>Beda</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:blue;"
+              >Beda</seg></line></zone>
         <zone littafel:href="#t_Glossen" xml:id="z_ed2_123" ulx="1259" uly="1360" lrx="1425"
-          lry="1389" sameAs="#z_ed3-p1_123"><line>die Glossen</line></zone>
+          lry="1389" sameAs="#z_ed3-p1_123"><line><seg style="font-family:serif;font-size:11pt;">die Glossen:</seg></line></zone>
         <zone littafel:href="#t_Keronische-Sippe" xml:id="z_ed2_124" ulx="1261" uly="1453"
-          lrx="1437" lry="1485" sameAs="#z_ed3-p1_124"><line>Keronische Sippe</line></zone>
+          lrx="1437" lry="1485" sameAs="#z_ed3-p1_124"><line><seg style="font-family:serif;font-size:10pt;">Keronische Sippe</seg></line></zone>
         <zone littafel:href="#t_Vocabularis-rerum-StGalli" xml:id="z_ed2_125" ulx="1292" uly="1596"
-          lrx="1445" lry="1652" sameAs="#z_ed3-p1_125"><line>Vocabularis rerum
-          St.Galli</line></zone>
+          lrx="1445" lry="1652" sameAs="#z_ed3-p1_125"><line><seg style="font-family:serif;font-size:10pt;">Vocabularis rerum St.Galli</seg></line></zone>
         <zone ana="#author" corresp="#pers_01021" littafel:href="#a_Alcuin" xml:id="z_ed2_126"
           ulx="1067" uly="1733" lrx="1136" lry="1754" sameAs="#z_ed3-p1_126"
-          ><line>Alcuin</line></zone>
+          ><line><seg style="font-family:serif;font-size:8pt;">Alcuin</seg></line></zone>
         <zone littafel:href="#t_Rhabanische-Sippe" xml:id="z_ed2_127" ulx="1265" uly="1954"
-          lrx="1451" lry="1986" sameAs="#z_ed3-p1_127"><line>Rhabanische Sippe</line></zone>
+          lrx="1451" lry="1986" sameAs="#z_ed3-p1_127"><line><seg style="font-family:serif;font-size:9pt;">Rhabanische Sippe</seg></line></zone>
         <zone littafel:href="#t_Paris-Monseer-Gruppe" xml:id="z_ed2_128" ulx="1238" uly="2007"
-          lrx="1432" lry="2031" sameAs="#z_ed3-p1_128"><line>Paris-Monseer-Gruppe</line></zone>
+          lrx="1432" lry="2031" sameAs="#z_ed3-p1_128"><line><seg style="font-family:serif;font-weight:bold;font-size:7pt;"
+            >Paris-Monseer-Gruppe</seg></line></zone>
         <zone ana="#author" corresp="#pers_01022" littafel:href="#a_Rhabanus-Maurus"
           xml:id="z_ed2_129" ulx="953" uly="2172" lrx="1303" lry="2198" sameAs="#z_ed3-p1_129"
-            ><line>Rhabanus Maurus</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Rhabanus Maurus</seg></line></zone>
         <zone littafel:href="#t_Exhortatio-plebem-christianam" xml:id="z_ed2_130" ulx="937"
-          uly="2216" lrx="1163" lry="2237" sameAs="#z_ed3-p1_130"><line>Exhortatio ad plebem
-            christianam</line></zone>
+          uly="2216" lrx="1163" lry="2237" sameAs="#z_ed3-p1_130"><line><seg style="font-family:serif;font-size:6pt;">Exhortatio ad plebem christianam</seg></line></zone>
         <zone ana="#author" corresp="#pers_01023" littafel:href="#a_Tatian" xml:id="z_ed2_131"
           ulx="1177" uly="2604" lrx="1250" lry="2628" sameAs="#z_ed3-p1_131"
-          ><line>Tatian</line></zone>
+          ><line><seg style=";font-size:9pt;">Tatian</seg></line></zone>
         <zone littafel:href="#t_Strassburger-Eide" xml:id="z_ed2_132" ulx="626" uly="2743" lrx="785"
           lry="2760" sameAs="#z_ed3-p1_132"><line>die Strassburger Eide</line></zone>
         <zone littafel:href="#t_Sequenzen" xml:id="z_ed2_133" ulx="613" uly="3390" lrx="726"
@@ -2994,48 +3019,45 @@
         <zone littafel:href="#t_Ecbasis-captivi" xml:id="z_ed2_134" ulx="1051" uly="4180" lrx="1191"
           lry="4202" sameAs="#z_ed3-p1_134"><line>Ecbasis captivi</line></zone>
         <zone littafel:href="#t_de-Henrico" xml:id="z_ed2_135" ulx="622" uly="4386" lrx="720"
-          lry="4404" sameAs="#z_ed3-p1_135"><line>de Henrico</line></zone>
+          lry="4404" sameAs="#z_ed3-p1_135"><line><seg style="font-family:serif;font-size:7pt;">de Henrico</seg></line></zone>
         <zone littafel:href="#unident_Leise" xml:id="z_ed2_136" ulx="551" uly="4505" lrx="619"
-          lry="4520" sameAs="#z_ed3-p1_136"><line>die Leise</line></zone>
+          lry="4520" sameAs="#z_ed3-p1_136"><line><seg style="font-family:serif;font-size:6pt;">die Leise</seg></line></zone>
         <zone ana="#author" corresp="#pers_01024" littafel:href="#a_Roswitha-Gandersheim"
           xml:id="z_ed2_137" ulx="463" uly="4771" lrx="785" lry="4801" sameAs="#z_ed3-p1_137"
-            ><line>Roswitha von Gandersheim</line></zone>
+            ><line><seg style="font-family:serif;font-size:10pt;">Roswitha von Gandersheim</seg></line></zone>
         <zone littafel:href="#t_Modus-Florum" xml:id="z_ed2_138" ulx="431" uly="4855" lrx="541"
-          lry="4873" sameAs="#z_ed3-p1_138"><line>Modus Florum</line></zone>
+          lry="4873" sameAs="#z_ed3-p1_138"><line><seg style="font-family:serif;font-size:6pt;">Modus Florum</seg></line></zone>
         <zone littafel:href="#t_Modus-Liebinc" xml:id="z_ed2_139" ulx="432" uly="4912" lrx="545"
-          lry="4930" sameAs="#z_ed3-p1_139"><line>Modus Liebinc</line></zone>
+          lry="4930" sameAs="#z_ed3-p1_139"><line><seg style=";font-size:6pt;">Modus Liebinc</seg></line></zone>
         <zone littafel:href="#t_Modus-Othinc" xml:id="z_ed2_140" ulx="436" uly="4885" lrx="541"
-          lry="4903" sameAs="#z_ed3-p1_140"><line>Modus Othinc</line></zone>
+          lry="4903" sameAs="#z_ed3-p1_140"><line><seg style="font-family:serif;font-size:6pt;">Modus Othinc</seg></line></zone>
         <zone littafel:href="#t_Heldensage-Quedlinburger-Chronik" xml:id="z_ed2_141" ulx="551"
-          uly="5041" lrx="727" lry="5085" sameAs="#z_ed3-p1_141"><line>Heldensage in der
-            Quedlinburger Chronik</line></zone>
+          uly="5041" lrx="727" lry="5085" sameAs="#z_ed3-p1_141"><line><seg style=";font-size:6pt;">Heldensage in der Quedlinburger Chronik</seg></line></zone>
         <zone littafel:href="#t_Lantfrido-Cobonne" xml:id="z_ed2_142" ulx="434" uly="5165" lrx="632"
-          lry="5184" sameAs="#z_ed3-p1_142"><line>de Lantfrido et Cobbonne</line></zone>
+          lry="5184" sameAs="#z_ed3-p1_142"><line><seg style="font-family:serif;font-size:6pt;">de Lantfrido et Cobbonne</seg></line></zone>
         <zone littafel:href="#t_Proterii-filia" xml:id="z_ed2_143" ulx="432" uly="5203" lrx="550"
-          lry="5220" sameAs="#z_ed3-p1_143"><line>de Proterii filia</line></zone>
+          lry="5220" sameAs="#z_ed3-p1_143"><line><seg style="font-family:serif;font-size:6pt;">de Proterii filia</seg></line></zone>
         <zone littafel:href="#t_Heriger" xml:id="z_ed2_144" ulx="434" uly="5239" lrx="495"
-          lry="5259" sameAs="#z_ed3-p1_144"><line>Heriger</line></zone>
+          lry="5259" sameAs="#z_ed3-p1_144"><line><seg style="font-family:serif;font-size:6pt;">Heriger</seg></line></zone>
         <zone littafel:href="#t_Alverades-Eselin" xml:id="z_ed2_145" ulx="439" uly="5273" lrx="575"
-          lry="5290" sameAs="#z_ed3-p1_145"><line>Alverades Eselin</line></zone>
+          lry="5290" sameAs="#z_ed3-p1_145"><line><seg style="font-family:serif;font-size:6pt;">Alverades Eselin</seg></line></zone>
         <zone littafel:href="Sacerdos et lupus" xml:id="z_ed2_146" ulx="440" uly="5310" lrx="599"
-          lry="5334" sameAs="#z_ed3-p1_146"><line>Sacerdos et lupus</line></zone>
+          lry="5334" sameAs="#z_ed3-p1_146"><line><seg style="font-family:serif;font-weight:bold;font-size:6pt;">Sacerdos et lupus</seg></line></zone>
         <zone littafel:href="#t_Unibos" xml:id="z_ed2_147" ulx="437" uly="5348" lrx="504" lry="5367"
-          sameAs="#z_ed3-p1_147"><line>Unibos</line></zone>
+          sameAs="#z_ed3-p1_147"><line><seg style="font-family:serif;font-weight:bold;font-size:6pt;">Unibos</seg></line></zone>
         <zone littafel:href="#t_Ruodlieb" xml:id="z_ed2_148" ulx="434" uly="5507" lrx="530"
-          lry="5528" sameAs="#z_ed3-p1_148"><line>Ruodlieb</line></zone>
+          lry="5528" sameAs="#z_ed3-p1_148"><line><seg style="font-family:serif;font-size:8pt;">Ruodlieb</seg></line></zone>
         <zone littafel:href="#unident_Pseudo-Chrysostomus" xml:id="z_ed2_149" ulx="558" uly="5716"
-          lrx="732" lry="5756" sameAs="#z_ed3-p1_149"><line>Pseudo Chrysostomus im X.
-          Jahrh</line></zone>
+          lrx="732" lry="5756" sameAs="#z_ed3-p1_149"><line><seg style="font-family:serif;font-size:5pt;">Pseudo Chrysostomus im X. Jahrh</seg></line></zone>
         <zone littafel:href="#t_Physiologus-redda" xml:id="z_ed2_150" ulx="995" uly="5876"
-          lrx="1283" lry="5918" sameAs="#z_ed3-p1_150"><line>Physiologus: redda umbe diu
-          tier</line></zone>
+          lrx="1283" lry="5918" sameAs="#z_ed3-p1_150"><line><seg style="font-family:serif;font-size:8pt;">Physiologus: redda umbe diu tier</seg></line></zone>
         <zone ana="#author" corresp="#pers_01025" littafel:href="#a_Williram" xml:id="z_ed2_151"
           ulx="1031" uly="6088" lrx="1134" lry="6112" sameAs="#z_ed3-p1_151"
-          ><line>Williram</line></zone>
+          ><line><seg style="font-family:serif;font-size:10pt;">Williram</seg></line></zone>
         <zone littafel:href="#t_Merigarto" xml:id="z_ed2_152" ulx="612" uly="6038" lrx="728"
-          lry="6068" sameAs="#z_ed3-p1_152"><line>Merigarto</line></zone>
+          lry="6068" sameAs="#z_ed3-p1_152"><line><seg style="font-family:serif;font-size:10pt;">Merigarto</seg></line></zone>
         <zone littafel:href="#t_Genesis" xml:id="z_ed2_153" ulx="1062" uly="6210" lrx="1150"
-          lry="6233" sameAs="#z_ed3-p1_153"><line>Genesis</line></zone>
+          lry="6233" sameAs="#z_ed3-p1_153"><line><seg style="font-family:serif;font-size:8pt;">Genesis</seg></line></zone>
         <zone littafel:href="#label_Blüte-lateinische-Poesie" xml:id="z_ed2_154" ulx="343"
           uly="4592" lrx="342" lry="4624" sameAs="#z_ed3-p1_154"><line>Blüte der lateinischen
             Poesie</line></zone>
