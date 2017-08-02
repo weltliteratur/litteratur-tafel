@@ -3887,39 +3887,38 @@
           xml:id="z_ed2_453" ulx="2939" uly="2941" lrx="3068" lry="2967" sameAs="#z_ed3-p2_297"
             ><line>Wilh. von Holland</line></zone>
         <zone ana="#author" corresp="#pers_00001" littafel:href="#a_Jacob-Locher" xml:id="z_ed2_454"
-          ulx="4082" uly="689" lrx="4207" lry="713" sameAs="#z_ed3-p3_001"><line>Jacob
-          Locher</line></zone>
+          ulx="4082" uly="689" lrx="4207" lry="713" sameAs="#z_ed3-p3_001"><line><seg style="font-family:serif;font-size:7pt;">Jacob Locher</seg></line></zone>
         <zone ana="#author" corresp="#pers_00002" littafel:href="#aHeinrich-Bebel"
           xml:id="z_ed2_455" ulx="4076" uly="716" lrx="4218" lry="746" sameAs="#z_ed3-p3_002"
-            ><line>Heinrich Bebel</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Heinrich Bebel</seg></line></zone>
         <zone ana="#author" corresp="#pers_00003" littafel:href="#a_Johann-Adelphus"
           xml:id="z_ed2_456" ulx="4078" uly="764" lrx="4235" lry="784" sameAs="#z_ed3-p3_003"
-            ><line>Johann Adelphus</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Johann Adelphus</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_00004" littafel:href="#pers_Crotus-Rubeanus"
           xml:id="z_ed2_457" ulx="4063" uly="803" lrx="4241" lry="823" sameAs="#z_ed3-p3_004"
-            ><line>Crotus Rubeanus</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Crotus Rubeanus</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_00005" littafel:href="#pers_Ulrich-von-Hutten"
           xml:id="z_ed2_458" ulx="4070" uly="838" lrx="4239" lry="866" sameAs="#z_ed3-p3_005"
-            ><line>Ulrich von Hutten</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Ulrich von Hutten</seg></line></zone>
         <zone ana="#author" corresp="#pers_00006" littafel:href="#a_Johann-Pauli" xml:id="z_ed2_459"
-          ulx="3815" uly="870" lrx="3939" lry="891" sameAs="#z_ed3-p3_006"><line>Johann
-          Pauli</line></zone>
+          ulx="3815" uly="870" lrx="3939" lry="891" sameAs="#z_ed3-p3_006"><line><seg style="font-family:serif;font-size:7pt;">Johann Pauli</seg></line></zone>
         <zone ana="#author" corresp="#pers_00007" littafel:href="#a_Aesop" xml:id="z_ed2_460"
-          ulx="3937" uly="929" lrx="4020" lry="958" sameAs="#z_ed3-p3_007"><line>Aesop</line></zone>
+          ulx="3937" uly="929" lrx="4020" lry="958" sameAs="#z_ed3-p3_007"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:black;"
+              >Aesop</seg></line></zone>
         <zone littafel:href="#t_Teurdank und Weisskunig" xml:id="z_ed2_461" ulx="3983" uly="894"
-          lrx="4235" lry="920" sameAs="#z_ed3-p3_008"><line>Teurdank und Weisskunig</line></zone>
+          lrx="4235" lry="920" sameAs="#z_ed3-p3_008"><line><seg style="font-family:serif;font-size:8pt;">Teurdank und Weisskunig</seg></line></zone>
         <zone ana="#author" corresp="#pers_00008" littafel:href="#a_Pamphilus-Gengenbach"
           xml:id="z_ed2_462" ulx="3247" uly="754" lrx="3466" lry="778" sameAs="#z_ed3-p3_009"
-            ><line>Pamphilus Gengenbach</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Pamphilus Gengenbach</seg></line></zone>
         <zone ana="#author" corresp="#pers_00009" littafel:href="#a_Thomas-Murner"
           xml:id="z_ed2_463" ulx="3208" uly="819" lrx="3396" lry="846" sameAs="#z_ed3-p3_010"
-            ><line>Thomas Murner</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Thomas Murner</seg></line></zone>
         <zone ana="#author" corresp="#pers_00010" littafel:href="#a_Nicolaus_Manuel"
           xml:id="z_ed2_464" ulx="3274" uly="791" lrx="3433" lry="810" sameAs="#z_ed3-p3_011"
-            ><line>Nicolaus Manuel</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Nicolaus Manuel</seg></line></zone>
         <zone ana="#emperor" corresp="#" littafel:href="#pers_Till-Eulenspiegel" xml:id="z_ed2_465"
-          ulx="3363" uly="845" lrx="3563" lry="875" sameAs="#z_ed3-p3_012"><line>Till
-            Eulenspiegel</line></zone>
+          ulx="3363" uly="845" lrx="3563" lry="875" sameAs="#z_ed3-p3_012"><line><seg style=";font-size:9pt;">Till Eulenspiegel</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_00012" littafel:href="#pers_Maximilian-I"
           xml:id="z_ed2_466" ulx="4360" uly="748" lrx="4488" lry="774" sameAs="#z_ed3-p3_013"
             ><line>Maximilian I.</line></zone>
@@ -3929,54 +3928,56 @@
         <zone ana="#year" littafel:href="#y_1519" xml:id="z_ed2_468" ulx="4344" uly="914" lrx="4390"
           lry="936" sameAs="#z_ed3-p3_015"><line>1519</line></zone>
         <zone littafel:href="#hist_Neuhochdeutsche-Periode-bis-heute" xml:id="z_ed2_469" ulx="3210"
-          uly="883" lrx="3436" lry="946" sameAs="#z_ed3-p3_016"><line>Neuhochdeutsche Periode bis
-            heute</line></zone>
+          uly="883" lrx="3436" lry="946" sameAs="#z_ed3-p3_016"><line><seg
+              style="font-family:serif;font-style:italic;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Neuhochdeutsche Periode bis heute</seg></line></zone>
         <zone ana="#author" corresp="#pers_00014" littafel:href="#a_Martin-Luther"
           xml:id="z_ed2_470" ulx="3277" uly="971" lrx="3463" lry="1000" sameAs="#z_ed3-p3_017"
-            ><line>Martin Luther</line></zone>
+            ><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Martin Luther</seg></line></zone>
         <zone ana="#author" corresp="#pers_00015" littafel:href="#a_Hans-Sachs" xml:id="z_ed2_471"
-          ulx="3278" uly="1008" lrx="3439" lry="1032" sameAs="#z_ed3-p3_018"><line>Hans
-          Sachs</line></zone>
+          ulx="3278" uly="1008" lrx="3439" lry="1032" sameAs="#z_ed3-p3_018"><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Hans Sachs</seg></line></zone>
         <zone littafel:href="#g_das-Kirchenlied" xml:id="z_ed2_472" ulx="3252" uly="1072" lrx="3458"
-          lry="1097" sameAs="#z_ed3-p3_019"><line>das Kirchenlied</line></zone>
+          lry="1097" sameAs="#z_ed3-p3_019"><line><seg style=";font-size:11pt;">das Kirchenlied</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_00016" littafel:href="#pers_Philipp_Melanchthon"
           xml:id="z_ed2_473" ulx="3988" uly="1020" lrx="4229" lry="1059" sameAs="#z_ed3-p3_020"
-            ><line>Philipp Melanchthon</line></zone>
+            ><line><seg style="font-family:serif;font-size:10pt;">Philipp Melanchthon</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_00017" littafel:href="#pers_Valentin_Ickelsamer"
           xml:id="z_ed2_474" ulx="4100" uly="1055" lrx="4252" lry="1074" sameAs="#z_ed3-p3_021"
-            ><line>Valentin Ickelsamer</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Valentin Ickelsamer</seg></line></zone>
         <zone littafel:href="#t_Reineke-Voss" xml:id="z_ed2_475" ulx="3850" uly="1102" lrx="4135"
-          lry="1125" sameAs="#z_ed3-p3_022"><line>Reineke Voss</line></zone>
+          lry="1125" sameAs="#z_ed3-p3_022"><line><seg style="font-family:serif;font-size:9pt;">Reineke Voss</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_00018" littafel:href="#pers_Johann-Buggenhagen"
           xml:id="z_ed2_476" ulx="4048" uly="1147" lrx="4255" lry="1171" sameAs="#z_ed3-p3_023"
-            ><line>Johann Buggenhagen</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Johann Buggenhagen</seg></line></zone>
         <zone ana="#author" corresp="#pers_00019" littafel:href="#a_Paul-Rebhun" xml:id="z_ed2_477"
-          ulx="4031" uly="1187" lrx="4160" lry="1209" sameAs="#z_ed3-p3_024"><line>Paul
-            Rebhun</line></zone>
+          ulx="4031" uly="1187" lrx="4160" lry="1209" sameAs="#z_ed3-p3_024"><line><seg style="font-family:serif;font-size:8pt;">Paul Rebhun</seg></line></zone>
         <zone ana="#author" corresp="#pers_00020" littafel:href="#a_Thomas-Naogeorgius"
           xml:id="z_ed2_478" ulx="4011" uly="1225" lrx="4204" lry="1247" sameAs="#z_ed3-p3_025"
-            ><line>Thomas Naogeorgius</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Thomas Naogeorgius</seg></line></zone>
         <zone ana="#author" corresp="#pers_00021" littafel:href="#a_Jörg-Wickram" xml:id="z_ed2_479"
-          ulx="3774" uly="1209" lrx="3909" lry="1232" sameAs="#z_ed3-p3_026"><line>Jörg
-            Wickram</line></zone>
+          ulx="3774" uly="1209" lrx="3909" lry="1232" sameAs="#z_ed3-p3_026"><line><seg style="font-family:serif;font-size:8pt;">Jörg Wickram</seg></line></zone>
         <zone ana="#author" corresp="#pers_00022" littafel:href="#a_Johann-Agricola"
           xml:id="z_ed2_480" ulx="4060" uly="1271" lrx="4204" lry="1294" sameAs="#z_ed3-p3_027"
-            ><line>Johann Agricola</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Johann Agricola</seg></line></zone>
         <zone ana="#author" corresp="#pers_00023" littafel:href="#a_Sebastian-Frank"
           xml:id="z_ed2_481" ulx="4033" uly="1297" lrx="4182" lry="1318" sameAs="#z_ed3-p3_028"
-            ><line>Sebastian Frank</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Sebastian Frank</seg></line></zone>
         <zone ana="#author" corresp="#pers_00024" littafel:href="#a_Erasmus-Alberus"
           xml:id="z_ed2_482" ulx="3986" uly="1332" lrx="4154" lry="1351" sameAs="#z_ed3-p3_029"
-            ><line>Erasmus Alberus</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Erasmus Alberus</seg></line></zone>
         <zone ana="#author" corresp="#pers_00025" littafel:href="#a_Friedrich-Dedekind"
           xml:id="z_ed2_483" ulx="3951" uly="1362" lrx="4128" lry="1385" sameAs="#z_ed3-p3_030"
-            ><line>Friedrich Dedekind</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Friedrich Dedekind</seg></line></zone>
         <zone ana="#author" corresp="#pers_00026" littafel:href="#a_Jaspar-Gennep"
           xml:id="z_ed2_484" ulx="3974" uly="1404" lrx="4138" lry="1426" sameAs="#z_ed3-p3_031"
-            ><line>Jaspar von Gennep</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Jaspar von Gennep</seg></line></zone>
         <zone ana="#author" corresp="#pers_00027" littafel:href="#a_Burkart-Waldis"
           xml:id="z_ed2_485" ulx="3249" uly="1330" lrx="3417" lry="1353" sameAs="#z_ed3-p3_032"
-            ><line>Burkart Waldis</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Burkart Waldis</seg></line></zone>
         <zone ana="#year" littafel:href="#y_1556" xml:id="z_ed2_486" ulx="4349" uly="1470"
           lrx="4394" lry="1488" sameAs="#z_ed3-p3_033"><line>1556</line></zone>
         <zone ana="#emperor" corresp="#pers_00028" littafel:href="#pers_Ferdinand-I"
@@ -3989,16 +3990,20 @@
             ><line>Maximilian II</line></zone>
         <zone ana="#author" corresp="#pers_00030" littafel:href="#a_Paulus-Melissus"
           xml:id="z_ed2_490" ulx="3960" uly="1550" lrx="4097" lry="1573" sameAs="#z_ed3-p3_037"
-            ><line>Paulus Melissus</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Paulus Melissus</seg></line></zone>
         <zone ana="#author" corresp="#pers_00031" littafel:href="#a_Adam-Puschmann"
           xml:id="z_ed2_491" ulx="3680" uly="1563" lrx="3864" lry="1591" sameAs="#z_ed3-p3_038"
-            ><line>Adam Puschmann</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Adam Puschmann</seg></line></zone>
         <zone ana="#author" corresp="#pers_00032" littafel:href="#a_Rabelais" xml:id="z_ed2_492"
           ulx="3260" uly="1515" lrx="3365" lry="1547" sameAs="#z_ed3-p3_039"
-          ><line>Rabelais</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:red;"
+              >Rabelais</seg></line></zone>
         <zone ana="#author" corresp="#pers_00033" littafel:href="#a_Johann-Fischart"
           xml:id="z_ed2_493" ulx="3205" uly="1686" lrx="3421" lry="1713" sameAs="#z_ed3-p3_040"
-            ><line>Johann Fischart</line></zone>
+            ><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Johann Fischart</seg></line></zone>
         <zone ana="#year" littafel:href="#y_1510" xml:id="z_ed2_494" ulx="3098" uly="776" lrx="3159"
           lry="802" sameAs="#z_ed3-p3_041"><line>1510</line></zone>
         <zone ana="#year" littafel:href="#y_1520" xml:id="z_ed2_495" ulx="3103" uly="917" lrx="3162"
