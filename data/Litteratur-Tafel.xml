@@ -3327,113 +3327,114 @@
             ><line><seg style="font-family:serif;font-size:6pt;">Hilbolt von Schwangau</seg></line></zone>
         <zone ana="#author" corresp="#pers_02036" littafel:href="#a_Thomasin-Ziklaria"
           xml:id="z_ed2_254" ulx="2535" uly="2403" lrx="2785" lry="2425" sameAs="#z_ed3-p2_098"
-            ><line>Thomasin von Ziklaria</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Thomasin von Ziklaria</seg></line></zone>
         <zone ana="#author" corresp="#pers_02037" littafel:href="#a_Heinrich-Türlin"
           xml:id="z_ed2_255" ulx="2561" uly="2439" lrx="2804" lry="2462" sameAs="#z_ed3-p2_099"
-            ><line>Heinrich von dem Türlin</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Heinrich von dem Türlin</seg></line></zone>
         <zone ana="#author" corresp="#pers_02038" littafel:href="#a_Neidhart-Reuenthal"
           xml:id="z_ed2_256" ulx="1870" uly="2595" lrx="2104" lry="2623" sameAs="#z_ed3-p2_100"
-            ><line>Neidhart von Reuenthal</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Neidhart von Reuenthal</seg></line></zone>
         <zone littafel:href="#t_Bibel" xml:id="z_ed2_257" ulx="2775" uly="2517" lrx="2837"
           lry="2539" sameAs="#z_ed3-p2_101"><line>2766</line></zone>
         <zone ana="#author" corresp="#pers_02039" littafel:href="#a_Konrad-Marburg"
           xml:id="z_ed2_258" ulx="1981" uly="2641" lrx="2172" lry="2666" sameAs="#z_ed3-p2_102"
-            ><line>Konrad von Marburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Konrad von Marburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02040" littafel:href="#a_Reinmar-Zweter"
           xml:id="z_ed2_259" ulx="1823" uly="2671" lrx="2015" lry="2694" sameAs="#z_ed3-p2_103"
-            ><line>Reinmar von Zweter</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Reinmar von Zweter</seg></line></zone>
         <zone ana="#author" corresp="#pers_02041" littafel:href="#a_David-Augsburg"
           xml:id="z_ed2_260" ulx="1926" uly="2741" lrx="2117" lry="2771" sameAs="#z_ed3-p2_104"
-            ><line>David von Augsburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">David von Augsburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02042" littafel:href="#a_Rudolf-Ems" xml:id="z_ed2_261"
-          ulx="2479" uly="2649" lrx="2564" lry="2702" sameAs="#z_ed3-p2_105"><line>Rudolf von
-            Ems</line></zone>
+          ulx="2479" uly="2649" lrx="2564" lry="2702" sameAs="#z_ed3-p2_105"><line><seg style="font-family:serif;font-size:10pt;">Rudolf von Ems</seg></line></zone>
         <zone ana="#author" corresp="#pers_02043" littafel:href="#a_Konrad-Fleck" xml:id="z_ed2_262"
-          ulx="2565" uly="2549" lrx="2701" lry="2567" sameAs="#z_ed3-p2_106"><line>Konrad von
-            Fleck</line></zone>
+          ulx="2565" uly="2549" lrx="2701" lry="2567" sameAs="#z_ed3-p2_106"><line><seg style="font-family:serif;font-size:7pt;">Konrad von Fleck</seg></line></zone>
         <zone ana="#author" corresp="#pers_02044" littafel:href="#a_Stricker" xml:id="z_ed2_263"
-          ulx="2644" uly="2674" lrx="2765" lry="2691" sameAs="#z_ed3-p2_107"><line>der
-            Stricker</line></zone>
+          ulx="2644" uly="2674" lrx="2765" lry="2691" sameAs="#z_ed3-p2_107"><line><seg style="font-family:serif;font-size:8pt;">der Stricker</seg></line></zone>
         <zone ana="#author" corresp="#pers_02045" littafel:href="#a_Wenher-Garnaere"
           xml:id="z_ed2_264" ulx="2645" uly="2781" lrx="2880" lry="2800" sameAs="#z_ed3-p2_108"
-            ><line>Wenher der Gartenaere</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Wenher der Gartenaere</seg></line></zone>
         <zone littafel:href="#t_Weltchronik" xml:id="z_ed2_265" ulx="2491" uly="2760" lrx="2599"
-          lry="2795" sameAs="#z_ed3-p2_109"><line>Weltchronik (Historienbibeln)</line></zone>
+          lry="2795" sameAs="#z_ed3-p2_109"><line><seg style="font-family:serif;font-size:7pt;">Weltchronik (Historienbibeln)</seg></line></zone>
         <zone ana="#author" corresp="#pers_02046" littafel:href="#a_Gottfried-Nifen"
           xml:id="z_ed2_266" ulx="1789" uly="2782" lrx="1926" lry="2800" sameAs="#z_ed3-p2_110"
-            ><line>Gottfried von Nifen</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Gottfried von Nifen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02047" littafel:href="#a_Lamprecht-Regensburg"
           xml:id="z_ed2_267" ulx="1865" uly="2885" lrx="2131" lry="2912" sameAs="#z_ed3-p2_111"
-            ><line>Lamprecht von Regensburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Lamprecht von Regensburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02048" littafel:href="#a_Heinrich-Krolewicz"
           xml:id="z_ed2_268" ulx="1966" uly="2914" lrx="2114" lry="2933" sameAs="#z_ed3-p2_112"
-            ><line>Heinrich von Krolewicz</line></zone>
+            ><line><seg style="font-family:serif;font-size:5pt;">Heinrich von Krolewicz</seg></line></zone>
         <zone ana="#author" corresp="#pers_02049" littafel:href="#a_Ulrich-Türheim"
           xml:id="z_ed2_269" ulx="2543" uly="2956" lrx="2729" lry="2979" sameAs="#z_ed3-p2_113"
-            ><line>Ulrich von Türheim</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Ulrich von Türheim</seg></line></zone>
         <zone ana="#author" corresp="#pers_02050" littafel:href="#a_Ulrich-Türlin"
           xml:id="z_ed2_270" ulx="2490" uly="3039" lrx="2678" lry="3063" sameAs="#z_ed3-p2_114"
-            ><line>Ulrich von dem Türlin</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Ulrich von dem Türlin</seg></line></zone>
         <zone littafel:href="#t_Gedicht-Wartburgkrieg" xml:id="z_ed2_271" ulx="1837" uly="3036"
-          lrx="2046" lry="3056" sameAs="#z_ed3-p2_115"><line>Gedicht vom Wartburgkrieg</line></zone>
+          lrx="2046" lry="3056" sameAs="#z_ed3-p2_115"><line><seg style="font-family:serif;font-size:6pt;">Gedicht vom Wartburgkrieg</seg></line></zone>
         <zone littafel:href="#litaerea_spätlateinische-Didactik" xml:id="z_ed2_272" ulx="2477"
-          uly="3121" lrx="2699" lry="3143" sameAs="#z_ed3-p2_116"><line>Spätlateinische
-            Didactik</line></zone>
+          uly="3121" lrx="2699" lry="3143" sameAs="#z_ed3-p2_116"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:black;"
+              >Spätlateinische Didactik</seg></line></zone>
         <zone ana="#author" corresp="#pers_02051" littafel:href="#a_Konrad-Würzburg"
           xml:id="z_ed2_273" ulx="2558" uly="3174" lrx="2824" lry="3206" sameAs="#z_ed3-p2_117"
-            ><line>Konrad von Würzburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:11pt;">Konrad von Würzburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02052" littafel:href="#a_Berthold-Regensburg"
           xml:id="z_ed2_274" ulx="1896" uly="3065" lrx="2145" lry="3097" sameAs="#z_ed3-p2_118"
-            ><line>Berthold von Regensburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Berthold von Regensburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02053" littafel:href="#a_Heinrich-Freiberg"
           xml:id="z_ed2_275" ulx="2512" uly="3212" lrx="2695" lry="3237" sameAs="#z_ed3-p2_119"
-            ><line>Heinrich von Freiberg</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Heinrich von Freiberg</seg></line></zone>
         <zone littafel:href="#t_Buch-Lügen" xml:id="z_ed2_276" ulx="2493" uly="3273" lrx="2597"
-          lry="3292" sameAs="#z_ed3-p2_120"><line>Buch der Lügen</line></zone>
+          lry="3292" sameAs="#z_ed3-p2_120"><line><seg style="font-family:serif;font-size:6pt;">Buch der Lügen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02054" littafel:href="#a_Hugo-Langenstein"
           xml:id="z_ed2_277" ulx="1979" uly="3318" lrx="2135" lry="3341" sameAs="#z_ed3-p2_121"
-            ><line>Hugo von Langenstein</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Hugo von Langenstein</seg></line></zone>
         <zone ana="#author" corresp="#pers_02055" littafel:href="#a_Ulrich-Eschenbach"
           xml:id="z_ed2_278" ulx="2457" uly="3418" lrx="2712" lry="3444" sameAs="#z_ed3-p2_122"
-            ><line>Ulrich von Eschenbach</line></zone>
+            ><line><seg style="font-family:serif;font-size:10pt;">Ulrich von Eschenbach</seg></line></zone>
         <zone ana="#author" corresp="#pers_02056" littafel:href="#a_Hugo-Trimberg"
           xml:id="z_ed2_279" ulx="2558" uly="3532" lrx="2781" lry="3566" sameAs="#z_ed3-p2_123"
-            ><line>Hugo von Trimberg</line></zone>
+            ><line><seg style="font-family:serif;font-size:11pt;">Hugo von Trimberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_00007" littafel:href="#a_Aesop" xml:id="z_ed2_280"
           ulx="2642" uly="3762" lrx="2718" lry="3792" sameAs="#z_ed3-p2_124"
-          ><line>Aesop</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:black;"
+              >Aesop</seg></line></zone>
         <zone littafel:href="#t_Ottokars-östr-Chronik" xml:id="z_ed2_281" ulx="2679" uly="3712"
-          lrx="2845" lry="3730" sameAs="#z_ed3-p2_125"><line>Ottokar's östr. Chronik</line></zone>
+          lrx="2845" lry="3730" sameAs="#z_ed3-p2_125"><line><seg style="font-family:serif;font-size:6pt;">Ottokar's östr. Chronik</seg></line></zone>
         <zone ana="#author" corresp="#pers_02058" littafel:href="#a_Heinrich-Neuenstadt"
           xml:id="z_ed2_282" ulx="2510" uly="3657" lrx="2724" lry="3677" sameAs="#z_ed3-p2_126"
-            ><line>Heinrich von Neuenstadt</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Heinrich von Neuenstadt</seg></line></zone>
         <zone ana="#author" corresp="#pers_02059" littafel:href="#a_Johann-Würzburg"
           xml:id="z_ed2_283" ulx="2595" uly="3849" lrx="2742" lry="3870" sameAs="#z_ed3-p2_127"
-            ><line>Johann von Würzburg</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Johann von Würzburg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02060" littafel:href="#a_Ulrich-Boner" xml:id="z_ed2_284"
-          ulx="2407" uly="3980" lrx="2598" lry="4009" sameAs="#z_ed3-p2_128"><line>Ulrich
-            Boner</line></zone>
+          ulx="2407" uly="3980" lrx="2598" lry="4009" sameAs="#z_ed3-p2_128"><line><seg style="font-family:serif;font-size:10pt;">Ulrich Boner</seg></line></zone>
         <zone littafel:href="#t_Spiel-Jungfrauen" xml:id="z_ed2_285" ulx="2458" uly="3947"
-          lrx="2827" lry="3999" sameAs="#z_ed3-p2_129"><line>Spiel von den klugen und thörichten
-            Jungfrauen</line></zone>
+          lrx="2827" lry="3999" sameAs="#z_ed3-p2_129"><line><seg style="font-family:serif;font-size:9pt;">Spiel von den klugen und thörichten
+              Jungfrauen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02061" littafel:href="#a_Heinrich-Frauenlob"
           xml:id="z_ed2_286" ulx="1886" uly="3825" lrx="2088" lry="3847" sameAs="#z_ed3-p2_130"
-            ><line>Heinrich Frauenlob</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Heinrich Frauenlob</seg></line></zone>
         <zone ana="#author" corresp="#pers_02062" littafel:href="#a_Jacob-Cessoles"
           xml:id="z_ed2_287" ulx="2588" uly="4034" lrx="2768" lry="4057" sameAs="#z_ed3-p2_131"
-            ><line>Jacob von Cessoles</line></zone>
+            ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Jacob von Cessoles</seg></line></zone>
         <zone ana="#author" corresp="#pers_02063" littafel:href="#a_Heinrich-Beringen"
           xml:id="z_ed2_288" ulx="2574" uly="4060" lrx="2720" lry="4079" sameAs="#z_ed3-p2_132"
-            ><line>Heinrich von Beringen</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Heinrich von Beringen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02064" littafel:href="#a_Konrad-Ammenhusen"
           xml:id="z_ed2_289" ulx="2566" uly="4098" lrx="2813" lry="4119" sameAs="#z_ed3-p2_133"
-            ><line>Konrad von Ammenhusen</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Konrad von Ammenhusen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02065" littafel:href="#a_Johann-Tauler"
           xml:id="z_ed2_290" ulx="1996" uly="4247" lrx="2144" lry="4267" sameAs="#z_ed3-p2_134"
-            ><line>Johann Tauler</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Johann Tauler</seg></line></zone>
         <zone ana="#author" corresp="#pers_02066" littafel:href="#a_Hadamar-Labar"
           xml:id="z_ed2_291" ulx="1838" uly="4281" lrx="2002" lry="4298" sameAs="#z_ed3-p2_135"
-            ><line>Hadamar von Labar</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Hadamar von Labar</seg></line></zone>
         <zone ana="#author" corresp="#pers_02067" littafel:href="#a_Heinrich_Suso"
           xml:id="z_ed2_292" ulx="2041" uly="4307" lrx="2183" lry="4327" sameAs="#z_ed3-p2_136"
             ><line>Heinrich Suso</line></zone>
