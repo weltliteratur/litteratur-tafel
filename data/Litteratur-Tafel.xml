@@ -3773,42 +3773,42 @@
             ><line><seg style="font-family:serif;font-size:7pt;">Johann Reuchlin</seg></line></zone>
         <zone ana="#author" corresp="#pers_02122" littafel:href="#a_Heinrich-Steinhövel"
           xml:id="z_ed2_415" ulx="1941" uly="6270" lrx="2131" lry="6284" sameAs="#z_ed3-p2_259"
-            ><line>Heinrich Steinhövel</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Heinrich Steinhövel</seg></line></zone>
         <zone ana="#author" corresp="#pers_02123" littafel:href="#a_Theodor_Schernbeck"
           xml:id="z_ed2_416" ulx="1856" uly="6290" lrx="2001" lry="6307" sameAs="#z_ed3-p2_260"
-            ><line>Theodor Schernbeck</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Theodor Schernbeck</seg></line></zone>
         <zone ana="#author" corresp="#pers_02124" littafel:href="#a_Veit-Weber" xml:id="z_ed2_417"
-          ulx="1877" uly="6311" lrx="1975" lry="6329" sameAs="#z_ed3-p2_261"><line>Veit
-          Weber</line></zone>
+          ulx="1877" uly="6311" lrx="1975" lry="6329" sameAs="#z_ed3-p2_261"><line><seg style="font-family:serif;font-size:7pt;">Veit Weber</seg></line></zone>
         <zone ana="#author" corresp="#pers_02125" littafel:href="#a_Geiler-Kaiserberg"
           xml:id="z_ed2_418" ulx="1810" uly="6347" lrx="2075" lry="6377" sameAs="#z_ed3-p2_262"
-            ><line>Geiler von Kaiserberg</line></zone>
+            ><line><seg style="font-family:serif;font-size:10pt;">Geiler von Kaiserberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02126" littafel:href="#a_Albrecht-Eyb" xml:id="z_ed2_419"
-          ulx="1887" uly="6385" lrx="2010" lry="6404" sameAs="#z_ed3-p2_263"><line>Albrecht von
-            Eyb</line></zone>
+          ulx="1887" uly="6385" lrx="2010" lry="6404" sameAs="#z_ed3-p2_263"><line><seg style="font-family:serif;font-size:6pt;">Albrecht von Eyb</seg></line></zone>
         <zone ana="#author" corresp="#pers_02127" littafel:href="#a_Nicolaus-Wyle"
           xml:id="z_ed2_420" ulx="2011" uly="6398" lrx="2122" lry="6415" sameAs="#z_ed3-p2_264"
-            ><line>Nicolaus v. Wyle</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Nicolaus v. Wyle</seg></line></zone>
         <zone ana="#author" corresp="#pers_02128" littafel:href="#a_Ulrich-Füterer"
           xml:id="z_ed2_421" ulx="2318" uly="6354" lrx="2477" lry="6377" sameAs="#z_ed3-p2_265"
-            ><line>Ulrich Füterer</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Ulrich Füterer</seg></line></zone>
         <zone ana="#author" corresp="#pers_02129" littafel:href="#a_Jacob-Wimpheling"
           xml:id="z_ed2_422" ulx="2617" uly="6334" lrx="2779" lry="6358" sameAs="#z_ed3-p2_266"
-            ><line>Jacob Wimpheling</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Jacob Wimpheling</seg></line></zone>
         <zone ana="#author" corresp="#pers_02130" littafel:href="#a_Pfaff-Kalenberg"
           xml:id="z_ed2_423" ulx="1875" uly="6440" lrx="2076" lry="6463" sameAs="#z_ed3-p2_267"
-            ><line>der Pfaff von Kalenberg</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">der Pfaff von Kalenberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_02131" littafel:href="#a_Sebastian-Brant"
           xml:id="z_ed2_424" ulx="1780" uly="6538" lrx="2036" lry="6570" sameAs="#z_ed3-p2_268"
-            ><line>Sebastian Brant</line></zone>
+            ><line><seg
+              style="font-family:serif;font-size:12pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Sebastian Brant</seg></line></zone>
         <zone ana="#author" corresp="#pers_02132" littafel:href="#a_Konrad-Celtes"
           xml:id="z_ed2_425" ulx="2612" uly="6438" lrx="2743" lry="6455" sameAs="#z_ed3-p2_269"
-            ><line>Konrad Celtes</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Konrad Celtes</seg></line></zone>
         <zone ana="#author" corresp="#pers_02133" littafel:href="#a_Desiderius-Erasmus"
           xml:id="z_ed2_426" ulx="2596" uly="6492" lrx="2770" lry="6508" sameAs="#z_ed3-p2_270"
-            ><line>Desiderius Erasmus</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Desiderius Erasmus</seg></line></zone>
         <zone littafel:href="#t_Reineke-Voss" xml:id="z_ed2_427" ulx="2422" uly="6564" lrx="2725"
-          lry="6594" sameAs="#z_ed3-p2_271"><line>Reineke Voss [kathol. Glosse]</line></zone>
+          lry="6594" sameAs="#z_ed3-p2_271"><line><seg style="font-family:serif;font-size:12pt;">Reineke Voss</seg> [kathol. Glosse]</line></zone>
         <zone ana="#emperor" corresp="#pers_02134" littafel:href="#pers_Heinrich-V"
           xml:id="z_ed2_428" ulx="2951" uly="835" lrx="3069" lry="870" sameAs="#z_ed3-p2_272"
             ><line>Heinrich V.</line></zone>
