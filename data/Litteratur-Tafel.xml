@@ -4662,40 +4662,43 @@
           ><line><seg style="font-family:serif;font-size:7pt;">H.v.Kleist</seg></line></zone>
         <zone ana="#author" corresp="#pers_00161" littafel:href="#a_Fouque" xml:id="z_ed2_694"
           ulx="3222" uly="5339" lrx="3287" lry="5358" sameAs="#z_ed3-p3_243"
-          ><line>Fouqué</line></zone>
+          ><line><seg style="font-family:serif;font-size:7pt;">Fouqué</seg></line></zone>
         <zone ana="#author" corresp="#pers_00162" littafel:href="#a_E-Schulze" xml:id="z_ed2_695"
-          ulx="3222" uly="5361" lrx="3303" lry="5379" sameAs="#z_ed3-p3_244"><line>E
-          Schulze</line></zone>
+          ulx="3222" uly="5361" lrx="3303" lry="5379" sameAs="#z_ed3-p3_244"><line><seg style="font-family:serif;font-size:7pt;">E Schulze</seg></line></zone>
         <zone ana="#author" corresp="#pers_00163" littafel:href="#a_Chamisso" xml:id="z_ed2_696"
           ulx="3221" uly="5383" lrx="3294" lry="5402" sameAs="#z_ed3-p3_245"
-          ><line>Chamisso</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Chamisso</seg></line></zone>
         <zone ana="#author" corresp="#pers_00164" littafel:href="#a_Eichendorf" xml:id="z_ed2_697"
           ulx="3222" uly="5408" lrx="3304" lry="5423" sameAs="#z_ed3-p3_246"
-          ><line>Eichendorf</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Eichendorf</seg></line></zone>
         <zone ana="#author" corresp="#pers_00165" littafel:href="#a_Halm" xml:id="z_ed2_698"
           ulx="3221" uly="5424" lrx="3262" lry="5442" sameAs="#z_ed3-p3_247"
-          ><line>Halm</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Halm</seg></line></zone>
         <zone ana="#author" corresp="#pers_00166" littafel:href="#a_Zedlitz" xml:id="z_ed2_699"
           ulx="3224" uly="5447" lrx="3275" lry="5462" sameAs="#z_ed3-p3_248"
-          ><line>Zedlitz</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Zedlitz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00167" littafel:href="#a_Grün" xml:id="z_ed2_700"
           ulx="3227" uly="5467" lrx="3263" lry="5482" sameAs="#z_ed3-p3_249"
-          ><line>Grün</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Grün</seg></line></zone>
         <zone ana="#author" corresp="#pers_00168" littafel:href="#a_Legnan" xml:id="z_ed2_701"
           ulx="3222" uly="5485" lrx="3264" lry="5503" sameAs="#z_ed3-p3_250"
-          ><line>Legnan</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Lenau</seg></line></zone>
         <zone ana="#author" corresp="#pers_00169" littafel:href="#a_Eugène-Sue" xml:id="z_ed2_702"
-          ulx="3212" uly="5510" lrx="3338" lry="5533" sameAs="#z_ed3-p3_251"><line>Eugène
-          Sue</line></zone>
+          ulx="3212" uly="5510" lrx="3338" lry="5533" sameAs="#z_ed3-p3_251"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:red;"
+              >Eugène Sue</seg></line></zone>
         <zone ana="#author" corresp="#pers_00170" littafel:href="#a_Walter-Scott" xml:id="z_ed2_703"
-          ulx="3962" uly="5282" lrx="4144" lry="5310" sameAs="#z_ed3-p3_252"><line>Walter
-            Scott</line></zone>
+          ulx="3962" uly="5282" lrx="4144" lry="5310" sameAs="#z_ed3-p3_252"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:12pt;text-decoration-color:blue;"
+              >Walter Scott</seg></line></zone>
         <zone ana="#author" corresp="#pers_00171" littafel:href="#a_Bulwer" xml:id="z_ed2_704"
           ulx="4082" uly="5324" lrx="4171" lry="5353" sameAs="#z_ed3-p3_253"
-          ><line>Bulwer</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:blue;"
+              >Bulwer</seg></line></zone>
         <zone ana="#author" corresp="#pers_00172" littafel:href="#a_Arndt" xml:id="z_ed2_705"
           ulx="4198" uly="5302" lrx="4246" lry="5319" sameAs="#z_ed3-p3_254"
-          ><line>Arndt</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Arndt</seg></line></zone>
         <zone ana="#author" corresp="#pers_00173" littafel:href="#a_Körner" xml:id="z_ed2_706"
           ulx="4197" uly="5322" lrx="4256" lry="5338" sameAs="#z_ed3-p3_255"
           ><line>Körner</line></zone>
