@@ -4701,121 +4701,148 @@
           ><line><seg style="font-family:serif;font-size:6pt;">Arndt</seg></line></zone>
         <zone ana="#author" corresp="#pers_00173" littafel:href="#a_Körner" xml:id="z_ed2_706"
           ulx="4197" uly="5322" lrx="4256" lry="5338" sameAs="#z_ed3-p3_255"
-          ><line>Körner</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Körner</seg></line></zone>
         <zone ana="#author" corresp="#pers_00174" littafel:href="#a_Schenkendorf" xml:id="z_ed2_707"
           ulx="4198" uly="5344" lrx="4308" lry="5358" sameAs="#z_ed3-p3_256"
-            ><line>Schenkendorf</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Schenkendorf</seg></line></zone>
         <zone ana="#author" corresp="#pers_00175" littafel:href="#a_Lord-Byron" xml:id="z_ed2_708"
-          ulx="4028" uly="5419" lrx="4230" lry="5450" sameAs="#z_ed3-p3_257"><line>Lord
-          Byron</line></zone>
+          ulx="4028" uly="5419" lrx="4230" lry="5450" sameAs="#z_ed3-p3_257"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:12pt;text-decoration-color:blue;"
+              >Lord Byron</seg></line></zone>
         <zone ana="#author" corresp="#pers_00176" littafel:href="#a_Werner" xml:id="z_ed2_709"
           ulx="3393" uly="5423" lrx="3456" lry="5440" sameAs="#z_ed3-p3_258"
-          ><line>Werner</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Werner</seg></line></zone>
         <zone ana="#author" corresp="#pers_00177" littafel:href="#a_Müllner" xml:id="z_ed2_710"
           ulx="3393" uly="5443" lrx="3458" lry="5456" sameAs="#z_ed3-p3_259"
-          ><line>Müllner</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Müllner</seg></line></zone>
         <zone ana="#author" corresp="#pers_00178" littafel:href="#a_Grillparzer" xml:id="z_ed2_711"
           ulx="3396" uly="5459" lrx="3477" lry="5477" sameAs="#z_ed3-p3_260"
-            ><line>Grillparzer</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Grillparzer</seg></line></zone>
         <zone ana="#author" corresp="#pers_00179" littafel:href="#a_Uhland" xml:id="z_ed2_712"
           ulx="4196" uly="5528" lrx="4254" lry="5549" sameAs="#z_ed3-p3_261"
-          ><line>Uhland</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Uhland</seg></line></zone>
         <zone ana="#author" corresp="#pers_00180" littafel:href="#a_Schwab" xml:id="z_ed2_713"
           ulx="4199" uly="5551" lrx="4251" lry="5571" sameAs="#z_ed3-p3_262"
-          ><line>Schwab</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Schwab</seg></line></zone>
         <zone ana="#author" corresp="#pers_00181" littafel:href="#a_Kerner" xml:id="z_ed2_714"
           ulx="4196" uly="5572" lrx="4249" lry="5586" sameAs="#z_ed3-p3_263"
-          ><line>Kerner</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Kerner</seg></line></zone>
         <zone ana="#author" corresp="#pers_00182" littafel:href="#a_Mörike" xml:id="z_ed2_715"
           ulx="4196" uly="5587" lrx="4253" lry="5602" sameAs="#z_ed3-p3_264"
-          ><line>Mörike</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Mörike</seg></line></zone>
         <zone ana="#author" corresp="#pers_00183" littafel:href="#a_Heine" xml:id="z_ed2_716"
           ulx="4039" uly="5670" lrx="4092" lry="5688" sameAs="#z_ed3-p3_265"
-          ><line>Heine</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Heine</seg></line></zone>
         <zone ana="#author" corresp="#pers_00184" littafel:href="#a_Börne" xml:id="z_ed2_717"
           ulx="4116" uly="5669" lrx="4166" lry="5685" sameAs="#z_ed3-p3_266"
-          ><line>Börne</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Börne</seg></line></zone>
         <zone ana="#author" corresp="#pers_00185" littafel:href="#a_Wienbarg" xml:id="z_ed2_718"
           ulx="4189" uly="5669" lrx="4267" lry="5689" sameAs="#z_ed3-p3_267"
-          ><line>Wienbarg</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Wienbarg</seg></line></zone>
         <zone ana="#author" corresp="#pers_00186" littafel:href="#a_Mundt" xml:id="z_ed2_719"
           ulx="4040" uly="5689" lrx="4096" lry="5711" sameAs="#z_ed3-p3_268"
-          ><line>Mundt</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Mundt</seg></line></zone>
         <zone ana="#author" corresp="#pers_00187" littafel:href="#a_Gutzkow" xml:id="z_ed2_720"
           ulx="4116" uly="5690" lrx="4182" lry="5708" sameAs="#z_ed3-p3_269"
-          ><line>Gutzkow</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Gutzkow</seg></line></zone>
         <zone ana="#author" corresp="#pers_00188" littafel:href="#a_Laube" xml:id="z_ed2_721"
           ulx="4191" uly="5691" lrx="4239" lry="5708" sameAs="#z_ed3-p3_270"
-          ><line>Laube</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Laube</seg></line></zone>
         <zone ana="#author" corresp="#pers_00189" littafel:href="#a_Platen" xml:id="z_ed2_722"
           ulx="4053" uly="5739" lrx="4122" lry="5762" sameAs="#z_ed3-p3_271"
-          ><line>Platen</line></zone>
+          ><line><seg style="font-family:serif;font-size:8pt;">Platen</seg></line></zone>
         <zone ana="#author" corresp="#pers_00190" littafel:href="#a_Dickens" xml:id="z_ed2_723"
           ulx="3908" uly="5799" lrx="3994" lry="5819" sameAs="#z_ed3-p3_272"
-          ><line>Dickens</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:blue;"
+              >Dickens</seg></line></zone>
         <zone littafel:href="#g_Socialer-Roman" xml:id="z_ed2_724" ulx="3921" uly="5825" lrx="4153"
-          lry="5851" sameAs="#z_ed3-p3_273"><line>Socialer Roman</line></zone>
+          lry="5851" sameAs="#z_ed3-p3_273"><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:9pt;text-decoration-color:blue;"
+              >Socialer Roman</seg></line></zone>
         <zone ana="#author" corresp="#pers_00191" littafel:href="#a_Thackeray" xml:id="z_ed2_725"
           ulx="4096" uly="5796" lrx="4206" lry="5823" sameAs="#z_ed3-p3_274"
-          ><line>Thackeray</line></zone>
+          ><line><seg style="font-family:serif;text-decoration:underline;font-size:8pt;">Thackeray</seg></line></zone>
         <zone littafel:href="#g_der-Gouvernantenroman" xml:id="z_ed2_726" ulx="4064" uly="5875"
-          lrx="4314" lry="5898" sameAs="#z_ed3-p3_275"><line>der Gouvernantenroman</line></zone>
+          lrx="4314" lry="5898" sameAs="#z_ed3-p3_275"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:blue;"
+              >der Gouvernantenroman</seg></line></zone>
         <zone littafel:href="#t_West-östlicher-Divan" xml:id="z_ed2_727" ulx="3378" uly="5375"
-          lrx="3550" lry="5394" sameAs="#z_ed3-p3_276"><line>West-östlicher Divan</line></zone>
+          lrx="3550" lry="5394" sameAs="#z_ed3-p3_276"><line><seg style="font-family:serif;font-size:6pt;">West-östlicher Divan</seg></line></zone>
         <zone ana="#author" corresp="#pers_00192" littafel:href="#a_Scribe" xml:id="z_ed2_728"
           ulx="3258" uly="5577" lrx="3358" lry="5608" sameAs="#z_ed3-p3_277"
-          ><line>Scribe</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:12pt;text-decoration-color:red;"
+              >Scribe</seg></line></zone>
         <zone ana="#author" corresp="#pers_00193" littafel:href="#a_Fallersleben" xml:id="z_ed2_729"
           ulx="3207" uly="5753" lrx="3306" lry="5772" sameAs="#z_ed3-p3_278"
-            ><line>Fallersleben</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Fallersleben</seg></line></zone>
         <zone ana="#author" corresp="#pers_00194" littafel:href="#a_Dingelstedt" xml:id="z_ed2_730"
           ulx="3212" uly="5772" lrx="3303" lry="5790" sameAs="#z_ed3-p3_279"
-            ><line>Dingelstedt</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Dingelstedt</seg></line></zone>
         <zone ana="#author" corresp="#pers_00195" littafel:href="#a_Prutz" xml:id="z_ed2_731"
           ulx="3210" uly="5791" lrx="3250" lry="5806" sameAs="#z_ed3-p3_280"
-          ><line>Prutz</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Prutz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00196" littafel:href="#a_Herwegh" xml:id="z_ed2_732"
           ulx="3215" uly="5810" lrx="3276" lry="5825" sameAs="#z_ed3-p3_281"
-          ><line>Herwegh</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Herwegh</seg></line></zone>
         <zone ana="#author" corresp="#pers_00197" littafel:href="#a_Freiligrath" xml:id="z_ed2_733"
           ulx="3214" uly="5828" lrx="3294" lry="5850" sameAs="#z_ed3-p3_282"
-            ><line>Freiligrath</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Freiligrath</seg></line></zone>
         <zone ana="#author" corresp="#pers_00198" littafel:href="#a_Rückert" xml:id="z_ed2_734"
           ulx="3526" uly="5724" lrx="3590" lry="5743" sameAs="#z_ed3-p3_283"
-          ><line>Rückert</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Rückert</seg></line></zone>
         <zone ana="#author" corresp="#pers_00197" littafel:href="#a_Freiligrath" xml:id="z_ed2_735"
           ulx="3490" uly="5809" lrx="3573" lry="5830" sameAs="#z_ed3-p3_284"
-            ><line>Freiligrath</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Freiligrath</seg></line></zone>
         <zone ana="#author" corresp="#pers_00200" littafel:href="#a_Bodenstedt" xml:id="z_ed2_736"
           ulx="3484" uly="5831" lrx="3576" lry="5849" sameAs="#z_ed3-p3_285"
-          ><line>Bodenstedt</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Bodenstedt</seg></line></zone>
         <zone ana="#author" corresp="#pers_00201" littafel:href="#a_Puschkin" xml:id="z_ed2_737"
           ulx="3893" uly="6102" lrx="3994" lry="6123" sameAs="#z_ed3-p3_286"
-          ><line>Puschkin</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:violet;"
+              >Puschkin</seg></line></zone>
         <zone ana="#author" corresp="#pers_00202" littafel:href="#a_Turgeniew" xml:id="z_ed2_738"
           ulx="4041" uly="6124" lrx="4143" lry="6149" sameAs="#z_ed3-p3_287"
-          ><line>Turgeniew</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:violet;"
+              >Turgeniew</seg></line></zone>
         <zone ana="#author" corresp="#pers_00203" littafel:href="#a_Björnson" xml:id="z_ed2_739"
           ulx="4186" uly="6271" lrx="4280" lry="6299" sameAs="#z_ed3-p3_288"
-          ><line>Björnson</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:green;"
+              >Björnson</seg></line></zone>
         <zone ana="#author" corresp="#pers_00204" littafel:href="#a_Kielland" xml:id="z_ed2_740"
           ulx="4212" uly="6301" lrx="4290" lry="6320" sameAs="#z_ed3-p3_289"
-          ><line>Kielland</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:green;"
+              >Kielland</seg></line></zone>
         <zone ana="#author" corresp="#pers_00205" littafel:href="#a_Ibsen" xml:id="z_ed2_741"
           ulx="4151" uly="6320" lrx="4234" lry="6342" sameAs="#z_ed3-p3_290"
-          ><line>Ibsen</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:green;"
+              >Ibsen</seg></line></zone>
         <zone ana="#author" corresp="#pers_00206" littafel:href="#a_Augier" xml:id="z_ed2_742"
           ulx="3276" uly="5859" lrx="3371" lry="5891" sameAs="#z_ed3-p3_291"
-          ><line>Augier</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:12pt;text-decoration-color:red;"
+              >Augier</seg></line></zone>
         <zone ana="#author" corresp="#pers_00207" littafel:href="#a_Sardou" xml:id="z_ed2_743"
           ulx="3314" uly="5911" lrx="3420" lry="5938" sameAs="#z_ed3-p3_292"
-          ><line>Sardou</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:12pt;text-decoration-color:red;"
+              >Sardou</seg></line></zone>
         <zone ana="#author" corresp="#pers_00208" littafel:href="#a_Zola" xml:id="z_ed2_744"
           ulx="3299" uly="6173" lrx="3371" lry="6204" sameAs="#z_ed3-p3_293"
-          ><line>Zola</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:12pt;text-decoration-color:red;"
+              >Zola</seg></line></zone>
         <zone ana="#author" corresp="#pers_00209" littafel:href="#a_Ohnet" xml:id="z_ed2_745"
           ulx="3345" uly="6252" lrx="3420" lry="6276" sameAs="#z_ed3-p3_294"
-          ><line>Ohnet</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:red;"
+              >Ohnet</seg></line></zone>
         <zone ana="#author" corresp="#pers_00210" littafel:href="#a_Assmann-von-Abschatz"
           xml:id="z_ed2_746" ulx="3468" uly="3210" lrx="3700" lry="3235" sameAs="#z_ed3-p3_295"
             ><line>Assmann von Abschatz</line></zone>
