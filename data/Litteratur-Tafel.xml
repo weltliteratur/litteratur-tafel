@@ -3632,8 +3632,7 @@
         <zone littafel:href="#t_Hirzelin" xml:id="z_ed2_367" ulx="2501" uly="3510" lrx="2562"
           lry="3527" sameAs="#z_ed3-p2_211"><line>Hirzelin</line></zone>
         <zone littafel:href="#t_Kreuzfahrt-Ludwig-Thüringen" xml:id="z_ed2_368" ulx="2453"
-          uly="3685" lrx="2659" lry="3704" sameAs="#z_ed3-p2_212"><line>Kreuzfahrt Ludwigs von
-            Thüringen</line></zone>
+          uly="3685" lrx="2659" lry="3704" sameAs="#z_ed3-p2_212"><line><seg style="font-family:serif;font-size:6pt;">Kreuzfahrt Ludwigs von Thüringen</seg></line></zone>
         <zone littafel:href="#ptr_VII" xml:id="z_ed2_369" ulx="2088" uly="3430" lrx="2114"
           lry="3449" sameAs="#z_ed3-p2_213"><line>VII [target Verfall]</line></zone>
         <zone littafel:href="#label_VII-Verfall" xml:id="z_ed2_370" ulx="1780" uly="3453" lrx="1882"
@@ -3650,19 +3649,18 @@
           Elisabeth</line></zone>
         <zone ana="#author" corresp="#pers_02098" littafel:href="#a_Meister-Eckhart"
           xml:id="z_ed2_375" ulx="1961" uly="3654" lrx="2092" lry="3675" sameAs="#z_ed3-p2_219"
-            ><line>Meister Eckart</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Meister Eckart</seg></line></zone>
         <zone ana="#author" corresp="#pers_02099" littafel:href="#a_Hadlaub" xml:id="z_ed2_376"
           ulx="1926" uly="3698" lrx="2013" lry="3718" sameAs="#z_ed3-p2_220"
-          ><line>Hadlaub</line></zone>
+          ><line><seg style="font-family:serif;font-size:8pt;">Hadlaub</seg></line></zone>
         <zone littafel:href="#t_Manessische-Handschrift" xml:id="z_ed2_377" ulx="1793" uly="3754"
-          lrx="2194" lry="3776" sameAs="#z_ed3-p2_221"><line>Anfang der Manessischen
-            Handschrift</line></zone>
+          lrx="2194" lry="3776" sameAs="#z_ed3-p2_221"><line><seg style="font-family:serif;font-size:9pt;">Anfang der Manessischen Handschrift</seg></line></zone>
         <zone ana="#author" corresp="#pers_02100" littafel:href="#a_Barthel-Regenbogen"
           xml:id="z_ed2_378" ulx="1959" uly="3880" lrx="2126" lry="3902" sameAs="#z_ed3-p2_222"
-            ><line>Barthel Regenbogen</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Barthel Regenbogen</seg></line></zone>
         <zone ana="#author" corresp="#pers_02101" littafel:href="#a_Nicolaus-Jeroschin"
           xml:id="z_ed2_379" ulx="2633" uly="4163" lrx="2784" lry="4181" sameAs="#z_ed3-p2_223"
-            ><line>Nicolaus Jeroschin</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Nicolaus Jeroschin</seg></line></zone>
         <zone littafel:href="#area_deutsche-Heldensage"
           xml:id="z_ed2_380" ulx="2425" uly="4226" lrx="2853" lry="5140" sameAs="#z_ed3-p2_224"
             ><line>Bereich mit den Kreisen der deutschen Heldensage</line></zone>
@@ -4272,9 +4270,9 @@
               style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:brown;"
               >Guarini</seg></line></zone>
         <zone littafel:href="#group_die-Königsberger" xml:id="z_ed2_598" ulx="3528" uly="2703"
-          lrx="3733" lry="2726" sameAs="#z_ed3-p3_145"><line><seg style="font-family:serif">die Königsberger</seg></line></zone>
+          lrx="3733" lry="2726" sameAs="#z_ed3-p3_145"><line><seg style="font-family:serif;font-size:9pt;">die Königsberger</seg></line></zone>
         <zone ana="#author" corresp="#pers_00074" littafel:href="#a_Simon-Dach" xml:id="z_ed2_599"
-          ulx="3509" uly="2729" lrx="3591" lry="2747" sameAs="#z_ed3-p3_146"><line><seg>Simon Dach</seg></line></zone>
+          ulx="3509" uly="2729" lrx="3591" lry="2747" sameAs="#z_ed3-p3_146"><line><seg style="font-family:serif;font-size:5pt;">Simon Dach</seg></line></zone>
         <zone ana="#author" corresp="#pers_00075" littafel:href="#a_Paul-Flemming"
           xml:id="z_ed2_600" ulx="3209" uly="2736" lrx="3363" lry="2760" sameAs="#z_ed3-p3_147"
             ><line><seg style="font-family:serif;font-size:8pt;">Paul Flemming</seg></line></zone>
@@ -4845,42 +4843,47 @@
               >Ohnet</seg></line></zone>
         <zone ana="#author" corresp="#pers_00210" littafel:href="#a_Assmann-von-Abschatz"
           xml:id="z_ed2_746" ulx="3468" uly="3210" lrx="3700" lry="3235" sameAs="#z_ed3-p3_295"
-            ><line>Assmann von Abschatz</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Assmann von Abschatz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00211" littafel:href="#a_Anton-Ulrich-von-Braunschweig"
           xml:id="z_ed2_747" ulx="3459" uly="3238" lrx="3782" lry="3264" sameAs="#z_ed3-p3_296"
-            ><line>Anton Ulrich von Braunschweig</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Anton Ulrich von Braunschweig</seg></line></zone>
         <zone ana="#author" corresp="#pers_00212" littafel:href="#a_H-A-von-Ziegler-Klipphausen"
           xml:id="z_ed2_748" ulx="3468" uly="3262" lrx="3758" lry="3288" sameAs="#z_ed3-p3_297"
-            ><line>H.A. von Ziegler-Klipphausen</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">H.A. von Ziegler-Klipphausen</seg></line></zone>
         <zone ana="#author" corresp="#pers_00213" littafel:href="#a_Ph-J-Spener" xml:id="z_ed2_749"
-          ulx="3224" uly="3316" lrx="3359" lry="3341" sameAs="#z_ed3-p3_298"><line>Ph. J.
-            Spener</line></zone>
+          ulx="3224" uly="3316" lrx="3359" lry="3341" sameAs="#z_ed3-p3_298"><line><seg style="font-family:serif;font-size:7pt;">Ph. J. Spener</seg></line></zone>
         <zone littafel:href="#litarea_FranzFormalismus" xml:id="z_ed2_750" ulx="3432" uly="3514"
-          lrx="3595" lry="3538" sameAs="#z_ed3-p3_299"><line>Franz. Formalismus</line></zone>
+          lrx="3595" lry="3538" sameAs="#z_ed3-p3_299"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:6pt;text-decoration-color:red;"
+              >Franz. Formalismus</seg></line></zone>
         <zone ana="#author" corresp="#pers_00214" littafel:href="#a_Christian-Weise"
           xml:id="z_ed2_751" ulx="4077" uly="3270" lrx="4261" lry="3295" sameAs="#z_ed3-p3_300"
-            ><line>Christian Weise</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Christian Weise</seg></line></zone>
         <zone ana="#author" corresp="#pers_00215" littafel:href="#a_Georg-Morhof" xml:id="z_ed2_752"
-          ulx="4073" uly="3314" lrx="4204" lry="3341" sameAs="#z_ed3-p3_301"><line>Georg
-            Morhof</line></zone>
+          ulx="4073" uly="3314" lrx="4204" lry="3341" sameAs="#z_ed3-p3_301"><line><seg style="font-family:serif;font-size:7pt;">Georg Morhof</seg></line></zone>
         <zone ana="#author" corresp="#pers_00216" littafel:href="#a_Christian-Wernicke"
           xml:id="z_ed2_753" ulx="4057" uly="3345" lrx="4237" lry="3368" sameAs="#z_ed3-p3_302"
-            ><line>Christian Wernicke</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Christian Wernicke</seg></line></zone>
         <zone ana="#author" corresp="#pers_00217" littafel:href="#a_Erdmann-Neumeister"
           xml:id="z_ed2_754" ulx="4085" uly="3528" lrx="4293" lry="3548" sameAs="#z_ed3-p3_303"
-            ><line>Erdmann Neumeister</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Erdmann Neumeister</seg></line></zone>
         <zone ana="#author" corresp="#pers_00218" littafel:href="#a_Benjamin-Neukirch"
           xml:id="z_ed2_755" ulx="4085" uly="3557" lrx="4277" lry="3581" sameAs="#z_ed3-p3_304"
-            ><line>Benjamin Neukirch</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Benjamin Neukirch</seg></line></zone>
         <zone ana="#author" corresp="#pers_00219" littafel:href="#a_Marini" xml:id="z_ed2_756"
           ulx="3302" uly="2686" lrx="3384" lry="2707" sameAs="#z_ed3-p3_305"
-          ><line>Marini</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:8pt;text-decoration-color:brown;"
+              >Marini</seg></line></zone>
         <zone ana="#author" corresp="#pers_00220" littafel:href="#a_Dumas-père" xml:id="z_ed2_757"
-          ulx="3235" uly="5632" lrx="3384" lry="5665" sameAs="#z_ed3-p3_306"><line>Dumas
-          père</line></zone>
+          ulx="3235" uly="5632" lrx="3384" lry="5665" sameAs="#z_ed3-p3_306"><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:12pt;text-decoration-color:red;"
+              >Dumas père</seg></line></zone>
         <zone ana="#author" corresp="#pers_00221" littafel:href="#a_Ponsard" xml:id="z_ed2_758"
           ulx="3277" uly="5687" lrx="3363" lry="5714" sameAs="#z_ed3-p3_307"
-          ><line>Ponsard</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:red;"
+              >Ponsard</seg></line></zone>
         <zone xml:id="z_ed2_759" ulx="3902" uly="373" lrx="4303" lry="511"
           littafel:href="#stamp_Unibib-Göttingen" littafel:new-zone="true"
             ><line>Universitätsbibliothek Göttingen</line></zone>
@@ -5018,11 +5021,9 @@
         <zone xml:id="z_ed2_815" ulx="2927" uly="3817" lrx="2968" lry="3844"
           littafel:href="#y_1313-4" littafel:new-zone="true"><line>1313 4</line></zone>
         <zone xml:id="z_ed2_816" ulx="2594" uly="4080" lrx="2712" lry="4094"
-          littafel:href="#unclear_Pfarrer-Hechte" littafel:new-zone="true"><line>Pfarrer zum
-            Hechte</line></zone>
+          littafel:href="#unclear_Pfarrer-Hechte" littafel:new-zone="true"><line><seg style="font-family:serif;font-size:6pt;">Pfarrer zum Hechte</seg></line></zone>
         <zone xml:id="z_ed2_817" ulx="2722" uly="4080" lrx="2836" lry="4098"
-          littafel:href="#unclear_Meister-Stephan" littafel:new-zone="true"><line>Meister
-            Stephan</line></zone>
+          littafel:href="#unclear_Meister-Stephan" littafel:new-zone="true"><line><seg style="font-family:serif;font-size:6pt;">Meister Stephan</seg></line></zone>
         <zone ana="#year" xml:id="z_ed2_818" ulx="2924" uly="4067" lrx="2963" lry="4082"
           littafel:href="#y_1330" littafel:new-zone="true"><line>1330</line></zone>
         <zone ana="#year" xml:id="z_ed2_819" ulx="2926" uly="4324" lrx="2955" lry="4340"
@@ -5045,19 +5046,19 @@
           littafel:href="#label_Erste-schlesische-Schule" littafel:new-zone="true"><line>I Erste
             schlesische Schule</line></zone>
         <zone ana="#author" xml:id="z_ed2_828" ulx="3593" uly="2731" lrx="3702" lry="2747"
-          littafel:href="#a_Roberthin" littafel:new-zone="true"><line>Robert Roberthin</line></zone>
+          littafel:href="#a_Roberthin" littafel:new-zone="true"><line><seg style="font-family:serif;font-size:5pt;">Robert Roberthin</seg></line></zone>
         <zone ana="#author" xml:id="z_ed2_829" ulx="3705" uly="2732" lrx="3777" lry="2747"
-          littafel:href="#a_Hrch-Albert" littafel:new-zone="true"><line>Heinrich
-          Albert</line></zone>
+          littafel:href="#a_Hrch-Albert" littafel:new-zone="true"><line><seg style="font-family:serif;font-size:5pt;">Hrch.Albert</seg></line></zone>
         <zone ana="#author" xml:id="z_ed2_830" ulx="3516" uly="2977" lrx="3633" lry="3007"
-          littafel:href="#a_de-Quevedo" littafel:new-zone="true"><line>de Quevedo</line></zone>
+          littafel:href="#a_de-Quevedo" littafel:new-zone="true"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:orange;"
+              >de Quevedo</seg></line></zone>
         <zone ana="#author" xml:id="z_ed2_831" ulx="3476" uly="2905" lrx="3510" lry="2915"
-          littafel:href="#a_J-Clai" littafel:new-zone="true"><line>J. Clai</line></zone>
+          littafel:href="#a_J-Clai" littafel:new-zone="true"><line><seg style="font-family:serif;font-size:5pt;">J. Clai</seg></line></zone>
         <zone ana="#author" xml:id="z_ed2_832" ulx="3516" uly="2903" lrx="3594" lry="2915"
-          littafel:href="#a_Ph-Harsdörffer" littafel:new-zone="true"><line>Ph.
-          Harsdörffer</line></zone>
+          littafel:href="#a_Ph-Harsdörffer" littafel:new-zone="true"><line><seg style="font-family:serif;font-size:5pt;">Ph. Harsdörffer</seg></line></zone>
         <zone ana="#author" xml:id="z_ed2_833" ulx="3600" uly="2904" lrx="3659" lry="2917"
-          littafel:href="#a_S-Birken" littafel:new-zone="true"><line>S. v. Birken</line></zone>
+          littafel:href="#a_S-Birken" littafel:new-zone="true"><line><seg style="font-family:serif;font-size:5pt;">S. v. Birken</seg></line></zone>
         <zone xml:id="z_ed2_834" ulx="4002" uly="3040" lrx="4129" lry="3224"
           littafel:href="#label_II-Schles-Schule" littafel:new-zone="true"><line>II Zweite
             Schlesische Schule</line></zone>
