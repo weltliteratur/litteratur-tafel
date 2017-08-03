@@ -4569,79 +4569,97 @@
             ><line><seg style="font-family:serif;font-size:6pt;">Gerstenberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_00136" littafel:href="#a_Lenz" xml:id="z_ed2_669"
           ulx="3425" uly="4588" lrx="3465" lry="4606" sameAs="#z_ed3-p3_218"
-          ><line>Lenz</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Lenz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00137" littafel:href="#a_Klinger" xml:id="z_ed2_670"
           ulx="3247" uly="4607" lrx="3304" lry="4628" sameAs="#z_ed3-p3_219"
-          ><line>Klinger</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Klinger</seg></line></zone>
         <zone ana="#author" corresp="#pers_00138" littafel:href="#a_Müller" xml:id="z_ed2_671"
           ulx="3309" uly="4609" lrx="3362" lry="4626" sameAs="#z_ed3-p3_220"
-          ><line>Müller</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Müller</seg></line></zone>
         <zone ana="#author" corresp="#pers_00139" littafel:href="#a_Wagner" xml:id="z_ed2_672"
           ulx="3365" uly="4606" lrx="3426" lry="4626" sameAs="#z_ed3-p3_221"
-          ><line>Wagner</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Wagner</seg></line></zone>
         <zone ana="#author" corresp="#pers_00140" littafel:href="#a_Schubart" xml:id="z_ed2_673"
           ulx="3439" uly="4608" lrx="3508" lry="4627" sameAs="#z_ed3-p3_222"
-          ><line>Schubart</line></zone>
+          ><line><seg style="font-family:serif;font-size:6pt;">Schubart</seg></line></zone>
         <zone ana="#author" corresp="#pers_00099" littafel:href="#a_Homer" xml:id="z_ed2_674"
           ulx="3343" uly="4649" lrx="3430" lry="4676" sameAs="#z_ed3-p3_223"
-          ><line>Homer</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:9pt;text-decoration-color:black;"
+              >Homer</seg></line></zone>
         <zone ana="#author" corresp="#pers_00142" littafel:href="#a_Aristophanes" xml:id="z_ed2_675"
           ulx="3313" uly="4684" lrx="3464" lry="4706" sameAs="#z_ed3-p3_224"
-            ><line>Aristophanes</line></zone>
+            ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Aristophanes</seg></line></zone>
         <zone ana="#author" corresp="#pers_00143" littafel:href="#a_Virgil" xml:id="z_ed2_676"
           ulx="3315" uly="4713" lrx="3380" lry="4742" sameAs="#z_ed3-p3_225"
-          ><line>Virgil</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:black;"
+              >Virgil</seg></line></zone>
         <zone ana="#author" corresp="#pers_00144" littafel:href="#a_Ovid" xml:id="z_ed2_677"
           ulx="3446" uly="4714" lrx="3500" lry="4736" sameAs="#z_ed3-p3_226"
-          ><line>Ovid</line></zone>
+          ><line><seg style="font-family:serif;font-size:8pt;">Ovid</seg></line></zone>
         <zone ana="#author" corresp="#pers_00145" littafel:href="#a_Voss" xml:id="z_ed2_678"
           ulx="3518" uly="4803" lrx="3592" lry="4831" sameAs="#z_ed3-p3_227"
-          ><line>Voss</line></zone>
+          ><line><seg style="font-family:serif;font-size:11pt;">Voss</seg></line></zone>
         <zone ana="#author" corresp="#pers_00146" littafel:href="#a_Goldoni" xml:id="z_ed2_679"
           ulx="3252" uly="4848" lrx="3338" lry="4870" sameAs="#z_ed3-p3_228"
-          ><line>Goldoni</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:brown;"
+              >Goldoni</seg></line></zone>
         <zone ana="#author" corresp="#pers_00147" littafel:href="#a_Gozzi" xml:id="z_ed2_680"
           ulx="3349" uly="4849" lrx="3414" lry="4870" sameAs="#z_ed3-p3_229"
-          ><line>Gozzi</line></zone>
+          ><line><seg style="font-family:serif;text-decoration:underline;font-size:8pt;">Gozzi</seg></line></zone>
         <zone ana="#author" corresp="#pers_00148" littafel:href="#a_Dante" xml:id="z_ed2_681"
           ulx="3247" uly="4876" lrx="3314" lry="4900" sameAs="#z_ed3-p3_230"
-          ><line>Dante</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:brown;"
+              >Dante</seg></line></zone>
         <zone ana="#author" corresp="#pers_00113" littafel:href="#a_Petrarca" xml:id="z_ed2_682"
           ulx="3235" uly="4905" lrx="3333" lry="4927" sameAs="#z_ed3-p3_231"
-          ><line>Petrarca</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:brown;"
+              >Petrarca</seg></line></zone>
         <zone ana="#author" corresp="#pers_00150" littafel:href="#a_Bocaccio" xml:id="z_ed2_683"
           ulx="3354" uly="4925" lrx="3504" lry="4948" sameAs="#z_ed3-p3_232"
-          ><line>Bocaccio</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:brown;"
+              >Bocaccio</seg></line></zone>
         <zone ana="#author" corresp="#pers_00151" littafel:href="#a_Cervantes" xml:id="z_ed2_684"
           ulx="3228" uly="4985" lrx="3338" lry="5007" sameAs="#z_ed3-p3_233"
-          ><line>Cervantes</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:orange;"
+              >Cervantes</seg></line></zone>
         <zone ana="#author" corresp="#pers_00152" littafel:href="#a_Calderon" xml:id="z_ed2_685"
           ulx="3199" uly="5020" lrx="3302" lry="5045" sameAs="#z_ed3-p3_234"
-          ><line>Calderon</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:orange;"
+              >Calderon</seg></line></zone>
         <zone ana="#author" corresp="#pers_00153" littafel:href="#a_Lope-de-Vega" xml:id="z_ed2_686"
-          ulx="3355" uly="5026" lrx="3482" lry="5050" sameAs="#z_ed3-p3_235"><line>Lope de
-            Vega</line></zone>
+          ulx="3355" uly="5026" lrx="3482" lry="5050" sameAs="#z_ed3-p3_235"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:orange;"
+              >Lope de Vega</seg></line></zone>
         <zone ana="#author" corresp="#pers_00154" littafel:href="#a_Schlegel" xml:id="z_ed2_687"
           ulx="3221" uly="5180" lrx="3293" lry="5200" sameAs="#z_ed3-p3_236"
-          ><line>Schlegel</line></zone>
+          ><line><seg style="font-family:serif;font-size:7pt;">Schlegel</seg></line></zone>
         <zone ana="#author" corresp="#pers_00155" littafel:href="#a_Tieck" xml:id="z_ed2_688"
           ulx="3219" uly="5198" lrx="3268" lry="5219" sameAs="#z_ed3-p3_237"
-          ><line>Tieck</line></zone>
+          ><line><seg style="font-family:serif;font-size:7pt;">Tieck</seg></line></zone>
         <zone ana="#author" corresp="#pers_00156" littafel:href="#a_Novalis" xml:id="z_ed2_689"
           ulx="3223" uly="5224" lrx="3289" lry="5243" sameAs="#z_ed3-p3_238"
-          ><line>Novalis</line></zone>
+          ><line><seg style="font-family:serif;font-size:7pt;">Novalis</seg></line></zone>
         <zone ana="#author" corresp="#pers_00157" littafel:href="#a_Brentano" xml:id="z_ed2_690"
           ulx="3221" uly="5249" lrx="3297" lry="5265" sameAs="#z_ed3-p3_239"
-          ><line>Brentano</line></zone>
+          ><line><seg style="font-family:serif;font-size:7pt;">Brentano</seg></line></zone>
         <zone ana="#author" corresp="#pers_00158" littafel:href="#a_Arnim" xml:id="z_ed2_691"
           ulx="3224" uly="5268" lrx="3280" lry="5285" sameAs="#z_ed3-p3_240"
-          ><line>Arnim</line></zone>
+          ><line><seg style="font-family:serif;font-size:7pt;">Arnim</seg></line></zone>
         <zone ana="#author" corresp="#pers_00159" littafel:href="#a_ETA-Hoffmann" xml:id="z_ed2_692"
-          ulx="3222" uly="5290" lrx="3334" lry="5309" sameAs="#z_ed3-p3_241"><line>E.T.A.
-            Hoffmann</line></zone>
+          ulx="3222" uly="5290" lrx="3334" lry="5309" sameAs="#z_ed3-p3_241"><line><seg style="font-family:serif;font-size:7pt;">E.T.A. Hoffmann</seg></line></zone>
         <zone ana="#author" corresp="#pers_00133" littafel:href="#a_H-v-Kleist" xml:id="z_ed2_693"
           ulx="3223" uly="5312" lrx="3299" lry="5333" sameAs="#z_ed3-p3_242"
-          ><line>H.v.Kleist</line></zone>
+          ><line><seg style="font-family:serif;font-size:7pt;">H.v.Kleist</seg></line></zone>
         <zone ana="#author" corresp="#pers_00161" littafel:href="#a_Fouque" xml:id="z_ed2_694"
           ulx="3222" uly="5339" lrx="3287" lry="5358" sameAs="#z_ed3-p3_243"
           ><line>Fouqué</line></zone>
