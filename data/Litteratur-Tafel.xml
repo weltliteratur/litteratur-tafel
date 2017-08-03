@@ -4039,8 +4039,9 @@
         <zone ana="#year" littafel:href="#y_1680" xml:id="z_ed2_510" ulx="3096" uly="3300"
           lrx="3161" lry="3325" sameAs="#z_ed3-p3_057"><line>1680</line></zone>
         <zone littafel:href="#g_die-Englischen-Komödianten" xml:id="z_ed2_511" ulx="3647" uly="1614"
-          lrx="4073" lry="1648" sameAs="#z_ed3-p3_058"><line>die Englischen
-          Komödianten</line></zone>
+          lrx="4073" lry="1648" sameAs="#z_ed3-p3_058"><line><seg
+              style="font-family:serif;text-decoration:underlinetext-decoration-color:blue;font-size:9pt;"
+              >die Englischen Komödiante</seg></line></zone>
         <zone ana="#year" littafel:href="#y_1690" xml:id="z_ed2_512" ulx="3096" uly="3446"
           lrx="3164" lry="3473" sameAs="#z_ed3-p3_059"><line>1690</line></zone>
         <zone ana="#year" littafel:href="#y_1700" xml:id="z_ed2_513" ulx="3098" uly="3595"
@@ -4082,12 +4083,12 @@
         <zone ana="#year" littafel:href="#y_1890" xml:id="z_ed2_531" ulx="3085" uly="6447"
           lrx="3157" lry="6474" sameAs="#z_ed3-p3_078"><line>1890</line></zone>
         <zone littafel:href="#g_Tellsage" xml:id="z_ed2_532" ulx="3227" uly="1766" lrx="3410"
-          lry="1795" sameAs="#z_ed3-p3_079"><line>Tellsage</line></zone>
+          lry="1795" sameAs="#z_ed3-p3_079"><line><seg style="font-family:serif;font-size:9pt;">Tellsage</seg></line></zone>
         <zone ana="#author" corresp="#pers_00034" littafel:href="#a_Nicodemus-Frischlin"
           xml:id="z_ed2_533" ulx="4031" uly="1652" lrx="4257" lry="1673" sameAs="#z_ed3-p3_080"
-            ><line>Nicodemus Frischlin</line></zone>
+            ><line><seg style="font-family:serif;font-size:8pt;">Nicodemus Frischlin</seg></line></zone>
         <zone littafel:href="#g_Faustsage" xml:id="z_ed2_534" ulx="3197" uly="1915" lrx="3409"
-          lry="1945" sameAs="#z_ed3-p3_081"><line>Faustsage</line></zone>
+          lry="1945" sameAs="#z_ed3-p3_081"><line><seg style="font-family:serif;font-size:9pt;">Faustsage</seg></line></zone>
         <zone ana="#year" littafel:href="#y_1576" xml:id="z_ed2_535" ulx="4352" uly="1768"
           lrx="4390" lry="1785" sameAs="#z_ed3-p3_082"><line>1576</line></zone>
         <zone ana="#emperor" corresp="#pers_00035" littafel:href="#pers_Rudolf-II"
@@ -4182,84 +4183,96 @@
             ><line>Wilhelm II.</line></zone>
         <zone ana="#emperor" corresp="#pers_00053"
           littafel:href="#pers_Heinrich-Julius-von-Braunschweig" xml:id="z_ed2_571" ulx="3752"
-          uly="1904" lrx="4088" lry="1929" sameAs="#z_ed3-p3_118"><line>Heinrich Julius von
-            Braunschweig</line></zone>
+          uly="1904" lrx="4088" lry="1929" sameAs="#z_ed3-p3_118"><line><seg style="font-family:serif;font-size:8pt;">Heinrich Julius von Braunschweig</seg></line></zone>
         <zone ana="#author" corresp="#pers_00054" littafel:href="#a_Jacob_Ayrer" xml:id="z_ed2_572"
-          ulx="3614" uly="1962" lrx="3772" lry="1994" sameAs="#z_ed3-p3_119"><line>Jacob
-            Ayrer</line></zone>
+          ulx="3614" uly="1962" lrx="3772" lry="1994" sameAs="#z_ed3-p3_119"><line><seg style="font-family:serif;font-size:10pt;">Jacob Ayrer</seg></line></zone>
         <zone littafel:href="#t_Buch-Liebe" xml:id="z_ed2_573" ulx="3827" uly="1944" lrx="3967"
-          lry="1966" sameAs="#z_ed3-p3_120"><line>Buch der Liebe</line></zone>
+          lry="1966" sameAs="#z_ed3-p3_120"><line><seg style="font-family:serif;font-size:7pt;">Buch der Liebe</seg></line></zone>
         <zone ana="#author" corresp="#pers_00055" littafel:href="#a_Peter-Danasius"
           xml:id="z_ed2_574" ulx="4040" uly="1955" lrx="4164" lry="1974" sameAs="#z_ed3-p3_121"
-            ><line>Peter Danasius</line></zone>
+            ><line><seg style="font-family:serif;font-size:6pt;">Peter Danasius</seg></line></zone>
         <zone ana="#author" corresp="#pers_00056" littafel:href="#a_Georg-Rollenhagen"
           xml:id="z_ed2_575" ulx="3713" uly="2056" lrx="3902" lry="2079" sameAs="#z_ed3-p3_122"
-            ><line>Georg Rollenhagen</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Georg Rollenhagen</seg></line></zone>
         <zone littafel:href="#litarea_Klassisches-Altertum" xml:id="z_ed2_576" ulx="4035" uly="2247"
-          lrx="4271" lry="2273" sameAs="#z_ed3-p3_123"><line>Klassisches Altertum</line></zone>
+          lrx="4271" lry="2273" sameAs="#z_ed3-p3_123"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:black;"
+              >Klassisches Altertum</seg></line></zone>
         <zone littafel:href="#t_Ahasversage" xml:id="z_ed2_577" ulx="3234" uly="2153" lrx="3379"
-          lry="2182" sameAs="#z_ed3-p3_124"><line>Ahasversage</line></zone>
+          lry="2182" sameAs="#z_ed3-p3_124"><line><seg style="font-family:serif;font-size:9pt;">Ahasversage</seg></line></zone>
         <zone ana="#author" corresp="#pers_00057" littafel:href="#a_Wolfhart-Spangenberg"
           xml:id="z_ed2_578" ulx="3686" uly="2209" lrx="3927" lry="2234" sameAs="#z_ed3-p3_125"
-            ><line>Wolfhart Spangenberg</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">Wolfhart Spangenberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_00058" littafel:href="#a_Marot" xml:id="z_ed2_579"
           ulx="3258" uly="2322" lrx="3337" lry="2345" sameAs="#z_ed3-p3_126"
-          ><line>Marot</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:red;"
+              >Marot</seg></line></zone>
         <zone ana="#author" corresp="#pers_00059" littafel:href="#a_Jodelle" xml:id="z_ed2_580"
           ulx="3232" uly="2362" lrx="3313" lry="2386" sameAs="#z_ed3-p3_127"
-          ><line>Jodelle</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:red;"
+              >Jodelle</seg></line></zone>
         <zone ana="#author" corresp="#pers_00060" littafel:href="#a_Ronsard" xml:id="z_ed2_581"
           ulx="3223" uly="2402" lrx="3312" lry="2426" sameAs="#z_ed3-p3_128"
-          ><line>Ronsard</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:7pt;text-decoration-color:7;"
+              >Ronsard</seg></line></zone>
         <zone ana="#author" corresp="#pers_00061" littafel:href="#a_Malherbe" xml:id="z_ed2_582"
           ulx="3238" uly="2457" lrx="3340" lry="2479" sameAs="#z_ed3-p3_129"
-          ><line>Malherbe</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;text-decoration-style:double;font-size:7pt;text-decoration-color:red;"
+              >Malherbe</seg></line></zone>
         <zone ana="#author" corresp="#pers_00062" littafel:href="#a_Scudery" xml:id="z_ed2_583"
           ulx="3346" uly="2483" lrx="3432" lry="2510" sameAs="#z_ed3-p3_130"
-          ><line>Scudéry</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:7pt;text-decoration-color:red;"
+              >Scudéry</seg></line></zone>
         <zone ana="#author" corresp="#pers_00063" littafel:href="#a_Lauremberg" xml:id="z_ed2_584"
-          ulx="3554" uly="2502" lrx="3700" lry="2530" sameAs="#z_ed3-p3_131"><line>J.
-            Lauremberg</line></zone>
+          ulx="3554" uly="2502" lrx="3700" lry="2530" sameAs="#z_ed3-p3_131"><line><seg style="font-family:serif;font-size:8pt;">J. Lauremberg</seg></line></zone>
         <zone ana="#author" corresp="#pers_00064" littafel:href="#a_Weckherlin" xml:id="z_ed2_585"
-          ulx="3999" uly="2372" lrx="4160" lry="2392" sameAs="#z_ed3-p3_132"><line>G.R.
-            Weckherlin</line></zone>
+          ulx="3999" uly="2372" lrx="4160" lry="2392" sameAs="#z_ed3-p3_132"><line><seg style="font-family:serif;font-size:8pt;">G.R. Weckherlin</seg></line></zone>
         <zone littafel:href="#org_Fruchtbringende-Gesellschaft" xml:id="z_ed2_586" ulx="4011"
-          uly="2396" lrx="4294" lry="2418" sameAs="#z_ed3-p3_133"><line>Fruchtbringende
-            Gesellschaft</line></zone>
+          uly="2396" lrx="4294" lry="2418" sameAs="#z_ed3-p3_133"><line><seg style="font-family:serif;font-size:7pt;">Fruchtbringende Gesellschaft</seg></line></zone>
         <zone ana="#author" corresp="#pers_00065" littafel:href="#a_Martin-Opitz" xml:id="z_ed2_587"
-          ulx="3982" uly="2442" lrx="4306" lry="2470" sameAs="#z_ed3-p3_134"><line>Martin
-            Opitz</line></zone>
+          ulx="3982" uly="2442" lrx="4306" lry="2470" sameAs="#z_ed3-p3_134"><line><seg
+              style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
+              >Martin Opitz</seg></line></zone>
         <zone ana="#author" corresp="#pers_00066" littafel:href="#a_Zinkgreff" xml:id="z_ed2_588"
-          ulx="4003" uly="2484" lrx="4143" lry="2510" sameAs="#z_ed3-p3_135"><line>J.W.
-            Zinkgreff</line></zone>
+          ulx="4003" uly="2484" lrx="4143" lry="2510" sameAs="#z_ed3-p3_135"><line><seg style="font-family:serif;font-size:8pt;">J.W. Zinkgreff</seg></line></zone>
         <zone ana="#author" corresp="#pers_00067" littafel:href="#a_Friedrich-Speer" xml:id="z_ed2_589"
-          ulx="3965" uly="2535" lrx="4128" lry="2556" sameAs="#z_ed3-p3_136"><line>Friedrich
-            Speer</line></zone>
+          ulx="3965" uly="2535" lrx="4128" lry="2556" sameAs="#z_ed3-p3_136"><line><seg style="font-family:serif;font-size:7pt;">Friedrich Speer</seg></line></zone>
         <zone ana="#author" corresp="#pers_00068" littafel:href="#a_Friedrich-Logau"
           xml:id="z_ed2_590" ulx="4123" uly="2552" lrx="4317" lry="2581" sameAs="#z_ed3-p3_137"
-            ><line>Friedrich von Logau</line></zone>
+            ><line><seg style="font-family:serif;font-size:9pt;">Friedrich von Logau</seg></line></zone>
         <zone littafel:href="#per_Shakespeare-und-sein-zeitgenössisches-Theater" xml:id="z_ed2_591"
-          ulx="3977" uly="2595" lrx="4294" lry="2644" sameAs="#z_ed3-p3_138"><line>Shakespeare und
-            sein zeitgenössisches Theater</line></zone>
+          ulx="3977" uly="2595" lrx="4294" lry="2644" sameAs="#z_ed3-p3_138"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:blue;"
+              >Shakespeare und sein zeitgenössisches Theater</seg></line></zone>
         <zone ana="#author" corresp="#pers_00069" littafel:href="#a_Joost-van-der-Vondel"
           xml:id="z_ed2_592" ulx="4103" uly="2682" lrx="4312" lry="2707" sameAs="#z_ed3-p3_139"
-            ><line>Joost van der Vondel</line></zone>
+            ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:black;"
+              >Joost van der Vondel</seg></line></zone>
         <zone ana="#author" corresp="#pers_00070" littafel:href="#a_Andreas-Tscherning"
           xml:id="z_ed2_593" ulx="4014" uly="2725" lrx="4176" lry="2747" sameAs="#z_ed3-p3_140"
-            ><line>Andreas Tscherning</line></zone>
+            ><line><seg style="font-family:serif;font-weight:bold;font-size:7pt;">Andreas Tscherning</seg></line></zone>
         <zone ana="#author" corresp="#pers_00071" littafel:href="#a_J-G-Schottelius"
           xml:id="z_ed2_594" ulx="4185" uly="2758" lrx="4307" lry="2777" sameAs="#z_ed3-p3_141"
-            ><line>J.G. Schottelius</line></zone>
+            ><line><seg style="font-family:serif;font-size:7pt;">J.G. Schottelius</seg></line></zone>
         <zone ana="#author" corresp="#pers_00072" littafel:href="#a_Johann-Rist" xml:id="z_ed2_595"
-          ulx="4139" uly="2798" lrx="4249" lry="2817" sameAs="#z_ed3-p3_142"><line>Johann
-            Rist</line></zone>
+          ulx="4139" uly="2798" lrx="4249" lry="2817" sameAs="#z_ed3-p3_142"><line><seg style="font-family:serif;font-size:7pt;">Johann Rist</seg></line></zone>
         <zone littafel:href="#g_die-Lyrik" xml:id="z_ed2_596" ulx="3466" uly="2643" lrx="3579"
-          lry="2675" sameAs="#z_ed3-p3_143"><line>die Lyrik</line></zone>
+          lry="2675" sameAs="#z_ed3-p3_143"><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:10pt;text-decoration-color:brown;"
+              >die Lyrik</seg></line></zone>
         <zone ana="#author" corresp="#pers_00073" littafel:href="#a_Guarini" xml:id="z_ed2_597"
           ulx="3282" uly="2654" lrx="3373" lry="2676" sameAs="#z_ed3-p3_144"
-          ><line>Guarini</line></zone>
+          ><line><seg
+              style="font-family:serif;text-decoration:underline;font-size:8pt;text-decoration-color:brown;"
+              >Guarini</seg></line></zone>
         <zone littafel:href="#group_die-Königsberger" xml:id="z_ed2_598" ulx="3528" uly="2703"
-          lrx="3733" lry="2726" sameAs="#z_ed3-p3_145"><line>die Königsberger</line></zone>
+          lrx="3733" lry="2726" sameAs="#z_ed3-p3_145"><line><seg style="font-family:serif">die Königsberger</seg></line></zone>
         <zone ana="#author" corresp="#pers_00074" littafel:href="#a_Simon-Dach" xml:id="z_ed2_599"
           ulx="3509" uly="2729" lrx="3591" lry="2747" sameAs="#z_ed3-p3_146"><line>Simon
           Dach</line></zone>
