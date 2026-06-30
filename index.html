@@ -1,37 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns:tei="http://www.tei-c.org/ns/1.0">
    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="author" content="Boerner, Ingo / Fischer, Frank / Hechtl, Angelika / Trilcke, Peer">
-      <meta name="description" lang="en" content="Digital Edition of Cäsar Flaischlen's 'Graphische Litteratur-Tafel' (1890)">
-      <meta name="description" lang="de" content="Digitale Edition von Cäsar Flaischlens 'Graphischer Litteratur-Tafel' (1890)">
-      <meta name="keywords" lang="en" content="Digital Edition, Cäsar Flaischlen, History of Literature, Visualisation">
-      <meta name="keywords" lang="de" content="Digitale Edition, Cäsar Flaischlen, Literaturgeschichte, Visualisierung">
+	  <meta name="description" lang="en" content="Digital Edition of Cäsar Flaischlen's 'Graphische Litteratur-Tafel' (1890)">
+	  <meta name="description" lang="de" content="Digitale Edition von Cäsar Flaischlens 'Graphischer Litteratur-Tafel' (1890)">
+	  <meta name="keywords" lang="en" content="Digital Edition, Cäsar Flaischlen, History of Literature, Visualisation">
+	  <meta name="keywords" lang="de" content="Digitale Edition, Cäsar Flaischlen, Literaturgeschichte, Visualisierung">
+      <link rel="icon" href="../../favicon.ico">
       <title>Graphische Litteratur-Tafel (1890). A Digital Edition.</title>
       <link href="css/bootstrap.min.css" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Jacques+Francois" rel="stylesheet">
-      <link href="css/style.css" rel="stylesheet">
+	  <link href='https://fonts.googleapis.com/css?family=Jacques+Francois' rel='stylesheet' type='text/css'>
+      <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+      <link href="navbar-fixed-top.css" rel="stylesheet">
+	   <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+	  <script src="js/ie-emulation-modes-warning.js"></script><link href="css/style.css" rel="stylesheet">
    </head>
    <body>
       <nav class="navbar navbar-default navbar-fixed-top">
          <div class="container">
-            <div class="navbar-header">
-               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
-               </button>
-               <a id="nav-title" class="navbar-brand" href="#">Graphische Litteratur-Tafel</a>
-            </div>
+            <div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a id="nav-title" class="navbar-brand" href="#">Graphische Litteratur-Tafel</a></div>
             <div id="navbar" class="navbar-collapse collapse">
                <ul class="nav navbar-nav navbar-right">
-                  <li><a role="button" data-toggle="modal" data-target="#map-index" title="Index"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span></a></li>
+                  <!-- <li><a role="button" data-toggle="modal" data-target="#info-modal" title="About"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span></a></li> -->
+				  <li><a role="button" data-toggle="modal" data-target="#map-index" title="Index"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span></a></li>
+				  <!--
+				  <li><a role="button"><span id="nav-button-tools" class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a></li>
+				  -->
+				  <!--
+				  <li><a role="button" data-toggle="collapse" data-target="#searchPanel"><span id="nav-button-search" class="glyphicon glyphicon-search" aria-hidden="true"></span></a></li>
+				  -->
                </ul>
             </div>
-         </div>
+            <!-- search box -->
+            <div class="collapse" id="searchPanel">
+				<form id="searchForm">
+					<div class="input-group input-group-lg">
+					<input id="searchBox" type="search" class="form-control" placeholder="Search...">
+					<span class="input-group-btn"><button class="btn btn-default btn-lg" type="submit">Find</button></span>
+					</div>
+				</form>
+				<p><a role="button" data-toggle="modal" data-target="#map-index">Browse Index</a></p>
+			<div> <!-- Search-div-->
+  </div>
+         </div> <!-- end search -->
       </nav>
 
-	  <div class="jumbotron" id="start">
+	  <div class ="jumbotron" id="start">
 			<div class="container">
 				<div id="title-Part">
 					<h1 id="main-title" class="text-center">Graphische Litteratur-Tafel.</h1>
@@ -47,21 +65,22 @@
           <p>This is the prototype of a digital edition of Cäsar Flaischlen’s <em>Graphische Litteratur-Tafel</em>. The giant flowchart of German literature was published in 1890 and is an early approach to visualise the historical development of literature.</p>
           <p>The chart was <a href="https://github.com/weltliteratur/litteratur-tafel/blob/gh-pages/data/Litteratur-Tafel.xml">transcribed in XML format</a> following the TEI Guidelines. The website merges the tripartite graphic table into a single stream. A list of all mentioned authors can be accessed via an <a data-toggle="modal" data-target="#map-index">index</a>. We also digitised <a data-toggle="modal" data-target="#introduction">Flaischlen's preface</a>.</p>
           <p>A detailed introdcution to this project can be found on our blog <a href="http://weltliteratur.net/A-Giant-1890-Flowchart-of-Foreign-Influences-on-German-Literature/">weltliteratur.net</a>.</p>
+					<!-- <button type="button btn-md" class="btn btn-default"  data-toggle="modal" data-target="#info-modal">read more</button> -->
 				</div>
-            </div> <!-- end row -->
+				</div> <!-- container? -->
 				<div class="row text-center" id="can-scroll"><a href="#tafel-start"><span class="glyphicon glyphicon-chevron-down"></span></a></div>
-         </div> <!-- end .container -->
-      </div> <!-- end jumbotron -->
+			</div>  <!-- jumbotron -->
+		</div>
 	  <div class="container">
 
 
  <!-- Modal Introduction -->
-<div class="modal fade" id="introduction" tabindex="-1" role="dialog" aria-labelledby="introLabel">
+<div class="modal fade" id="introduction" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="introLabel">Cäsar Flaischlen's Introduction to Graphische Litteratur-Tafel</h4>
+        <h4 class="modal-title" id="myModalLabel">Cäsar Flaischlen's Introduction to Graphische Litteratur-Tafel</h4>
       </div>
       <div class="modal-body">
 		<div class="row">
@@ -326,15 +345,19 @@
 
 
 	  <!-- Modal About -->
-<div class="modal fade" id="info-modal" tabindex="-1" role="dialog" aria-labelledby="aboutLabel">
+<div class="modal fade" id="info-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="aboutLabel">About</h4>
+        <h4 class="modal-title" id="myModalLabel">About</h4>
       </div>
       <div class="modal-body">
-        <!-- TODO: add About text -->
+			<h3>About</h3>
+			<ul>
+				
+			</ul>
+			</p>
       </div>
       <div class="modal-footer">
 
@@ -346,12 +369,12 @@
 
 <!-- Modal index -->
 
-<div class="modal fade" id="map-index" tabindex="-1" role="dialog" aria-labelledby="indexLabel">
+<div class="modal fade" id="map-index" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="indexLabel">Index</h4>
+        <h4 class="modal-title" id="myModalLabel">Index</h4>
       </div>
       <div class="modal-body">
           <div class="index">
@@ -794,7 +817,7 @@
 </div>
 
 
-      <span id="tafel-start"></span>
+	  	<a name="tafel-start"></a>
          <div class="row"><img class="img-responsive" src="img/Flaischlen-ed2-p1.png" usemap="#Flaischlen-ed2-p1"></div>
          <div class="row"><img class="img-responsive" src="img/Flaischlen-ed2-p2.png" usemap="#Flaischlen-ed2-p2"></div>
          <div class="row"><img class="img-responsive" src="img/Flaischlen-ed2-p3.png" usemap="#Flaischlen-ed2-p3"></div>
@@ -1168,14 +1191,14 @@
       </map>
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-      <script src="js/bootstrap.min.js"></script>
+      <script src="js/bootstrap.min.js"></script><script src="js/ie10-viewport-bug-workaround.js"></script>
       <script src="js/jquery.rwdImageMaps.min.js"></script>
+	  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.js"></script>
 
 
 
       <script>
          $(document).ready(function () {
-            $('img[usemap]').rwdImageMaps();   // keep the chart hotspots aligned with the responsive images
             $('a.jumplink').click(function (e) {
                e.preventDefault();
                var $area = $(this.hash);
@@ -1190,50 +1213,73 @@
 
                // wait for the modal to close so layout is final, then scroll
                $('#map-index').one('hidden.bs.modal', function () {
-                  var rect   = img.getBoundingClientRect();
-                  var ratio  = img.clientWidth / img.naturalWidth;   // responsive scale factor
-                  var imgTop = rect.top  + window.pageYOffset;       // image position in the document
-                  var imgLeft= rect.left + window.pageXOffset;
-                  var navH   = 70;                                   // height of the fixed navbar
-                  var target = imgTop + (y * ratio) - navH;
-
-                  $('html, body').animate({ scrollTop: target }, 600, function () {
-                     // landed — flash a box over the target name
-                     var x2 = c[2], y2 = c[3];                       // bottom-right corner of the area box
-                     $('<div class="jump-flash"></div>').css({
-                        position:      'absolute',
-                        left:          (imgLeft + x * ratio) + 'px',
-                        top:           (imgTop  + y * ratio) + 'px',
-                        width:         ((x2 - x) * ratio) + 'px',
-                        height:        ((y2 - y) * ratio) + 'px',
-                        border:        '2px solid #B22222',
-                        background:    'rgba(178,34,34,0.30)',
-                        borderRadius:  '3px',
-                        boxShadow:     '0 0 0 4px rgba(178,34,34,0.20)',
-                        pointerEvents: 'none',
-                        zIndex:        2000
-                     }).appendTo('body')
-                       .hide().fadeIn(150).delay(1300).fadeOut(700, function () { $(this).remove(); });
-                  });
-               }).modal('hide');
+               var ratio  = img.clientWidth / img.naturalWidth;      // responsive scale factor
+               var imgTop = img.getBoundingClientRect().top + window.pageYOffset;
+               var navH   = 70;                                     // height of the fixed navbar
+               var target = imgTop + (y * ratio) - navH;
+               $('html, body').animate({ scrollTop: target }, 600);
+            }).modal('hide');
             });
          });
       </script>
+      <!-- hier das Scrollscript -->
       <script>
-         $(document).ready(function () {
-            $('#nav-title').hide();                       // hide the brand title until the user scrolls
-            $(window).scroll(function () {
-               if ($(this).scrollTop() > 50) {
-                  $('#nav-title').fadeIn();
-                  $('.navbar').addClass('navbar-elevated');
-               } else {
-                  $('#nav-title').fadeOut();
-                  $('.navbar').removeClass('navbar-elevated');
-               }
-            });
-         });
-      </script>
+            $(document).ready(function(){
+
+				// hide .navbar first
+				$("#nav-title").hide();
+
+				$(window).scroll(function () {
+            // set distance user needs to scroll before we fadeIn navbar
+			if ($(this).scrollTop() > 50) {
+				$('#nav-title').fadeIn();
+				$( ".navbar" ).addClass( "navbar-elevated" );
+			} else {
+				$('#nav-title').fadeOut();
+				$( ".navbar" ).removeClass( "navbar-elevated" )
+			}
+		});
+			});
+</script>
 
 
+<!-- Autocomplete -->
+<!-- http://johnstonianera.com/jquery-autocomplete-xml/ -->
+<script>
+ $(document).ready(function() {
+ var myArr = [];
+
+ $.ajax({
+   type: "GET",
+   url: "states.xml", // change to full path of file on server
+   dataType: "xml",
+   success: parseXml,
+   complete: setupAC,
+   failure: function(data) {
+     alert("XML File could not be found");
+   }
+ });
+
+ function parseXml(xml)
+ {
+   //find every query value
+   $(xml).find("state").each(function()
+   {
+     myArr.push($(this).attr("label"));
+   });
+ }
+
+ function setupAC() {
+   $("input#searchBox").autocomplete({
+   source: myArr,
+   minLength: 1,
+   select: function(event, ui) {
+     $("input#searchBox").val(ui.item.value);
+     $("#searchForm").submit();
+   }
+  });
+ }
+});
+</script>
     </body>
 </html>
