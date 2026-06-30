@@ -1198,20 +1198,32 @@
 
 
       <script>
-                $(document).ready(function(e) {
-                $('img[usemap]').rwdImageMaps();
-                });
-            </script><script src="js/jquery.scrollto.js"></script><script>
-                $(document).ready(function () {
-                $('a.jumplink').click(function (e) {
-                e.preventDefault();
-                var coor = $(this.hash).attr('coords').split(',');
-                $('html,body').scrollTo(coor[0], coor[1]);
-                });
-                });
-            </script>
-            <!-- hier das Scrollscript -->
-            <script>
+         $(document).ready(function () {
+            $('a.jumplink').click(function (e) {
+               e.preventDefault();
+               var $area = $(this.hash);
+               if (!$area.length) return;
+
+               var c = $area.attr('coords').split(',').map(Number);
+               var x = c[0], y = c[1];               // top-left of the box, in natural image pixels
+
+               var mapName = $area.closest('map').attr('name');
+               var img = document.querySelector('img[usemap="#' + mapName + '"]');
+               if (!img) return;
+
+               // wait for the modal to close so layout is final, then scroll
+               $('#map-index').one('hidden.bs.modal', function () {
+               var ratio  = img.clientWidth / img.naturalWidth;      // responsive scale factor
+               var imgTop = img.getBoundingClientRect().top + window.pageYOffset;
+               var navH   = 70;                                     // height of the fixed navbar
+               var target = imgTop + (y * ratio) - navH;
+               $('html, body').animate({ scrollTop: target }, 600);
+            }).modal('hide');
+            });
+         });
+      </script>
+      <!-- hier das Scrollscript -->
+      <script>
             $(document).ready(function(){
 
 				// hide .navbar first
@@ -1227,8 +1239,6 @@
 				$( ".navbar" ).removeClass( "navbar-elevated" )
 			}
 		});
-
-
 			});
 </script>
 
