@@ -5,14 +5,26 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Graphische Litteratur-Tafel. A Digital Edition.</title>
-        <editor>Ingo Börner</editor>
-        <editor>Frank Fischer</editor>
-        <editor>Angelika Hechtl</editor>
-        <editor>Peer Trilcke</editor>
+        <title>Graphische Litteratur-Tafel. A Digital Edition</title>
+        <author>
+          <persName>
+            <forename>Cäsar</forename>
+            <surname>Flaischlen</surname>
+          </persName>
+          <idno type="wikidata">Q69363</idno>
+        </author>
+        <respStmt>
+          <resp>Converted to TEI by</resp>
+          <persName ref="https://orcid.org/0000-0001-8294-2541">Ingo Börner</persName>
+          <persName ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</persName>
+          <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+          <persName ref="https://orcid.org/0000-0002-1421-4320">Peer Trilcke</persName>
+        </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Alpha <date>October 2016</date></edition>
+        <edition n="2026">Updated digital edition, <date when="2026">2026</date>. First published as
+          an alpha version in <date when="2016">2016</date>; full version published in <date
+            when="2017">2017</date>.</edition>
       </editionStmt>
       <publicationStmt>
         <distributor>
@@ -70,12 +82,12 @@
 
           <!-- Part1: #pers starting at pers_01000 -->
 
-          <person xml:id="pers_01000" littafel:href="#a_Notker-I-Babulus"
+          <person xml:id="pers_01000" littafel:href="#a_Notker-I-Balbulus"
             littafel:coords="1066,3584,1276,3614">
             <persName>
               <forename sort="1">Notker</forename>
               <genName>I.</genName>
-              <addName>Babulus</addName>
+              <addName>Balbulus</addName>
             </persName>
             <idno type="GND">118588850</idno>
           </person>
@@ -201,11 +213,10 @@
           <person xml:id="pers_01015" littafel:href="#a_Hilarius"
             littafel:coords="842,1142,913,1162">
             <persName sort="1">Hilarius</persName>
-            <idno>none</idno>
+            <idno type="GND">118550896</idno>
           </person>
           <person xml:id="pers_01016" littafel:href="#a_Ambrosius"
             littafel:coords="942,1146,1028,1164">
-            <!-- Kirchenvater? -->
             <persName>
               <forename sort="1">Ambrosius</forename>
               <addName>Mediolanensis</addName>
@@ -232,13 +243,12 @@
           </person>
           <person xml:id="pers_01019" littafel:href="#a_Kaedmon"
             littafel:coords="1422,1147,1515,1169">
-            <!-- Text? -->
             <persName>Kaedmon</persName>
-            <idno>none</idno>
+            <idno type="GND">118675214</idno>
           </person>
           <person xml:id="pers_01020" littafel:href="#a_Beda" littafel:coords="1430,1197,1478,1218">
             <persName>Beda</persName>
-            <idno>none</idno>
+            <idno type="GND">118508237</idno>
           </person>
           <person xml:id="pers_01021" littafel:href="#a_Alcuin"
             littafel:coords="1114,1783,1189,1806">
@@ -1164,6 +1174,7 @@
               <nameLink>von</nameLink>
               <addName>Schwaben</addName></persName>
             <idno type="GND">118593854</idno>
+            <occupation>Emperor</occupation>
           </person>
           <person xml:id="pers_02140" littafel:href="#pers_Otto-Braunschweig"
             littafel:coords="1574,2354,1706,2410">
@@ -1202,6 +1213,7 @@
               <nameLink>von</nameLink>
               <addName>Cornwall</addName></persName>
             <idno type="GND">118600273</idno>
+            <occupation>Emperor</occupation>
           </person>
           <person xml:id="pers_02145" littafel:href="#pers_Rudolf-I-Habsburg"
             littafel:coords="1569,3505,1706,3577">
@@ -1591,8 +1603,8 @@
               <forename sort="1">Friedrich</forename>
               <addName>der Große</addName></persName>
             <idno type="GND">118535749</idno>
+            <occupation>Emperor</occupation>
           </person>
-
           <person xml:id="pers_00047" littafel:href="#pers_Joseph-II"
             littafel:coords="1536,5049,1654,5081">
             <persName><forename sort="1">Joseph</forename>
@@ -2712,6 +2724,11 @@
         </listPerson>
       </particDesc>
     </profileDesc>
+    <revisionDesc status="updated">
+      <change when="2016">Published alpha version of the digital edition.</change>
+      <change when="2017">Published full version of the digital edition.</change>
+      <change when="2026">Corrected some information on authors.</change>
+    </revisionDesc>
   </teiHeader>
   <sourceDoc>
     <!-- the SUB-Scan -->
@@ -2927,10 +2944,10 @@
         <zone littafel:href="#t_StGall-Schreibervers" xml:id="z_ed2_076" ulx="1328" uly="3286"
           lrx="1473" lry="3303" sameAs="#z_ed3-p1_076"><line><seg
               style="font-family:serif;font-size:6pt;">St.Gall. Schreibervers</seg></line></zone>
-        <zone ana="#author" corresp="#pers_01000" littafel:href="#a_Notker-I-Babulus"
+        <zone ana="#author" corresp="#pers_01000" littafel:href="#a_Notker-I-Balbulus"
           xml:id="z_ed2_077" ulx="1048" uly="3365" lrx="1240" lry="3393" sameAs="#z_ed3-p1_077"
               ><line><seg style="font-family:serif;font-size:9pt;">Notker I.
-          Babulus.</seg></line></zone>
+          Balbulus.</seg></line></zone>
         <zone littafel:href="#t_Ludwigslied" xml:id="z_ed2_078" ulx="1174" uly="3319" lrx="1286"
           lry="3345" sameAs="#z_ed3-p1_078"><line><seg style="font-family:serif;font-size:7pt;"
               >Ludwigslied</seg></line></zone>
@@ -4135,11 +4152,11 @@
           xml:id="z_ed2_456" ulx="4078" uly="764" lrx="4235" lry="784" sameAs="#z_ed3-p3_003"
               ><line><seg style="font-family:serif;font-size:7pt;">Johann
           Adelphus</seg></line></zone>
-        <zone ana="#emperor" corresp="#pers_00004" littafel:href="#pers_Crotus-Rubeanus"
+        <zone ana="#author" corresp="#pers_00004" littafel:href="#pers_Crotus-Rubeanus"
           xml:id="z_ed2_457" ulx="4063" uly="803" lrx="4241" lry="823" sameAs="#z_ed3-p3_004"
               ><line><seg style="font-family:serif;font-size:8pt;">Crotus
           Rubeanus</seg></line></zone>
-        <zone ana="#emperor" corresp="#pers_00005" littafel:href="#pers_Ulrich-von-Hutten"
+        <zone ana="#author" corresp="#pers_00005" littafel:href="#pers_Ulrich-von-Hutten"
           xml:id="z_ed2_458" ulx="4070" uly="838" lrx="4239" lry="866" sameAs="#z_ed3-p3_005"
               ><line><seg style="font-family:serif;font-size:9pt;">Ulrich von
           Hutten</seg></line></zone>
@@ -4164,9 +4181,9 @@
           xml:id="z_ed2_464" ulx="3274" uly="791" lrx="3433" lry="810" sameAs="#z_ed3-p3_011"
               ><line><seg style="font-family:serif;font-size:7pt;">Nicolaus
           Manuel</seg></line></zone>
-        <zone ana="#emperor" corresp="#" littafel:href="#pers_Till-Eulenspiegel" xml:id="z_ed2_465"
-          ulx="3363" uly="845" lrx="3563" lry="875" sameAs="#z_ed3-p3_012"><line><seg
-              style=";font-size:9pt;">Till Eulenspiegel</seg></line></zone>
+        <zone ana="#text" littafel:href="#pers_Till-Eulenspiegel" xml:id="z_ed2_465" ulx="3363"
+          uly="845" lrx="3563" lry="875" sameAs="#z_ed3-p3_012"><line><seg style=";font-size:9pt;"
+              >Till Eulenspiegel</seg></line></zone>
         <zone ana="#emperor" corresp="#pers_00012" littafel:href="#pers_Maximilian-I"
           xml:id="z_ed2_466" ulx="4360" uly="748" lrx="4488" lry="774" sameAs="#z_ed3-p3_013"
             ><line>Maximilian I.</line></zone>
@@ -4191,18 +4208,18 @@
         <zone littafel:href="#g_das-Kirchenlied" xml:id="z_ed2_472" ulx="3252" uly="1072" lrx="3458"
           lry="1097" sameAs="#z_ed3-p3_019"><line><seg style=";font-size:11pt;">das
               Kirchenlied</seg></line></zone>
-        <zone ana="#emperor" corresp="#pers_00016" littafel:href="#pers_Philipp_Melanchthon"
+        <zone ana="#author" corresp="#pers_00016" littafel:href="#pers_Philipp_Melanchthon"
           xml:id="z_ed2_473" ulx="3988" uly="1020" lrx="4229" lry="1059" sameAs="#z_ed3-p3_020"
               ><line><seg style="font-family:serif;font-size:10pt;">Philipp
           Melanchthon</seg></line></zone>
-        <zone ana="#emperor" corresp="#pers_00017" littafel:href="#pers_Valentin_Ickelsamer"
+        <zone ana="#author" corresp="#pers_00017" littafel:href="#pers_Valentin_Ickelsamer"
           xml:id="z_ed2_474" ulx="4100" uly="1055" lrx="4252" lry="1074" sameAs="#z_ed3-p3_021"
               ><line><seg style="font-family:serif;font-size:6pt;">Valentin
           Ickelsamer</seg></line></zone>
         <zone littafel:href="#t_Reineke-Voss" xml:id="z_ed2_475" ulx="3850" uly="1102" lrx="4135"
           lry="1125" sameAs="#z_ed3-p3_022"><line><seg style="font-family:serif;font-size:9pt;"
               >Reineke Voss</seg></line></zone>
-        <zone ana="#emperor" corresp="#pers_00018" littafel:href="#pers_Johann-Buggenhagen"
+        <zone ana="#author" corresp="#pers_00018" littafel:href="#pers_Johann-Buggenhagen"
           xml:id="z_ed2_476" ulx="4048" uly="1147" lrx="4255" lry="1171" sameAs="#z_ed3-p3_023"
               ><line><seg style="font-family:serif;font-size:7pt;">Johann
           Buggenhagen</seg></line></zone>
@@ -5586,8 +5603,8 @@
         <zone sameAs="#z_ed2_076" xml:id="z_ed3-p1_076" ulx="1382" uly="3499" lrx="1540" lry="3518"
           littafel:href="#t_StGall-Schreibervers"><line>St.Gall Schreibervers</line></zone>
         <zone sameAs="#z_ed2_077" corresp="#pers_01000" ana="#author" xml:id="z_ed3-p1_077"
-          ulx="1066" uly="3584" lrx="1276" lry="3614" littafel:href="#a_Notker-I-Babulus"
-            ><line>Notker I. Babulus</line></zone>
+          ulx="1066" uly="3584" lrx="1276" lry="3614" littafel:href="#a_Notker-I-Balbulus"
+            ><line>Notker I. Balbulus</line></zone>
         <zone sameAs="#z_ed2_078" xml:id="z_ed3-p1_078" ulx="1205" uly="3535" lrx="1328" lry="3564"
           littafel:href="#t_Ludwigslied"><line>Ludwigslied</line></zone>
         <zone sameAs="#z_ed2_079" xml:id="z_ed3-p1_079" ulx="1246" uly="3943" lrx="1508" lry="4014"
@@ -6563,10 +6580,10 @@
         <zone sameAs="#z_ed2_456" corresp="#pers_00003" ana="#author" xml:id="z_ed3-p3_003"
           ulx="1125" uly="720" lrx="1292" lry="742" littafel:href="#a_Johann-Adelphus"><line>Johann
             Adelphus</line></zone>
-        <zone sameAs="#z_ed2_457" corresp="#pers_00004" ana="#emperor" xml:id="z_ed3-p3_004"
+        <zone sameAs="#z_ed2_457" corresp="#pers_00004" ana="#author" xml:id="z_ed3-p3_004"
           ulx="1112" uly="759" lrx="1307" lry="781" littafel:href="#pers_Crotus-Rubeanus"
             ><line>Crotus Rubeanus</line></zone>
-        <zone sameAs="#z_ed2_458" corresp="#pers_00005" ana="#emperor" xml:id="z_ed3-p3_005"
+        <zone sameAs="#z_ed2_458" corresp="#pers_00005" ana="#author" xml:id="z_ed3-p3_005"
           ulx="1116" uly="801" lrx="1301" lry="831" littafel:href="#pers_Ulrich-von-Hutten"
             ><line>Ulrich von Hutten</line></zone>
         <zone sameAs="#z_ed2_459" corresp="#pers_00006" ana="#author" xml:id="z_ed3-p3_006"
@@ -6586,9 +6603,8 @@
         <zone sameAs="#z_ed2_464" corresp="#pers_00010" ana="#author" xml:id="z_ed3-p3_011"
           ulx="276" uly="769" lrx="450" lry="790" littafel:href="#a_Nicolaus_Manuel"><line>Nicolaus
             Manuel</line></zone>
-        <zone sameAs="#z_ed2_465" corresp="#" ana="#emperor" xml:id="z_ed3-p3_012" ulx="363"
-          uly="824" lrx="582" lry="846" littafel:href="#pers_Till-Eulenspiegel"><line>Till
-            Eulenspiegel</line></zone>
+        <zone sameAs="#z_ed2_465" ana="#text" xml:id="z_ed3-p3_012" ulx="363" uly="824" lrx="582"
+          lry="846" littafel:href="#pers_Till-Eulenspiegel"><line>Till Eulenspiegel</line></zone>
         <zone sameAs="#z_ed2_466" corresp="#pers_00012" ana="#emperor" xml:id="z_ed3-p3_013"
           ulx="1423" uly="698" lrx="1563" lry="727" littafel:href="#pers_Maximilian-I"
             ><line>Maximilian I.</line></zone>
@@ -6608,15 +6624,15 @@
             Sachs</line></zone>
         <zone sameAs="#z_ed2_472" xml:id="z_ed3-p3_019" ulx="254" uly="1062" lrx="479" lry="1090"
           littafel:href="#g_das-Kirchenlied"><line>das Kirchenlied</line></zone>
-        <zone sameAs="#z_ed2_473" corresp="#pers_00016" ana="#emperor" xml:id="z_ed3-p3_020"
+        <zone sameAs="#z_ed2_473" corresp="#pers_00016" ana="#author" xml:id="z_ed3-p3_020"
           ulx="1033" uly="1002" lrx="1297" lry="1037" littafel:href="#pers_Philipp_Melanchthon"
             ><line>Philipp Melanchthon</line></zone>
-        <zone sameAs="#z_ed2_474" corresp="#pers_00017" ana="#emperor" xml:id="z_ed3-p3_021"
+        <zone sameAs="#z_ed2_474" corresp="#pers_00017" ana="#author" xml:id="z_ed3-p3_021"
           ulx="1153" uly="1030" lrx="1319" lry="1050" littafel:href="#pers_Valentin_Ickelsamer"
             ><line>Valentin Ickelsamer</line></zone>
         <zone sameAs="#z_ed2_475" xml:id="z_ed3-p3_022" ulx="891" uly="1083" lrx="1066" lry="1108"
           littafel:href="#t_Reineke-Voss"><line>Reineke Voss</line></zone>
-        <zone sameAs="#z_ed2_476" corresp="#pers_00018" ana="#emperor" xml:id="z_ed3-p3_023"
+        <zone sameAs="#z_ed2_476" corresp="#pers_00018" ana="#author" xml:id="z_ed3-p3_023"
           ulx="1098" uly="1127" lrx="1324" lry="1153" littafel:href="#pers_Johann-Buggenhagen"
             ><line>Johann Buggenhagen</line></zone>
         <zone sameAs="#z_ed2_477" corresp="#pers_00019" ana="#author" xml:id="z_ed3-p3_024"
