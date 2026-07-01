@@ -212,7 +212,10 @@
           </person>
           <person xml:id="pers_01015" littafel:href="#a_Hilarius"
             littafel:coords="842,1142,913,1162">
-            <persName sort="1">Hilarius</persName>
+            <persName>
+              <forename sort="1">Hilarius</forename>
+              <addName>Pictaviensis</addName>
+            </persName>
             <idno type="GND">118550896</idno>
           </person>
           <person xml:id="pers_01016" littafel:href="#a_Ambrosius"
@@ -243,11 +246,14 @@
           </person>
           <person xml:id="pers_01019" littafel:href="#a_Kaedmon"
             littafel:coords="1422,1147,1515,1169">
-            <persName>Kaedmon</persName>
+            <persName sort="1">Cædmon</persName>
             <idno type="GND">118675214</idno>
           </person>
           <person xml:id="pers_01020" littafel:href="#a_Beda" littafel:coords="1430,1197,1478,1218">
-            <persName>Beda</persName>
+            <persName>
+              <forename sort="1">Beda</forename>
+              <addName>Venerabilis</addName>
+            </persName>
             <idno type="GND">118508237</idno>
           </person>
           <person xml:id="pers_01021" littafel:href="#a_Alcuin"
@@ -620,7 +626,7 @@
             <persName><forename>Heinrich</forename>
               <nameLink>von</nameLink>
               <surname sort="1">Krolewicz</surname></persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">119133504</idno>
           </person>
           <person xml:id="pers_02049" littafel:href="#a_Ulrich-Türheim"
             littafel:coords="1140,3147,1344,3172">
@@ -785,11 +791,11 @@
           </person>
           <person xml:id="pers_02074" littafel:href="#a_Dictys" littafel:coords="1437,726,1502,749">
             <persName>Dictys</persName>
-            <idno>none</idno>
+            <idno type="GND">118858750</idno>
           </person>
           <person xml:id="pers_02075" littafel:href="#a_Dares" littafel:coords="1440,758,1500,780">
             <persName>Dares</persName>
-            <idno>none</idno>
+            <idno type="GND">118678876</idno>
           </person>
           <person xml:id="pers_02076" littafel:href="#a_Pseudo-Kallistenes"
             littafel:coords="1082,743,1219,764">
@@ -836,7 +842,7 @@
           </person>
           <person xml:id="pers_02082" littafel:href="#a_Beroux" littafel:coords="384,1484,434,1503">
             <persName>Beroux</persName>
-            <idno>none</idno>
+            <idno type="GND">118656597</idno>
           </person>
           <person xml:id="pers_02083" littafel:href="#a_Thomas-Bretagne"
             littafel:coords="369,1510,503,1531">
@@ -1063,7 +1069,7 @@
             littafel:coords="397,6744,556,6763">
             <persName><forename>Theodor</forename>
               <surname sort="1">Schernbeck</surname></persName>
-            <idno>none</idno>
+            <idno type="GND">119006677</idno>
           </person>
           <person xml:id="pers_02124" littafel:href="#a_Veit-Weber"
             littafel:coords="423,6768,530,6788">
@@ -1452,7 +1458,7 @@
           <person xml:id="pers_00023" littafel:href="#a_Sebastian-Frank"
             littafel:coords="1089,1289,1252,1312">
             <persName>Sebastian Frank</persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">11853467X</idno>
           </person>
           <person xml:id="pers_00024" littafel:href="#a_Erasmus-Alberus"
             littafel:coords="1041,1324,1225,1345">
@@ -1667,8 +1673,11 @@
 
           <person xml:id="pers_00055" littafel:href="#a_Peter-Danasius"
             littafel:coords="1119,1985,1255,2005">
-            <persName>Peter Danasius</persName>
-            <idno type="GND">none</idno>
+            <persName>
+              <forename>Peter</forename>
+              <surname sort="1">Danasius</surname>
+            </persName>
+            <idno type="GND">100768350</idno>
           </person>
           <person xml:id="pers_00056" littafel:href="#a_Georg-Rollenhagen"
             littafel:coords="778,2099,977,2122">
@@ -1707,11 +1716,23 @@
               <surname sort="1">Malherbe</surname></persName>
             <idno type="GND">11873038X</idno>
           </person>
-          <person xml:id="pers_00062" littafel:href="#a_Scudery" littafel:coords="394,2557,488,2586">
-            <persName>Scudéry</persName>
-            <idno type="GND">none</idno>
-            <!-- AH: jetzt die Frau oder der Mann? Madeleine de Scudéry  GND: 119069563 (* 15. Oktober 1607 in Le Havre; † 2. Juni 1701 in Paris) wohl eher sie!
+          <!-- AH: jetzt die Frau oder der Mann? Madeleine de Scudéry  GND: 119069563 (* 15. Oktober 1607 in Le Havre; † 2. Juni 1701 in Paris) wohl eher sie!
             Georges de Scudéry GND: 118795899  (* 22. August 1601 in Le Havre; † 14. Mai 1667 in Paris) -->
+          <person xml:id="pers_00062" littafel:href="#a_Scudery" littafel:coords="394,2557,488,2586">
+            <persName>
+              <forename>Madeleine</forename>
+              <nameLink>de</nameLink>
+              <surname sort="1">Scudéry</surname>
+            </persName>
+            <idno type="GND">119069563</idno>
+          </person>
+          <person xml:id="pers_00062" littafel:href="#a_Scudery" littafel:coords="394,2557,488,2586">
+            <persName>
+              <forename>Madeleine</forename>
+              <nameLink>de</nameLink>
+              <surname sort="1">Scudéry</surname>
+            </persName>
+            <idno type="GND">119069563</idno>
           </person>
           <person xml:id="pers_00063" littafel:href="#a_Lauremberg"
             littafel:coords="620,2568,773,2598">
@@ -2063,8 +2084,11 @@
             <idno type="GND">118613723</idno>
           </person>
           <person xml:id="pers_00120" littafel:href="#a_Percy" littafel:coords="1179,4965,1259,4999">
-            <persName sort="1">Percy</persName>
-            <idno type="GND"/>
+            <persName>
+              <surname sort="1">Percy</surname>
+              <forename>Thomas</forename>
+            </persName>
+            <idno type="GND">11859267X</idno>
           </person>
           <person xml:id="pers_00121" littafel:href="#a_Swift" littafel:coords="1362,4981,1434,5008">
             <persName>
@@ -2194,8 +2218,12 @@
             <idno type="GND">118563319</idno>
           </person>
           <person xml:id="pers_00138" littafel:href="#a_Müller" littafel:coords="406,4802,464,4820">
-            <persName sort="1">Müller</persName>
-            <idno type="GND">none</idno>
+            <persName>
+              <forename>Friedrich</forename>
+              <surname sort="1">Müller</surname>
+              <addName>Maler Müller</addName>
+            </persName>
+            <idno type="GND">118584871</idno>
           </person>
           <person xml:id="pers_00139" littafel:href="#a_Wagner" littafel:coords="469,4799,536,4821">
             <persName>
@@ -2289,11 +2317,14 @@
               <surname sort="1">Vega</surname></persName>
             <idno type="GND">118626353</idno>
           </person>
+          <!-- welcher der Schlegels? -->
           <person xml:id="pers_00154" littafel:href="#a_Schlegel"
             littafel:coords="326,5402,404,5424">
-            <!-- welcher? -->
-            <persName sort="1">Schlegel</persName>
-            <idno type="GND">none</idno>
+            <persName>
+              <forename>Friedrich</forename>
+              <surname sort="1">Schlegel</surname>
+            </persName>
+            <idno type="GND">118607987</idno>
           </person>
           <person xml:id="pers_00155" littafel:href="#a_Tieck" littafel:coords="328,5425,381,5448">
             <persName>
@@ -2314,10 +2345,14 @@
             </persName>
             <idno type="GND">118515055</idno>
           </person>
+          <!-- Achim oder Bettina? -->
           <person xml:id="pers_00158" littafel:href="#a_Arnim" littafel:coords="331,5499,392,5518">
-            <!-- Achim oder Bettina? -->
-            <persName sort="1">Arnim</persName>
-            <idno type="GND">none</idno>
+            <persName>
+              <forename>Achim</forename>
+              <nameLink>von</nameLink>
+              <surname sort="1">Arnim</surname>
+            </persName>
+            <idno type="GND">118504177</idno>
           </person>
           <person xml:id="pers_00159" littafel:href="#a_ETA-Hoffmann"
             littafel:coords="333,5521,456,5537">
@@ -2378,10 +2413,9 @@
               <surname sort="1">Grün</surname></persName>
             <idno type="GND">118719033</idno>
           </person>
-          <person xml:id="pers_00168" littafel:href="#a_Legnan" littafel:coords="335,5720,380,5740">
-            <!-- Lenau? -->
-            <persName sort="1">Legnan</persName>
-            <idno type="GND">none</idno>
+          <person xml:id="pers_00168" littafel:href="#a_Lenau" littafel:coords="335,5720,380,5740">
+            <persName sort="1">Lenau</persName>
+            <idno type="GND">118571508</idno>
           </person>
           <person xml:id="pers_00169" littafel:href="#a_Eugène-Sue"
             littafel:coords="324,5747,461,5772">
@@ -2433,8 +2467,11 @@
             <idno type="GND">118518208</idno>
           </person>
           <person xml:id="pers_00176" littafel:href="#a_Werner" littafel:coords="512,5654,581,5672">
-            <persName sort="1">Werner</persName>
-            <idno type="GND">none</idno>
+            <persName>
+              <forename>Zacharias</forename>
+              <surname sort="1">Werner</surname>
+            </persName>
+            <idno type="GND">118767208</idno>
           </person>
           <person xml:id="pers_00177" littafel:href="#a_Müllner" littafel:coords="515,5674,586,5689">
             <persName>
@@ -2708,7 +2745,7 @@
           </person>
           <person xml:id="pers_00219" littafel:href="#a_Marini" littafel:coords="360,2772,449,2795">
             <persName sort="1">Marini</persName>
-            <idno type="GND">none</idno>
+            <idno type="GND">118577921</idno>
           </person>
           <person xml:id="pers_00220" littafel:href="#a_Dumas-père"
             littafel:coords="345,5873,508,5909">
@@ -2720,6 +2757,71 @@
             <persName><forename>François</forename>
               <surname sort="1">Ponsard</surname></persName>
             <idno type="GND">118595695</idno>
+          </person>
+          <person xml:id="pers_00222" littafel:href="#a_Roberthin"
+            littafel:coords="3593,2731,3702,2747">
+            <persName>
+              <forename>Robert</forename>
+              <surname sort="1">Roberthin</surname>
+            </persName>
+            <idno type="GND">12836677X</idno>
+          </person>
+          <person xml:id="pers_00223" littafel:href="#a_Hrch-Albert"
+            littafel:coords="3705,2732,3777,2747">
+            <persName>
+              <forename>Heinrich</forename>
+              <surname sort="1">Albert</surname>
+            </persName>
+            <idno type="GND">121418952</idno>
+          </person>
+          <person xml:id="pers_00224" littafel:href="#a_de-Quevedo"
+            littafel:coords="3516,2977,3633,3007">
+            <persName>
+              <forename>Francisco Gómez</forename>
+              <surname sort="1">de Quevedo y Villegas</surname>
+            </persName>
+            <idno type="GND">118597353</idno>
+          </person>
+          <person xml:id="pers_00225" littafel:href="#a_J-Clai"
+            littafel:coords="3476,2905,3510,2915">
+            <persName>
+              <forename>Johann</forename>
+              <surname sort="1">Klaj</surname>
+            </persName>
+            <idno type="GND">118723324</idno>
+          </person>
+          <person xml:id="pers_00226" littafel:href="#a_Ph-Harsdörffer"
+            littafel:coords="3516,2903,3594,2915">
+            <persName>
+              <forename>Georg Philipp</forename>
+              <surname sort="1">Harsdörffer</surname>
+            </persName>
+            <idno type="GND">118546139</idno>
+          </person>
+          <person xml:id="pers_00227" littafel:href="#a_S-Birken"
+            littafel:coords="3600,2904,3659,2917">
+            <persName>
+              <forename>Sigmund</forename>
+              <nameLink>von</nameLink>
+              <surname sort="1">Birken</surname>
+            </persName>
+            <idno type="GND">118511270</idno>
+          </person>
+          <person xml:id="pers_00228" littafel:href="#a_Gottsched"
+            littafel:coords="3509,4151,3540,4230">
+            <persName>
+              <forename>Johann Christoph</forename>
+              <surname sort="1">Gottsched</surname>
+            </persName>
+            <idno type="GND">118541013</idno>
+          </person>
+          <person xml:id="pers_00229" littafel:href="#a_Lessing"
+            littafel:coords="4191,4359,4220,4424">
+            <persName>
+              <forename>Gotthold Ephraim</forename>
+              <surname sort="1">Lessing</surname>
+            </persName>
+            <idno type="GND">118572121</idno>
           </person>
         </listPerson>
       </particDesc>
@@ -3466,7 +3568,7 @@
               ><line><seg
               style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
               >Walter von der Vogelweide</seg></line></zone>
-        <zone ana="#author" corresp="#pers_02027" littafel:href="#a_Gudrun" xml:id="z_ed2_245"
+        <zone ana="#text" corresp="#pers_02027" littafel:href="#a_Gudrun" xml:id="z_ed2_245"
           ulx="2574" uly="2189" lrx="2693" lry="2219" sameAs="#z_ed3-p2_089"><line><seg
               style="font-family:serif;font-size:11pt;text-shadow:1px 1px 0px white, 2px 2px 0px black;"
               >Gudrun</seg></line></zone>
@@ -4947,7 +5049,7 @@
         <zone ana="#author" corresp="#pers_00167" littafel:href="#a_Grün" xml:id="z_ed2_700"
           ulx="3227" uly="5467" lrx="3263" lry="5482" sameAs="#z_ed3-p3_249"><line><seg
               style="font-family:serif;font-size:6pt;">Grün</seg></line></zone>
-        <zone ana="#author" corresp="#pers_00168" littafel:href="#a_Legnan" xml:id="z_ed2_701"
+        <zone ana="#author" corresp="#pers_00168" littafel:href="#a_Lenau" xml:id="z_ed2_701"
           ulx="3222" uly="5485" lrx="3264" lry="5503" sameAs="#z_ed3-p3_250"><line><seg
               style="font-family:serif;font-size:6pt;">Lenau</seg></line></zone>
         <zone ana="#author" corresp="#pers_00169" littafel:href="#a_Eugène-Sue" xml:id="z_ed2_702"
@@ -5313,24 +5415,25 @@
         <zone xml:id="z_ed2_827" ulx="3602" uly="2547" lrx="3752" lry="2693"
           littafel:href="#label_Erste-schlesische-Schule" littafel:new-zone="true"><line>I Erste
             schlesische Schule</line></zone>
-        <zone ana="#author" xml:id="z_ed2_828" ulx="3593" uly="2731" lrx="3702" lry="2747"
-          littafel:href="#a_Roberthin" littafel:new-zone="true"><line><seg
+        <zone ana="#author" corresp="#pers_00222" xml:id="z_ed2_828" ulx="3593" uly="2731"
+          lrx="3702" lry="2747" littafel:href="#a_Roberthin" littafel:new-zone="true"><line><seg
               style="font-family:serif;font-size:5pt;">Robert Roberthin</seg></line></zone>
-        <zone ana="#author" xml:id="z_ed2_829" ulx="3705" uly="2732" lrx="3777" lry="2747"
-          littafel:href="#a_Hrch-Albert" littafel:new-zone="true"><line><seg
+        <zone ana="#author" corresp="#pers_00223" xml:id="z_ed2_829" ulx="3705" uly="2732"
+          lrx="3777" lry="2747" littafel:href="#a_Hrch-Albert" littafel:new-zone="true"><line><seg
               style="font-family:serif;font-size:5pt;">Hrch.Albert</seg></line></zone>
-        <zone ana="#author" xml:id="z_ed2_830" ulx="3516" uly="2977" lrx="3633" lry="3007"
-          littafel:href="#a_de-Quevedo" littafel:new-zone="true"><line><seg
+        <zone ana="#author" corresp="#pers_00224" xml:id="z_ed2_830" ulx="3516" uly="2977"
+          lrx="3633" lry="3007" littafel:href="#a_de-Quevedo" littafel:new-zone="true"><line><seg
               style="font-family:serif;text-decoration:underline;font-size:9pt;text-decoration-color:orange;"
               >de Quevedo</seg></line></zone>
-        <zone ana="#author" xml:id="z_ed2_831" ulx="3476" uly="2905" lrx="3510" lry="2915"
-          littafel:href="#a_J-Clai" littafel:new-zone="true"><line><seg
+        <zone ana="#author" corresp="#pers_00225" xml:id="z_ed2_831" ulx="3476" uly="2905"
+          lrx="3510" lry="2915" littafel:href="#a_J-Clai" littafel:new-zone="true"><line><seg
               style="font-family:serif;font-size:5pt;">J. Clai</seg></line></zone>
-        <zone ana="#author" xml:id="z_ed2_832" ulx="3516" uly="2903" lrx="3594" lry="2915"
-          littafel:href="#a_Ph-Harsdörffer" littafel:new-zone="true"><line><seg
-              style="font-family:serif;font-size:5pt;">Ph. Harsdörffer</seg></line></zone>
-        <zone ana="#author" xml:id="z_ed2_833" ulx="3600" uly="2904" lrx="3659" lry="2917"
-          littafel:href="#a_S-Birken" littafel:new-zone="true"><line><seg
+        <zone ana="#author" corresp="#pers_00226" xml:id="z_ed2_832" ulx="3516" uly="2903"
+          lrx="3594" lry="2915" littafel:href="#a_Ph-Harsdörffer" littafel:new-zone="true"
+              ><line><seg style="font-family:serif;font-size:5pt;">Ph.
+          Harsdörffer</seg></line></zone>
+        <zone ana="#author" corresp="#pers_00227" xml:id="z_ed2_833" ulx="3600" uly="2904"
+          lrx="3659" lry="2917" littafel:href="#a_S-Birken" littafel:new-zone="true"><line><seg
               style="font-family:serif;font-size:5pt;">S. v. Birken</seg></line></zone>
         <zone xml:id="z_ed2_834" ulx="4002" uly="3040" lrx="4129" lry="3224"
           littafel:href="#label_II-Schles-Schule" littafel:new-zone="true"><line>II Zweite
@@ -5344,9 +5447,9 @@
         <zone xml:id="z_ed2_837" ulx="3979" uly="3700" lrx="4040" lry="3888"
           littafel:href="#label_Hofpoeten" littafel:new-zone="true"><line>IV die Hofpoeten
             oder</line></zone>
-        <zone ana="#author" xml:id="z_ed2_838" ulx="3509" uly="4151" lrx="3540" lry="4230"
-          littafel:href="#a_Gottsched" littafel:new-zone="true"><line>Gottsched =
-          Kreis</line></zone>
+        <zone ana="#author" corresp="#pers_00228" xml:id="z_ed2_838" ulx="3509" uly="4151"
+          lrx="3540" lry="4230" littafel:href="#a_Gottsched" littafel:new-zone="true"
+            ><line>Gottsched = Kreis</line></zone>
         <zone xml:id="z_ed2_839" ulx="3476" uly="4007" lrx="3581" lry="4251"
           littafel:href="#label_Gottsched-Anhänger" littafel:new-zone="true"><line><seg
               style="font-family: fantasy; font-size: 6pt; font-weight: bold;">V Gottsched u. seine
@@ -5356,8 +5459,9 @@
               style="font-family: fantasy; font-size: 6pt; font-weight: bold;">VI die
               Schweizer</seg></line></zone>
         <!-- ERROR! -->
-        <zone ana="#author" xml:id="z_ed2_841" ulx="4191" uly="4359" lrx="4220" lry="4424"
-          littafel:href="#a_Lessing" littafel:new-zone="true"><line>Lessing = Kreis</line></zone>
+        <zone ana="#author" corresp="#pers_00229" xml:id="z_ed2_841" ulx="4191" uly="4359"
+          lrx="4220" lry="4424" littafel:href="#a_Lessing" littafel:new-zone="true"><line>Lessing =
+            Kreis</line></zone>
         <zone xml:id="z_ed2_842" ulx="4174" uly="4322" lrx="4225" lry="4574"
           littafel:href="#label_Lessing-Kreis" littafel:new-zone="true"><line><seg
               style="font-family: fantasy; font-size: 6pt; font-weight: bold;">VII Lessing u. seine
@@ -7239,8 +7343,8 @@
         <zone sameAs="#z_ed2_700" corresp="#pers_00167" ana="#author" xml:id="z_ed3-p3_249"
           ulx="335" uly="5702" lrx="374" lry="5718" littafel:href="#a_Grün"><line>Grün</line></zone>
         <zone sameAs="#z_ed2_701" corresp="#pers_00168" ana="#author" xml:id="z_ed3-p3_250"
-          ulx="335" uly="5720" lrx="380" lry="5740" littafel:href="#a_Legnan"
-          ><line>Legnan</line></zone>
+          ulx="335" uly="5720" lrx="380" lry="5740" littafel:href="#a_Lenau"
+          ><line>Lenau</line></zone>
         <zone sameAs="#z_ed2_702" corresp="#pers_00169" ana="#author" xml:id="z_ed3-p3_251"
           ulx="324" uly="5747" lrx="461" lry="5772" littafel:href="#a_Eugène-Sue"><line>Eugène
             Sue</line></zone>
