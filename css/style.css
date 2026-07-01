@@ -65,8 +65,8 @@ a:hover {
 
 #start {
 	background-color:white;
-	 background-image: url("../img/Flaischlen-Background.png");
-	height: 100vh;
+	background-image: url("../img/Flaischlen-Background.png");
+	min-height: 100vh;
 }
 
 #start h3  {
