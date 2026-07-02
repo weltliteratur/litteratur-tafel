@@ -10,17 +10,15 @@ body.modal-open {
 
 footer {
 	margin-top:30px;
-	height: 120px;
+	min-height: 120px;
 	background-color:#D2B48C;
-	border:1;
+	padding-bottom: 20px;
 }
 
 
 footer .container {
 	padding-top:50px;
-	height:20px;
 	}
-
 
 a {
 color: #B22222;
@@ -67,6 +65,7 @@ a:hover {
 	background-color:white;
 	background-image: url("../img/Flaischlen-Background.png");
 	min-height: 100vh;
+	position: relative;
 }
 
 #start h3  {
@@ -83,14 +82,6 @@ a:hover {
 	max-width: 100%;
 	height: auto;
 	width: auto;
-}
-
-#scroll {
-	position: absolute;
-	bottom:0;
-	left: 0;
-	right: 0;
-	margin: 0 auto;
 }
 
 #main-title {
