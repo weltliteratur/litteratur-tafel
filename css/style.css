@@ -140,3 +140,10 @@ width:100%
 .index ul {
 	list-style-type: none;
 }
+
+@media (max-width: 767px) {
+    #start { background-image: none; }
+	.navbar-toggle { display: none; }
+	#navbar { display: block; }
+	#navbar .navbar-nav { float: right; margin: 0; }
+}
