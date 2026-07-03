@@ -35,7 +35,6 @@ a:hover {
 }
 
 .navbar {
-	background-color:none;
 	border:0;
 	background-color:white;
 }
@@ -43,7 +42,6 @@ a:hover {
 
 .navbar-elevated {
 	box-shadow: 0px 5px 10px grey;
-	border:1;
 }
 
 .navbar span {
@@ -115,7 +113,7 @@ width:100%
 	color:grey;
 }
 
-#info-modal .modal-dialog , #facs-view .modal-dialog , #introduction .modal-dialog{
+#info-modal .modal-dialog , #introduction .modal-dialog {
 	width:75%;
 }
 
@@ -129,10 +127,6 @@ width:100%
 #legend-buttons span {
 	font-size:250%;
 	color:grey;
-}
-
-.pb {
-	display:none;
 }
 
 /* Indices */

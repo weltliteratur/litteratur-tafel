@@ -1227,6 +1227,7 @@
                $('#map-index').one('hidden.bs.modal', function () {
                var ratio  = img.clientWidth / img.naturalWidth;      // responsive scale factor
                var imgTop = img.getBoundingClientRect().top + window.pageYOffset;
+               $('#nav-title').show();                              // navbar reaches final height before we measure
                var navH   = $('.navbar').outerHeight() + 10;        // actual navbar height (+ gap), adapts to mobile
                var target = imgTop + (y * ratio) - navH;
                $('html, body').animate({ scrollTop: target }, 600, function () {
