@@ -1227,16 +1227,16 @@
                $('#map-index').one('hidden.bs.modal', function () {
                var ratio  = img.clientWidth / img.naturalWidth;      // responsive scale factor
                var imgTop = img.getBoundingClientRect().top + window.pageYOffset;
+               var imgLeft = img.getBoundingClientRect().left + window.pageXOffset;
                $('#nav-title').show();                              // navbar reaches final height before we measure
                var navH   = $('.navbar').outerHeight() + 10;        // actual navbar height (+ gap), adapts to mobile
                var target = imgTop + (y * ratio) - navH;
                $('html, body').animate({ scrollTop: target }, 600, function () {
                   // flash a box over the target name once we've landed
-                  var r = img.getBoundingClientRect();
                   $('<div>').css({
                      position: 'absolute', pointerEvents: 'none', zIndex: 2000,
-                     left:   (r.left + window.pageXOffset + x * ratio) + 'px',
-                     top:    (r.top  + window.pageYOffset + y * ratio) + 'px',
+                     left:   (imgLeft + x * ratio) + 'px',
+                     top:    (imgTop  + y * ratio) + 'px',
                      width:  ((c[2] - x) * ratio) + 'px',
                      height: ((c[3] - y) * ratio) + 'px',
                      border: '2px solid #B22222', background: 'rgba(178,34,34,0.30)', borderRadius: '3px'
